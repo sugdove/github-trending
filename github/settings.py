@@ -90,7 +90,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-token = "github api token"
+token = "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"
 
 popular_langs = [
     'C',
