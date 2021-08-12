@@ -1,26 +1,26 @@
-id,name,lang,new stars
-184456251,microsoft/PowerToys,C#,892
-70104825,dotnet-architecture/eShopOnContainers,C#,108
-29078997,dotnet/roslyn,C#,33
-1327739,icsharpcode/ILSpy,C#,50
-14964475,AvaloniaUI/Avalonia,C#,54
-198071756,huiyadanli/RevokeMsgPatcher,C#,179
-120231691,Ryujinx/Ryujinx,C#,51
-1135454,cefsharp/CefSharp,C#,22
-22456440,ppy/osu,C#,55
-7560589,JeffreySu/WeiXinMPSDK,C#,18
-165548191,carlospolop/PEASS-ng,C#,66
-130160795,HMBSbige/ShadowsocksR-Windows,C#,49
-61403402,CommunityToolkit/WindowsCommunityToolkit,C#,30
-32304121,domaindrivendev/Swashbuckle.AspNetCore,C#,16
-134363073,HandyOrg/HandyControl,C#,32
-2928944,Azure/azure-sdk-for-net,C#,286
-23891194,Azure/azure-powershell,C#,12
-54308403,microsoft/WinAppDriver,C#,25
-151148482,elsa-workflows/elsa-core,C#,26
-187499284,Cysharp/UniTask,C#,19
-184286875,actions/runner,C#,45
-39425864,tModLoader/tModLoader,C#,21
-138290022,mob-sakai/ParticleEffectForUGUI,C#,16
-158405551,microsoft/Git-Credential-Manager-Core,C#,30
-101895131,DataDog/dd-trace-dotnet,C#,2
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+184456251,PowerToys,microsoft/PowerToys,C#,839,Windows system utilities to maximize productivity,3194,58627,|{'html_url': 'https://github.com/microsoft/PowerToys', 'avatar_url': 'https://avatars.githubusercontent.com/u/184456251?v=4', 'login': 'PowerToys'}|
+70104825,eShopOnContainers,dotnet-architecture/eShopOnContainers,C#,104,|Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.|,7769,18382,|{'html_url': 'https://github.com/dotnet-architecture/eShopOnContainers', 'avatar_url': 'https://avatars.githubusercontent.com/u/70104825?v=4', 'login': 'eShopOnContainers'}|
+14964475,Avalonia,AvaloniaUI/Avalonia,C#,51,A cross platform XAML framework for .NET,1056,11755,|{'html_url': 'https://github.com/AvaloniaUI/Avalonia', 'avatar_url': 'https://avatars.githubusercontent.com/u/14964475?v=4', 'login': 'Avalonia'}|
+198071756,RevokeMsgPatcher,huiyadanli/RevokeMsgPatcher,C#,172,:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）,1477,10895,|{'html_url': 'https://github.com/huiyadanli/RevokeMsgPatcher', 'avatar_url': 'https://avatars.githubusercontent.com/u/198071756?v=4', 'login': 'RevokeMsgPatcher'}|
+262395224,maui,dotnet/maui,C#,84,|.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.|,462,10884,|{'html_url': 'https://github.com/dotnet/maui', 'avatar_url': 'https://avatars.githubusercontent.com/u/262395224?v=4', 'login': 'maui'}|
+120231691,Ryujinx,Ryujinx/Ryujinx,C#,51,Experimental Nintendo Switch Emulator written in C#,1134,9401,|{'html_url': 'https://github.com/Ryujinx/Ryujinx', 'avatar_url': 'https://avatars.githubusercontent.com/u/120231691?v=4', 'login': 'Ryujinx'}|
+75990888,csharplang,dotnet/csharplang,C#,22,The official repo for the design of the C# programming language,792,7331,|{'html_url': 'https://github.com/dotnet/csharplang', 'avatar_url': 'https://avatars.githubusercontent.com/u/75990888?v=4', 'login': 'csharplang'}|
+7560589,WeiXinMPSDK,JeffreySu/WeiXinMPSDK,C#,18,微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.,4112,6922,|{'html_url': 'https://github.com/JeffreySu/WeiXinMPSDK', 'avatar_url': 'https://avatars.githubusercontent.com/u/7560589?v=4', 'login': 'WeiXinMPSDK'}|
+22636263,duplicati,duplicati/duplicati,C#,134,Store securely encrypted backups in the cloud!,675,6472,|{'html_url': 'https://github.com/duplicati/duplicati', 'avatar_url': 'https://avatars.githubusercontent.com/u/22636263?v=4', 'login': 'duplicati'}|
+64290739,practical-aspnetcore,dodyg/practical-aspnetcore,C#,94,|Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 6 projects you can use. Readme contains explanations on all projects.|,750,5872,|{'html_url': 'https://github.com/dodyg/practical-aspnetcore', 'avatar_url': 'https://avatars.githubusercontent.com/u/64290739?v=4', 'login': 'practical-aspnetcore'}|
+130160795,ShadowsocksR-Windows,HMBSbige/ShadowsocksR-Windows,C#,48,Ship of Theseus,904,4888,|{'html_url': 'https://github.com/HMBSbige/ShadowsocksR-Windows', 'avatar_url': 'https://avatars.githubusercontent.com/u/130160795?v=4', 'login': 'ShadowsocksR-Windows'}|
+61403402,WindowsCommunityToolkit,CommunityToolkit/WindowsCommunityToolkit,C#,26,|The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building UWP and .NET apps for Windows 10. The toolkit is part of the .NET Foundation.|,1157,4379,|{'html_url': 'https://github.com/CommunityToolkit/WindowsCommunityToolkit', 'avatar_url': 'https://avatars.githubusercontent.com/u/61403402?v=4', 'login': 'WindowsCommunityToolkit'}|
+32304121,Swashbuckle.AspNetCore,domaindrivendev/Swashbuckle.AspNetCore,C#,14,Swagger tools for documenting API's built on ASP.NET Core,1012,4015,|{'html_url': 'https://github.com/domaindrivendev/Swashbuckle.AspNetCore', 'avatar_url': 'https://avatars.githubusercontent.com/u/32304121?v=4', 'login': 'Swashbuckle.AspNetCore'}|
+136570231,stride,stride3d/stride,C#,22,Stride Game Engine (formerly Xenko),553,3279,|{'html_url': 'https://github.com/stride3d/stride', 'avatar_url': 'https://avatars.githubusercontent.com/u/136570231?v=4', 'login': 'stride'}|
+2928944,azure-sdk-for-net,Azure/azure-sdk-for-net,C#,232,This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. ,2872,2831,|{'html_url': 'https://github.com/Azure/azure-sdk-for-net', 'avatar_url': 'https://avatars.githubusercontent.com/u/2928944?v=4', 'login': 'azure-sdk-for-net'}|
+23891194,azure-powershell,Azure/azure-powershell,C#,13,Microsoft Azure PowerShell,2646,2701,|{'html_url': 'https://github.com/Azure/azure-powershell', 'avatar_url': 'https://avatars.githubusercontent.com/u/23891194?v=4', 'login': 'azure-powershell'}|
+54308403,WinAppDriver,microsoft/WinAppDriver,C#,27,Windows Application Driver,1089,2400,|{'html_url': 'https://github.com/microsoft/WinAppDriver', 'avatar_url': 'https://avatars.githubusercontent.com/u/54308403?v=4', 'login': 'WinAppDriver'}|
+151148482,elsa-core,elsa-workflows/elsa-core,C#,19,A .NET Standard 2.0 Workflows Library,476,2369,|{'html_url': 'https://github.com/elsa-workflows/elsa-core', 'avatar_url': 'https://avatars.githubusercontent.com/u/151148482?v=4', 'login': 'elsa-core'}|
+184286875,runner,actions/runner,C#,39,The Runner for GitHub Actions :rocket:,397,1919,|{'html_url': 'https://github.com/actions/runner', 'avatar_url': 'https://avatars.githubusercontent.com/u/184286875?v=4', 'login': 'runner'}|
+39425864,tModLoader,tModLoader/tModLoader,C#,24,A mod to make and play Terraria mods. Supports Terraria 1.4 installations - TML itself is 1.3 Terraria currently,838,1854,|{'html_url': 'https://github.com/tModLoader/tModLoader', 'avatar_url': 'https://avatars.githubusercontent.com/u/39425864?v=4', 'login': 'tModLoader'}|
+138290022,ParticleEffectForUGUI,mob-sakai/ParticleEffectForUGUI,C#,18,|Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.|,266,1702,|{'html_url': 'https://github.com/mob-sakai/ParticleEffectForUGUI', 'avatar_url': 'https://avatars.githubusercontent.com/u/138290022?v=4', 'login': 'ParticleEffectForUGUI'}|
+150035938,Rubeus,GhostPack/Rubeus,C#,57,Trying to tame the three-headed dog.,350,1701,|{'html_url': 'https://github.com/GhostPack/Rubeus', 'avatar_url': 'https://avatars.githubusercontent.com/u/150035938?v=4', 'login': 'Rubeus'}|
+77180761,XamarinCommunityToolkit,xamarin/XamarinCommunityToolkit,C#,13,|The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.|,335,1356,|{'html_url': 'https://github.com/xamarin/XamarinCommunityToolkit', 'avatar_url': 'https://avatars.githubusercontent.com/u/77180761?v=4', 'login': 'XamarinCommunityToolkit'}|
+158405551,Git-Credential-Manager-Core,microsoft/Git-Credential-Manager-Core,C#,33,|Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.|,187,949,|{'html_url': 'https://github.com/microsoft/Git-Credential-Manager-Core', 'avatar_url': 'https://avatars.githubusercontent.com/u/158405551?v=4', 'login': 'Git-Credential-Manager-Core'}|
+379097409,MinimalApiPlayground,DamianEdwards/MinimalApiPlayground,C#,60,A place I'm trying out the new ASP.NET Core minimal APIs features.,16,159,|{'html_url': 'https://github.com/DamianEdwards/MinimalApiPlayground', 'avatar_url': 'https://avatars.githubusercontent.com/u/379097409?v=4', 'login': 'MinimalApiPlayground'}|

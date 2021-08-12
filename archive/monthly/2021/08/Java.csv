@@ -1,26 +1,26 @@
-id,name,lang,new stars
-151834062,doocs/advanced-java,Java,808
-173228436,NationalSecurityAgency/ghidra,Java,962
-267775629,geekxh/hello-algorithm,Java,1071
-159152904,jeecgboot/jeecg-boot,Java,680
-2990192,signalapp/Signal-Android,Java,214
-18723836,dromara/hutool,Java,465
-2211243,apache/kafka,Java,290
-137451403,alibaba/nacos,Java,509
-13862381,DrKLO/Telegram,Java,295
-20773773,bazelbuild/bazel,Java,207
-13404515,brettwooldridge/HikariCP,Java,307
-41889031,TeamNewPipe/NewPipe,Java,363
-89822531,Anuken/Mindustry,Java,757
-11125589,keycloak/keycloak,Java,410
-348651746,chefyuan/algorithm-base,Java,2522
-138361150,doocs/jvm,Java,867
-1326671,k9mail/k-9,Java,179
-237940592,dromara/Sa-Token,Java,1757
-237867883,metersphere/metersphere,Java,387
-334274271,opensearch-project/OpenSearch,Java,944
-19961085,apache/pinot,Java,354
-143175496,cabaletta/baritone,Java,173
-99919302,apache/incubator-doris,Java,144
-335164964,dataease/dataease,Java,1748
-306449955,IrisShaders/Iris,Java,321
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+151834062,advanced-java,doocs/advanced-java,Java,802,|😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers || 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识|,15462,55914,|{'html_url': 'https://github.com/doocs/advanced-java', 'avatar_url': 'https://avatars.githubusercontent.com/u/151834062?v=4', 'login': 'advanced-java'}|
+20300177,guava,google/guava,Java,395,Google core libraries for Java,9353,42002,|{'html_url': 'https://github.com/google/guava', 'avatar_url': 'https://avatars.githubusercontent.com/u/20300177?v=4', 'login': 'guava'}|
+173228436,ghidra,NationalSecurityAgency/ghidra,Java,964,Ghidra is a software reverse engineering (SRE) framework,3687,28312,|{'html_url': 'https://github.com/NationalSecurityAgency/ghidra', 'avatar_url': 'https://avatars.githubusercontent.com/u/173228436?v=4', 'login': 'ghidra'}|
+267775629,hello-algorithm,geekxh/hello-algorithm,Java,1091,|🌍 针对小白的算法训练 || 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 || 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）|,5337,27906,|{'html_url': 'https://github.com/geekxh/hello-algorithm', 'avatar_url': 'https://avatars.githubusercontent.com/u/267775629?v=4', 'login': 'hello-algorithm'}|
+2700159,druid,alibaba/druid,Java,212,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池,7823,24334,|{'html_url': 'https://github.com/alibaba/druid', 'avatar_url': 'https://avatars.githubusercontent.com/u/2700159?v=4', 'login': 'druid'}|
+18723836,hutool,dromara/hutool,Java,464,🍬A set of tools that keep Java sweet.,5861,20002,|{'html_url': 'https://github.com/dromara/hutool', 'avatar_url': 'https://avatars.githubusercontent.com/u/18723836?v=4', 'login': 'hutool'}|
+2211243,kafka,apache/kafka,Java,291,Mirror of Apache Kafka,10385,19601,|{'html_url': 'https://github.com/apache/kafka', 'avatar_url': 'https://avatars.githubusercontent.com/u/2211243?v=4', 'login': 'kafka'}|
+137451403,nacos,alibaba/nacos,Java,510,|an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.|,7688,18943,|{'html_url': 'https://github.com/alibaba/nacos', 'avatar_url': 'https://avatars.githubusercontent.com/u/137451403?v=4', 'login': 'nacos'}|
+13862381,Telegram,DrKLO/Telegram,Java,291,Telegram for Android source,6100,17509,|{'html_url': 'https://github.com/DrKLO/Telegram', 'avatar_url': 'https://avatars.githubusercontent.com/u/13862381?v=4', 'login': 'Telegram'}|
+13404515,HikariCP,brettwooldridge/HikariCP,Java,317,|光 HikariCP・A solid, high-performance, JDBC connection pool at last.|,2344,15533,|{'html_url': 'https://github.com/brettwooldridge/HikariCP', 'avatar_url': 'https://avatars.githubusercontent.com/u/13404515?v=4', 'login': 'HikariCP'}|
+41889031,NewPipe,TeamNewPipe/NewPipe,Java,373,A libre lightweight streaming front-end for Android.,1863,14669,|{'html_url': 'https://github.com/TeamNewPipe/NewPipe', 'avatar_url': 'https://avatars.githubusercontent.com/u/41889031?v=4', 'login': 'NewPipe'}|
+89822531,Mindustry,Anuken/Mindustry,Java,764,A sandbox tower defense game,1641,11195,|{'html_url': 'https://github.com/Anuken/Mindustry', 'avatar_url': 'https://avatars.githubusercontent.com/u/89822531?v=4', 'login': 'Mindustry'}|
+11125589,keycloak,keycloak/keycloak,Java,408,Open Source Identity and Access Management For Modern Applications and Services,3813,9720,|{'html_url': 'https://github.com/keycloak/keycloak', 'avatar_url': 'https://avatars.githubusercontent.com/u/11125589?v=4', 'login': 'keycloak'}|
+138361150,jvm,doocs/jvm,Java,889,🤗 JVM 底层原理最全知识总结,1509,6236,|{'html_url': 'https://github.com/doocs/jvm', 'avatar_url': 'https://avatars.githubusercontent.com/u/138361150?v=4', 'login': 'jvm'}|
+1326671,k-9,k9mail/k-9,Java,188,K-9 Mail – Open Source Email App for Android,2191,6081,|{'html_url': 'https://github.com/k9mail/k-9', 'avatar_url': 'https://avatars.githubusercontent.com/u/1326671?v=4', 'login': 'k-9'}|
+237940592,Sa-Token,dromara/Sa-Token,Java,1737,这可能是史上功能最全的Java权限认证框架，权限架构设计的绝佳实践！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...,984,5431,|{'html_url': 'https://github.com/dromara/Sa-Token', 'avatar_url': 'https://avatars.githubusercontent.com/u/237940592?v=4', 'login': 'Sa-Token'}|
+237867883,metersphere,metersphere/metersphere,Java,402,MeterSphere is an End-to-End open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。,1206,5258,|{'html_url': 'https://github.com/metersphere/metersphere', 'avatar_url': 'https://avatars.githubusercontent.com/u/237867883?v=4', 'login': 'metersphere'}|
+120463532,COLA,alibaba/COLA,Java,260,🥤 COLA: Clean Object-oriented & Layered Architecture,1436,5258,|{'html_url': 'https://github.com/alibaba/COLA', 'avatar_url': 'https://avatars.githubusercontent.com/u/120463532?v=4', 'login': 'COLA'}|
+334274271,OpenSearch,opensearch-project/OpenSearch,Java,968,Open source distributed and RESTful search engine.,303,3540,|{'html_url': 'https://github.com/opensearch-project/OpenSearch', 'avatar_url': 'https://avatars.githubusercontent.com/u/334274271?v=4', 'login': 'OpenSearch'}|
+19961085,pinot,apache/pinot,Java,356,Apache Pinot (Incubating) - A realtime distributed OLAP datastore,735,3493,|{'html_url': 'https://github.com/apache/pinot', 'avatar_url': 'https://avatars.githubusercontent.com/u/19961085?v=4', 'login': 'pinot'}|
+143175496,baritone,cabaletta/baritone,Java,179,google maps for block game,830,3314,|{'html_url': 'https://github.com/cabaletta/baritone', 'avatar_url': 'https://avatars.githubusercontent.com/u/143175496?v=4', 'login': 'baritone'}|
+99919302,incubator-doris,apache/incubator-doris,Java,151,Apache Doris (Incubating),875,2909,|{'html_url': 'https://github.com/apache/incubator-doris', 'avatar_url': 'https://avatars.githubusercontent.com/u/99919302?v=4', 'login': 'incubator-doris'}|
+335164964,dataease,dataease/dataease,Java,1798,人人可用的开源数据可视化分析工具。,311,2485,|{'html_url': 'https://github.com/dataease/dataease', 'avatar_url': 'https://avatars.githubusercontent.com/u/335164964?v=4', 'login': 'dataease'}|
+231329990,jetlinks-community,jetlinks/jetlinks-community,Java,273,|JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。|,741,2096,|{'html_url': 'https://github.com/jetlinks/jetlinks-community', 'avatar_url': 'https://avatars.githubusercontent.com/u/231329990?v=4', 'login': 'jetlinks-community'}|
+306449955,Iris,IrisShaders/Iris,Java,321,(WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders,200,1134,|{'html_url': 'https://github.com/IrisShaders/Iris', 'avatar_url': 'https://avatars.githubusercontent.com/u/306449955?v=4', 'login': 'Iris'}|

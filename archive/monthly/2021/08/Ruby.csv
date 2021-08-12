@@ -1,26 +1,26 @@
-id,name,lang,new stars
-8514,rails/rails,Ruby,212
-65252,jekyll/jekyll,Ruby,214
-7569578,discourse/discourse,Ruby,219
-27442967,fastlane/fastlane,Ruby,193
-8681349,huginn/huginn,Ruby,249
-53238813,Homebrew/brew,Ruby,384
-2293158,rapid7/metasploit-framework,Ruby,319
-52281283,mastodon/mastodon,Ruby,190
-2500088,gitlabhq/gitlabhq,Ruby,64
-37382858,kilimchoi/engineering-blogs,Ruby,423
-538746,ruby/ruby,Ruby,117
-73648678,forem/forem,Ruby,291
-1090311,elastic/logstash,Ruby,69
-3314,spree/spree,Ruby,71
-88740103,postalserver/postal,Ruby,91
-202291859,chatwoot/chatwoot,Ruby,337
-52855516,Homebrew/homebrew-core,Ruby,113
-96395,faker-ruby/faker,Ruby,48
-15435,Shopify/liquid,Ruby,86
-21829,thoughtbot/factory_bot,Ruby,38
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,166
-355893,github/markup,Ruby,28
-30337170,rmosolgo/graphql-ruby,Ruby,55
-161399160,Shopify/shopify-cli,Ruby,42
-66497320,DataDog/dd-trace-rb,Ruby,5
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+8514,rails,rails/rails,Ruby,214,Ruby on Rails,19613,48825,|{'html_url': 'https://github.com/rails/rails', 'avatar_url': 'https://avatars.githubusercontent.com/u/8514?v=4', 'login': 'rails'}|
+65252,jekyll,jekyll/jekyll,Ruby,214,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,9492,43142,|{'html_url': 'https://github.com/jekyll/jekyll', 'avatar_url': 'https://avatars.githubusercontent.com/u/65252?v=4', 'login': 'jekyll'}|
+27442967,fastlane,fastlane/fastlane,Ruby,193,🚀 The easiest way to automate building and releasing your iOS and Android apps,4956,32731,|{'html_url': 'https://github.com/fastlane/fastlane', 'avatar_url': 'https://avatars.githubusercontent.com/u/27442967?v=4', 'login': 'fastlane'}|
+8681349,huginn,huginn/huginn,Ruby,244,Create agents that monitor and act on your behalf.  Your agents are standing by!,3049,32014,|{'html_url': 'https://github.com/huginn/huginn', 'avatar_url': 'https://avatars.githubusercontent.com/u/8681349?v=4', 'login': 'huginn'}|
+53238813,brew,Homebrew/brew,Ruby,396,🍺 The missing package manager for macOS (or Linux),6497,28739,|{'html_url': 'https://github.com/Homebrew/brew', 'avatar_url': 'https://avatars.githubusercontent.com/u/53238813?v=4', 'login': 'brew'}|
+13840241,devdocs,freeCodeCamp/devdocs,Ruby,257,API Documentation Browser,1755,26295,|{'html_url': 'https://github.com/freeCodeCamp/devdocs', 'avatar_url': 'https://avatars.githubusercontent.com/u/13840241?v=4', 'login': 'devdocs'}|
+2293158,metasploit-framework,rapid7/metasploit-framework,Ruby,323,Metasploit Framework,11478,24794,|{'html_url': 'https://github.com/rapid7/metasploit-framework', 'avatar_url': 'https://avatars.githubusercontent.com/u/2293158?v=4', 'login': 'metasploit-framework'}|
+52281283,mastodon,mastodon/mastodon,Ruby,194,|Your self-hosted, globally interconnected microblogging community|,4082,24575,|{'html_url': 'https://github.com/mastodon/mastodon', 'avatar_url': 'https://avatars.githubusercontent.com/u/52281283?v=4', 'login': 'mastodon'}|
+2500088,gitlabhq,gitlabhq/gitlabhq,Ruby,66,|GitLab CE Mirror || Please open new issues in our issue tracker on GitLab.com|,5677,22686,|{'html_url': 'https://github.com/gitlabhq/gitlabhq', 'avatar_url': 'https://avatars.githubusercontent.com/u/2500088?v=4', 'login': 'gitlabhq'}|
+37382858,engineering-blogs,kilimchoi/engineering-blogs,Ruby,423,A curated list of engineering blogs,450,19641,|{'html_url': 'https://github.com/kilimchoi/engineering-blogs', 'avatar_url': 'https://avatars.githubusercontent.com/u/37382858?v=4', 'login': 'engineering-blogs'}|
+538746,ruby,ruby/ruby,Ruby,115,The Ruby Programming Language [mirror],4865,18342,|{'html_url': 'https://github.com/ruby/ruby', 'avatar_url': 'https://avatars.githubusercontent.com/u/538746?v=4', 'login': 'ruby'}|
+73648678,forem,forem/forem,Ruby,304,For empowering community 🌱,3013,17276,|{'html_url': 'https://github.com/forem/forem', 'avatar_url': 'https://avatars.githubusercontent.com/u/73648678?v=4', 'login': 'forem'}|
+1090311,logstash,elastic/logstash,Ruby,72,|Logstash - transport and process your logs, events, or other data|,3199,12315,|{'html_url': 'https://github.com/elastic/logstash', 'avatar_url': 'https://avatars.githubusercontent.com/u/1090311?v=4', 'login': 'logstash'}|
+3314,spree,spree/spree,Ruby,67,Open Source modular headless multi-language/multi-currency/multi-store e-commerce platform,4770,11367,|{'html_url': 'https://github.com/spree/spree', 'avatar_url': 'https://avatars.githubusercontent.com/u/3314?v=4', 'login': 'spree'}|
+88740103,postal,postalserver/postal,Ruby,88,✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail,742,10653,|{'html_url': 'https://github.com/postalserver/postal', 'avatar_url': 'https://avatars.githubusercontent.com/u/88740103?v=4', 'login': 'postal'}|
+202291859,chatwoot,chatwoot/chatwoot,Ruby,360,|Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬|,1134,9862,|{'html_url': 'https://github.com/chatwoot/chatwoot', 'avatar_url': 'https://avatars.githubusercontent.com/u/202291859?v=4', 'login': 'chatwoot'}|
+52855516,homebrew-core,Homebrew/homebrew-core,Ruby,116,🍻 Default formulae for the missing package manager for macOS,9565,9633,|{'html_url': 'https://github.com/Homebrew/homebrew-core', 'avatar_url': 'https://avatars.githubusercontent.com/u/52855516?v=4', 'login': 'homebrew-core'}|
+21829,factory_bot,thoughtbot/factory_bot,Ruby,40,A library for setting up Ruby objects as test data.,2441,7267,|{'html_url': 'https://github.com/thoughtbot/factory_bot', 'avatar_url': 'https://avatars.githubusercontent.com/u/21829?v=4', 'login': 'factory_bot'}|
+69193081,how-to-contribute-to-open-source,freeCodeCamp/how-to-contribute-to-open-source,Ruby,170,A guide to contributing to open source,1200,5452,|{'html_url': 'https://github.com/freeCodeCamp/how-to-contribute-to-open-source', 'avatar_url': 'https://avatars.githubusercontent.com/u/69193081?v=4', 'login': 'how-to-contribute-to-open-source'}|
+355893,markup,github/markup,Ruby,30,Determines which markup library to use to render a content file (e.g. README) on GitHub,3564,5217,|{'html_url': 'https://github.com/github/markup', 'avatar_url': 'https://avatars.githubusercontent.com/u/355893?v=4', 'login': 'markup'}|
+30337170,graphql-ruby,rmosolgo/graphql-ruby,Ruby,50,Ruby implementation of GraphQL ,1116,4814,|{'html_url': 'https://github.com/rmosolgo/graphql-ruby', 'avatar_url': 'https://avatars.githubusercontent.com/u/30337170?v=4', 'login': 'graphql-ruby'}|
+138776049,sorbet,sorbet/sorbet,Ruby,218,|A fast, powerful type checker designed for Ruby|,307,2819,|{'html_url': 'https://github.com/sorbet/sorbet', 'avatar_url': 'https://avatars.githubusercontent.com/u/138776049?v=4', 'login': 'sorbet'}|
+11426474,choosealicense.com,github/choosealicense.com,Ruby,54,A site to provide non-judgmental guidance on choosing a license for your open source project,1105,2486,|{'html_url': 'https://github.com/github/choosealicense.com', 'avatar_url': 'https://avatars.githubusercontent.com/u/11426474?v=4', 'login': 'choosealicense.com'}|
+161399160,shopify-cli,Shopify/shopify-cli,Ruby,42,Shopify CLI helps you build against the Shopify platform faster.,99,643,|{'html_url': 'https://github.com/Shopify/shopify-cli', 'avatar_url': 'https://avatars.githubusercontent.com/u/161399160?v=4', 'login': 'shopify-cli'}|
+66497320,dd-trace-rb,DataDog/dd-trace-rb,Ruby,5,Datadog Tracing Ruby Client,228,133,|{'html_url': 'https://github.com/DataDog/dd-trace-rb', 'avatar_url': 'https://avatars.githubusercontent.com/u/66497320?v=4', 'login': 'dd-trace-rb'}|

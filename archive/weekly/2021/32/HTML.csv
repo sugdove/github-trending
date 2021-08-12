@@ -1,26 +1,26 @@
-id,name,lang,new stars
-32484381,ripienaar/free-for-dev,HTML,122
-63484632,facebookresearch/fastText,HTML,30
-224663696,alpinejs/alpine,HTML,155
-57165232,wowchemy/wowchemy-hugo-modules,HTML,23
-181746158,freddier/hyperblog,HTML,44
-244452551,alexeygrigorev/data-science-interviews,HTML,31
-198878888,twbs/icons,HTML,19
-16577072,raspberrypi/documentation,HTML,204
-246128823,gustavoguanabara/html-css,HTML,63
-79055279,munificent/craftinginterpreters,HTML,60
-3618133,web-platform-tests/wpt,HTML,29
-295774370,mdn/content,HTML,57
-86134528,clong/DetectionLab,HTML,20
-9934972,spring-io/sagan,HTML,10
-51478266,kubernetes/website,HTML,12
-28312955,home-assistant/home-assistant.io,HTML,15
-246278216,kenzok8/openwrt-packages,HTML,45
-230926110,qkqpttgf/OneManager-php,HTML,44
-263717223,Lightcord/Lightcord,HTML,27
-240371829,acantril/aws-sa-associate-saac02,HTML,8
-254869409,techchipnet/CamPhish,HTML,18
-79839017,MicrosoftDocs/edge-developer,HTML,0
-372786825,divanov11/Django-2021,HTML,15
-392075992,Kenzie-Academy-Brasil/projeto-dev-aulas,HTML,13
-377500727,devrel-kr/HackaLearn,HTML,14
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+32484381,free-for-dev,ripienaar/free-for-dev,HTML,130,|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|,5217,48428,|{'html_url': 'https://github.com/ripienaar/free-for-dev', 'avatar_url': 'https://avatars.githubusercontent.com/u/32484381?v=4', 'login': 'free-for-dev'}|
+63484632,fastText,facebookresearch/fastText,HTML,27,Library for fast text representation and classification.,4385,22837,|{'html_url': 'https://github.com/facebookresearch/fastText', 'avatar_url': 'https://avatars.githubusercontent.com/u/63484632?v=4', 'login': 'fastText'}|
+224663696,alpine,alpinejs/alpine,HTML,173,|A rugged, minimal framework for composing JavaScript behavior in your markup. |,753,17886,|{'html_url': 'https://github.com/alpinejs/alpine', 'avatar_url': 'https://avatars.githubusercontent.com/u/224663696?v=4', 'login': 'alpine'}|
+39575101,blog_os,phil-opp/blog_os,HTML,45,Writing an OS in Rust,603,7579,|{'html_url': 'https://github.com/phil-opp/blog_os', 'avatar_url': 'https://avatars.githubusercontent.com/u/39575101?v=4', 'login': 'blog_os'}|
+57165232,wowchemy-hugo-modules,wowchemy/wowchemy-hugo-modules,HTML,22,|🔥 The website builder for Hugo. No code, build with widgets! 创建在线课程，学术简历或初创网站。|,2505,5777,|{'html_url': 'https://github.com/wowchemy/wowchemy-hugo-modules', 'avatar_url': 'https://avatars.githubusercontent.com/u/57165232?v=4', 'login': 'wowchemy-hugo-modules'}|
+244452551,data-science-interviews,alexeygrigorev/data-science-interviews,HTML,24,Data science interview questions and answers,928,4387,|{'html_url': 'https://github.com/alexeygrigorev/data-science-interviews', 'avatar_url': 'https://avatars.githubusercontent.com/u/244452551?v=4', 'login': 'data-science-interviews'}|
+7590028,boost,boostorg/boost,HTML,18,Super-project for modularized Boost,1249,4291,|{'html_url': 'https://github.com/boostorg/boost', 'avatar_url': 'https://avatars.githubusercontent.com/u/7590028?v=4', 'login': 'boost'}|
+16577072,documentation,raspberrypi/documentation,HTML,261,The official documentation for Raspberry Pi computers and microcontrollers,1759,4263,|{'html_url': 'https://github.com/raspberrypi/documentation', 'avatar_url': 'https://avatars.githubusercontent.com/u/16577072?v=4', 'login': 'documentation'}|
+246128823,html-css,gustavoguanabara/html-css,HTML,66,Curso de HTML5 e CSS3,1083,3896,|{'html_url': 'https://github.com/gustavoguanabara/html-css', 'avatar_url': 'https://avatars.githubusercontent.com/u/246128823?v=4', 'login': 'html-css'}|
+79055279,craftinginterpreters,munificent/craftinginterpreters,HTML,49,Repository for the book "Crafting Interpreters",457,3772,|{'html_url': 'https://github.com/munificent/craftinginterpreters', 'avatar_url': 'https://avatars.githubusercontent.com/u/79055279?v=4', 'login': 'craftinginterpreters'}|
+3618133,wpt,web-platform-tests/wpt,HTML,26,|Test suites for Web platform specs — including WHATWG, W3C, and others|,2392,3396,|{'html_url': 'https://github.com/web-platform-tests/wpt', 'avatar_url': 'https://avatars.githubusercontent.com/u/3618133?v=4', 'login': 'wpt'}|
+295774370,content,mdn/content,HTML,59,The content behind MDN Web Docs,2344,3095,|{'html_url': 'https://github.com/mdn/content', 'avatar_url': 'https://avatars.githubusercontent.com/u/295774370?v=4', 'login': 'content'}|
+86134528,DetectionLab,clong/DetectionLab,HTML,19,Automate the creation of a lab environment complete with security tooling and logging best practices,649,2966,|{'html_url': 'https://github.com/clong/DetectionLab', 'avatar_url': 'https://avatars.githubusercontent.com/u/86134528?v=4', 'login': 'DetectionLab'}|
+9934972,sagan,spring-io/sagan,HTML,9,The spring.io site and reference application,1316,2751,|{'html_url': 'https://github.com/spring-io/sagan', 'avatar_url': 'https://avatars.githubusercontent.com/u/9934972?v=4', 'login': 'sagan'}|
+51478266,website,kubernetes/website,HTML,11,Kubernetes website and documentation repo: ,9725,2701,|{'html_url': 'https://github.com/kubernetes/website', 'avatar_url': 'https://avatars.githubusercontent.com/u/51478266?v=4', 'login': 'website'}|
+28312955,home-assistant.io,home-assistant/home-assistant.io,HTML,13,:blue_book: Home Assistant User documentation,5278,2068,|{'html_url': 'https://github.com/home-assistant/home-assistant.io', 'avatar_url': 'https://avatars.githubusercontent.com/u/28312955?v=4', 'login': 'home-assistant.io'}|
+246278216,openwrt-packages,kenzok8/openwrt-packages,HTML,44,openwrt常用软件包,1622,1873,|{'html_url': 'https://github.com/kenzok8/openwrt-packages', 'avatar_url': 'https://avatars.githubusercontent.com/u/246278216?v=4', 'login': 'openwrt-packages'}|
+167393144,Markdown-Resume,CyC2018/Markdown-Resume,HTML,14,⭐️ Markdown 简历模版,1041,1808,|{'html_url': 'https://github.com/CyC2018/Markdown-Resume', 'avatar_url': 'https://avatars.githubusercontent.com/u/167393144?v=4', 'login': 'Markdown-Resume'}|
+230926110,OneManager-php,qkqpttgf/OneManager-php,HTML,47,An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/SCF/FG/FC/CFC/PHP web hosting/VPS.,1492,1805,|{'html_url': 'https://github.com/qkqpttgf/OneManager-php', 'avatar_url': 'https://avatars.githubusercontent.com/u/230926110?v=4', 'login': 'OneManager-php'}|
+161886347,system_architect,xxlllq/system_architect,HTML,82,:100:高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库。QQ群：系统架构设计师（④群：910582038），系统分析师（②群：699260558），信息系统项目管理师（217144315），纯备考群，非培训群。,727,1734,|{'html_url': 'https://github.com/xxlllq/system_architect', 'avatar_url': 'https://avatars.githubusercontent.com/u/161886347?v=4', 'login': 'system_architect'}|
+263717223,Lightcord,Lightcord/Lightcord,HTML,26,A simple - customizable - Discord Client,55,649,|{'html_url': 'https://github.com/Lightcord/Lightcord', 'avatar_url': 'https://avatars.githubusercontent.com/u/263717223?v=4', 'login': 'Lightcord'}|
+240371829,aws-sa-associate-saac02,acantril/aws-sa-associate-saac02,HTML,9,Course Files for AWS Certified Solutions Architect Certification Course (SAAC02) - Adrian Cantrill,433,563,|{'html_url': 'https://github.com/acantril/aws-sa-associate-saac02', 'avatar_url': 'https://avatars.githubusercontent.com/u/240371829?v=4', 'login': 'aws-sa-associate-saac02'}|
+254869409,CamPhish,techchipnet/CamPhish,HTML,15,Grab cam shots from target's phone front camera or PC webcam just sending a link.,231,456,|{'html_url': 'https://github.com/techchipnet/CamPhish', 'avatar_url': 'https://avatars.githubusercontent.com/u/254869409?v=4', 'login': 'CamPhish'}|
+392075992,projeto-dev-aulas,Kenzie-Academy-Brasil/projeto-dev-aulas,HTML,13,,32,82,|{'html_url': 'https://github.com/Kenzie-Academy-Brasil/projeto-dev-aulas', 'avatar_url': 'https://avatars.githubusercontent.com/u/392075992?v=4', 'login': 'projeto-dev-aulas'}|
+377500727,HackaLearn,devrel-kr/HackaLearn,HTML,11,HackaLearnx Korea 2021,53,66,|{'html_url': 'https://github.com/devrel-kr/HackaLearn', 'avatar_url': 'https://avatars.githubusercontent.com/u/377500727?v=4', 'login': 'HackaLearn'}|

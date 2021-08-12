@@ -1,26 +1,26 @@
-id,name,lang,new stars
-1863329,laravel/laravel,PHP,450
-7548986,laravel/framework,PHP,247
-2246815,DesignPatternsPHP/DesignPatternsPHP,PHP,80
-2889328,WordPress/WordPress,PHP,120
-60243197,nextcloud/server,PHP,217
-1305114,roots/sage,PHP,67
-4344257,FriendsOfPHP/PHP-CS-Fixer,PHP,117
-2884111,magento/magento2,PHP,81
-12166778,googleapis/google-api-php-client,PHP,59
-5508585,YOURLS/YOURLS,PHP,85
-2179920,woocommerce/woocommerce,PHP,82
-2717549,Sylius/Sylius,PHP,56
-2141186,opencart/opencart,PHP,52
-16238673,kanboard/kanboard,PHP,126
-31541210,aimeos/aimeos-laravel,PHP,190
-74386167,vimeo/psalm,PHP,78
-95011974,akaunting/akaunting,PHP,124
-4380514,Audi-1/sqli-labs,PHP,98
-47508644,pterodactyl/panel,PHP,86
-69691727,pmmp/PocketMine-MP,PHP,47
-13914116,librenms/librenms,PHP,50
-2686502,pimcore/pimcore,PHP,51
-129852395,assimon/dujiaoka,PHP,152
-141720301,dr5hn/countries-states-cities-database,PHP,155
-142127816,zhuifengshaonianhanlu/pikachu,PHP,71
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+1863329,laravel,laravel/laravel,PHP,453,A PHP framework for web artisans.,21349,66211,|{'html_url': 'https://github.com/laravel/laravel', 'avatar_url': 'https://avatars.githubusercontent.com/u/1863329?v=4', 'login': 'laravel'}|
+458058,symfony,symfony/symfony,PHP,149,The Symfony PHP framework,8240,25632,|{'html_url': 'https://github.com/symfony/symfony', 'avatar_url': 'https://avatars.githubusercontent.com/u/458058?v=4', 'login': 'symfony'}|
+7548986,framework,laravel/framework,PHP,241,The Laravel Framework.,8380,24607,|{'html_url': 'https://github.com/laravel/framework', 'avatar_url': 'https://avatars.githubusercontent.com/u/7548986?v=4', 'login': 'framework'}|
+2889328,WordPress,WordPress/WordPress,PHP,124,|WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.|,10090,15325,|{'html_url': 'https://github.com/WordPress/WordPress', 'avatar_url': 'https://avatars.githubusercontent.com/u/2889328?v=4', 'login': 'WordPress'}|
+60243197,server,nextcloud/server,PHP,216,|☁️ Nextcloud server, a safe home for all your data|,2648,14724,|{'html_url': 'https://github.com/nextcloud/server', 'avatar_url': 'https://avatars.githubusercontent.com/u/60243197?v=4', 'login': 'server'}|
+2884111,magento2,magento/magento2,PHP,77,|All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html|,8551,9581,|{'html_url': 'https://github.com/magento/magento2', 'avatar_url': 'https://avatars.githubusercontent.com/u/2884111?v=4', 'login': 'magento2'}|
+12166778,google-api-php-client,googleapis/google-api-php-client,PHP,56,A PHP client library for accessing Google APIs,3293,7610,|{'html_url': 'https://github.com/googleapis/google-api-php-client', 'avatar_url': 'https://avatars.githubusercontent.com/u/12166778?v=4', 'login': 'google-api-php-client'}|
+5508585,YOURLS,YOURLS/YOURLS,PHP,86,🔗 Your Own URL Shortener,1572,7383,|{'html_url': 'https://github.com/YOURLS/YOURLS', 'avatar_url': 'https://avatars.githubusercontent.com/u/5508585?v=4', 'login': 'YOURLS'}|
+2179920,woocommerce,woocommerce/woocommerce,PHP,79,An open source eCommerce plugin for WordPress.,9436,7191,|{'html_url': 'https://github.com/woocommerce/woocommerce', 'avatar_url': 'https://avatars.githubusercontent.com/u/2179920?v=4', 'login': 'woocommerce'}|
+2141186,opencart,opencart/opencart,PHP,54,A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.,4390,6156,|{'html_url': 'https://github.com/opencart/opencart', 'avatar_url': 'https://avatars.githubusercontent.com/u/2141186?v=4', 'login': 'opencart'}|
+16238673,kanboard,kanboard/kanboard,PHP,128,Kanban project management software,1499,6143,|{'html_url': 'https://github.com/kanboard/kanboard', 'avatar_url': 'https://avatars.githubusercontent.com/u/16238673?v=4', 'login': 'kanboard'}|
+6269013,aws-sdk-php,aws/aws-sdk-php,PHP,50,Official repository of the AWS SDK for PHP (@awsforphp),1029,5292,|{'html_url': 'https://github.com/aws/aws-sdk-php', 'avatar_url': 'https://avatars.githubusercontent.com/u/6269013?v=4', 'login': 'aws-sdk-php'}|
+31541210,aimeos-laravel,aimeos/aimeos-laravel,PHP,193,|Laravel ecommerce package for professional, ultra fast online shops, complex B2B applications and #gigacommerce|,836,4862,|{'html_url': 'https://github.com/aimeos/aimeos-laravel', 'avatar_url': 'https://avatars.githubusercontent.com/u/31541210?v=4', 'login': 'aimeos-laravel'}|
+74386167,psalm,vimeo/psalm,PHP,77,A static analysis tool for finding errors in PHP applications,423,4277,|{'html_url': 'https://github.com/vimeo/psalm', 'avatar_url': 'https://avatars.githubusercontent.com/u/74386167?v=4', 'login': 'psalm'}|
+95011974,akaunting,akaunting/akaunting,PHP,127,Free and Online Accounting Software,1557,4266,|{'html_url': 'https://github.com/akaunting/akaunting', 'avatar_url': 'https://avatars.githubusercontent.com/u/95011974?v=4', 'login': 'akaunting'}|
+3817881,swagger-php,zircote/swagger-php,PHP,62,A php swagger annotation and parsing library,777,4131,|{'html_url': 'https://github.com/zircote/swagger-php', 'avatar_url': 'https://avatars.githubusercontent.com/u/3817881?v=4', 'login': 'swagger-php'}|
+60010673,elementor,elementor/elementor,PHP,72,|The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.|,981,3965,|{'html_url': 'https://github.com/elementor/elementor', 'avatar_url': 'https://avatars.githubusercontent.com/u/60010673?v=4', 'login': 'elementor'}|
+4380514,sqli-labs,Audi-1/sqli-labs,PHP,86,|SQLI labs to test error based, Blind boolean based, Time based.|,1244,3545,|{'html_url': 'https://github.com/Audi-1/sqli-labs', 'avatar_url': 'https://avatars.githubusercontent.com/u/4380514?v=4', 'login': 'sqli-labs'}|
+31595609,mpdf,mpdf/mpdf,PHP,43,PHP library generating PDF files from UTF-8 encoded HTML,841,3243,|{'html_url': 'https://github.com/mpdf/mpdf', 'avatar_url': 'https://avatars.githubusercontent.com/u/31595609?v=4', 'login': 'mpdf'}|
+47508644,panel,pterodactyl/panel,PHP,83,|Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.|,706,2676,|{'html_url': 'https://github.com/pterodactyl/panel', 'avatar_url': 'https://avatars.githubusercontent.com/u/47508644?v=4', 'login': 'panel'}|
+69691727,PocketMine-MP,pmmp/PocketMine-MP,PHP,46,A server software for Minecraft: Bedrock Edition in PHP,1435,2454,|{'html_url': 'https://github.com/pmmp/PocketMine-MP', 'avatar_url': 'https://avatars.githubusercontent.com/u/69691727?v=4', 'login': 'PocketMine-MP'}|
+13914116,librenms,librenms/librenms,PHP,51,Community-based GPL-licensed network monitoring system,1689,2419,|{'html_url': 'https://github.com/librenms/librenms', 'avatar_url': 'https://avatars.githubusercontent.com/u/13914116?v=4', 'login': 'librenms'}|
+2686502,pimcore,pimcore/pimcore,PHP,51,|Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)|,1027,2207,|{'html_url': 'https://github.com/pimcore/pimcore', 'avatar_url': 'https://avatars.githubusercontent.com/u/2686502?v=4', 'login': 'pimcore'}|
+129852395,dujiaoka,assimon/dujiaoka,PHP,150,🦄独角数卡(自动发卡系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉,698,1894,|{'html_url': 'https://github.com/assimon/dujiaoka', 'avatar_url': 'https://avatars.githubusercontent.com/u/129852395?v=4', 'login': 'dujiaoka'}|
+96462257,laravel-shopify,osiset/laravel-shopify,PHP,45,A full-featured Laravel package for aiding in Shopify App development,224,778,|{'html_url': 'https://github.com/osiset/laravel-shopify', 'avatar_url': 'https://avatars.githubusercontent.com/u/96462257?v=4', 'login': 'laravel-shopify'}|

@@ -1,26 +1,26 @@
-id,name,lang,new stars
-49609581,PowerShell/PowerShell,C#,433
-38380854,dnSpy/dnSpy,C#,293
-69662720,mxgmn/WaveFunctionCollapse,C#,422
-14964475,AvaloniaUI/Avalonia,C#,204
-161012019,jellyfin/jellyfin,C#,355
-16157746,dotnet/efcore,C#,86
-120231691,Ryujinx/Ryujinx,C#,217
-374228,restsharp/RestSharp,C#,65
-22456440,ppy/osu,C#,257
-75990888,dotnet/csharplang,C#,119
-18586705,nopSolutions/nopCommerce,C#,118
-8835057,xupefei/Locale-Emulator,C#,130
-165548191,carlospolop/PEASS-ng,C#,265
-132453438,unoplatform/uno,C#,642
-26884725,OrchardCMS/OrchardCore,C#,116
-778828,MassTransit/MassTransit,C#,95
-2928944,Azure/azure-sdk-for-net,C#,404
-151148482,elsa-workflows/elsa-core,C#,112
-184286875,actions/runner,C#,117
-39425864,tModLoader/tModLoader,C#,79
-324473895,leiurayer/downkyi,C#,475
-176523594,lucent-sea/Remotely,C#,258
-262661480,ALIILAPRO/warp-plus-cloudflare,C#,86
-372002213,fluentpos/fluentpos,C#,99
-381490636,ArkaneDev/WinPass11,C#,64
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+38380854,dnSpy,dnSpy/dnSpy,C#,294,.NET debugger and assembly editor,3409,18776,|{'html_url': 'https://github.com/dnSpy/dnSpy', 'avatar_url': 'https://avatars.githubusercontent.com/u/38380854?v=4', 'login': 'dnSpy'}|
+1327739,ILSpy,icsharpcode/ILSpy,C#,194,|.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!|,2564,13185,|{'html_url': 'https://github.com/icsharpcode/ILSpy', 'avatar_url': 'https://avatars.githubusercontent.com/u/1327739?v=4', 'login': 'ILSpy'}|
+14964475,Avalonia,AvaloniaUI/Avalonia,C#,204,A cross platform XAML framework for .NET,1056,11755,|{'html_url': 'https://github.com/AvaloniaUI/Avalonia', 'avatar_url': 'https://avatars.githubusercontent.com/u/14964475?v=4', 'login': 'Avalonia'}|
+120231691,Ryujinx,Ryujinx/Ryujinx,C#,216,Experimental Nintendo Switch Emulator written in C#,1134,9401,|{'html_url': 'https://github.com/Ryujinx/Ryujinx', 'avatar_url': 'https://avatars.githubusercontent.com/u/120231691?v=4', 'login': 'Ryujinx'}|
+374228,RestSharp,restsharp/RestSharp,C#,65,Simple REST and HTTP API Client for .NET,2155,7972,|{'html_url': 'https://github.com/restsharp/RestSharp', 'avatar_url': 'https://avatars.githubusercontent.com/u/374228?v=4', 'login': 'RestSharp'}|
+22456440,osu,ppy/osu,C#,256,rhythm is just a *click* away!,1316,7647,|{'html_url': 'https://github.com/ppy/osu', 'avatar_url': 'https://avatars.githubusercontent.com/u/22456440?v=4', 'login': 'osu'}|
+75990888,csharplang,dotnet/csharplang,C#,122,The official repo for the design of the C# programming language,792,7331,|{'html_url': 'https://github.com/dotnet/csharplang', 'avatar_url': 'https://avatars.githubusercontent.com/u/75990888?v=4', 'login': 'csharplang'}|
+18586705,nopCommerce,nopSolutions/nopCommerce,C#,111,The most popular open-source eCommerce shopping cart solution based on ASP.NET Core,3725,6489,|{'html_url': 'https://github.com/nopSolutions/nopCommerce', 'avatar_url': 'https://avatars.githubusercontent.com/u/18586705?v=4', 'login': 'nopCommerce'}|
+22636263,duplicati,duplicati/duplicati,C#,192,Store securely encrypted backups in the cloud!,675,6472,|{'html_url': 'https://github.com/duplicati/duplicati', 'avatar_url': 'https://avatars.githubusercontent.com/u/22636263?v=4', 'login': 'duplicati'}|
+8835057,Locale-Emulator,xupefei/Locale-Emulator,C#,133,Yet Another System Region and Language Simulator,562,6252,|{'html_url': 'https://github.com/xupefei/Locale-Emulator', 'avatar_url': 'https://avatars.githubusercontent.com/u/8835057?v=4', 'login': 'Locale-Emulator'}|
+165548191,PEASS-ng,carlospolop/PEASS-ng,C#,263,PEASS - Privilege Escalation Awesome Scripts SUITE (with colors),1480,6036,|{'html_url': 'https://github.com/carlospolop/PEASS-ng', 'avatar_url': 'https://avatars.githubusercontent.com/u/165548191?v=4', 'login': 'PEASS-ng'}|
+64290739,practical-aspnetcore,dodyg/practical-aspnetcore,C#,143,|Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 6 projects you can use. Readme contains explanations on all projects.|,750,5872,|{'html_url': 'https://github.com/dodyg/practical-aspnetcore', 'avatar_url': 'https://avatars.githubusercontent.com/u/64290739?v=4', 'login': 'practical-aspnetcore'}|
+132453438,uno,unoplatform/uno,C#,637,|Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.|,438,5611,|{'html_url': 'https://github.com/unoplatform/uno', 'avatar_url': 'https://avatars.githubusercontent.com/u/132453438?v=4', 'login': 'uno'}|
+26884725,OrchardCore,OrchardCMS/OrchardCore,C#,119,|Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.|,1805,5274,|{'html_url': 'https://github.com/OrchardCMS/OrchardCore', 'avatar_url': 'https://avatars.githubusercontent.com/u/26884725?v=4', 'login': 'OrchardCore'}|
+778828,MassTransit,MassTransit/MassTransit,C#,100,Distributed Application Framework for .NET,1165,3767,|{'html_url': 'https://github.com/MassTransit/MassTransit', 'avatar_url': 'https://avatars.githubusercontent.com/u/778828?v=4', 'login': 'MassTransit'}|
+224109382,ant-design-blazor,ant-design-blazor/ant-design-blazor,C#,128,🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.,494,3571,|{'html_url': 'https://github.com/ant-design-blazor/ant-design-blazor', 'avatar_url': 'https://avatars.githubusercontent.com/u/224109382?v=4', 'login': 'ant-design-blazor'}|
+2928944,azure-sdk-for-net,Azure/azure-sdk-for-net,C#,405,This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. ,2872,2831,|{'html_url': 'https://github.com/Azure/azure-sdk-for-net', 'avatar_url': 'https://avatars.githubusercontent.com/u/2928944?v=4', 'login': 'azure-sdk-for-net'}|
+151148482,elsa-core,elsa-workflows/elsa-core,C#,114,A .NET Standard 2.0 Workflows Library,476,2369,|{'html_url': 'https://github.com/elsa-workflows/elsa-core', 'avatar_url': 'https://avatars.githubusercontent.com/u/151148482?v=4', 'login': 'elsa-core'}|
+184286875,runner,actions/runner,C#,116,The Runner for GitHub Actions :rocket:,397,1919,|{'html_url': 'https://github.com/actions/runner', 'avatar_url': 'https://avatars.githubusercontent.com/u/184286875?v=4', 'login': 'runner'}|
+39425864,tModLoader,tModLoader/tModLoader,C#,82,A mod to make and play Terraria mods. Supports Terraria 1.4 installations - TML itself is 1.3 Terraria currently,838,1854,|{'html_url': 'https://github.com/tModLoader/tModLoader', 'avatar_url': 'https://avatars.githubusercontent.com/u/39425864?v=4', 'login': 'tModLoader'}|
+324473895,downkyi,leiurayer/downkyi,C#,474,哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。,273,1705,|{'html_url': 'https://github.com/leiurayer/downkyi', 'avatar_url': 'https://avatars.githubusercontent.com/u/324473895?v=4', 'login': 'downkyi'}|
+176523594,Remotely,lucent-sea/Remotely,C#,257,|A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.|,610,1424,|{'html_url': 'https://github.com/lucent-sea/Remotely', 'avatar_url': 'https://avatars.githubusercontent.com/u/176523594?v=4', 'login': 'Remotely'}|
+68534745,FFXIVQuickLauncher,goatcorp/FFXIVQuickLauncher,C#,92,Custom launcher for Final Fantasy XIV,96,714,|{'html_url': 'https://github.com/goatcorp/FFXIVQuickLauncher', 'avatar_url': 'https://avatars.githubusercontent.com/u/68534745?v=4', 'login': 'FFXIVQuickLauncher'}|
+262661480,warp-plus-cloudflare,ALIILAPRO/warp-plus-cloudflare,C#,85,Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ ),261,602,|{'html_url': 'https://github.com/ALIILAPRO/warp-plus-cloudflare', 'avatar_url': 'https://avatars.githubusercontent.com/u/262661480?v=4', 'login': 'warp-plus-cloudflare'}|
+381490636,WinPass11,ArkaneDev/WinPass11,C#,63,🔑 WinPass11 is a tool for installing Windows 11 on unsupported hardware.,30,140,|{'html_url': 'https://github.com/ArkaneDev/WinPass11', 'avatar_url': 'https://avatars.githubusercontent.com/u/381490636?v=4', 'login': 'WinPass11'}|

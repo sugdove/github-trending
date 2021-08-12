@@ -1,26 +1,26 @@
-id,name,lang,new stars
-3482588,danielmiessler/SecLists,PHP,15
-1864363,composer/composer,PHP,3
-7548986,laravel/framework,PHP,3
-3431193,yiisoft/yii2,PHP,2
-12615154,barryvdh/laravel-debugbar,PHP,4
-8678290,barryvdh/laravel-ide-helper,PHP,5
-2884111,magento/magento2,PHP,0
-622166,FriendsOfPHP/Goutte,PHP,1
-6660366,dompdf/dompdf,PHP,0
-12166778,googleapis/google-api-php-client,PHP,0
-4551765,thephpleague/oauth2-server,PHP,0
-7413451,timber/timber,PHP,2
-10883164,barryvdh/laravel-dompdf,PHP,2
-159606650,hyperf/hyperf,PHP,4
-351298555,thedevdojo/wave,PHP,4
-17253775,zabbix/zabbix,PHP,0
-153632216,spatie/data-transfer-object,PHP,2
-679584,openemr/openemr,PHP,1
-144549569,luolongfei/freenom,PHP,5
-139805628,ZE3kr/Cloudflare-CNAME-Setup,PHP,1
-27249479,EC-CUBE/ec-cube,PHP,0
-317717051,ghboke/CorePressWPTheme,PHP,2
-66662684,microsoftgraph/msgraph-sdk-php,PHP,1
-365598442,JeffreyWay/Laravel-From-Scratch-Blog-Project,PHP,1
-393905424,LaravelDaily/Laravel-Challenge-Movie-Table-Eloquent,PHP,2
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+2579314,Faker,fzaninotto/Faker,PHP,3,Faker is a PHP library that generates fake data for you,3179,25983,|{'html_url': 'https://github.com/fzaninotto/Faker', 'avatar_url': 'https://avatars.githubusercontent.com/u/2579314?v=4', 'login': 'Faker'}|
+458058,symfony,symfony/symfony,PHP,3,The Symfony PHP framework,8240,25632,|{'html_url': 'https://github.com/symfony/symfony', 'avatar_url': 'https://avatars.githubusercontent.com/u/458058?v=4', 'login': 'symfony'}|
+1864363,composer,composer/composer,PHP,5,Dependency Manager for PHP,6131,25462,|{'html_url': 'https://github.com/composer/composer', 'avatar_url': 'https://avatars.githubusercontent.com/u/1864363?v=4', 'login': 'composer'}|
+7548986,framework,laravel/framework,PHP,2,The Laravel Framework.,8380,24607,|{'html_url': 'https://github.com/laravel/framework', 'avatar_url': 'https://avatars.githubusercontent.com/u/7548986?v=4', 'login': 'framework'}|
+2253830,PHPMailer,PHPMailer/PHPMailer,PHP,11,The classic email sending library for PHP,8900,16946,|{'html_url': 'https://github.com/PHPMailer/PHPMailer', 'avatar_url': 'https://avatars.githubusercontent.com/u/2253830?v=4', 'login': 'PHPMailer'}|
+82238168,monica,monicahq/monica,PHP,6,|Personal CRM. Remember everything about your friends, family and business relationships.|,1477,13175,|{'html_url': 'https://github.com/monicahq/monica', 'avatar_url': 'https://avatars.githubusercontent.com/u/82238168?v=4', 'login': 'monica'}|
+4549925,psysh,bobthecow/psysh,PHP,2,A REPL for PHP,267,9035,|{'html_url': 'https://github.com/bobthecow/psysh', 'avatar_url': 'https://avatars.githubusercontent.com/u/4549925?v=4', 'login': 'psysh'}|
+6660366,dompdf,dompdf/dompdf,PHP,2,HTML to PDF converter for PHP,1532,8104,|{'html_url': 'https://github.com/dompdf/dompdf', 'avatar_url': 'https://avatars.githubusercontent.com/u/6660366?v=4', 'login': 'dompdf'}|
+212659,php-code-coverage,sebastianbergmann/php-code-coverage,PHP,1,|Library that provides collection, processing, and rendering functionality for PHP code coverage information.|,332,7924,|{'html_url': 'https://github.com/sebastianbergmann/php-code-coverage', 'avatar_url': 'https://avatars.githubusercontent.com/u/212659?v=4', 'login': 'php-code-coverage'}|
+1398640,event-dispatcher,symfony/event-dispatcher,PHP,0,The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.,64,7810,|{'html_url': 'https://github.com/symfony/event-dispatcher', 'avatar_url': 'https://avatars.githubusercontent.com/u/1398640?v=4', 'login': 'event-dispatcher'}|
+9281708,debug,symfony/debug,PHP,1,The Debug component provides tools to ease debugging PHP code.,48,7273,|{'html_url': 'https://github.com/symfony/debug', 'avatar_url': 'https://avatars.githubusercontent.com/u/9281708?v=4', 'login': 'debug'}|
+10371103,lang,Laravel-Lang/lang,PHP,4,|List of 77 languages for Laravel Framework 4, 5, 6, 7 and 8,  Laravel Jetstream , Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel Spark.|,2716,5944,|{'html_url': 'https://github.com/Laravel-Lang/lang', 'avatar_url': 'https://avatars.githubusercontent.com/u/10371103?v=4', 'login': 'lang'}|
+42261096,fuzzdb,fuzzdb-project/fuzzdb,PHP,6,Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.,1774,5931,|{'html_url': 'https://github.com/fuzzdb-project/fuzzdb', 'avatar_url': 'https://avatars.githubusercontent.com/u/42261096?v=4', 'login': 'fuzzdb'}|
+4242230,PHPWord,PHPOffice/PHPWord,PHP,3,A pure PHP library for reading and writing word processing documents,2314,5706,|{'html_url': 'https://github.com/PHPOffice/PHPWord', 'avatar_url': 'https://avatars.githubusercontent.com/u/4242230?v=4', 'login': 'PHPWord'}|
+60010673,elementor,elementor/elementor,PHP,1,|The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.|,981,3965,|{'html_url': 'https://github.com/elementor/elementor', 'avatar_url': 'https://avatars.githubusercontent.com/u/60010673?v=4', 'login': 'elementor'}|
+31595609,mpdf,mpdf/mpdf,PHP,0,PHP library generating PDF files from UTF-8 encoded HTML,841,3243,|{'html_url': 'https://github.com/mpdf/mpdf', 'avatar_url': 'https://avatars.githubusercontent.com/u/31595609?v=4', 'login': 'mpdf'}|
+1957456,dolibarr,Dolibarr/dolibarr,PHP,3,|Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.|,1785,2596,|{'html_url': 'https://github.com/Dolibarr/dolibarr', 'avatar_url': 'https://avatars.githubusercontent.com/u/1957456?v=4', 'login': 'dolibarr'}|
+182349597,dcat-admin,jqhph/dcat-admin,PHP,3,🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码,375,2542,|{'html_url': 'https://github.com/jqhph/dcat-admin', 'avatar_url': 'https://avatars.githubusercontent.com/u/182349597?v=4', 'login': 'dcat-admin'}|
+12063996,osTicket,osTicket/osTicket,PHP,1,|The osTicket open source ticketing system official project repository, for versions 1.8 and later|,1370,2201,|{'html_url': 'https://github.com/osTicket/osTicket', 'avatar_url': 'https://avatars.githubusercontent.com/u/12063996?v=4', 'login': 'osTicket'}|
+330980599,coder-kung-fu,yanfeizhang/coder-kung-fu,PHP,2,开发内功修炼,158,920,|{'html_url': 'https://github.com/yanfeizhang/coder-kung-fu', 'avatar_url': 'https://avatars.githubusercontent.com/u/330980599?v=4', 'login': 'coder-kung-fu'}|
+9074774,centreon,centreon/centreon,PHP,0,|Centreon is a network, system and application monitoring tool. Centreon is the only AIOps Platform Providing Holistic Visibility to Complex IT Workflows from Cloud to Edge.|,247,488,|{'html_url': 'https://github.com/centreon/centreon', 'avatar_url': 'https://avatars.githubusercontent.com/u/9074774?v=4', 'login': 'centreon'}|
+66662684,msgraph-sdk-php,microsoftgraph/msgraph-sdk-php,PHP,0,Microsoft Graph Library for PHP.,112,323,|{'html_url': 'https://github.com/microsoftgraph/msgraph-sdk-php', 'avatar_url': 'https://avatars.githubusercontent.com/u/66662684?v=4', 'login': 'msgraph-sdk-php'}|
+95167891,Curso-PHP-MySQL,marcosrivasr/Curso-PHP-MySQL,PHP,0,Archivos de los tutoriales del curso de programación del canal de Youtube,393,314,|{'html_url': 'https://github.com/marcosrivasr/Curso-PHP-MySQL', 'avatar_url': 'https://avatars.githubusercontent.com/u/95167891?v=4', 'login': 'Curso-PHP-MySQL'}|
+394318061,regex,hotmeteor/regex,PHP,17,A set of ready-made regex helper methods for use in your Laravel application.,3,150,|{'html_url': 'https://github.com/hotmeteor/regex', 'avatar_url': 'https://avatars.githubusercontent.com/u/394318061?v=4', 'login': 'regex'}|
+184538454,Webdev2019,yankovalenko94/Webdev2019,PHP,0,,486,123,|{'html_url': 'https://github.com/yankovalenko94/Webdev2019', 'avatar_url': 'https://avatars.githubusercontent.com/u/184538454?v=4', 'login': 'Webdev2019'}|

@@ -1,26 +1,26 @@
-id,name,lang,new stars
-54346799,public-apis/public-apis,Python,8530
-83222441,donnemartin/system-design-primer,Python,3355
-32689863,3b1b/manim,Python,1664
-160919119,tiangolo/fastapi,Python,1411
-858127,pandas-dev/pandas,Python,386
-136026789,iperov/DeepFaceLab,Python,729
-519832,mitmproxy/mitmproxy,Python,1405
-262296122,PaddlePaddle/PaddleOCR,Python,792
-154739597,google/jax,Python,530
-146619556,trekhleb/learn-python,Python,2644
-102057483,deepinsight/insightface,Python,280
-52796596,netbox-community/netbox,Python,145
-89266735,facebookresearch/ParlAI,Python,884
-41179827,Rapptz/discord.py,Python,316
-33997353,SecureAuthCorp/impacket,Python,257
-4165675,smicallef/spiderfoot,Python,321
-266417772,pittcsc/Summer2022-Internships,Python,1017
-265122478,ManimCommunity/manim,Python,1806
-221723816,WZMIAOMIAO/deep-learning-for-image-processing,Python,424
-9801644,elastic/elasticsearch-py,Python,98
-355959597,willmcgugan/textual,Python,1845
-198350484,microsoft/unilm,Python,261
-307260205,yt-dlp/yt-dlp,Python,422
-381498685,RosettaCommons/RoseTTAFold,Python,1033
-358518727,tuya/tuya-home-assistant,Python,113
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+54346799,public-apis,public-apis/public-apis,Python,9341,A collective list of free APIs,17031,147060,|{'html_url': 'https://github.com/public-apis/public-apis', 'avatar_url': 'https://avatars.githubusercontent.com/u/54346799?v=4', 'login': 'public-apis'}|
+32689863,manim,3b1b/manim,Python,1686,Animation engine for explanatory math videos,4209,36367,|{'html_url': 'https://github.com/3b1b/manim', 'avatar_url': 'https://avatars.githubusercontent.com/u/32689863?v=4', 'login': 'manim'}|
+160919119,fastapi,tiangolo/fastapi,Python,1395,|FastAPI framework, high performance, easy to learn, fast to code, ready for production|,2468,34605,|{'html_url': 'https://github.com/tiangolo/fastapi', 'avatar_url': 'https://avatars.githubusercontent.com/u/160919119?v=4', 'login': 'fastapi'}|
+136026789,DeepFaceLab,iperov/DeepFaceLab,Python,730,DeepFaceLab is the leading software for creating deepfakes.,6257,27915,|{'html_url': 'https://github.com/iperov/DeepFaceLab', 'avatar_url': 'https://avatars.githubusercontent.com/u/136026789?v=4', 'login': 'DeepFaceLab'}|
+519832,mitmproxy,mitmproxy/mitmproxy,Python,1421,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.,3000,24191,|{'html_url': 'https://github.com/mitmproxy/mitmproxy', 'avatar_url': 'https://avatars.githubusercontent.com/u/519832?v=4', 'login': 'mitmproxy'}|
+262296122,PaddleOCR,PaddlePaddle/PaddleOCR,Python,1039,|Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）|,2970,14248,|{'html_url': 'https://github.com/PaddlePaddle/PaddleOCR', 'avatar_url': 'https://avatars.githubusercontent.com/u/262296122?v=4', 'login': 'PaddleOCR'}|
+154739597,jax,google/jax,Python,547,|Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more|,1283,13825,|{'html_url': 'https://github.com/google/jax', 'avatar_url': 'https://avatars.githubusercontent.com/u/154739597?v=4', 'login': 'jax'}|
+146619556,learn-python,trekhleb/learn-python,Python,2643,📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.,1613,10567,|{'html_url': 'https://github.com/trekhleb/learn-python', 'avatar_url': 'https://avatars.githubusercontent.com/u/146619556?v=4', 'login': 'learn-python'}|
+52796596,netbox,netbox-community/netbox,Python,149,Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev,1568,8342,|{'html_url': 'https://github.com/netbox-community/netbox', 'avatar_url': 'https://avatars.githubusercontent.com/u/52796596?v=4', 'login': 'netbox'}|
+41179827,discord.py,Rapptz/discord.py,Python,326,An API wrapper for Discord written in Python.,2378,8182,|{'html_url': 'https://github.com/Rapptz/discord.py', 'avatar_url': 'https://avatars.githubusercontent.com/u/41179827?v=4', 'login': 'discord.py'}|
+89266735,ParlAI,facebookresearch/ParlAI,Python,893,A framework for training and evaluating AI models on a variety of openly available dialogue datasets.,1623,8176,|{'html_url': 'https://github.com/facebookresearch/ParlAI', 'avatar_url': 'https://avatars.githubusercontent.com/u/89266735?v=4', 'login': 'ParlAI'}|
+135201145,RustPython,RustPython/RustPython,Python,158,A Python Interpreter written in Rust,540,7990,|{'html_url': 'https://github.com/RustPython/RustPython', 'avatar_url': 'https://avatars.githubusercontent.com/u/135201145?v=4', 'login': 'RustPython'}|
+4165675,spiderfoot,smicallef/spiderfoot,Python,315,SpiderFoot automates OSINT so you can focus on analysis.,1241,6338,|{'html_url': 'https://github.com/smicallef/spiderfoot', 'avatar_url': 'https://avatars.githubusercontent.com/u/4165675?v=4', 'login': 'spiderfoot'}|
+266417772,Summer2022-Internships,pittcsc/Summer2022-Internships,Python,1011,Collection of Summer 2022 tech internships!,523,5239,|{'html_url': 'https://github.com/pittcsc/Summer2022-Internships', 'avatar_url': 'https://avatars.githubusercontent.com/u/266417772?v=4', 'login': 'Summer2022-Internships'}|
+265122478,manim,ManimCommunity/manim,Python,1814,A community-maintained Python framework for creating mathematical animations. ,461,4849,|{'html_url': 'https://github.com/ManimCommunity/manim', 'avatar_url': 'https://avatars.githubusercontent.com/u/265122478?v=4', 'login': 'manim'}|
+221723816,deep-learning-for-image-processing,WZMIAOMIAO/deep-learning-for-image-processing,Python,416,deep learning for image processing including classification and object-detection etc.,1817,3607,|{'html_url': 'https://github.com/WZMIAOMIAO/deep-learning-for-image-processing', 'avatar_url': 'https://avatars.githubusercontent.com/u/221723816?v=4', 'login': 'deep-learning-for-image-processing'}|
+355959597,textual,willmcgugan/textual,Python,2234,Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.,70,3480,|{'html_url': 'https://github.com/willmcgugan/textual', 'avatar_url': 'https://avatars.githubusercontent.com/u/355959597?v=4', 'login': 'textual'}|
+9801644,elasticsearch-py,elastic/elasticsearch-py,Python,102,Official Elasticsearch client library for Python,1030,3353,|{'html_url': 'https://github.com/elastic/elasticsearch-py', 'avatar_url': 'https://avatars.githubusercontent.com/u/9801644?v=4', 'login': 'elasticsearch-py'}|
+198350484,unilm,microsoft/unilm,Python,264,|UniLM AI - Unified "Language" Model Pre-training across Tasks, Languages, and Modalities|,548,2554,|{'html_url': 'https://github.com/microsoft/unilm', 'avatar_url': 'https://avatars.githubusercontent.com/u/198350484?v=4', 'login': 'unilm'}|
+63409971,nvidia-patch,keylase/nvidia-patch,Python,217, This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.,272,2532,|{'html_url': 'https://github.com/keylase/nvidia-patch', 'avatar_url': 'https://avatars.githubusercontent.com/u/63409971?v=4', 'login': 'nvidia-patch'}|
+246183538,Practical-Ethical-Hacking-Resources,TCM-Course-Resources/Practical-Ethical-Hacking-Resources,Python,611,Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course ,565,2341,|{'html_url': 'https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources', 'avatar_url': 'https://avatars.githubusercontent.com/u/246183538?v=4', 'login': 'Practical-Ethical-Hacking-Resources'}|
+307260205,yt-dlp,yt-dlp/yt-dlp,Python,439,A youtube-dl fork with additional features and fixes,155,1403,|{'html_url': 'https://github.com/yt-dlp/yt-dlp', 'avatar_url': 'https://avatars.githubusercontent.com/u/307260205?v=4', 'login': 'yt-dlp'}|
+381498685,RoseTTAFold,RosettaCommons/RoseTTAFold,Python,1036,This package contains deep learning models and related scripts for RoseTTAFold,250,1153,|{'html_url': 'https://github.com/RosettaCommons/RoseTTAFold', 'avatar_url': 'https://avatars.githubusercontent.com/u/381498685?v=4', 'login': 'RoseTTAFold'}|
+349321229,GFPGAN,TencentARC/GFPGAN,Python,656,GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.,132,860,|{'html_url': 'https://github.com/TencentARC/GFPGAN', 'avatar_url': 'https://avatars.githubusercontent.com/u/349321229?v=4', 'login': 'GFPGAN'}|
+358518727,tuya-home-assistant,tuya/tuya-home-assistant,Python,116,|Home Assistant custom integration for controlling Powered by Tuya (PBT) devices using Tuya Open API, officially maintained by the Tuya Developer Team.|,45,259,|{'html_url': 'https://github.com/tuya/tuya-home-assistant', 'avatar_url': 'https://avatars.githubusercontent.com/u/358518727?v=4', 'login': 'tuya-home-assistant'}|

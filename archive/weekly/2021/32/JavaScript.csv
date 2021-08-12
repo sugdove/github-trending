@@ -1,26 +1,26 @@
-id,name,lang,new stars
-943149,d3/d3,JavaScript,96
-576201,mrdoob/three.js,JavaScript,206
-138839979,scutan90/DeepLearning-500-questions,JavaScript,227
-147350463,leonardomso/33-js-concepts,JavaScript,712
-140687430,dcloudio/uni-app,JavaScript,154
-278335273,anuraghazra/github-readme-stats,JavaScript,444
-6988020,SheetJS/sheetjs,Makefile,439
-85031442,poteto/hiring-without-whiteboards,JavaScript,120
-402046,MrRio/jsPDF,JavaScript,87
-19745004,odoo/odoo,JavaScript,95
-17372733,OAI/OpenAPI-Specification,JavaScript,155
-712530,fabricjs/fabric.js,JavaScript,90
-59239347,portainer/portainer,JavaScript,61
-50146229,artf/grapesjs,JavaScript,260
-24655114,ChainSafe/web3.js,JavaScript,54
-38267641,trufflesuite/truffle,JavaScript,277
-46964895,star7th/showdoc,JavaScript,479
-42009758,MetaMask/metamask-extension,JavaScript,48
-304344049,sveltejs/kit,JavaScript,102
-284871753,flybywiresim/a32nx,JavaScript,24
-149877594,woai3c/nand2tetris,JavaScript,80
-375877482,clouDr-f2e/rubick,JavaScript,387
-116457726,ethereum/ethereum-org-website,JavaScript,33
-368390355,vaxilu/x-ui,JavaScript,179
-389626024,MoonBegonia/ninja,JavaScript,243
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+576201,three.js,mrdoob/three.js,JavaScript,208,JavaScript 3D Library.,28762,73428,|{'html_url': 'https://github.com/mrdoob/three.js', 'avatar_url': 'https://avatars.githubusercontent.com/u/576201?v=4', 'login': 'three.js'}|
+138839979,DeepLearning-500-questions,scutan90/DeepLearning-500-questions,JavaScript,253,深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06,14223,45468,|{'html_url': 'https://github.com/scutan90/DeepLearning-500-questions', 'avatar_url': 'https://avatars.githubusercontent.com/u/138839979?v=4', 'login': 'DeepLearning-500-questions'}|
+147350463,33-js-concepts,leonardomso/33-js-concepts,JavaScript,722,📜 33 JavaScript concepts every developer should know.,5442,42951,|{'html_url': 'https://github.com/leonardomso/33-js-concepts', 'avatar_url': 'https://avatars.githubusercontent.com/u/147350463?v=4', 'login': '33-js-concepts'}|
+140687430,uni-app,dcloudio/uni-app,JavaScript,162,uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架,3038,32836,|{'html_url': 'https://github.com/dcloudio/uni-app', 'avatar_url': 'https://avatars.githubusercontent.com/u/140687430?v=4', 'login': 'uni-app'}|
+278335273,github-readme-stats,anuraghazra/github-readme-stats,JavaScript,447,:zap: Dynamically generated stats for your github readmes,6208,28458,|{'html_url': 'https://github.com/anuraghazra/github-readme-stats', 'avatar_url': 'https://avatars.githubusercontent.com/u/278335273?v=4', 'login': 'github-readme-stats'}|
+2096579,marked,markedjs/marked,JavaScript,79,A markdown parser and compiler. Built for speed.,3062,25552,|{'html_url': 'https://github.com/markedjs/marked', 'avatar_url': 'https://avatars.githubusercontent.com/u/2096579?v=4', 'login': 'marked'}|
+85031442,hiring-without-whiteboards,poteto/hiring-without-whiteboards,JavaScript,112,⭐️  Companies that don't have a broken hiring process,2023,22710,|{'html_url': 'https://github.com/poteto/hiring-without-whiteboards', 'avatar_url': 'https://avatars.githubusercontent.com/u/85031442?v=4', 'login': 'hiring-without-whiteboards'}|
+402046,jsPDF,MrRio/jsPDF,JavaScript,88,Client-side JavaScript PDF generation for everyone.,4061,22565,|{'html_url': 'https://github.com/MrRio/jsPDF', 'avatar_url': 'https://avatars.githubusercontent.com/u/402046?v=4', 'login': 'jsPDF'}|
+19745004,odoo,odoo/odoo,JavaScript,104,Odoo. Open Source Apps To Grow Your Business.,14761,22122,|{'html_url': 'https://github.com/odoo/odoo', 'avatar_url': 'https://avatars.githubusercontent.com/u/19745004?v=4', 'login': 'odoo'}|
+17372733,OpenAPI-Specification,OAI/OpenAPI-Specification,JavaScript,152,The OpenAPI Specification Repository,7662,21659,|{'html_url': 'https://github.com/OAI/OpenAPI-Specification', 'avatar_url': 'https://avatars.githubusercontent.com/u/17372733?v=4', 'login': 'OpenAPI-Specification'}|
+712530,fabric.js,fabricjs/fabric.js,JavaScript,90,|Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser|,2794,19303,|{'html_url': 'https://github.com/fabricjs/fabric.js', 'avatar_url': 'https://avatars.githubusercontent.com/u/712530?v=4', 'login': 'fabric.js'}|
+59239347,portainer,portainer/portainer,JavaScript,64,Making Docker and Kubernetes management easy.,1735,19106,|{'html_url': 'https://github.com/portainer/portainer', 'avatar_url': 'https://avatars.githubusercontent.com/u/59239347?v=4', 'login': 'portainer'}|
+24063576,semantic-release,semantic-release/semantic-release,JavaScript,65,:package::rocket: Fully automated version management and package publishing,1240,13406,|{'html_url': 'https://github.com/semantic-release/semantic-release', 'avatar_url': 'https://avatars.githubusercontent.com/u/24063576?v=4', 'login': 'semantic-release'}|
+24655114,web3.js,ChainSafe/web3.js,JavaScript,57,Ethereum JavaScript API,3398,10918,|{'html_url': 'https://github.com/ChainSafe/web3.js', 'avatar_url': 'https://avatars.githubusercontent.com/u/24655114?v=4', 'login': 'web3.js'}|
+38267641,truffle,trufflesuite/truffle,JavaScript,280,A tool for developing smart contracts. Crafted with the finest cacaos.,1778,10725,|{'html_url': 'https://github.com/trufflesuite/truffle', 'avatar_url': 'https://avatars.githubusercontent.com/u/38267641?v=4', 'login': 'truffle'}|
+137389229,complete-javascript-course,jonasschmedtmann/complete-javascript-course,JavaScript,71,|Starter files, final projects, and FAQ for my Complete JavaScript course|,8796,7123,|{'html_url': 'https://github.com/jonasschmedtmann/complete-javascript-course', 'avatar_url': 'https://avatars.githubusercontent.com/u/137389229?v=4', 'login': 'complete-javascript-course'}|
+80862584,gutenberg,WordPress/gutenberg,JavaScript,29,The Block Editor project for WordPress and beyond. Plugin is available from the official repository.,2514,7067,|{'html_url': 'https://github.com/WordPress/gutenberg', 'avatar_url': 'https://avatars.githubusercontent.com/u/80862584?v=4', 'login': 'gutenberg'}|
+42009758,metamask-extension,MetaMask/metamask-extension,JavaScript,43,:globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites,2136,5281,|{'html_url': 'https://github.com/MetaMask/metamask-extension', 'avatar_url': 'https://avatars.githubusercontent.com/u/42009758?v=4', 'login': 'metamask-extension'}|
+304344049,kit,sveltejs/kit,JavaScript,103,The fastest way to build Svelte apps,347,4341,|{'html_url': 'https://github.com/sveltejs/kit', 'avatar_url': 'https://avatars.githubusercontent.com/u/304344049?v=4', 'login': 'kit'}|
+284871753,a32nx,flybywiresim/a32nx,JavaScript,26,|The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It  aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.|,629,3547,|{'html_url': 'https://github.com/flybywiresim/a32nx', 'avatar_url': 'https://avatars.githubusercontent.com/u/284871753?v=4', 'login': 'a32nx'}|
+259354262,scaffold-eth,austintgriffith/scaffold-eth,JavaScript,91,🏗 forkable Ethereum dev stack focused on fast product iterations ,812,2482,|{'html_url': 'https://github.com/austintgriffith/scaffold-eth', 'avatar_url': 'https://avatars.githubusercontent.com/u/259354262?v=4', 'login': 'scaffold-eth'}|
+391973138,mapus,alyssaxuu/mapus,JavaScript,1202,A map tool with real-time collaboration 🗺️,72,1914,|{'html_url': 'https://github.com/alyssaxuu/mapus', 'avatar_url': 'https://avatars.githubusercontent.com/u/391973138?v=4', 'login': 'mapus'}|
+375877482,rubick,clouDr-f2e/rubick,JavaScript,315,🔧  基于 electron 的开源工具箱，自由集成丰富插件。,174,1554,|{'html_url': 'https://github.com/clouDr-f2e/rubick', 'avatar_url': 'https://avatars.githubusercontent.com/u/375877482?v=4', 'login': 'rubick'}|
+368390355,x-ui,vaxilu/x-ui,JavaScript,178,支持多协议多用户的 xray 面板,308,883,|{'html_url': 'https://github.com/vaxilu/x-ui', 'avatar_url': 'https://avatars.githubusercontent.com/u/368390355?v=4', 'login': 'x-ui'}|
+389626024,ninja,MoonBegonia/ninja,JavaScript,245,,323,743,|{'html_url': 'https://github.com/MoonBegonia/ninja', 'avatar_url': 'https://avatars.githubusercontent.com/u/389626024?v=4', 'login': 'ninja'}|

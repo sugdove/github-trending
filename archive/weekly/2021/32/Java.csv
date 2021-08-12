@@ -1,26 +1,26 @@
-id,name,lang,new stars
-267775629,geekxh/hello-algorithm,Java,621
-9754983,eugenp/tutorials,Java,220
-2700159,alibaba/druid,Java,56
-44662669,dbeaver/dbeaver,Java,107
-7587038,alibaba/canal,Java,109
-2211243,apache/kafka,Java,70
-13404515,brettwooldridge/HikariCP,Java,157
-41889031,TeamNewPipe/NewPipe,Java,119
-89822531,Anuken/Mindustry,Java,80
-6650539,neo4j/neo4j,Java,25
-2352744,apereo/cas,Java,36
-138361150,doocs/jvm,Java,297
-233156210,yuanguangxin/LeetCode,Java,206
-12499251,checkstyle/checkstyle,Java,23
-237867883,metersphere/metersphere,Java,176
-140543886,apache/incubator-shenyu,Java,45
-66023605,awsdocs/aws-doc-sdk-examples,Java,35
-4992906,pmd/pmd,Java,10
-19961085,apache/pinot,Java,265
-67328052,web3j/web3j,Java,21
-99919302,apache/incubator-doris,Java,33
-248416273,didi/LogiKM,Java,57
-335164964,dataease/dataease,Java,640
-391055597,kunal-kushwaha/DSA-Bootcamp-Java,Java,215
-246464565,PojavLauncherTeam/PojavLauncher,Java,43
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+132464395,JavaGuide,Snailclimb/JavaGuide,Java,523,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,37403,108983,|{'html_url': 'https://github.com/Snailclimb/JavaGuide', 'avatar_url': 'https://avatars.githubusercontent.com/u/132464395?v=4', 'login': 'JavaGuide'}|
+267775629,hello-algorithm,geekxh/hello-algorithm,Java,575,|🌍 针对小白的算法训练 || 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 || 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）|,5337,27906,|{'html_url': 'https://github.com/geekxh/hello-algorithm', 'avatar_url': 'https://avatars.githubusercontent.com/u/267775629?v=4', 'login': 'hello-algorithm'}|
+9754983,tutorials,eugenp/tutorials,Java,193,Just Announced - "Learn Spring Security OAuth": ,43486,27143,|{'html_url': 'https://github.com/eugenp/tutorials', 'avatar_url': 'https://avatars.githubusercontent.com/u/9754983?v=4', 'login': 'tutorials'}|
+2700159,druid,alibaba/druid,Java,59,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池,7823,24334,|{'html_url': 'https://github.com/alibaba/druid', 'avatar_url': 'https://avatars.githubusercontent.com/u/2700159?v=4', 'login': 'druid'}|
+7587038,canal,alibaba/canal,Java,107,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,6053,20091,|{'html_url': 'https://github.com/alibaba/canal', 'avatar_url': 'https://avatars.githubusercontent.com/u/7587038?v=4', 'login': 'canal'}|
+47023603,xxl-job,xuxueli/xxl-job,Java,96,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,8131,19082,|{'html_url': 'https://github.com/xuxueli/xxl-job', 'avatar_url': 'https://avatars.githubusercontent.com/u/47023603?v=4', 'login': 'xxl-job'}|
+13404515,HikariCP,brettwooldridge/HikariCP,Java,159,|光 HikariCP・A solid, high-performance, JDBC connection pool at last.|,2344,15533,|{'html_url': 'https://github.com/brettwooldridge/HikariCP', 'avatar_url': 'https://avatars.githubusercontent.com/u/13404515?v=4', 'login': 'HikariCP'}|
+41889031,NewPipe,TeamNewPipe/NewPipe,Java,110,A libre lightweight streaming front-end for Android.,1863,14669,|{'html_url': 'https://github.com/TeamNewPipe/NewPipe', 'avatar_url': 'https://avatars.githubusercontent.com/u/41889031?v=4', 'login': 'NewPipe'}|
+89822531,Mindustry,Anuken/Mindustry,Java,81,A sandbox tower defense game,1641,11195,|{'html_url': 'https://github.com/Anuken/Mindustry', 'avatar_url': 'https://avatars.githubusercontent.com/u/89822531?v=4', 'login': 'Mindustry'}|
+2352744,cas,apereo/cas,Java,34,Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.,3572,8843,|{'html_url': 'https://github.com/apereo/cas', 'avatar_url': 'https://avatars.githubusercontent.com/u/2352744?v=4', 'login': 'cas'}|
+98103322,SpringCloud,zhoutaoo/SpringCloud,Java,49,基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中,3156,6601,|{'html_url': 'https://github.com/zhoutaoo/SpringCloud', 'avatar_url': 'https://avatars.githubusercontent.com/u/98103322?v=4', 'login': 'SpringCloud'}|
+138361150,jvm,doocs/jvm,Java,253,🤗 JVM 底层原理最全知识总结,1509,6236,|{'html_url': 'https://github.com/doocs/jvm', 'avatar_url': 'https://avatars.githubusercontent.com/u/138361150?v=4', 'login': 'jvm'}|
+233156210,LeetCode,yuanguangxin/LeetCode,Java,219,LeetCode刷题记录与面试整理,1692,6180,|{'html_url': 'https://github.com/yuanguangxin/LeetCode', 'avatar_url': 'https://avatars.githubusercontent.com/u/233156210?v=4', 'login': 'LeetCode'}|
+7170058,flyway,flyway/flyway,Java,21,Flyway by Redgate • Database Migrations Made Easy.,1173,6051,|{'html_url': 'https://github.com/flyway/flyway', 'avatar_url': 'https://avatars.githubusercontent.com/u/7170058?v=4', 'login': 'flyway'}|
+237867883,metersphere,metersphere/metersphere,Java,182,MeterSphere is an End-to-End open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。,1206,5258,|{'html_url': 'https://github.com/metersphere/metersphere', 'avatar_url': 'https://avatars.githubusercontent.com/u/237867883?v=4', 'login': 'metersphere'}|
+19961085,pinot,apache/pinot,Java,225,Apache Pinot (Incubating) - A realtime distributed OLAP datastore,735,3493,|{'html_url': 'https://github.com/apache/pinot', 'avatar_url': 'https://avatars.githubusercontent.com/u/19961085?v=4', 'login': 'pinot'}|
+67328052,web3j,web3j/web3j,Java,17,Lightweight Java and Android library for integration with Ethereum clients,1139,3240,|{'html_url': 'https://github.com/web3j/web3j', 'avatar_url': 'https://avatars.githubusercontent.com/u/67328052?v=4', 'login': 'web3j'}|
+99919302,incubator-doris,apache/incubator-doris,Java,36,Apache Doris (Incubating),875,2909,|{'html_url': 'https://github.com/apache/incubator-doris', 'avatar_url': 'https://avatars.githubusercontent.com/u/99919302?v=4', 'login': 'incubator-doris'}|
+248416273,LogiKM,didi/LogiKM,Java,49,一站式Apache Kafka集群指标监控与运维管控平台,613,2880,|{'html_url': 'https://github.com/didi/LogiKM', 'avatar_url': 'https://avatars.githubusercontent.com/u/248416273?v=4', 'login': 'LogiKM'}|
+265513067,SpringBootVulExploit,LandGrey/SpringBootVulExploit,Java,91,SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list,645,2593,|{'html_url': 'https://github.com/LandGrey/SpringBootVulExploit', 'avatar_url': 'https://avatars.githubusercontent.com/u/265513067?v=4', 'login': 'SpringBootVulExploit'}|
+335164964,dataease,dataease/dataease,Java,618,人人可用的开源数据可视化分析工具。,311,2485,|{'html_url': 'https://github.com/dataease/dataease', 'avatar_url': 'https://avatars.githubusercontent.com/u/335164964?v=4', 'login': 'dataease'}|
+273891882,screw,pingfangushi/screw,Java,68,简洁好用的数据库表结构文档生成器,330,1786,|{'html_url': 'https://github.com/pingfangushi/screw', 'avatar_url': 'https://avatars.githubusercontent.com/u/273891882?v=4', 'login': 'screw'}|
+391055597,DSA-Bootcamp-Java,kunal-kushwaha/DSA-Bootcamp-Java,Java,213,|This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.|,614,1753,|{'html_url': 'https://github.com/kunal-kushwaha/DSA-Bootcamp-Java', 'avatar_url': 'https://avatars.githubusercontent.com/u/391055597?v=4', 'login': 'DSA-Bootcamp-Java'}|
+246464565,PojavLauncher,PojavLauncherTeam/PojavLauncher,Java,39,A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.,227,1323,|{'html_url': 'https://github.com/PojavLauncherTeam/PojavLauncher', 'avatar_url': 'https://avatars.githubusercontent.com/u/246464565?v=4', 'login': 'PojavLauncher'}|
+2928948,azure-sdk-for-java,Azure/azure-sdk-for-java,Java,10,This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. ,1162,948,|{'html_url': 'https://github.com/Azure/azure-sdk-for-java', 'avatar_url': 'https://avatars.githubusercontent.com/u/2928948?v=4', 'login': 'azure-sdk-for-java'}|

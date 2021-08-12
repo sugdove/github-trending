@@ -1,26 +1,26 @@
-id,name,lang,new stars
-8514,rails/rails,Ruby,42
-2293158,rapid7/metasploit-framework,Ruby,67
-52281283,mastodon/mastodon,Ruby,52
-2500088,gitlabhq/gitlabhq,Ruby,18
-308770,heartcombo/devise,Ruby,19
-538746,ruby/ruby,Ruby,27
-138312,capistrano/capistrano,Ruby,16
-4095287,rubocop/rubocop,Ruby,12
-202291859,chatwoot/chatwoot,Ruby,143
-96395,faker-ruby/faker,Ruby,8
-611921,activeadmin/activeadmin,Ruby,8
-1725199,github/linguist,Ruby,35
-15435,Shopify/liquid,Ruby,25
-2441517,puma/puma,Ruby,15
-910744,puppetlabs/puppet,Ruby,17
-69193081,freeCodeCamp/how-to-contribute-to-open-source,Ruby,55
-75785147,rails/webpacker,Ruby,14
-16994115,CanCanCommunity/cancancan,Ruby,7
-30985840,solidusio/solidus,Ruby,9
-52316423,luggit/react-native-config,Ruby,18
-4523235,asciidoctor/asciidoctor,Ruby,11
-14238949,elastic/elasticsearch-rails,Ruby,2
-103766152,github/explore,Ruby,23
-13828391,cryptopunksnotdead/programming-cryptopunks,Ruby,24
-66497320,DataDog/dd-trace-rb,Ruby,2
+id,name,full_name,language,new stars,description,forks_count,stargazers_count,owner
+8514,rails,rails/rails,Ruby,47,Ruby on Rails,19613,48825,|{'html_url': 'https://github.com/rails/rails', 'avatar_url': 'https://avatars.githubusercontent.com/u/8514?v=4', 'login': 'rails'}|
+2293158,metasploit-framework,rapid7/metasploit-framework,Ruby,72,Metasploit Framework,11478,24794,|{'html_url': 'https://github.com/rapid7/metasploit-framework', 'avatar_url': 'https://avatars.githubusercontent.com/u/2293158?v=4', 'login': 'metasploit-framework'}|
+52281283,mastodon,mastodon/mastodon,Ruby,50,|Your self-hosted, globally interconnected microblogging community|,4082,24575,|{'html_url': 'https://github.com/mastodon/mastodon', 'avatar_url': 'https://avatars.githubusercontent.com/u/52281283?v=4', 'login': 'mastodon'}|
+2500088,gitlabhq,gitlabhq/gitlabhq,Ruby,20,|GitLab CE Mirror || Please open new issues in our issue tracker on GitLab.com|,5677,22686,|{'html_url': 'https://github.com/gitlabhq/gitlabhq', 'avatar_url': 'https://avatars.githubusercontent.com/u/2500088?v=4', 'login': 'gitlabhq'}|
+308770,devise,heartcombo/devise,Ruby,17,Flexible authentication solution for Rails with Warden.,5261,21813,|{'html_url': 'https://github.com/heartcombo/devise', 'avatar_url': 'https://avatars.githubusercontent.com/u/308770?v=4', 'login': 'devise'}|
+538746,ruby,ruby/ruby,Ruby,26,The Ruby Programming Language [mirror],4865,18342,|{'html_url': 'https://github.com/ruby/ruby', 'avatar_url': 'https://avatars.githubusercontent.com/u/538746?v=4', 'login': 'ruby'}|
+73648678,forem,forem/forem,Ruby,41,For empowering community 🌱,3013,17276,|{'html_url': 'https://github.com/forem/forem', 'avatar_url': 'https://avatars.githubusercontent.com/u/73648678?v=4', 'login': 'forem'}|
+138312,capistrano,capistrano/capistrano,Ruby,13,Remote multi-server automation tool,1771,11928,|{'html_url': 'https://github.com/capistrano/capistrano', 'avatar_url': 'https://avatars.githubusercontent.com/u/138312?v=4', 'login': 'capistrano'}|
+4095287,rubocop,rubocop/rubocop,Ruby,14,|A Ruby static code analyzer and formatter, based on the community Ruby style guide.|,2741,11429,|{'html_url': 'https://github.com/rubocop/rubocop', 'avatar_url': 'https://avatars.githubusercontent.com/u/4095287?v=4', 'login': 'rubocop'}|
+3195124,sidekiq,mperham/sidekiq,Ruby,18,|Simple, efficient background processing for Ruby|,1981,11165,|{'html_url': 'https://github.com/mperham/sidekiq', 'avatar_url': 'https://avatars.githubusercontent.com/u/3195124?v=4', 'login': 'sidekiq'}|
+202291859,chatwoot,chatwoot/chatwoot,Ruby,152,|Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬|,1134,9862,|{'html_url': 'https://github.com/chatwoot/chatwoot', 'avatar_url': 'https://avatars.githubusercontent.com/u/202291859?v=4', 'login': 'chatwoot'}|
+96395,faker,faker-ruby/faker,Ruby,9,|A library for generating fake data such as names, addresses, and phone numbers.|,2695,9399,|{'html_url': 'https://github.com/faker-ruby/faker', 'avatar_url': 'https://avatars.githubusercontent.com/u/96395?v=4', 'login': 'faker'}|
+1725199,linguist,github/linguist,Ruby,33,|Language Savant. If your repository's language is being reported incorrectly, send us a pull request!|,3222,9001,|{'html_url': 'https://github.com/github/linguist', 'avatar_url': 'https://avatars.githubusercontent.com/u/1725199?v=4', 'login': 'linguist'}|
+21829,factory_bot,thoughtbot/factory_bot,Ruby,8,A library for setting up Ruby objects as test data.,2441,7267,|{'html_url': 'https://github.com/thoughtbot/factory_bot', 'avatar_url': 'https://avatars.githubusercontent.com/u/21829?v=4', 'login': 'factory_bot'}|
+69193081,how-to-contribute-to-open-source,freeCodeCamp/how-to-contribute-to-open-source,Ruby,56,A guide to contributing to open source,1200,5452,|{'html_url': 'https://github.com/freeCodeCamp/how-to-contribute-to-open-source', 'avatar_url': 'https://avatars.githubusercontent.com/u/69193081?v=4', 'login': 'how-to-contribute-to-open-source'}|
+75785147,webpacker,rails/webpacker,Ruby,15,Use Webpack to manage app-like JavaScript modules in Rails,1426,5225,|{'html_url': 'https://github.com/rails/webpacker', 'avatar_url': 'https://avatars.githubusercontent.com/u/75785147?v=4', 'login': 'webpacker'}|
+16994115,cancancan,CanCanCommunity/cancancan,Ruby,8,The authorization Gem for Ruby on Rails.,522,4957,|{'html_url': 'https://github.com/CanCanCommunity/cancancan', 'avatar_url': 'https://avatars.githubusercontent.com/u/16994115?v=4', 'login': 'cancancan'}|
+1314319,canvas-lms,instructure/canvas-lms,Ruby,9,|The open LMS by Instructure, Inc.|,1730,4025,|{'html_url': 'https://github.com/instructure/canvas-lms', 'avatar_url': 'https://avatars.githubusercontent.com/u/1314319?v=4', 'login': 'canvas-lms'}|
+30985840,solidus,solidusio/solidus,Ruby,10,|🛒Solidus, Rails eCommerce System|,1091,3813,|{'html_url': 'https://github.com/solidusio/solidus', 'avatar_url': 'https://avatars.githubusercontent.com/u/30985840?v=4', 'login': 'solidus'}|
+138776049,sorbet,sorbet/sorbet,Ruby,22,|A fast, powerful type checker designed for Ruby|,307,2819,|{'html_url': 'https://github.com/sorbet/sorbet', 'avatar_url': 'https://avatars.githubusercontent.com/u/138776049?v=4', 'login': 'sorbet'}|
+103766152,explore,github/explore,Ruby,22,Community-curated topic and collection pages on GitHub,9058,2447,|{'html_url': 'https://github.com/github/explore', 'avatar_url': 'https://avatars.githubusercontent.com/u/103766152?v=4', 'login': 'explore'}|
+5708822,makara,instacart/makara,Ruby,1,A Read-Write Proxy for Connections; Also provides an ActiveRecord adapter.,143,809,|{'html_url': 'https://github.com/instacart/makara', 'avatar_url': 'https://avatars.githubusercontent.com/u/5708822?v=4', 'login': 'makara'}|
+13828391,programming-cryptopunks,cryptopunksnotdead/programming-cryptopunks,Ruby,23,Crypto Collectibles Book(let) Series. Programming CryptoPunks & Copypastas Step-by-Step Book / Guide. Inside Unique Pixel Art on the Blockchain...,51,138,|{'html_url': 'https://github.com/cryptopunksnotdead/programming-cryptopunks', 'avatar_url': 'https://avatars.githubusercontent.com/u/13828391?v=4', 'login': 'programming-cryptopunks'}|
+66497320,dd-trace-rb,DataDog/dd-trace-rb,Ruby,2,Datadog Tracing Ruby Client,228,133,|{'html_url': 'https://github.com/DataDog/dd-trace-rb', 'avatar_url': 'https://avatars.githubusercontent.com/u/66497320?v=4', 'login': 'dd-trace-rb'}|
+384535535,phase-3-enumerables-debugging,learn-co-curriculum/phase-3-enumerables-debugging,Ruby,0,,19,0,|{'html_url': 'https://github.com/learn-co-curriculum/phase-3-enumerables-debugging', 'avatar_url': 'https://avatars.githubusercontent.com/u/384535535?v=4', 'login': 'phase-3-enumerables-debugging'}|
