@@ -30,7 +30,6 @@ class TrendsCsvPipeline(object):
         """
         Before spider closed, we write data to CSV files
         """
-        print('self:'+self)
         for date_range in self.trends:
             for lang in self.trends[date_range]:
                 filename = "{}.csv".format(lang)
@@ -54,19 +53,25 @@ class TrendsCsvPipeline(object):
 
     @staticmethod
     def write_csv(path, items):
-        with open(path, "w", newline='') as fp:
-            writer = csv.writer(fp, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(["id", "full_name", "name", "language", "new stars", "description", "forks_count", "stargazers_count"])
+        with open(path, "w", newline='', encoding='utf-8') as fp:
+            writer = csv.writer(fp, delimiter=',', quoting=csv.QUOTE_MINIMAL)
+            writer.writerow(["id",  "name", "full_name", "language", "new stars", "description", "forks_count", "stargazers_count","avatar_url"])
+            # "full_name", "description", "forks_count", "stargazers_count","owner"
             for item in items:
+                print("----------------------------------")
+                print(item )
                 primary_lang = item['primaryLanguage']['name'] if item['primaryLanguage'] else ""
-                writer.writerow(
-                  [
-                    item['databaseId'], 
-                    item['nameWithOwner'],
-                    item['name'], 
+                arr = [
+                    item["databaseId"], 
+                    item["name"], 
+                    item["nameWithOwner"],
                     primary_lang, 
-                    item['stars_inc'], 
-                    item['description']],
-                    item['forkCount'],
-                    item['stargazers']['totalCount'],
-                  )
+                    item["stars_inc"], 
+                    item["description"],
+                    item["forkCount"],
+                    item["stargazers"]["totalCount"],
+                    item["owner"]["avatarUrl"]
+                  ]
+                print(arr )
+                # writer.writerow([item["databaseId"], item["nameWithOwner"], primary_lang, item["stars_inc"]])
+                writer.writerow(arr)

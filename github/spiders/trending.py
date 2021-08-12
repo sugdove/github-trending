@@ -21,6 +21,9 @@ gql = """
         url,
         homepageUrl,
         nameWithOwner,
+        owner{
+          avatarUrl
+        },
         primaryLanguage {
           id,
           name
