@@ -30,11 +30,13 @@ class TrendsCsvPipeline(object):
         """
         Before spider closed, we write data to CSV files
         """
+        print('self:'+self)
         for date_range in self.trends:
             for lang in self.trends[date_range]:
                 filename = "{}.csv".format(lang)
                 path = self.build_path(date_range)
                 self.write_csv(os.path.join(path, filename), self.trends[date_range][lang])
+                
 
     @staticmethod
     def build_path(date_range):
@@ -54,7 +56,17 @@ class TrendsCsvPipeline(object):
     def write_csv(path, items):
         with open(path, "w", newline='') as fp:
             writer = csv.writer(fp, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow(["id", "name", "lang", "new stars"])
+            writer.writerow(["id", "full_name", "name", "language", "new stars", "description", "forks_count", "stargazers_count"])
             for item in items:
                 primary_lang = item['primaryLanguage']['name'] if item['primaryLanguage'] else ""
-                writer.writerow([item['databaseId'], item['nameWithOwner'], primary_lang, item['stars_inc']])
+                writer.writerow(
+                  [
+                    item['databaseId'], 
+                    item['nameWithOwner'],
+                    item['name'], 
+                    primary_lang, 
+                    item['stars_inc'], 
+                    item['description']],
+                    item['forkCount'],
+                    item['stargazers']['totalCount'],
+                  )
