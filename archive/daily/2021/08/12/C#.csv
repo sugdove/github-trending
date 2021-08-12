@@ -1,26 +1,19 @@
-id,name,lang,new stars
-7600409,shadowsocks/shadowsocks-windows,C#,11
-17620347,dotnet/aspnetcore,C#,17
-198071756,huiyadanli/RevokeMsgPatcher,C#,32
-262395224,dotnet/maui,C#,14
-28239455,dotnet/AspNetCore.Docs,C#,3
-75990888,dotnet/csharplang,C#,4
-210716005,dotnet/runtime,C#,14
-64290739,dodyg/practical-aspnetcore,C#,59
-130160795,HMBSbige/ShadowsocksR-Windows,C#,11
-243854166,dotnet/tye,C#,3
-145101484,anjoy8/Blog.Core,C#,5
-54308403,microsoft/WinAppDriver,C#,6
-138290022,mob-sakai/ParticleEffectForUGUI,C#,3
-119571446,dotnet/samples,C#,1
-155757874,microsoft/Xaml-Controls-Gallery,C#,4
-146924413,vletoux/pingcastle,C#,5
-158405551,microsoft/Git-Credential-Manager-Core,C#,8
-191232240,dotnet/Silk.NET,C#,4
-87864000,CarterCommunity/Carter,C#,1
-35877412,googleapis/google-cloud-dotnet,C#,2
-305021589,Prowlarr/Prowlarr,C#,5
-375939072,dotnetcore/FastGithub,C#,55
-394005849,med0x2e/SigFlip,C#,37
-360795104,fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat,C#,4
-366883114,dsnezhkov/racketeer,C#,4
+id,full_name,name,language,new stars,description,forks_count,stargazers_count
+17620347,dotnet/aspnetcore,aspnetcore,C#,14,|ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.|,6678,25370
+30474266,MaterialDesignInXAML/MaterialDesignInXamlToolkit,MaterialDesignInXamlToolkit,C#,7,|Google's Material Design in XAML & WPF, for C# & VB.Net. |,2732,11113
+262395224,dotnet/maui,maui,C#,18,|.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.|,461,10878
+28239455,dotnet/AspNetCore.Docs,AspNetCore.Docs,C#,2,Documentation for ASP.NET Core,22445,9547
+374228,restsharp/RestSharp,RestSharp,C#,3,Simple REST and HTTP API Client for .NET,2154,7972
+75990888,dotnet/csharplang,csharplang,C#,6,The official repo for the design of the C# programming language,791,7330
+210716005,dotnet/runtime,runtime,C#,11,|.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.|,2241,6720
+22636263,duplicati/duplicati,duplicati,C#,45,Store securely encrypted backups in the cloud!,675,6468
+64290739,dodyg/practical-aspnetcore,practical-aspnetcore,C#,36,|Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 6 projects you can use. Readme contains explanations on all projects.|,750,5868
+8198511,serilog/serilog,serilog,C#,4,Simple .NET logging with fully-structured events,631,4722
+243854166,dotnet/tye,tye,C#,1,|Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.|,378,3672
+73864802,danielgerlag/workflow-core,workflow-core,C#,4,Lightweight workflow engine for .NET Standard,806,3311
+23891194,Azure/azure-powershell,azure-powershell,C#,3,Microsoft Azure PowerShell,2647,2701
+19555723,StephenCleary/AsyncEx,AsyncEx,C#,3,A helper library for async/await.,300,2670
+169597853,cobbr/Covenant,Covenant,C#,3,Covenant is a collaborative .NET C2 framework for red teamers.,497,2528
+54308403,microsoft/WinAppDriver,WinAppDriver,C#,6,Windows Application Driver,1089,2399
+119571446,dotnet/samples,samples,C#,2,Sample code referenced by the .NET documentation,3136,1690
+77180761,xamarin/XamarinCommunityToolkit,XamarinCommunityToolkit,C#,1,|The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.|,335,1354
