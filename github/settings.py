@@ -90,7 +90,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-token = "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"
+token = "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"
 
 popular_langs = [
     'C',
