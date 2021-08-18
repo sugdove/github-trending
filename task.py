@@ -27,10 +27,11 @@ def push2github():
 while True:
     # Run every hour
     now = datetime.now()
-    if now.minute != 0:
+    if now.minute == 0:
         subprocess.call(["scrapy", "crawl", "trending"])
         # Commit every 3h
-        # if now.hour % 3 != 0:
+        # if now.hour % 3 == 0:
+        if True:
             try:
                 push2github()
             except:
