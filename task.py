@@ -1,6 +1,7 @@
 import subprocess
 import time
 import os
+import schedule
 
 from datetime import datetime
 from git import Repo
@@ -23,19 +24,11 @@ def push2github():
         repo.index.commit("crawler auto commit")
         remote.push()
 
+def main():
+    subprocess.call(["scrapy", "crawl", "trending"])
+    try:
+        push2github()
+    except:
+        pass
 
-while True:
-    # Run every hour
-    now = datetime.now()
-    if now.minute == 0:
-        subprocess.call(["scrapy", "crawl", "trending"])
-        # Commit every 3h
-        # if now.hour % 3 == 0:
-        if True:
-            try:
-                push2github()
-            except:
-                pass
-        time.sleep(60 * 50)
-    else:
-        time.sleep(1)
+schedule.every().hour.do(main)
