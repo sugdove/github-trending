@@ -9,7 +9,7 @@ while True:
             subprocess.run('git pull')
         except:
             pass
-    time.sleep(60 * 50)
+        time.sleep(60 * 50)
     else:
         time.sleep(1)
   
