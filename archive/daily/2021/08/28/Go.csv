@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,45,The Go programming language,13107,89228,https://avatars.githubusercontent.com/u/4314092?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,26,Official Go implementation of the Ethereum protocol,11773,32040,https://avatars.githubusercontent.com/u/6250754?v=4
-17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",6861,28705,https://avatars.githubusercontent.com/u/761456?v=4
-212613049,cli,cli/cli,Go,50,GitHub’s official command line tool,2678,24921,https://avatars.githubusercontent.com/u/59704711?v=4
-12574344,cobra,spf13/cobra,Go,11,A Commander for modern Go CLI interactions,1942,22915,https://avatars.githubusercontent.com/u/173412?u=c8c7f7e9525d8ceeab785a795a4d8d3e78f8fd28&v=4
-14125254,consul,hashicorp/consul,Go,5,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",3820,22743,https://avatars.githubusercontent.com/u/761456?v=4
-31288958,vault,hashicorp/vault,Go,6,"A tool for secrets management, encryption as a service, and privileged access management",3024,21672,https://avatars.githubusercontent.com/u/761456?v=4
-6247705,testify,stretchr/testify,Go,6,A toolkit with common assertions and mocks that plays nicely with the standard library,1112,14117,https://avatars.githubusercontent.com/u/1841476?v=4
-21827146,seaweedfs,chrislusf/seaweedfs,Go,3,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.",1591,12701,https://avatars.githubusercontent.com/u/1543151?u=799a12b4784e8e6e70e2dfe7f1a298e7d24c9fba&v=4
-153099672,learngo,inancgumus/learngo,Go,35,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",1360,10955,https://avatars.githubusercontent.com/u/621232?u=4825c5449290026dd31c681af1e04f2b3ed9944d&v=4
-72477752,pulumi,pulumi/pulumi,Go,7,"Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀",542,9718,https://avatars.githubusercontent.com/u/21992475?v=4
-109145553,podman,containers/podman,Go,7,Podman: A tool for managing OCI containers and pods.,1002,8669,https://avatars.githubusercontent.com/u/5874934?v=4
+23096959,go,golang/go,Go,43,The Go programming language,13108,89231,https://avatars.githubusercontent.com/u/4314092?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,23,Official Go implementation of the Ethereum protocol,11774,32042,https://avatars.githubusercontent.com/u/6250754?v=4
+17728164,terraform,hashicorp/terraform,Go,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",6861,28706,https://avatars.githubusercontent.com/u/761456?v=4
+212613049,cli,cli/cli,Go,112,GitHub’s official command line tool,2680,24955,https://avatars.githubusercontent.com/u/59704711?v=4
+12574344,cobra,spf13/cobra,Go,10,A Commander for modern Go CLI interactions,1941,22915,https://avatars.githubusercontent.com/u/173412?u=c8c7f7e9525d8ceeab785a795a4d8d3e78f8fd28&v=4
+14125254,consul,hashicorp/consul,Go,5,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",3820,22745,https://avatars.githubusercontent.com/u/761456?v=4
+31288958,vault,hashicorp/vault,Go,5,"A tool for secrets management, encryption as a service, and privileged access management",3024,21672,https://avatars.githubusercontent.com/u/761456?v=4
+6247705,testify,stretchr/testify,Go,7,A toolkit with common assertions and mocks that plays nicely with the standard library,1112,14118,https://avatars.githubusercontent.com/u/1841476?v=4
+21827146,seaweedfs,chrislusf/seaweedfs,Go,4,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.",1591,12703,https://avatars.githubusercontent.com/u/1543151?u=799a12b4784e8e6e70e2dfe7f1a298e7d24c9fba&v=4
+153099672,learngo,inancgumus/learngo,Go,27,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",1360,10960,https://avatars.githubusercontent.com/u/621232?u=4825c5449290026dd31c681af1e04f2b3ed9944d&v=4
+72477752,pulumi,pulumi/pulumi,Go,5,"Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀",542,9718,https://avatars.githubusercontent.com/u/21992475?v=4
+109145553,podman,containers/podman,Go,6,Podman: A tool for managing OCI containers and pods.,1002,8670,https://avatars.githubusercontent.com/u/5874934?v=4
 11206255,sarama,Shopify/sarama,Go,3,"Sarama is a Go library for Apache Kafka 0.8, and up.",1314,7586,https://avatars.githubusercontent.com/u/8085?v=4
-208728772,milvus,milvus-io/milvus,Go,13,An open-source vector database for embedding similarity search and AI applications.,1021,7554,https://avatars.githubusercontent.com/u/51735404?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,50,Terraform AWS provider,5582,6224,https://avatars.githubusercontent.com/u/761456?v=4
-199763479,bfe,bfenetworks/bfe,Go,15,A modern layer 7 load balancer from baidu,803,4911,https://avatars.githubusercontent.com/u/65478032?v=4
-144849757,sealos,fanux/sealos,Go,28,一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗,808,4214,https://avatars.githubusercontent.com/u/8912557?u=199e1771e49ed654c5425cad891a898fcb8dc9a0&v=4
-150713223,kubeedge,kubeedge/kubeedge,Go,12,Kubernetes Native Edge Computing Framework (project under CNCF),1092,4172,https://avatars.githubusercontent.com/u/41812520?v=4
-118828329,serving,knative/serving,Go,3,"Kubernetes-based, scale-to-zero, request-driven compute",824,3934,https://avatars.githubusercontent.com/u/35583233?v=4
-82515080,gocron,ouqiang/gocron,Go,15,定时任务管理系统,832,3771,https://avatars.githubusercontent.com/u/12163055?u=1eed7f501749c1cfaee3b02df22f35c22eb6c272&v=4
-149515625,flagger,fluxcd/flagger,Go,2,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",436,3108,https://avatars.githubusercontent.com/u/52158677?v=4
+208728772,milvus,milvus-io/milvus,Go,5,An open-source vector database for embedding similarity search and AI applications.,1021,7555,https://avatars.githubusercontent.com/u/51735404?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,41,Terraform AWS provider,5583,6225,https://avatars.githubusercontent.com/u/761456?v=4
+199763479,bfe,bfenetworks/bfe,Go,18,A modern layer 7 load balancer from baidu,803,4913,https://avatars.githubusercontent.com/u/65478032?v=4
+144849757,sealos,fanux/sealos,Go,29,一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗,808,4217,https://avatars.githubusercontent.com/u/8912557?u=199e1771e49ed654c5425cad891a898fcb8dc9a0&v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,13,Kubernetes Native Edge Computing Framework (project under CNCF),1092,4173,https://avatars.githubusercontent.com/u/41812520?v=4
+118828329,serving,knative/serving,Go,1,"Kubernetes-based, scale-to-zero, request-driven compute",824,3934,https://avatars.githubusercontent.com/u/35583233?v=4
+82515080,gocron,ouqiang/gocron,Go,16,定时任务管理系统,833,3771,https://avatars.githubusercontent.com/u/12163055?u=1eed7f501749c1cfaee3b02df22f35c22eb6c272&v=4
+149515625,flagger,fluxcd/flagger,Go,2,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",436,3109,https://avatars.githubusercontent.com/u/52158677?v=4
 84610043,aws-load-balancer-controller,kubernetes-sigs/aws-load-balancer-controller,Go,1,A Kubernetes controller for Elastic Load Balancers,801,2422,https://avatars.githubusercontent.com/u/36015203?v=4
-127765544,kubernetes-ingress-controller,Kong/kubernetes-ingress-controller,Go,2,:gorilla: Kong for Kubernetes: the official Ingress Controller for Kubernetes.,464,1484,https://avatars.githubusercontent.com/u/962416?v=4
+127765544,kubernetes-ingress-controller,Kong/kubernetes-ingress-controller,Go,1,:gorilla: Kong for Kubernetes: the official Ingress Controller for Kubernetes.,464,1484,https://avatars.githubusercontent.com/u/962416?v=4
 185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,2,OpenTelemetry Collector,587,1262,https://avatars.githubusercontent.com/u/49998002?v=4
-265775217,bsc,binance-chain/bsc,Go,17,A Binance Smart Chain client based on the go-ethereum fork,281,678,https://avatars.githubusercontent.com/u/45615063?v=4
+265775217,bsc,binance-chain/bsc,Go,25,A Binance Smart Chain client based on the go-ethereum fork,282,689,https://avatars.githubusercontent.com/u/45615063?v=4
