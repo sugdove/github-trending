@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,64,Linux kernel source tree,38635,117126,https://avatars.githubusercontent.com/u/1024025?v=4
-111583593,scrcpy,Genymobile/scrcpy,C,40,Display and control your Android device,5568,53633,https://avatars.githubusercontent.com/u/3427627?v=4
-246335987,Ventoy,ventoy/Ventoy,C,103,A new bootable USB solution.,1855,25176,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
-24586308,os-tutorial,cfenollosa/os-tutorial,C,9,How to create an OS from scratch,2630,21549,https://avatars.githubusercontent.com/u/2249551?v=4
-5101141,jq,stedolan/jq,C,11,Command-line JSON processor,1197,20113,https://avatars.githubusercontent.com/u/79765?v=4
-102578345,lede,coolsnowwolf/lede,C,24,Lean's OpenWrt source,15002,17608,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+2325298,linux,torvalds/linux,C,66,Linux kernel source tree,38635,117132,https://avatars.githubusercontent.com/u/1024025?v=4
+13233158,obs-studio,obsproject/obs-studio,C,22,OBS Studio - Free and open source software for live streaming and screen recording,5122,30524,https://avatars.githubusercontent.com/u/7725691?v=4
+246335987,Ventoy,ventoy/Ventoy,C,107,A new bootable USB solution.,1855,25192,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
+102578345,lede,coolsnowwolf/lede,C,23,Lean's OpenWrt source,15006,17612,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
 6201092,mpv,mpv-player/mpv,C,11,🎥 Command line video player,1992,15796,https://avatars.githubusercontent.com/u/2550273?v=4
-2810292,rufus,pbatard/rufus,C,11,The Reliable USB Formatting Utility,1619,15694,https://avatars.githubusercontent.com/u/1206968?u=ed1be5451352656cffecc840d661bb793c3bad05&v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,13,Open-source keyboard firmware for Atmel AVR and Arm USB families,21356,10377,https://avatars.githubusercontent.com/u/25358678?v=4
-90320494,ish,ish-app/ish,C,9,Linux shell for iOS,556,10324,https://avatars.githubusercontent.com/u/38895825?v=4
-105627846,reactos,reactos/reactos,C,7,A free Windows-compatible Operating System,1160,9804,https://avatars.githubusercontent.com/u/1056157?v=4
-45821540,openwrt,openwrt/openwrt,C,5,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org,6144,9317,https://avatars.githubusercontent.com/u/2528830?v=4
-32873313,systemd,systemd/systemd,C,5,The systemd System and Service Manager ,2662,8384,https://avatars.githubusercontent.com/u/1918868?v=4
-9524997,glfw,glfw/glfw,C,4,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",3014,8016,https://avatars.githubusercontent.com/u/3905364?v=4
-179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,8,OpenCore bootloader,1391,7884,https://avatars.githubusercontent.com/u/39672954?v=4
-13836499,raylib,raysan5/raylib,C,10,A simple and easy-to-use library to enjoy videogames programming,825,7086,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-21977691,seL4,seL4/seL4,C,2,The seL4 microkernel,460,3243,https://avatars.githubusercontent.com/u/6878957?v=4
-51275984,Luma3DS,LumaTeam/Luma3DS,C,4,"Noob-proof (N)3DS ""Custom Firmware""",432,3179,https://avatars.githubusercontent.com/u/65085206?v=4
-45703884,u8g2,olikraus/u8g2,C,1,"U8glib library for monochrome displays, version 2 ",670,2537,https://avatars.githubusercontent.com/u/1084992?v=4
-1613176,edk2,tianocore/edk2,C,3,EDK II,1443,2410,https://avatars.githubusercontent.com/u/352162?v=4
-66016134,simplewall,henrypp/simplewall,C,4,Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.,254,2209,https://avatars.githubusercontent.com/u/3902025?u=b0ece819da48142eab03300731168783d7a2307b&v=4
-330008801,SDL,libsdl-org/SDL,C,5,Simple Directmedia Layer,292,1733,https://avatars.githubusercontent.com/u/77683370?v=4
-211756905,Configurations,MarlinFirmware/Configurations,C,2,Configurations for Marlin Firmware,1768,951,https://avatars.githubusercontent.com/u/10418365?v=4
-396447471,CobaltStrikeReflectiveLoader,boku7/CobaltStrikeReflectiveLoader,C,19,Cobalt Strike User-Defined Reflective Loader written in Assembly & C for advanced evasion capabilities.,44,279,https://avatars.githubusercontent.com/u/19784872?u=5a4f2b13fc591ade0127ac10a169b9d46ad5203b&v=4
-395348629,win-capture-audio,bozbez/win-capture-audio,C,3,"An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",6,114,https://avatars.githubusercontent.com/u/3913560?u=db6fbfb656570833fe25cc4813b1457c0953c909&v=4
+66150122,nnn,jarun/nnn,C,10,n³ The unorthodox terminal file manager,483,12137,https://avatars.githubusercontent.com/u/5959286?u=b238d860b92600550fd73cef724ea74f93a24bc7&v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,10,Open-source keyboard firmware for Atmel AVR and Arm USB families,21359,10377,https://avatars.githubusercontent.com/u/25358678?v=4
+45821540,openwrt,openwrt/openwrt,C,3,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org,6145,9317,https://avatars.githubusercontent.com/u/2528830?v=4
+9524997,glfw,glfw/glfw,C,4,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",3015,8016,https://avatars.githubusercontent.com/u/3905364?v=4
+3299208,vlc,videolan/vlc,C,3,"VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",2772,7931,https://avatars.githubusercontent.com/u/1389585?v=4
+179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,8,OpenCore bootloader,1391,7885,https://avatars.githubusercontent.com/u/39672954?v=4
+7715820,rofi,davatorium/rofi,C,14,"Rofi: A window switcher, application launcher and dmenu replacement",405,7806,https://avatars.githubusercontent.com/u/48837683?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,8,Arduino core for the ESP32,4508,7193,https://avatars.githubusercontent.com/u/9460735?v=4
+60667730,lvgl,lvgl/lvgl,C,12,"Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",1413,6617,https://avatars.githubusercontent.com/u/19811762?v=4
+64060314,TheFatRat,screetsec/TheFatRat,C,8,"Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .",1798,5587,https://avatars.githubusercontent.com/u/17976841?u=420992b910333e2c7f367172c4c2d69ebcf8d188&v=4
+224151065,Nuklear,Immediate-Mode-UI/Nuklear,C,4,A single-header ANSI C immediate mode cross-platform GUI library,273,4674,https://avatars.githubusercontent.com/u/58210959?v=4
+135348215,MTProxy,TelegramMessenger/MTProxy,C,4,,604,3514,https://avatars.githubusercontent.com/u/22377696?v=4
+59676171,klipper,KevinOConnor/klipper,C,4,Klipper is a 3d-printer firmware,2293,3484,https://avatars.githubusercontent.com/u/3004890?v=4
+79160357,fivem,citizenfx/fivem,C,3,"The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.",1150,2075,https://avatars.githubusercontent.com/u/25160833?v=4
+63369078,picom,yshui/picom,C,6,A lightweight compositor for X11,265,2074,https://avatars.githubusercontent.com/u/366851?v=4
+240011145,openwrt,Lienol/openwrt,C,5,Lienol's Modified OpenWrt source,1523,1946,https://avatars.githubusercontent.com/u/23146169?u=100513795fae87f458a6e988882efe44fffc3e2c&v=4
+63755042,vkQuake,Novum/vkQuake,C,0,Vulkan Quake port based on QuakeSpasm,148,1112,https://avatars.githubusercontent.com/u/112222?v=4
+331381105,pico-examples,raspberrypi/pico-examples,C,3,,176,757,https://avatars.githubusercontent.com/u/1294177?v=4
+387449953,chadwm,siduck76/chadwm,C,10,making dwm as beautiful as possible ,11,184,https://avatars.githubusercontent.com/u/59060246?u=19636012195f0b5e641cff888f471cf173591373&v=4
+384554015,redpill-lkm,RedPill-TTG/redpill-lkm,C,1,Linux kernel module for RedPill,23,86,https://avatars.githubusercontent.com/u/87200368?v=4
