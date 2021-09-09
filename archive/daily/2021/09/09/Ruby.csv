@@ -1,19 +1,19 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-8514,rails,rails/rails,Ruby,7,Ruby on Rails,19670,48999,https://avatars.githubusercontent.com/u/4223?v=4
-27442967,fastlane,fastlane/fastlane,Ruby,9,🚀 The easiest way to automate building and releasing your iOS and Android apps,4974,32856,https://avatars.githubusercontent.com/u/11098337?v=4
-53238813,brew,Homebrew/brew,Ruby,22,🍺 The missing package manager for macOS (or Linux),6604,29063,https://avatars.githubusercontent.com/u/1503512?v=4
+8514,rails,rails/rails,Ruby,7,Ruby on Rails,19670,48998,https://avatars.githubusercontent.com/u/4223?v=4
+27442967,fastlane,fastlane/fastlane,Ruby,8,🚀 The easiest way to automate building and releasing your iOS and Android apps,4974,32856,https://avatars.githubusercontent.com/u/11098337?v=4
+53238813,brew,Homebrew/brew,Ruby,20,🍺 The missing package manager for macOS (or Linux),6604,29063,https://avatars.githubusercontent.com/u/1503512?v=4
 2500088,gitlabhq,gitlabhq/gitlabhq,Ruby,1,GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com,5672,22699,https://avatars.githubusercontent.com/u/1086321?v=4
-481872,vagrant,hashicorp/vagrant,Ruby,10,Vagrant is a tool for building and distributing development environments.,4134,22565,https://avatars.githubusercontent.com/u/761456?v=4
-308770,devise,heartcombo/devise,Ruby,2,Flexible authentication solution for Rails with Warden.,5278,21873,https://avatars.githubusercontent.com/u/59584037?v=4
+481872,vagrant,hashicorp/vagrant,Ruby,8,Vagrant is a tool for building and distributing development environments.,4134,22565,https://avatars.githubusercontent.com/u/761456?v=4
+308770,devise,heartcombo/devise,Ruby,1,Flexible authentication solution for Rails with Warden.,5278,21873,https://avatars.githubusercontent.com/u/59584037?v=4
 538746,ruby,ruby/ruby,Ruby,6,The Ruby Programming Language [mirror],4885,18417,https://avatars.githubusercontent.com/u/210414?v=4
-4095287,rubocop,rubocop/rubocop,Ruby,4,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.",2762,11461,https://avatars.githubusercontent.com/u/10871348?v=4
-3195124,sidekiq,mperham/sidekiq,Ruby,4,"Simple, efficient background processing for Ruby",1995,11206,https://avatars.githubusercontent.com/u/2911?u=9e18eee0dc7fe4564dba7cdc7e22711a47171a8b&v=4
-1918677,fluentd,fluent/fluentd,Ruby,5,Fluentd: Unified Logging Layer (project under CNCF),1208,10548,https://avatars.githubusercontent.com/u/859518?v=4
+4095287,rubocop,rubocop/rubocop,Ruby,3,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.",2764,11461,https://avatars.githubusercontent.com/u/10871348?v=4
+3195124,sidekiq,mperham/sidekiq,Ruby,3,"Simple, efficient background processing for Ruby",1995,11206,https://avatars.githubusercontent.com/u/2911?u=9e18eee0dc7fe4564dba7cdc7e22711a47171a8b&v=4
+1918677,fluentd,fluent/fluentd,Ruby,6,Fluentd: Unified Logging Layer (project under CNCF),1208,10549,https://avatars.githubusercontent.com/u/859518?v=4
 812393,grape,ruby-grape/grape,Ruby,1,An opinionated framework for creating REST-like APIs in Ruby.,1206,9371,https://avatars.githubusercontent.com/u/13624553?v=4
-451035,simple_form,heartcombo/simple_form,Ruby,1,"Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",1299,7844,https://avatars.githubusercontent.com/u/59584037?v=4
-21829,factory_bot,thoughtbot/factory_bot,Ruby,1,A library for setting up Ruby objects as test data.,2466,7290,https://avatars.githubusercontent.com/u/6183?v=4
+451035,simple_form,heartcombo/simple_form,Ruby,0,"Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",1299,7844,https://avatars.githubusercontent.com/u/59584037?v=4
+21829,factory_bot,thoughtbot/factory_bot,Ruby,1,A library for setting up Ruby objects as test data.,2468,7290,https://avatars.githubusercontent.com/u/6183?v=4
 2441517,puma,puma/puma,Ruby,2,A Ruby/Rack web server built for concurrency,1267,6832,https://avatars.githubusercontent.com/u/1264292?v=4
-108278,chef,chef/chef,Ruby,1,"Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",2533,6680,https://avatars.githubusercontent.com/u/29740?v=4
+108278,chef,chef/chef,Ruby,0,"Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",2533,6680,https://avatars.githubusercontent.com/u/29740?v=4
 1145832,pry,pry/pry,Ruby,0,A runtime developer console and IRB alternative with powerful introspection capabilities.,586,6282,https://avatars.githubusercontent.com/u/845682?v=4
 75785147,webpacker,rails/webpacker,Ruby,2,Use Webpack to manage app-like JavaScript modules in Rails,1428,5246,https://avatars.githubusercontent.com/u/4223?v=4
 16994115,cancancan,CanCanCommunity/cancancan,Ruby,1,The authorization Gem for Ruby on Rails.,525,4978,https://avatars.githubusercontent.com/u/6765080?v=4
@@ -22,5 +22,5 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 4523235,asciidoctor,asciidoctor/asciidoctor,Ruby,0,":gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.",665,3770,https://avatars.githubusercontent.com/u/3137042?v=4
 1172597,shoulda-matchers,thoughtbot/shoulda-matchers,Ruby,0,Simple one-liner tests for common Rails functionality,870,3121,https://avatars.githubusercontent.com/u/6183?v=4
 1953385,stripe-ruby,stripe/stripe-ruby,Ruby,0,Ruby library for the Stripe API.    ,457,1593,https://avatars.githubusercontent.com/u/856813?v=4
-161399160,shopify-cli,Shopify/shopify-cli,Ruby,3,Shopify CLI helps you build against the Shopify platform faster.,108,678,https://avatars.githubusercontent.com/u/8085?v=4
-404019967,cssbundling-rails,rails/cssbundling-rails,Ruby,19,"Bundle and process CSS in Rails with Tailwind, PostCSS, and Sass via Node.js.",10,88,https://avatars.githubusercontent.com/u/4223?v=4
+161399160,shopify-cli,Shopify/shopify-cli,Ruby,1,Shopify CLI helps you build against the Shopify platform faster.,108,678,https://avatars.githubusercontent.com/u/8085?v=4
+404019967,cssbundling-rails,rails/cssbundling-rails,Ruby,17,"Bundle and process CSS in Rails with Tailwind, PostCSS, and Sass via Node.js.",10,90,https://avatars.githubusercontent.com/u/4223?v=4
