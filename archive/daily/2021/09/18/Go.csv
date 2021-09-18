@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,41,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",5842,51523,https://avatars.githubusercontent.com/u/7894478?v=4
-11225014,etcd,etcd-io/etcd,Go,14,Distributed reliable key-value store for the most critical data of a distributed system,7973,37246,https://avatars.githubusercontent.com/u/41972792?v=4
-17728164,terraform,hashicorp/terraform,Go,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",6918,28972,https://avatars.githubusercontent.com/u/761456?v=4
-44498957,fasthttp,valyala/fasthttp,Go,13,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,1326,16021,https://avatars.githubusercontent.com/u/283442?u=67106821805b9a7143b2794352fd87df04b060e4&v=4
-165041732,kratos,go-kratos/kratos,Go,15,A Go framework for microservices.,2976,14786,https://avatars.githubusercontent.com/u/62791634?v=4
-6247705,testify,stretchr/testify,Go,12,A toolkit with common assertions and mocks that plays nicely with the standard library,1121,14314,https://avatars.githubusercontent.com/u/1841476?v=4
-56342508,jaeger,jaegertracing/jaeger,Go,10,"CNCF Jaeger, a Distributed Tracing Platform",1708,14266,https://avatars.githubusercontent.com/u/28545596?v=4
-66573241,fabric,hyperledger/fabric,Go,104,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,7339,12545,https://avatars.githubusercontent.com/u/7657900?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,19,Network-wide ads & trackers blocking DNS server,897,8853,https://avatars.githubusercontent.com/u/8361145?v=4
-191655189,ent,ent/ent,Go,21,An entity framework for Go,446,8625,https://avatars.githubusercontent.com/u/66847655?v=4
-46140633,clair,quay/clair,Go,7,Vulnerability Static Analysis for Containers,997,8151,https://avatars.githubusercontent.com/u/38353654?v=4
-75785240,authelia,authelia/authelia,Go,445,The Single Sign-On Multi-Factor portal for web apps,399,7605,https://avatars.githubusercontent.com/u/59122411?v=4
+20904437,gin,gin-gonic/gin,Go,43,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",5843,51535,https://avatars.githubusercontent.com/u/7894478?v=4
+11225014,etcd,etcd-io/etcd,Go,11,Distributed reliable key-value store for the most critical data of a distributed system,7973,37246,https://avatars.githubusercontent.com/u/41972792?v=4
+17728164,terraform,hashicorp/terraform,Go,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",6920,28973,https://avatars.githubusercontent.com/u/761456?v=4
+44498957,fasthttp,valyala/fasthttp,Go,13,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,1327,16022,https://avatars.githubusercontent.com/u/283442?u=67106821805b9a7143b2794352fd87df04b060e4&v=4
+165041732,kratos,go-kratos/kratos,Go,16,A Go framework for microservices.,2977,14787,https://avatars.githubusercontent.com/u/62791634?v=4
+6247705,testify,stretchr/testify,Go,12,A toolkit with common assertions and mocks that plays nicely with the standard library,1122,14317,https://avatars.githubusercontent.com/u/1841476?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,10,"CNCF Jaeger, a Distributed Tracing Platform",1708,14265,https://avatars.githubusercontent.com/u/28545596?v=4
+66573241,fabric,hyperledger/fabric,Go,86,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,7339,12546,https://avatars.githubusercontent.com/u/7657900?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,19,Network-wide ads & trackers blocking DNS server,900,8854,https://avatars.githubusercontent.com/u/8361145?v=4
+191655189,ent,ent/ent,Go,25,An entity framework for Go,445,8628,https://avatars.githubusercontent.com/u/66847655?v=4
+46140633,clair,quay/clair,Go,7,Vulnerability Static Analysis for Containers,997,8152,https://avatars.githubusercontent.com/u/38353654?v=4
+75785240,authelia,authelia/authelia,Go,445,The Single Sign-On Multi-Factor portal for web apps,400,7663,https://avatars.githubusercontent.com/u/59122411?v=4
 120896210,argo-cd,argoproj/argo-cd,Go,6,Declarative continuous deployment for Kubernetes.,1630,6938,https://avatars.githubusercontent.com/u/30269780?v=4
 93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,3,Terraform AWS provider,5653,6305,https://avatars.githubusercontent.com/u/761456?v=4
 68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,5,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,2714,6120,https://avatars.githubusercontent.com/u/66682517?v=4
-3087541,go-cache,patrickmn/go-cache,Go,8,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",665,5393,https://avatars.githubusercontent.com/u/72885?u=a6baf7b477f9106e6e0ce004b701de22784ea45b&v=4
-14128006,raft,hashicorp/raft,Go,9,Golang implementation of the Raft consensus protocol,683,5055,https://avatars.githubusercontent.com/u/761456?v=4
-41561105,resty,go-resty/resty,Go,11,Simple HTTP and REST client library for Go,414,4855,https://avatars.githubusercontent.com/u/14019737?v=4
-11452538,alertmanager,prometheus/alertmanager,Go,4,Prometheus Alertmanager,1602,4391,https://avatars.githubusercontent.com/u/3380462?v=4
-125275487,kubebuilder,kubernetes-sigs/kubebuilder,Go,5,Kubebuilder - SDK for building Kubernetes APIs using CRDs,879,4331,https://avatars.githubusercontent.com/u/36015203?v=4
-150713223,kubeedge,kubeedge/kubeedge,Go,3,Kubernetes Native Edge Computing Framework (project under CNCF),1108,4227,https://avatars.githubusercontent.com/u/41812520?v=4
-147886080,crossplane,crossplane/crossplane,Go,103,Manage any infrastructure your applications need directly from Kubernetes,373,3938,https://avatars.githubusercontent.com/u/45158470?v=4
+3087541,go-cache,patrickmn/go-cache,Go,7,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",665,5395,https://avatars.githubusercontent.com/u/72885?u=a6baf7b477f9106e6e0ce004b701de22784ea45b&v=4
+14128006,raft,hashicorp/raft,Go,9,Golang implementation of the Raft consensus protocol,683,5057,https://avatars.githubusercontent.com/u/761456?v=4
+41561105,resty,go-resty/resty,Go,11,Simple HTTP and REST client library for Go,414,4856,https://avatars.githubusercontent.com/u/14019737?v=4
+11452538,alertmanager,prometheus/alertmanager,Go,4,Prometheus Alertmanager,1602,4392,https://avatars.githubusercontent.com/u/3380462?v=4
+125275487,kubebuilder,kubernetes-sigs/kubebuilder,Go,5,Kubebuilder - SDK for building Kubernetes APIs using CRDs,879,4332,https://avatars.githubusercontent.com/u/36015203?v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,4,Kubernetes Native Edge Computing Framework (project under CNCF),1110,4228,https://avatars.githubusercontent.com/u/41812520?v=4
+147886080,crossplane,crossplane/crossplane,Go,108,Manage any infrastructure your applications need directly from Kubernetes,373,3951,https://avatars.githubusercontent.com/u/45158470?v=4
 107556189,sample-controller,kubernetes/sample-controller,Go,2,Repository for sample controller. Complements sample-apiserver,693,1837,https://avatars.githubusercontent.com/u/13629408?v=4
-287336275,kube-linter,stackrox/kube-linter,Go,6,KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.,105,1579,https://avatars.githubusercontent.com/u/40638982?v=4
+287336275,kube-linter,stackrox/kube-linter,Go,6,KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.,105,1580,https://avatars.githubusercontent.com/u/40638982?v=4
 384080245,binance-nft-buy,1makarov/binance-nft-buy,Go,2,bot for automatic purchase of boxes,57,113,https://avatars.githubusercontent.com/u/38854356?u=f9b951c6dffeff2835e5af83dee6a345c9105c2a&v=4
