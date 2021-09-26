@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-84533158,pytorch-tutorial,yunjey/pytorch-tutorial,Python,8,PyTorch Tutorial for Deep Learning Researchers,6741,21837,https://avatars.githubusercontent.com/u/15663219?u=43e3373658d1e764cc952dcd803a04030eb2360d&v=4
-206660580,detectron2,facebookresearch/detectron2,Python,5,"Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.",4807,18068,https://avatars.githubusercontent.com/u/16943930?v=4
-65711522,Paddle,PaddlePaddle/Paddle,Python,2,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,4022,16541,https://avatars.githubusercontent.com/u/23534030?v=4
-264818686,yolov5,ultralytics/yolov5,Python,230,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite,5747,16511,https://avatars.githubusercontent.com/u/26833451?v=4
-43160685,zulip,zulip/zulip,Python,4,Zulip server and web app—powerful open source team chat,4683,14206,https://avatars.githubusercontent.com/u/4921959?v=4
-149430917,recommenders,microsoft/recommenders,Python,4,Best Practices on Recommendation Systems,1928,11329,https://avatars.githubusercontent.com/u/6154722?v=4
+84533158,pytorch-tutorial,yunjey/pytorch-tutorial,Python,15,PyTorch Tutorial for Deep Learning Researchers,6741,21839,https://avatars.githubusercontent.com/u/15663219?u=43e3373658d1e764cc952dcd803a04030eb2360d&v=4
+206660580,detectron2,facebookresearch/detectron2,Python,6,"Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.",4807,18070,https://avatars.githubusercontent.com/u/16943930?v=4
+264818686,yolov5,ultralytics/yolov5,Python,234,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite,5749,16548,https://avatars.githubusercontent.com/u/26833451?v=4
+65711522,Paddle,PaddlePaddle/Paddle,Python,6,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,4022,16544,https://avatars.githubusercontent.com/u/23534030?v=4
+43160685,zulip,zulip/zulip,Python,3,Zulip server and web app—powerful open source team chat,4682,14206,https://avatars.githubusercontent.com/u/4921959?v=4
+149430917,recommenders,microsoft/recommenders,Python,3,Best Practices on Recommendation Systems,1927,11330,https://avatars.githubusercontent.com/u/6154722?v=4
 172227885,full-stack-fastapi-postgresql,tiangolo/full-stack-fastapi-postgresql,Python,10,"Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",1155,6953,https://avatars.githubusercontent.com/u/1326112?u=5cad72c846b7aba2e960546af490edc7375dafc4&v=4
-377851948,alphafold,deepmind/alphafold,Python,5,Open source code for AlphaFold.,933,6641,https://avatars.githubusercontent.com/u/8596759?v=4
-99269272,faster-rcnn.pytorch,jwyang/faster-rcnn.pytorch,Python,3,A faster pytorch implementation of faster r-cnn,2192,6483,https://avatars.githubusercontent.com/u/3894247?u=75c59ff6fe9143848de05007f313f75a201b2f9c&v=4
-117772329,AlphaPose,MVIG-SJTU/AlphaPose,Python,2,Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System,1522,5476,https://avatars.githubusercontent.com/u/24424314?v=4
-114054873,espnet,espnet/espnet,Python,5,End-to-End Speech Processing Toolkit,1319,4194,https://avatars.githubusercontent.com/u/34493687?v=4
-273214029,PaddleGAN,PaddlePaddle/PaddleGAN,Python,2,"PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.",636,4116,https://avatars.githubusercontent.com/u/23534030?v=4
-17720394,pyinstrument,joerick/pyinstrument,Python,8,🚴 Call stack profiler for Python. Shows you why your code is slow!,141,3383,https://avatars.githubusercontent.com/u/1244307?v=4
-198350484,unilm,microsoft/unilm,Python,102,"UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities",603,3046,https://avatars.githubusercontent.com/u/6154722?v=4
-401484223,RobustVideoMatting,PeterL1n/RobustVideoMatting,Python,554,"Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",263,2980,https://avatars.githubusercontent.com/u/7651753?u=72ad6660f7f9592e4718393f4e3f97d50d0615ef&v=4
+377851948,alphafold,deepmind/alphafold,Python,8,Open source code for AlphaFold.,933,6642,https://avatars.githubusercontent.com/u/8596759?v=4
+99269272,faster-rcnn.pytorch,jwyang/faster-rcnn.pytorch,Python,3,A faster pytorch implementation of faster r-cnn,2194,6483,https://avatars.githubusercontent.com/u/3894247?u=75c59ff6fe9143848de05007f313f75a201b2f9c&v=4
+117772329,AlphaPose,MVIG-SJTU/AlphaPose,Python,4,Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System,1523,5477,https://avatars.githubusercontent.com/u/24424314?v=4
+114054873,espnet,espnet/espnet,Python,7,End-to-End Speech Processing Toolkit,1319,4194,https://avatars.githubusercontent.com/u/34493687?v=4
+273214029,PaddleGAN,PaddlePaddle/PaddleGAN,Python,2,"PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.",636,4118,https://avatars.githubusercontent.com/u/23534030?v=4
+17720394,pyinstrument,joerick/pyinstrument,Python,14,🚴 Call stack profiler for Python. Shows you why your code is slow!,142,3385,https://avatars.githubusercontent.com/u/1244307?v=4
+198350484,unilm,microsoft/unilm,Python,115,"UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities",604,3056,https://avatars.githubusercontent.com/u/6154722?v=4
+401484223,RobustVideoMatting,PeterL1n/RobustVideoMatting,Python,551,"Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",270,3043,https://avatars.githubusercontent.com/u/7651753?u=72ad6660f7f9592e4718393f4e3f97d50d0615ef&v=4
 51040886,azure-cli,Azure/azure-cli,Python,0,Azure Command-Line Interface,1827,2726,https://avatars.githubusercontent.com/u/6844498?v=4
-167388434,river,online-ml/river,Python,24,🌊 Online machine learning in Python,265,2353,https://avatars.githubusercontent.com/u/47002673?v=4
-175766427,pocsuite3,knownsec/pocsuite3,Python,8,pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.,578,2025,https://avatars.githubusercontent.com/u/1442423?v=4
-336274588,PaddleNLP,PaddlePaddle/PaddleNLP,Python,4,"An NLP library with Awesome pre-trained Transformer models and easy-to-use interface,  supporting wide-range of NLP tasks from research to industrial applications.",598,1884,https://avatars.githubusercontent.com/u/23534030?v=4
-358446986,waydroid,waydroid/waydroid,Python,213,,61,1552,https://avatars.githubusercontent.com/u/82235690?v=4
-278810244,mmaction2,open-mmlab/mmaction2,Python,9,OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark,363,1235,https://avatars.githubusercontent.com/u/10245193?v=4
-390401992,Merlion,salesforce/Merlion,Python,266,Merlion: A Machine Learning Framework for Time Series Intelligence,48,963,https://avatars.githubusercontent.com/u/453694?v=4
-338021836,slam-mirrorbot,SlamDevs/slam-mirrorbot,Python,8,Aria/qBittorrent Telegram mirror/leech bot.,3335,762,https://avatars.githubusercontent.com/u/89298752?v=4
-196712037,python-interview-questions,learning-zone/python-interview-questions,Python,20,300+ Python Interview Questions ,164,552,https://avatars.githubusercontent.com/u/10107543?u=13130b58e9211296839281af2a64a030157fe2fc&v=4
-264109680,daily_fudan,k652/daily_fudan,Python,3,一键平安复旦小脚本，自动化快速上报疫情,861,89,https://avatars.githubusercontent.com/u/40596628?u=076d1728241c0c59f312c98d44f3e9b3dc626d8c&v=4
+167388434,river,online-ml/river,Python,25,🌊 Online machine learning in Python,266,2358,https://avatars.githubusercontent.com/u/47002673?v=4
+175766427,pocsuite3,knownsec/pocsuite3,Python,6,pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.,579,2028,https://avatars.githubusercontent.com/u/1442423?v=4
+336274588,PaddleNLP,PaddlePaddle/PaddleNLP,Python,6,"An NLP library with Awesome pre-trained Transformer models and easy-to-use interface,  supporting wide-range of NLP tasks from research to industrial applications.",601,1885,https://avatars.githubusercontent.com/u/23534030?v=4
+358446986,waydroid,waydroid/waydroid,Python,217,,61,1574,https://avatars.githubusercontent.com/u/82235690?v=4
+278810244,mmaction2,open-mmlab/mmaction2,Python,11,OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark,363,1237,https://avatars.githubusercontent.com/u/10245193?v=4
+390401992,Merlion,salesforce/Merlion,Python,266,Merlion: A Machine Learning Framework for Time Series Intelligence,48,989,https://avatars.githubusercontent.com/u/453694?v=4
+338021836,slam-mirrorbot,SlamDevs/slam-mirrorbot,Python,7,Aria/qBittorrent Telegram mirror/leech bot.,3344,763,https://avatars.githubusercontent.com/u/89298752?v=4
+196712037,python-interview-questions,learning-zone/python-interview-questions,Python,25,300+ Python Interview Questions ,167,556,https://avatars.githubusercontent.com/u/10107543?u=13130b58e9211296839281af2a64a030157fe2fc&v=4
+264109680,daily_fudan,k652/daily_fudan,Python,3,一键平安复旦小脚本，自动化快速上报疫情,863,89,https://avatars.githubusercontent.com/u/40596628?u=076d1728241c0c59f312c98d44f3e9b3dc626d8c&v=4
