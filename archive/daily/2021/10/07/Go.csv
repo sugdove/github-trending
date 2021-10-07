@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-14712850,syncthing,syncthing/syncthing,Go,158,Open Source Continuous File Synchronization,3203,40562,https://avatars.githubusercontent.com/u/7628018?v=4
-6838921,prometheus,prometheus/prometheus,Go,15,The Prometheus monitoring system and time series database.,6413,39027,https://avatars.githubusercontent.com/u/3380462?v=4
-29261473,minio,minio/minio,Go,14,"High Performance, Kubernetes Native Object Storage",3308,29526,https://avatars.githubusercontent.com/u/695951?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,31,simple terminal UI for git commands,819,21426,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-234231371,fiber,gofiber/fiber,Go,26,⚡️ Express inspired web framework written in Go,791,15685,https://avatars.githubusercontent.com/u/59947262?v=4
-6247705,testify,stretchr/testify,Go,8,A toolkit with common assertions and mocks that plays nicely with the standard library,1130,14455,https://avatars.githubusercontent.com/u/1841476?v=4
+14712850,syncthing,syncthing/syncthing,Go,137,Open Source Continuous File Synchronization,3203,40564,https://avatars.githubusercontent.com/u/7628018?v=4
+6838921,prometheus,prometheus/prometheus,Go,17,The Prometheus monitoring system and time series database.,6413,39032,https://avatars.githubusercontent.com/u/3380462?v=4
+29261473,minio,minio/minio,Go,14,"High Performance, Kubernetes Native Object Storage",3306,29528,https://avatars.githubusercontent.com/u/695951?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,27,simple terminal UI for git commands,819,21428,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+234231371,fiber,gofiber/fiber,Go,21,⚡️ Express inspired web framework written in Go,791,15685,https://avatars.githubusercontent.com/u/59947262?v=4
+6247705,testify,stretchr/testify,Go,5,A toolkit with common assertions and mocks that plays nicely with the standard library,1130,14455,https://avatars.githubusercontent.com/u/1841476?v=4
 7877397,sqlx,jmoiron/sqlx,Go,6,general purpose extensions to golang's database/sql,851,10887,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
-31558937,teleport,gravitational/teleport,Go,9,"Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",918,10135,https://avatars.githubusercontent.com/u/10781132?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,4,Workflow engine for Kubernetes,1762,9393,https://avatars.githubusercontent.com/u/30269780?v=4
+31558937,teleport,gravitational/teleport,Go,10,"Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",918,10137,https://avatars.githubusercontent.com/u/10781132?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,5,Workflow engine for Kubernetes,1762,9395,https://avatars.githubusercontent.com/u/30269780?v=4
 191655189,ent,ent/ent,Go,8,An entity framework for Go,460,8763,https://avatars.githubusercontent.com/u/66847655?v=4
-119190187,gitleaks,zricethezav/gitleaks,Go,9,Scan git repos (or files) for secrets using regex and entropy 🔑,757,8456,https://avatars.githubusercontent.com/u/15034943?u=1a8b2c3ed073f5bf70fec1e2c8aa1164c3675d56&v=4
-118105436,migrate,golang-migrate/migrate,Go,2,Database migrations. CLI and Golang library.,763,7274,https://avatars.githubusercontent.com/u/35595841?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,10,Declarative continuous deployment for Kubernetes.,1670,7069,https://avatars.githubusercontent.com/u/30269780?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,7,Fast and customizable vulnerability scanner based on simple YAML based DSL.,725,5371,https://avatars.githubusercontent.com/u/50994705?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1481,4499,https://avatars.githubusercontent.com/u/36015203?v=4
-120519269,atlantis,runatlantis/atlantis,Go,7,Terraform Pull Request Automation,558,4042,https://avatars.githubusercontent.com/u/32311288?v=4
-395283401,kubescape,armosec/kubescape,Go,32,kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/) ,160,4008,https://avatars.githubusercontent.com/u/78366646?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,4,A Kubernetes controller and tool for one-way encrypted Secrets,338,3905,https://avatars.githubusercontent.com/u/34656521?v=4
+119190187,gitleaks,zricethezav/gitleaks,Go,8,Scan git repos (or files) for secrets using regex and entropy 🔑,755,8455,https://avatars.githubusercontent.com/u/15034943?u=1a8b2c3ed073f5bf70fec1e2c8aa1164c3675d56&v=4
+118105436,migrate,golang-migrate/migrate,Go,5,Database migrations. CLI and Golang library.,763,7277,https://avatars.githubusercontent.com/u/35595841?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,12,Declarative continuous deployment for Kubernetes.,1669,7072,https://avatars.githubusercontent.com/u/30269780?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,8,Fast and customizable vulnerability scanner based on simple YAML based DSL.,725,5374,https://avatars.githubusercontent.com/u/50994705?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1480,4500,https://avatars.githubusercontent.com/u/36015203?v=4
+120519269,atlantis,runatlantis/atlantis,Go,6,Terraform Pull Request Automation,559,4042,https://avatars.githubusercontent.com/u/32311288?v=4
+395283401,kubescape,armosec/kubescape,Go,37,kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/) ,160,4015,https://avatars.githubusercontent.com/u/78366646?v=4
+92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,5,A Kubernetes controller and tool for one-way encrypted Secrets,338,3906,https://avatars.githubusercontent.com/u/34656521?v=4
 104032019,chartmuseum,helm/chartmuseum,Go,2,Host your own Helm Chart Repository,305,2565,https://avatars.githubusercontent.com/u/15859888?v=4
-124157517,cluster-api,kubernetes-sigs/cluster-api,Go,19,"Home for Cluster API, a subproject of sig-cluster-lifecycle",702,1817,https://avatars.githubusercontent.com/u/36015203?v=4
-202018792,copilot-cli,aws/copilot-cli,Go,7,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate. ",208,1776,https://avatars.githubusercontent.com/u/2232217?v=4
+124157517,cluster-api,kubernetes-sigs/cluster-api,Go,20,"Home for Cluster API, a subproject of sig-cluster-lifecycle",702,1819,https://avatars.githubusercontent.com/u/36015203?v=4
+202018792,copilot-cli,aws/copilot-cli,Go,8,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate. ",208,1777,https://avatars.githubusercontent.com/u/2232217?v=4
 93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,3,Terraform Google Cloud Platform provider,1195,1485,https://avatars.githubusercontent.com/u/761456?v=4
-379820284,rover,im2nguyen/rover,Go,42,Interactive Terraform visualization. State and configuration explorer.,51,1208,https://avatars.githubusercontent.com/u/7556325?v=4
-93446115,terraform-provider-kubernetes,hashicorp/terraform-provider-kubernetes,Go,3,Terraform Kubernetes provider,676,1050,https://avatars.githubusercontent.com/u/761456?v=4
-164690788,terraform-provider-azuread,hashicorp/terraform-provider-azuread,Go,1,Terraform provider for Azure Active Directory,130,238,https://avatars.githubusercontent.com/u/761456?v=4
+379820284,rover,im2nguyen/rover,Go,33,Interactive Terraform visualization. State and configuration explorer.,52,1212,https://avatars.githubusercontent.com/u/7556325?v=4
+93446115,terraform-provider-kubernetes,hashicorp/terraform-provider-kubernetes,Go,5,Terraform Kubernetes provider,676,1053,https://avatars.githubusercontent.com/u/761456?v=4
+164690788,terraform-provider-azuread,hashicorp/terraform-provider-azuread,Go,2,Terraform provider for Azure Active Directory,130,239,https://avatars.githubusercontent.com/u/761456?v=4
