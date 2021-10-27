@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,7,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,17746,61414,https://avatars.githubusercontent.com/u/27259197?v=4
-42408804,traefik,traefik/traefik,Go,25,The Cloud Native Application Proxy,3934,35478,https://avatars.githubusercontent.com/u/14280338?v=4
-29261473,minio,minio/minio,Go,17,"High Performance, Kubernetes Native Object Storage",3358,29769,https://avatars.githubusercontent.com/u/695951?v=4
-12574344,cobra,spf13/cobra,Go,18,A Commander for modern Go CLI interactions,2033,23636,https://avatars.githubusercontent.com/u/173412?u=c8c7f7e9525d8ceeab785a795a4d8d3e78f8fd28&v=4
-119160553,photoprism,photoprism/photoprism,Go,42,Open Source Photos App powered by Go and Google TensorFlow 🌈,894,16916,https://avatars.githubusercontent.com/u/32436079?v=4
-285864199,go-zero,zeromicro/go-zero,Go,28,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,1427,12169,https://avatars.githubusercontent.com/u/74225106?v=4
-42194129,docker-slim,docker-slim/docker-slim,Go,55,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),409,11076,https://avatars.githubusercontent.com/u/20057356?v=4
-39038086,watchtower,containrrr/watchtower,Go,12,A process for automating Docker container base image updates. ,530,9199,https://avatars.githubusercontent.com/u/49166261?v=4
-11206255,sarama,Shopify/sarama,Go,6,"Sarama is a Go library for Apache Kafka 0.8, and up.",1350,7754,https://avatars.githubusercontent.com/u/8085?v=4
-40916314,dex,dexidp/dex,Go,5,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1227,6415,https://avatars.githubusercontent.com/u/42422344?v=4
-172292744,gnet,panjf2000/gnet,Go,18,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",615,5417,https://avatars.githubusercontent.com/u/7496278?u=07ba348f0ca79d78e45b1f628723a7c3abf80fac&v=4
-88705168,mindoc,mindoc-org/mindoc,Go,6,Golang实现的基于beego框架的接口在线文档管理系统,1494,5273,https://avatars.githubusercontent.com/u/81214864?v=4
-189490177,kruise,openkruise/kruise,Go,6,Automate application management on Kubernetes (project under CNCF),446,2711,https://avatars.githubusercontent.com/u/49735278?v=4
-344676663,erda,erda-project/erda,Go,5,An enterprise-grade Cloud-Native application platform for Kubernetes.,240,1983,https://avatars.githubusercontent.com/u/79822798?v=4
-248790367,gocron,go-co-op/gocron,Go,9,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,99,1253,https://avatars.githubusercontent.com/u/62412798?v=4
-135951540,stash,stashapp/stash,Go,12,"An organizer for your porn, written in Go",181,1113,https://avatars.githubusercontent.com/u/24867479?v=4
-211444856,zpan,saltbo/zpan,Go,7,A self-hosted cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。,159,1054,https://avatars.githubusercontent.com/u/17308208?u=2dc5fdcf2d1d5fc3835fac403632c61c2afcc6a4&v=4
-267054247,grype,anchore/grype,Go,14,A vulnerability scanner for container images and filesystems,97,935,https://avatars.githubusercontent.com/u/16208487?v=4
-369062160,KubePi,KubeOperator/KubePi,Go,72,KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板,92,525,https://avatars.githubusercontent.com/u/52770786?v=4
-381235608,xfsgo,xfs-network/xfsgo,Go,24,Official Go implementation of the Fixcoin protocol,154,505,https://avatars.githubusercontent.com/u/86587070?v=4
-401299493,sillyGirl,cdle/sillyGirl,Go,3,傻妞机器人,155,295,https://avatars.githubusercontent.com/u/50124752?u=7b960e54ee7b6196a2509ee3c47c69a0363788d0&v=4
-399404282,ZheTian,yqcs/ZheTian,Go,8, ZheTian 免杀shellcode执行程序,36,143,https://avatars.githubusercontent.com/u/32994290?u=8f011e8256408b3d25c58739278f478e55a72f5e&v=4
-339993112,matrixone,matrixorigin/matrixone,Go,27,"Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads",16,129,https://avatars.githubusercontent.com/u/76932962?v=4
-412834846,hostscan,cckuailong/hostscan,Go,5,自动化Host碰撞工具，帮助红队快速扩展网络边界，获取更多目标点,18,97,https://avatars.githubusercontent.com/u/10824150?u=58a63c1160ed5b601968f0560f3e6eb3ca475464&v=4
-319254323,sqle,actiontech/sqle,Go,14,A SQL audit platform; 一款SQL审核工具.,20,68,https://avatars.githubusercontent.com/u/15083522?v=4
+56353740,minikube,kubernetes/minikube,Go,18,Run Kubernetes locally,3759,22192,https://avatars.githubusercontent.com/u/13629408?v=4
+136815833,clash,Dreamacro/clash,Go,31,A rule-based tunnel in Go.,2814,20006,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
+156084530,nps,ehang-io/nps,Go,12,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",3324,18829,https://avatars.githubusercontent.com/u/59558731?v=4
+53632140,micro,zyedidia/micro,Go,2,A modern and intuitive terminal-based text editor,912,17879,https://avatars.githubusercontent.com/u/5513065?u=15db609dac90ac481ec89b92bf02f59e91974fb7&v=4
+119160553,photoprism,photoprism/photoprism,Go,40,Open Source Photos App powered by Go and Google TensorFlow 🌈,894,16919,https://avatars.githubusercontent.com/u/32436079?v=4
+105279544,colly,gocolly/colly,Go,11,Elegant Scraper and Crawler Framework for Golang,1294,15104,https://avatars.githubusercontent.com/u/33584194?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,17,A platform for building proxies to bypass network restrictions.,2059,12237,https://avatars.githubusercontent.com/u/49637375?v=4
+285864199,go-zero,zeromicro/go-zero,Go,27,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,1428,12175,https://avatars.githubusercontent.com/u/74225106?v=4
+71297170,chaosmonkey,Netflix/chaosmonkey,Go,8,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,832,11371,https://avatars.githubusercontent.com/u/913567?v=4
+36653430,nomad,hashicorp/nomad,Go,8,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1419,10144,https://avatars.githubusercontent.com/u/761456?v=4
+205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,14,基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~,2797,9991,https://avatars.githubusercontent.com/u/63276650?v=4
+169948217,crawlab,crawlab-team/crawlab,Go,4,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架,1244,8240,https://avatars.githubusercontent.com/u/49225390?v=4
+395283401,kubescape,armosec/kubescape,Go,17,"Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&CK®.",182,4322,https://avatars.githubusercontent.com/u/78366646?v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,3,Kubernetes Native Edge Computing Framework (project under CNCF),1149,4307,https://avatars.githubusercontent.com/u/41812520?v=4
+367758176,dtm,yedf/dtm,Go,12,"🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 跨语言分布式事务管理器",312,3363,https://avatars.githubusercontent.com/u/6055142?v=4
+189490177,kruise,openkruise/kruise,Go,8,Automate application management on Kubernetes (project under CNCF),446,2712,https://avatars.githubusercontent.com/u/49735278?v=4
+312629343,fscan,shadow1ng/fscan,Go,9,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,462,2455,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+106867604,cloudflared,cloudflare/cloudflared,Go,13,Argo Tunnel client,257,1871,https://avatars.githubusercontent.com/u/314135?v=4
+41317079,postgres_exporter,prometheus-community/postgres_exporter,Go,1,A PostgreSQL metric exporter for Prometheus,499,1501,https://avatars.githubusercontent.com/u/42581734?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,2,Datadog Agent ,699,1335,https://avatars.githubusercontent.com/u/365230?v=4
+336746426,gengine,bilibili/gengine,Go,6,,105,742,https://avatars.githubusercontent.com/u/12002442?v=4
+342456712,generativeart,jdxyw/generativeart,Go,13,Generative Art in Go,43,557,https://avatars.githubusercontent.com/u/119963?v=4
+369062160,KubePi,KubeOperator/KubePi,Go,72,KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板,95,552,https://avatars.githubusercontent.com/u/52770786?v=4
+342592099,weave-gitops,weaveworks/weave-gitops,Go,3,Weave GitOps core,33,118,https://avatars.githubusercontent.com/u/9976052?v=4
+319254323,sqle,actiontech/sqle,Go,15,A SQL audit platform; 一款SQL审核工具.,20,71,https://avatars.githubusercontent.com/u/15083522?v=4
