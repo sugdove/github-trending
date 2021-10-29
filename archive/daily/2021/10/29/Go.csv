@@ -1,26 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,34,Production-Grade Container Scheduling and Management,30047,82204,https://avatars.githubusercontent.com/u/13629408?v=4
+17728164,terraform,hashicorp/terraform,Go,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7008,29612,https://avatars.githubusercontent.com/u/761456?v=4
 16563587,cockroach,cockroachdb/cockroach,Go,18,"CockroachDB - the open source, cloud-native distributed SQL database.",2910,22352,https://avatars.githubusercontent.com/u/6748139?v=4
-56353740,minikube,kubernetes/minikube,Go,11,Run Kubernetes locally,3763,22212,https://avatars.githubusercontent.com/u/13629408?v=4
-26337322,rancher,rancher/rancher,Go,12,Complete container management platform,2389,17943,https://avatars.githubusercontent.com/u/9343010?v=4
-50613991,harbor,goharbor/harbor,Go,13,"An open source trusted cloud native registry project that stores, signs, and scans content.",3876,16037,https://avatars.githubusercontent.com/u/40275816?v=4
-107286889,croc,schollz/croc,Go,42,Easily and securely send things from one computer to another :crocodile: :package:,684,15376,https://avatars.githubusercontent.com/u/6550035?v=4
-7083242,mysql,go-sql-driver/mysql,Go,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2013,11600,https://avatars.githubusercontent.com/u/3002971?v=4
-16554739,beats,elastic/beats,Go,15,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4152,10379,https://avatars.githubusercontent.com/u/6764390?v=4
-46089560,containerd,containerd/containerd,Go,7,An open and reliable container runtime,1863,9561,https://avatars.githubusercontent.com/u/14037953?v=4
-40684033,sops,mozilla/sops,Go,17,Simple and flexible tool for managing secrets,492,8479,https://avatars.githubusercontent.com/u/131524?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,10,Terraform AWS provider,5831,6465,https://avatars.githubusercontent.com/u/761456?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,756,5993,https://avatars.githubusercontent.com/u/2810941?v=4
-18495400,blackbox,StackExchange/blackbox,Go,5,Safely store secrets in Git/Mercurial/Subversion,342,5980,https://avatars.githubusercontent.com/u/1393171?v=4
-33452903,machinery,RichardKnop/machinery,Go,11,Machinery is an asynchronous task queue/job queue based on distributed message passing.,707,5691,https://avatars.githubusercontent.com/u/2325888?u=6a7f2f45412773dad3006869f72fc7078a4e08bf&v=4
-19799491,tendermint,tendermint/tendermint,Go,0,⟁ Tendermint Core (BFT Consensus) in Go,1418,4383,https://avatars.githubusercontent.com/u/7572940?v=4
-147886080,crossplane,crossplane/crossplane,Go,7,Your Universal Control Plane,398,4150,https://avatars.githubusercontent.com/u/45158470?v=4
-83252983,task,go-task/task,Go,12,A task runner / simpler Make alternative written in Go,257,4072,https://avatars.githubusercontent.com/u/26048825?v=4
-53553027,kubernetes-ingress,nginxinc/kubernetes-ingress,Go,5,NGINX and  NGINX Plus Ingress Controllers for Kubernetes,1497,3437,https://avatars.githubusercontent.com/u/8629072?v=4
-43332504,golang-samples,GoogleCloudPlatform/golang-samples,Go,10,Sample apps and code written for Google Cloud in the Go programming language.,1342,3025,https://avatars.githubusercontent.com/u/2810941?v=4
-215654064,temporal,temporalio/temporal,Go,7,Temporal service and CLI,232,2836,https://avatars.githubusercontent.com/u/56493103?v=4
-163722349,pomerium,pomerium/pomerium,Go,8,Pomerium is an identity-aware access proxy.,211,2785,https://avatars.githubusercontent.com/u/46059110?v=4
-117156031,prysm,prysmaticlabs/prysm,Go,3,Go implementation of Ethereum proof of stake,524,2268,https://avatars.githubusercontent.com/u/35349758?v=4
-170803235,magma,magma/magma,Go,1,Platform for building access networks and modular network services,402,1094,https://avatars.githubusercontent.com/u/66266171?v=4
-369062160,KubePi,KubeOperator/KubePi,Go,113,KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板,116,769,https://avatars.githubusercontent.com/u/52770786?v=4
-339993112,matrixone,matrixorigin/matrixone,Go,45,"Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads",20,223,https://avatars.githubusercontent.com/u/76932962?v=4
+50613991,harbor,goharbor/harbor,Go,11,"An open source trusted cloud native registry project that stores, signs, and scans content.",3876,16037,https://avatars.githubusercontent.com/u/40275816?v=4
+107286889,croc,schollz/croc,Go,41,Easily and securely send things from one computer to another :crocodile: :package:,685,15433,https://avatars.githubusercontent.com/u/6550035?v=4
+165041732,kratos,go-kratos/kratos,Go,18,A modular-designed and easy-to-use microservices framework in Go.,3056,15309,https://avatars.githubusercontent.com/u/62791634?v=4
+105279544,colly,gocolly/colly,Go,14,Elegant Scraper and Crawler Framework for Golang,1300,15140,https://avatars.githubusercontent.com/u/33584194?v=4
+16554739,beats,elastic/beats,Go,18,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4152,10379,https://avatars.githubusercontent.com/u/6764390?v=4
+48109239,cilium,cilium/cilium,Go,12,"eBPF-based Networking, Security, and Observability",1176,9438,https://avatars.githubusercontent.com/u/21054566?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,16,Declarative continuous deployment for Kubernetes.,1754,7415,https://avatars.githubusercontent.com/u/30269780?v=4
+159540440,wire,google/wire,Go,10,Compile-time Dependency Injection for Go,351,6776,https://avatars.githubusercontent.com/u/1342004?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,7,Exporter for machine metrics,1624,6688,https://avatars.githubusercontent.com/u/3380462?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,8,Terraform AWS provider,5831,6465,https://avatars.githubusercontent.com/u/761456?v=4
+18950460,concourse,concourse/concourse,Go,2,Concourse is a container-based continuous thing-doer written in Go.,752,5975,https://avatars.githubusercontent.com/u/7809479?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,28,Fast and customizable vulnerability scanner based on simple YAML based DSL.,754,5634,https://avatars.githubusercontent.com/u/50994705?v=4
+144849757,sealos,fanux/sealos,Go,3,一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗,884,4871,https://avatars.githubusercontent.com/u/8912557?u=199e1771e49ed654c5425cad891a898fcb8dc9a0&v=4
+82933315,telepresence,telepresenceio/telepresence,Go,6,Local development against a remote Kubernetes or OpenShift cluster,335,4334,https://avatars.githubusercontent.com/u/39375975?v=4
+134539560,eksctl,weaveworks/eksctl,Go,2,The official CLI for Amazon EKS,895,3444,https://avatars.githubusercontent.com/u/9976052?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,5,Terraform provider for Azure Resource Manager,2847,2923,https://avatars.githubusercontent.com/u/761456?v=4
+39874513,proposal,golang/proposal,Go,3,Go Project Design Documents,349,2670,https://avatars.githubusercontent.com/u/4314092?v=4
+202018792,copilot-cli,aws/copilot-cli,Go,8,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate. ",214,1835,https://avatars.githubusercontent.com/u/2232217?v=4
+236736020,actions-runner-controller,actions-runner-controller/actions-runner-controller,Go,8,Kubernetes controller for GitHub Actions self-hosted runnners,228,1127,https://avatars.githubusercontent.com/u/82745775?v=4
+303802332,community-edition,vmware-tanzu/community-edition,Go,5,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",99,786,https://avatars.githubusercontent.com/u/54452117?v=4
+369062160,KubePi,KubeOperator/KubePi,Go,113,KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板,116,775,https://avatars.githubusercontent.com/u/52770786?v=4
+44733035,go-mimikatz,vyrus001/go-mimikatz,Go,12,A wrapper around a pre-compiled version of the Mimikatz executable for the purpose of anti-virus evasion.,78,341,https://avatars.githubusercontent.com/u/3194872?u=65477640b0361ffbff96fdcdc06caf81d3523fbe&v=4
