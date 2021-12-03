@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-212613049,cli,cli/cli,Go,26,GitHub’s official command line tool,3067,26462,https://avatars.githubusercontent.com/u/59704711?v=4
-12574344,cobra,spf13/cobra,Go,79,A Commander for modern Go CLI interactions,2098,24230,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-43723161,helm,helm/helm,Go,11,The Kubernetes Package Manager,5933,20719,https://avatars.githubusercontent.com/u/15859888?v=4
-187335810,lazydocker,jesseduffield/lazydocker,Go,235,The lazier way to manage everything docker,746,20167,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-41349039,dgraph,dgraph-io/dgraph,Go,8,Native GraphQL Database with graph backend,1250,17012,https://avatars.githubusercontent.com/u/13958706?v=4
-192632000,dapr,dapr/dapr,Go,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1148,15966,https://avatars.githubusercontent.com/u/51932459?v=4
-11008207,vitess,vitessio/vitess,Go,3,Vitess is a database clustering system for horizontal scaling of MySQL.,1647,12963,https://avatars.githubusercontent.com/u/33043890?v=4
-36653430,nomad,hashicorp/nomad,Go,11,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1450,10311,https://avatars.githubusercontent.com/u/761456?v=4
-6443435,nats-server,nats-io/nats-server,Go,6,"High-Performance server for NATS.io, the cloud and edge native messaging system.",995,10169,https://avatars.githubusercontent.com/u/10203055?v=4
-48109239,cilium,cilium/cilium,Go,19,"eBPF-based Networking, Security, and Observability",1234,9700,https://avatars.githubusercontent.com/u/21054566?v=4
-54230994,coredns,coredns/coredns,Go,12,CoreDNS is a DNS server that chains plugins,1497,8474,https://avatars.githubusercontent.com/u/21110084?v=4
-11206255,sarama,Shopify/sarama,Go,14,"Sarama is a Go library for Apache Kafka 0.8, and up.",1375,7912,https://avatars.githubusercontent.com/u/8085?v=4
-7039626,elastic,olivere/elastic,Go,13,Elasticsearch client for Go.,1052,6392,https://avatars.githubusercontent.com/u/134848?u=79f912415f20e1b5efbcd5944dba5bcceaca5739&v=4
-53174289,terratest,gruntwork-io/terratest,Go,5, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,953,5752,https://avatars.githubusercontent.com/u/17118990?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,6,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",476,5482,https://avatars.githubusercontent.com/u/43720803?v=4
+212613049,cli,cli/cli,Go,32,GitHub’s official command line tool,3068,26472,https://avatars.githubusercontent.com/u/59704711?v=4
+12574344,cobra,spf13/cobra,Go,71,A Commander for modern Go CLI interactions,2100,24232,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+43723161,helm,helm/helm,Go,14,The Kubernetes Package Manager,5934,20722,https://avatars.githubusercontent.com/u/15859888?v=4
+187335810,lazydocker,jesseduffield/lazydocker,Go,235,The lazier way to manage everything docker,747,20205,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+41349039,dgraph,dgraph-io/dgraph,Go,8,Native GraphQL Database with graph backend,1250,17013,https://avatars.githubusercontent.com/u/13958706?v=4
+192632000,dapr,dapr/dapr,Go,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1149,15989,https://avatars.githubusercontent.com/u/51932459?v=4
+11008207,vitess,vitessio/vitess,Go,5,Vitess is a database clustering system for horizontal scaling of MySQL.,1647,12965,https://avatars.githubusercontent.com/u/33043890?v=4
+36653430,nomad,hashicorp/nomad,Go,11,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1450,10312,https://avatars.githubusercontent.com/u/761456?v=4
+6443435,nats-server,nats-io/nats-server,Go,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",995,10169,https://avatars.githubusercontent.com/u/10203055?v=4
+48109239,cilium,cilium/cilium,Go,19,"eBPF-based Networking, Security, and Observability",1234,9702,https://avatars.githubusercontent.com/u/21054566?v=4
+54230994,coredns,coredns/coredns,Go,11,CoreDNS is a DNS server that chains plugins,1496,8474,https://avatars.githubusercontent.com/u/21110084?v=4
+11206255,sarama,Shopify/sarama,Go,11,"Sarama is a Go library for Apache Kafka 0.8, and up.",1375,7912,https://avatars.githubusercontent.com/u/8085?v=4
+7039626,elastic,olivere/elastic,Go,10,Elasticsearch client for Go.,1052,6393,https://avatars.githubusercontent.com/u/134848?u=79f912415f20e1b5efbcd5944dba5bcceaca5739&v=4
+53174289,terratest,gruntwork-io/terratest,Go,4, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,954,5752,https://avatars.githubusercontent.com/u/17118990?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,7,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",476,5484,https://avatars.githubusercontent.com/u/43720803?v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1561,4704,https://avatars.githubusercontent.com/u/36015203?v=4
 61153677,m3,m3db/m3,Go,7,"M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",382,3865,https://avatars.githubusercontent.com/u/19937171?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,9,Terraform provider for Azure Resource Manager,2929,2977,https://avatars.githubusercontent.com/u/761456?v=4
-422821402,FerretDB,FerretDB/FerretDB,Go,120,A truly Open Source MongoDB alternative,55,2623,https://avatars.githubusercontent.com/u/95204649?v=4
-175592968,volcano,volcano-sh/volcano,Go,6,A Cloud Native Batch System (Project under CNCF),443,2080,https://avatars.githubusercontent.com/u/47214749?v=4
-220588935,nezha,naiba/nezha,Go,7,:trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。,493,1720,https://avatars.githubusercontent.com/u/29243953?u=fa5b8cbe3b9edbb20cba60d058340cf538a38b50&v=4
-278480393,karpenter,aws/karpenter,Go,230,"Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",104,1587,https://avatars.githubusercontent.com/u/2232217?v=4
-125253663,go-containerregistry,google/go-containerregistry,Go,49,Go library and CLIs for working with container registries,279,1447,https://avatars.githubusercontent.com/u/1342004?v=4
-247350713,neko,m1k1o/neko,Go,88,A self hosted virtual browser that runs in docker and uses WebRTC.,56,872,https://avatars.githubusercontent.com/u/7534274?u=24c4e0b694f0ae43bdf2e687ee1b05520c29cf68&v=4
-238797860,optimism,ethereum-optimism/optimism,Go,1,Monorepo implementing the Optimistic Ethereum protocol,237,760,https://avatars.githubusercontent.com/u/58791460?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,10,Terraform provider for Azure Resource Manager,2929,2979,https://avatars.githubusercontent.com/u/761456?v=4
+422821402,FerretDB,FerretDB/FerretDB,Go,120,A truly Open Source MongoDB alternative,57,2647,https://avatars.githubusercontent.com/u/95204649?v=4
+175592968,volcano,volcano-sh/volcano,Go,7,A Cloud Native Batch System (Project under CNCF),443,2081,https://avatars.githubusercontent.com/u/47214749?v=4
+220588935,nezha,naiba/nezha,Go,11,:trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。,493,1723,https://avatars.githubusercontent.com/u/29243953?u=fa5b8cbe3b9edbb20cba60d058340cf538a38b50&v=4
+278480393,karpenter,aws/karpenter,Go,203,"Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",105,1596,https://avatars.githubusercontent.com/u/2232217?v=4
+125253663,go-containerregistry,google/go-containerregistry,Go,41,Go library and CLIs for working with container registries,279,1447,https://avatars.githubusercontent.com/u/1342004?v=4
+247350713,neko,m1k1o/neko,Go,79,A self hosted virtual browser that runs in docker and uses WebRTC.,56,879,https://avatars.githubusercontent.com/u/7534274?u=24c4e0b694f0ae43bdf2e687ee1b05520c29cf68&v=4
+238797860,optimism,ethereum-optimism/optimism,Go,3,Monorepo implementing the Optimistic Ethereum protocol,237,762,https://avatars.githubusercontent.com/u/58791460?v=4
