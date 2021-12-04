@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-212613049,cli,cli/cli,Go,30,GitHub’s official command line tool,3068,26479,https://avatars.githubusercontent.com/u/59704711?v=4
-12574344,cobra,spf13/cobra,Go,28,A Commander for modern Go CLI interactions,2100,24233,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-43723161,helm,helm/helm,Go,15,The Kubernetes Package Manager,5934,20728,https://avatars.githubusercontent.com/u/15859888?v=4
-187335810,lazydocker,jesseduffield/lazydocker,Go,246,The lazier way to manage everything docker,749,20338,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-41349039,dgraph,dgraph-io/dgraph,Go,11,Native GraphQL Database with graph backend,1250,17018,https://avatars.githubusercontent.com/u/13958706?v=4
-192632000,dapr,dapr/dapr,Go,103,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1149,16048,https://avatars.githubusercontent.com/u/51932459?v=4
-11008207,vitess,vitessio/vitess,Go,9,Vitess is a database clustering system for horizontal scaling of MySQL.,1647,12971,https://avatars.githubusercontent.com/u/33043890?v=4
+212613049,cli,cli/cli,Go,33,GitHub’s official command line tool,3068,26485,https://avatars.githubusercontent.com/u/59704711?v=4
+12574344,cobra,spf13/cobra,Go,14,A Commander for modern Go CLI interactions,2100,24236,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+43723161,helm,helm/helm,Go,13,The Kubernetes Package Manager,5934,20728,https://avatars.githubusercontent.com/u/15859888?v=4
+187335810,lazydocker,jesseduffield/lazydocker,Go,250,The lazier way to manage everything docker,750,20369,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+41349039,dgraph,dgraph-io/dgraph,Go,13,Native GraphQL Database with graph backend,1250,17020,https://avatars.githubusercontent.com/u/13958706?v=4
+192632000,dapr,dapr/dapr,Go,107,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1150,16064,https://avatars.githubusercontent.com/u/51932459?v=4
+11008207,vitess,vitessio/vitess,Go,10,Vitess is a database clustering system for horizontal scaling of MySQL.,1647,12972,https://avatars.githubusercontent.com/u/33043890?v=4
 36653430,nomad,hashicorp/nomad,Go,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1450,10314,https://avatars.githubusercontent.com/u/761456?v=4
-6443435,nats-server,nats-io/nats-server,Go,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",995,10170,https://avatars.githubusercontent.com/u/10203055?v=4
-48109239,cilium,cilium/cilium,Go,16,"eBPF-based Networking, Security, and Observability",1234,9706,https://avatars.githubusercontent.com/u/21054566?v=4
-54230994,coredns,coredns/coredns,Go,8,CoreDNS is a DNS server that chains plugins,1496,8477,https://avatars.githubusercontent.com/u/21110084?v=4
-11206255,sarama,Shopify/sarama,Go,5,"Sarama is a Go library for Apache Kafka 0.8, and up.",1375,7912,https://avatars.githubusercontent.com/u/8085?v=4
-7039626,elastic,olivere/elastic,Go,4,Elasticsearch client for Go.,1052,6393,https://avatars.githubusercontent.com/u/134848?u=79f912415f20e1b5efbcd5944dba5bcceaca5739&v=4
-53174289,terratest,gruntwork-io/terratest,Go,10, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,954,5759,https://avatars.githubusercontent.com/u/17118990?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",476,5491,https://avatars.githubusercontent.com/u/43720803?v=4
+6443435,nats-server,nats-io/nats-server,Go,4,"High-Performance server for NATS.io, the cloud and edge native messaging system.",995,10171,https://avatars.githubusercontent.com/u/10203055?v=4
+48109239,cilium,cilium/cilium,Go,15,"eBPF-based Networking, Security, and Observability",1234,9707,https://avatars.githubusercontent.com/u/21054566?v=4
+54230994,coredns,coredns/coredns,Go,8,CoreDNS is a DNS server that chains plugins,1496,8479,https://avatars.githubusercontent.com/u/21110084?v=4
+11206255,sarama,Shopify/sarama,Go,2,"Sarama is a Go library for Apache Kafka 0.8, and up.",1375,7912,https://avatars.githubusercontent.com/u/8085?v=4
+7039626,elastic,olivere/elastic,Go,3,Elasticsearch client for Go.,1052,6394,https://avatars.githubusercontent.com/u/134848?u=79f912415f20e1b5efbcd5944dba5bcceaca5739&v=4
+53174289,terratest,gruntwork-io/terratest,Go,13, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,954,5762,https://avatars.githubusercontent.com/u/17118990?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,14,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",476,5493,https://avatars.githubusercontent.com/u/43720803?v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1561,4705,https://avatars.githubusercontent.com/u/36015203?v=4
-61153677,m3,m3db/m3,Go,5,"M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",382,3867,https://avatars.githubusercontent.com/u/19937171?v=4
+61153677,m3,m3db/m3,Go,5,"M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform",382,3868,https://avatars.githubusercontent.com/u/19937171?v=4
 93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,5,Terraform provider for Azure Resource Manager,2930,2980,https://avatars.githubusercontent.com/u/761456?v=4
-422821402,FerretDB,FerretDB/FerretDB,Go,176,A truly Open Source MongoDB alternative,58,2697,https://avatars.githubusercontent.com/u/95204649?v=4
-175592968,volcano,volcano-sh/volcano,Go,7,A Cloud Native Batch System (Project under CNCF),443,2083,https://avatars.githubusercontent.com/u/47214749?v=4
-220588935,nezha,naiba/nezha,Go,11,:trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。,493,1727,https://avatars.githubusercontent.com/u/29243953?u=fa5b8cbe3b9edbb20cba60d058340cf538a38b50&v=4
-278480393,karpenter,aws/karpenter,Go,96,"Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",105,1615,https://avatars.githubusercontent.com/u/2232217?v=4
-125253663,go-containerregistry,google/go-containerregistry,Go,6,Go library and CLIs for working with container registries,279,1447,https://avatars.githubusercontent.com/u/1342004?v=4
-247350713,neko,m1k1o/neko,Go,55,A self hosted virtual browser that runs in docker and uses WebRTC.,56,895,https://avatars.githubusercontent.com/u/7534274?u=24c4e0b694f0ae43bdf2e687ee1b05520c29cf68&v=4
-238797860,optimism,ethereum-optimism/optimism,Go,5,Monorepo implementing the Optimistic Ethereum protocol,238,764,https://avatars.githubusercontent.com/u/58791460?v=4
+422821402,FerretDB,FerretDB/FerretDB,Go,173,A truly Open Source MongoDB alternative,58,2705,https://avatars.githubusercontent.com/u/95204649?v=4
+175592968,volcano,volcano-sh/volcano,Go,8,A Cloud Native Batch System (Project under CNCF),443,2086,https://avatars.githubusercontent.com/u/47214749?v=4
+220588935,nezha,naiba/nezha,Go,12,:trollface: 哪吒监控 一站式轻监控轻运维系统。支持系统状态、HTTP、TCP、Ping 监控报警，计划任务和在线终端。,493,1730,https://avatars.githubusercontent.com/u/29243953?u=fa5b8cbe3b9edbb20cba60d058340cf538a38b50&v=4
+278480393,karpenter,aws/karpenter,Go,62,"Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",105,1617,https://avatars.githubusercontent.com/u/2232217?v=4
+125253663,go-containerregistry,google/go-containerregistry,Go,4,Go library and CLIs for working with container registries,280,1450,https://avatars.githubusercontent.com/u/1342004?v=4
+247350713,neko,m1k1o/neko,Go,52,A self hosted virtual browser that runs in docker and uses WebRTC.,56,900,https://avatars.githubusercontent.com/u/7534274?u=24c4e0b694f0ae43bdf2e687ee1b05520c29cf68&v=4
+238797860,optimism,ethereum-optimism/optimism,Go,7,Monorepo implementing the Optimistic Ethereum protocol,238,766,https://avatars.githubusercontent.com/u/58791460?v=4
