@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29207621,caddy,caddyserver/caddy,Go,207,"Fast, multi-platform web server with automatic HTTPS",2855,35683,https://avatars.githubusercontent.com/u/12955528?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,202,Official Go implementation of the Ethereum protocol,12529,33894,https://avatars.githubusercontent.com/u/6250754?v=4
-17803236,rclone,rclone/rclone,Go,440,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",2725,30292,https://avatars.githubusercontent.com/u/24937341?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,1909,simple terminal UI for git commands,915,24443,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-43723161,helm,helm/helm,Go,59,The Kubernetes Package Manager,5936,20735,https://avatars.githubusercontent.com/u/15859888?v=4
-187335810,lazydocker,jesseduffield/lazydocker,Go,1864,The lazier way to manage everything docker,753,20507,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-192632000,dapr,dapr/dapr,Go,469,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1155,16114,https://avatars.githubusercontent.com/u/51932459?v=4
+29207621,caddy,caddyserver/caddy,Go,202,"Fast, multi-platform web server with automatic HTTPS",2855,35686,https://avatars.githubusercontent.com/u/12955528?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,204,Official Go implementation of the Ethereum protocol,12530,33899,https://avatars.githubusercontent.com/u/6250754?v=4
+17803236,rclone,rclone/rclone,Go,449,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",2725,30302,https://avatars.githubusercontent.com/u/24937341?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,1911,simple terminal UI for git commands,915,24451,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+43723161,helm,helm/helm,Go,59,The Kubernetes Package Manager,5936,20736,https://avatars.githubusercontent.com/u/15859888?v=4
+187335810,lazydocker,jesseduffield/lazydocker,Go,1866,The lazier way to manage everything docker,753,20511,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+192632000,dapr,dapr/dapr,Go,470,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1155,16114,https://avatars.githubusercontent.com/u/51932459?v=4
 67213524,hey,rakyll/hey,Go,66,"HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom",877,12456,https://avatars.githubusercontent.com/u/108380?u=461f9496ce4cab294fd571fd8596a05fcde46c9a&v=4
-33258973,telegraf,influxdata/telegraf,Go,49,The plugin-driven server agent for collecting & reporting metrics.,4604,10872,https://avatars.githubusercontent.com/u/5713248?v=4
-36653430,nomad,hashicorp/nomad,Go,52,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1451,10326,https://avatars.githubusercontent.com/u/761456?v=4
+33258973,telegraf,influxdata/telegraf,Go,50,The plugin-driven server agent for collecting & reporting metrics.,4604,10873,https://avatars.githubusercontent.com/u/5713248?v=4
+36653430,nomad,hashicorp/nomad,Go,53,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1451,10326,https://avatars.githubusercontent.com/u/761456?v=4
 66841911,excelize,qax-os/excelize,Go,86,Golang library for reading and writing Microsoft Excel™ (XLSX) files.,1064,10184,https://avatars.githubusercontent.com/u/29733149?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,156,Workflow engine for Kubernetes,1880,9890,https://avatars.githubusercontent.com/u/30269780?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,156,Workflow engine for Kubernetes,1880,9891,https://avatars.githubusercontent.com/u/30269780?v=4
 13021798,git-lfs,git-lfs/git-lfs,Go,31,Git extension for versioning large files,1861,9810,https://avatars.githubusercontent.com/u/20246716?v=4
-26661222,chat,tinode/chat,Go,58,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",1179,8176,https://avatars.githubusercontent.com/u/9325720?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,32,Terraform AWS provider,5968,6592,https://avatars.githubusercontent.com/u/761456?v=4
-367284699,lima,lima-vm/lima,Go,156,"Linux virtual machines, on macOS (aka ""Linux-on-Mac"", ""macOS subsystem for Linux"", ""containerd for Mac"", unofficially)",142,5368,https://avatars.githubusercontent.com/u/88128539?v=4
-193160679,sqlc,kyleconroy/sqlc,Go,121,Generate type safe Go from SQL,263,4472,https://avatars.githubusercontent.com/u/34893?u=2a72510548627c1bcb6fe6913429d876dcfa2f91&v=4
-197914161,sftpgo,drakkan/sftpgo,Go,278,"Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",275,3467,https://avatars.githubusercontent.com/u/553263?v=4
-422821402,FerretDB,FerretDB/FerretDB,Go,784,A truly Open Source MongoDB alternative,70,3070,https://avatars.githubusercontent.com/u/95204649?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,21,Terraform provider for Azure Resource Manager,2930,2983,https://avatars.githubusercontent.com/u/761456?v=4
-410430370,CasaOS,IceWhaleTech/CasaOS,Go,917,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",87,2228,https://avatars.githubusercontent.com/u/91336243?v=4
-261871717,wild-workouts-go-ddd-example,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,41,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",184,1907,https://avatars.githubusercontent.com/u/16671995?v=4
-125253663,go-containerregistry,google/go-containerregistry,Go,79,Go library and CLIs for working with container registries,281,1452,https://avatars.githubusercontent.com/u/1342004?v=4
-384111310,lake,merico-dev/lake,Go,312,DevLake: the open source data lake & dashboard for your DevOps tools.,98,1107,https://avatars.githubusercontent.com/u/48216022?v=4
+26661222,chat,tinode/chat,Go,59,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",1179,8178,https://avatars.githubusercontent.com/u/9325720?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,33,Terraform AWS provider,5969,6593,https://avatars.githubusercontent.com/u/761456?v=4
+367284699,lima,lima-vm/lima,Go,155,"Linux virtual machines, on macOS (aka ""Linux-on-Mac"", ""macOS subsystem for Linux"", ""containerd for Mac"", unofficially)",142,5369,https://avatars.githubusercontent.com/u/88128539?v=4
+193160679,sqlc,kyleconroy/sqlc,Go,124,Generate type safe Go from SQL,263,4475,https://avatars.githubusercontent.com/u/34893?u=2a72510548627c1bcb6fe6913429d876dcfa2f91&v=4
+197914161,sftpgo,drakkan/sftpgo,Go,277,"Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",275,3468,https://avatars.githubusercontent.com/u/553263?v=4
+422821402,FerretDB,FerretDB/FerretDB,Go,798,A truly Open Source MongoDB alternative,71,3087,https://avatars.githubusercontent.com/u/95204649?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,21,Terraform provider for Azure Resource Manager,2931,2983,https://avatars.githubusercontent.com/u/761456?v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,866,"CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",87,2229,https://avatars.githubusercontent.com/u/91336243?v=4
+261871717,wild-workouts-go-ddd-example,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,40,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",184,1907,https://avatars.githubusercontent.com/u/16671995?v=4
+125253663,go-containerregistry,google/go-containerregistry,Go,80,Go library and CLIs for working with container registries,281,1452,https://avatars.githubusercontent.com/u/1342004?v=4
+384111310,lake,merico-dev/lake,Go,311,DevLake: the open source data lake & dashboard for your DevOps tools.,98,1107,https://avatars.githubusercontent.com/u/48216022?v=4
 430655122,zscan,zyylhn/zscan,Go,169,Zscan a scan blasting tool set,40,311,https://avatars.githubusercontent.com/u/74951887?u=1cc742311c888c1f1a6e70f4856f7a3268b38d75&v=4
