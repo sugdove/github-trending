@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,40,Production-Grade Container Scheduling and Management,30547,83493,https://avatars.githubusercontent.com/u/13629408?v=4
-14125254,consul,hashicorp/consul,Go,10,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",3927,23669,https://avatars.githubusercontent.com/u/761456?v=4
-31288958,vault,hashicorp/vault,Go,12,"A tool for secrets management, encryption as a service, and privileged access management",3163,22339,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,16,The Kubernetes Package Manager,5946,20780,https://avatars.githubusercontent.com/u/15859888?v=4
-165041732,kratos,go-kratos/kratos,Go,16,A modular-designed and easy-to-use microservices framework in Go.,3134,15735,https://avatars.githubusercontent.com/u/62791634?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,40,Production-Grade Container Scheduling and Management,30549,83504,https://avatars.githubusercontent.com/u/13629408?v=4
+14125254,consul,hashicorp/consul,Go,9,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",3927,23671,https://avatars.githubusercontent.com/u/761456?v=4
+31288958,vault,hashicorp/vault,Go,11,"A tool for secrets management, encryption as a service, and privileged access management",3164,22340,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,14,The Kubernetes Package Manager,5946,20781,https://avatars.githubusercontent.com/u/15859888?v=4
+165041732,kratos,go-kratos/kratos,Go,9,A modular-designed and easy-to-use microservices framework in Go.,3134,15735,https://avatars.githubusercontent.com/u/62791634?v=4
 46806184,charts,helm/charts,Go,2,⚠️(OBSOLETE) Curated applications for Kubernetes,17071,15315,https://avatars.githubusercontent.com/u/15859888?v=4
-120227732,fyne,fyne-io/fyne,Go,104,Cross platform GUI in Go inspired by Material Design,810,15081,https://avatars.githubusercontent.com/u/36045855?v=4
-6247705,testify,stretchr/testify,Go,17,A toolkit with common assertions and mocks that plays nicely with the standard library,1166,14966,https://avatars.githubusercontent.com/u/1841476?v=4
-8966356,packer,hashicorp/packer,Go,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3177,13337,https://avatars.githubusercontent.com/u/761456?v=4
-5179099,redis,go-redis/redis,Go,6,Type-safe Redis client for Golang,1642,13061,https://avatars.githubusercontent.com/u/7314137?v=4
-120156076,Cloudreve,cloudreve/Cloudreve,Go,16,"🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)",2123,12245,https://avatars.githubusercontent.com/u/48898462?v=4
-48109239,cilium,cilium/cilium,Go,61,"eBPF-based Networking, Security, and Observability",1254,9889,https://avatars.githubusercontent.com/u/21054566?v=4
-208728772,milvus,milvus-io/milvus,Go,14,An open-source vector database for embedding similarity search and AI applications.,1356,8938,https://avatars.githubusercontent.com/u/51735404?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,21,A powerful little TUI framework 🏗,161,6501,https://avatars.githubusercontent.com/u/57376114?v=4
-14128006,raft,hashicorp/raft,Go,32,Golang implementation of the Raft consensus protocol,720,5359,https://avatars.githubusercontent.com/u/761456?v=4
-357885318,datree,datreeio/datree,Go,7,Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io,175,5213,https://avatars.githubusercontent.com/u/28758216?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,5,Autoscaling components for Kubernetes,2424,5007,https://avatars.githubusercontent.com/u/13629408?v=4
-7515336,go-spew,davecgh/go-spew,Go,12,Implements a deep pretty printer for Go data structures to aid in debugging,308,4772,https://avatars.githubusercontent.com/u/2115102?u=121c4000f9def9cc449bb232a79ba214d977ee5f&v=4
-147886080,crossplane,crossplane/crossplane,Go,12,Your Universal Control Plane,421,4387,https://avatars.githubusercontent.com/u/45158470?v=4
-58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,6,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",498,4154,https://avatars.githubusercontent.com/u/19352526?v=4
-134539560,eksctl,weaveworks/eksctl,Go,5,The official CLI for Amazon EKS,939,3532,https://avatars.githubusercontent.com/u/9976052?v=4
-212465715,buf,bufbuild/buf,Go,16,A new way of working with Protocol Buffers.,86,3276,https://avatars.githubusercontent.com/u/54191850?v=4
-170803235,magma,magma/magma,Go,5,Platform for building access networks and modular network services,440,1145,https://avatars.githubusercontent.com/u/66266171?v=4
-391209033,soft-serve,charmbracelet/soft-serve,Go,124,"A tasty, self-hostable Git server for the command line🍦",11,772,https://avatars.githubusercontent.com/u/57376114?v=4
-401299493,sillyGirl,cdle/sillyGirl,Go,7,傻妞机器人,247,476,https://avatars.githubusercontent.com/u/50124752?u=7b960e54ee7b6196a2509ee3c47c69a0363788d0&v=4
+120227732,fyne,fyne-io/fyne,Go,90,Cross platform GUI in Go inspired by Material Design,810,15081,https://avatars.githubusercontent.com/u/36045855?v=4
+6247705,testify,stretchr/testify,Go,17,A toolkit with common assertions and mocks that plays nicely with the standard library,1166,14967,https://avatars.githubusercontent.com/u/1841476?v=4
+8966356,packer,hashicorp/packer,Go,6,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3176,13339,https://avatars.githubusercontent.com/u/761456?v=4
+5179099,redis,go-redis/redis,Go,4,Type-safe Redis client for Golang,1642,13061,https://avatars.githubusercontent.com/u/7314137?v=4
+120156076,Cloudreve,cloudreve/Cloudreve,Go,12,"🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)",2123,12247,https://avatars.githubusercontent.com/u/48898462?v=4
+48109239,cilium,cilium/cilium,Go,60,"eBPF-based Networking, Security, and Observability",1256,9896,https://avatars.githubusercontent.com/u/21054566?v=4
+208728772,milvus,milvus-io/milvus,Go,15,An open-source vector database for embedding similarity search and AI applications.,1356,8941,https://avatars.githubusercontent.com/u/51735404?v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,24,A powerful little TUI framework 🏗,161,6505,https://avatars.githubusercontent.com/u/57376114?v=4
+14128006,raft,hashicorp/raft,Go,43,Golang implementation of the Raft consensus protocol,721,5369,https://avatars.githubusercontent.com/u/761456?v=4
+357885318,datree,datreeio/datree,Go,8,Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io,175,5214,https://avatars.githubusercontent.com/u/28758216?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,5,Autoscaling components for Kubernetes,2424,5008,https://avatars.githubusercontent.com/u/13629408?v=4
+7515336,go-spew,davecgh/go-spew,Go,10,Implements a deep pretty printer for Go data structures to aid in debugging,308,4772,https://avatars.githubusercontent.com/u/2115102?u=121c4000f9def9cc449bb232a79ba214d977ee5f&v=4
+147886080,crossplane,crossplane/crossplane,Go,13,Your Universal Control Plane,421,4388,https://avatars.githubusercontent.com/u/45158470?v=4
+58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,5,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",498,4154,https://avatars.githubusercontent.com/u/19352526?v=4
+134539560,eksctl,weaveworks/eksctl,Go,7,The official CLI for Amazon EKS,939,3533,https://avatars.githubusercontent.com/u/9976052?v=4
+212465715,buf,bufbuild/buf,Go,14,A new way of working with Protocol Buffers.,86,3278,https://avatars.githubusercontent.com/u/54191850?v=4
+170803235,magma,magma/magma,Go,5,Platform for building access networks and modular network services,440,1146,https://avatars.githubusercontent.com/u/66266171?v=4
+391209033,soft-serve,charmbracelet/soft-serve,Go,142,"A tasty, self-hostable Git server for the command line🍦",12,802,https://avatars.githubusercontent.com/u/57376114?v=4
+401299493,sillyGirl,cdle/sillyGirl,Go,7,傻妞机器人,247,479,https://avatars.githubusercontent.com/u/50124752?u=7b960e54ee7b6196a2509ee3c47c69a0363788d0&v=4
