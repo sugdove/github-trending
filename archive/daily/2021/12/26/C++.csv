@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-100060912,terminal,microsoft/terminal,C++,11,"The new Windows Terminal and the original Windows console host, all in the same place!",7070,79490,https://avatars.githubusercontent.com/u/6154722?v=4
-44838949,swift,apple/swift,C++,7,The Swift Programming Language,9345,58293,https://avatars.githubusercontent.com/u/10639145?v=4
-33791743,x64dbg,x64dbg/x64dbg,C++,5,An open-source x64/x32 debugger for windows.,1739,37857,https://avatars.githubusercontent.com/u/7937360?v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,13,ClickHouse® is a free analytics DBMS for big data,4155,21225,https://avatars.githubusercontent.com/u/54801242?v=4
-4524181,folly,facebook/folly,C++,6,An open-source C++ library developed and used at Facebook.,4430,20720,https://avatars.githubusercontent.com/u/69631?v=4
-5133949,swoole-src,swoole/swoole-src,C++,3,🚀 Coroutine-based concurrency library for PHP,3178,17186,https://avatars.githubusercontent.com/u/8121270?v=4
-34777562,srs,ossrs/srs,C++,1,"SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.",4242,16797,https://avatars.githubusercontent.com/u/12165287?v=4
-125098880,Proton,ValveSoftware/Proton,C++,6,Compatibility tool for Steam Play based on Wine and additional components,685,15786,https://avatars.githubusercontent.com/u/3082775?v=4
-26038648,spdlog,gabime/spdlog,C++,7,Fast C++ logging library.,2844,13417,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-29397594,tinyrenderer,ssloy/tinyrenderer,C++,10,A brief computer graphics / rendering course,1128,11827,https://avatars.githubusercontent.com/u/1029298?u=ed979742dfae8d1d3967488b6ff50de727aa9ae4&v=4
-104231541,abseil-cpp,abseil/abseil-cpp,C++,2,Abseil Common Libraries (C++),1810,9787,https://avatars.githubusercontent.com/u/26718316?v=4
-161292091,matrix,Tencent/matrix,C++,1,"Matrix is a plugin style, non-invasive APM system developed by WeChat.",1448,9375,https://avatars.githubusercontent.com/u/18461506?v=4
-32944298,z3,Z3Prover/z3,C++,7,The Z3 Theorem Prover,1140,6991,https://avatars.githubusercontent.com/u/11668813?v=4
-202078170,The-Open-Book,joeycastillo/The-Open-Book,C++,8,,185,5985,https://avatars.githubusercontent.com/u/1765152?v=4
-14303048,mame,mamedev/mame,C++,9,MAME,1447,5532,https://avatars.githubusercontent.com/u/9024458?v=4
-184657328,TensorRT,NVIDIA/TensorRT,C++,3,TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.,1157,4678,https://avatars.githubusercontent.com/u/1728152?v=4
-280608729,ORB_SLAM3,UZ-SLAMLab/ORB_SLAM3,C++,3,"ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",1254,3204,https://avatars.githubusercontent.com/u/25055183?v=4
-151636194,server,triton-inference-server/server,C++,4,The Triton Inference Server provides an optimized cloud and edge inferencing solution. ,718,3019,https://avatars.githubusercontent.com/u/68086070?v=4
-224908244,WasmEdge,WasmEdge/WasmEdge,C++,7,"WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",207,2400,https://avatars.githubusercontent.com/u/83329692?v=4
-200492112,baekjoon,tony9402/baekjoon,Python,5,코딩테스트 대비 문제집(Baekjoon Online Judge),345,1568,https://avatars.githubusercontent.com/u/30228292?u=1ff865fa5aee04bc2c09fc2e08042b1f4367c469&v=4
-6659299,navigation,ros-planning/navigation,C++,2,ROS Navigation stack.  Code for finding where the robot is and how it can get somewhere else.,1538,1475,https://avatars.githubusercontent.com/u/2328631?v=4
-395348629,win-capture-audio,bozbez/win-capture-audio,C++,58,"An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",58,1177,https://avatars.githubusercontent.com/u/3913560?u=db6fbfb656570833fe25cc4813b1457c0953c909&v=4
-205404938,fheroes2,ihhub/fheroes2,C++,2,Free Heroes of Might and Magic II (fheroes2) is a recreation of HoMM2 game engine.,170,1089,https://avatars.githubusercontent.com/u/19829520?v=4
-439540788,fpng,richgel999/fpng,C++,26,Super fast C++ .PNG writer/reader,6,282,https://avatars.githubusercontent.com/u/6934809?v=4
-438790876,be-shellcode-tester,es3n1n/be-shellcode-tester,C++,12,BattlEye shellcodes tester,17,44,https://avatars.githubusercontent.com/u/40367813?u=4feb83fbd8776f0183cf45737bb169ba6d405d24&v=4
+1181927,bitcoin,bitcoin/bitcoin,C++,38,Bitcoin Core integration/staging tree,30990,60403,https://avatars.githubusercontent.com/u/528860?v=4
+22067521,imgui,ocornut/imgui,C++,16,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,5795,33703,https://avatars.githubusercontent.com/u/8225057?u=01bf929efb697d8ff49effc3b08ea180b54f5564&v=4
+1116542,aria2,aria2/aria2,C++,14,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",2865,25067,https://avatars.githubusercontent.com/u/13545224?v=4
+67702184,Magisk,topjohnwu/Magisk,C++,20,The Magic Mask for Android,5146,22367,https://avatars.githubusercontent.com/u/7337301?v=4
+63477612,C-Plus-Plus,TheAlgorithms/C-Plus-Plus,C++,10,"Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",4683,17242,https://avatars.githubusercontent.com/u/20487725?v=4
+3351871,qBittorrent,qbittorrent/qBittorrent,C++,15,qBittorrent BitTorrent client,2461,13815,https://avatars.githubusercontent.com/u/2131270?v=4
+14981376,dogecoin,dogecoin/dogecoin,C++,6,very currency,2424,13620,https://avatars.githubusercontent.com/u/6122353?v=4
+6520784,rpcs3,RPCS3/rpcs3,C++,6,PS3 emulator/debugger,1567,10363,https://avatars.githubusercontent.com/u/8070735?v=4
+70038437,vnote,vnotex/vnote,C++,6,A pleasant note-taking platform.,944,8739,https://avatars.githubusercontent.com/u/48284031?v=4
+76990209,WLED,Aircoookie/WLED,C++,11,Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!,1488,7695,https://avatars.githubusercontent.com/u/21045690?u=b6ef8107e15c7fc6c160235afba9c3813117a768&v=4
+1204412,TrinityCore,TrinityCore/TrinityCore,C++,2,"TrinityCore Open Source MMO Framework (master = 9.1.5.41488, 3.3.5 = 3.3.5a.12340)",5244,7095,https://avatars.githubusercontent.com/u/539602?v=4
+6486826,ppsspp,hrydgard/ppsspp,C++,6,"A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.",1704,6757,https://avatars.githubusercontent.com/u/130929?u=3f6a75a1ef554e8faac09efa30c4d8f0c826a231&v=4
+36451925,waifu2x-caffe,lltcggie/waifu2x-caffe,C++,6,waifu2xのCaffe版,742,6480,https://avatars.githubusercontent.com/u/7032792?v=4
+14303048,mame,mamedev/mame,C++,8,MAME,1447,5532,https://avatars.githubusercontent.com/u/9024458?v=4
+299510783,mold,rui314/mold,C++,68,mold: A Modern Linker,139,4935,https://avatars.githubusercontent.com/u/47400?v=4
+324829379,organicmaps,organicmaps/organicmaps,C++,5,"🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team!",154,2875,https://avatars.githubusercontent.com/u/76659619?v=4
+194269070,skyline,skyline-emu/skyline,C++,6,Run Nintendo Switch homebrew & games on your Android device!,465,2361,https://avatars.githubusercontent.com/u/52578041?v=4
+148821256,luau,Roblox/luau,C++,2,"A fast, small, safe, gradually typed embeddable scripting language derived from Lua",146,2120,https://avatars.githubusercontent.com/u/4195619?v=4
+1084181,warzone2100,Warzone2100/warzone2100,C++,1,"Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+",419,2102,https://avatars.githubusercontent.com/u/483299?v=4
+112542515,cutlass,NVIDIA/cutlass,C++,1,CUDA Templates for Linear Algebra Subroutines,266,1440,https://avatars.githubusercontent.com/u/1728152?v=4
+395348629,win-capture-audio,bozbez/win-capture-audio,C++,47,"An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",58,1178,https://avatars.githubusercontent.com/u/3913560?u=db6fbfb656570833fe25cc4813b1457c0953c909&v=4
+437040154,course,parallel101/course,C++,31,高性能并行编程与优化 - 课件,82,659,https://avatars.githubusercontent.com/u/95953051?v=4
+438790876,be-shellcode-tester,es3n1n/be-shellcode-tester,C++,8,BattlEye shellcodes tester,17,44,https://avatars.githubusercontent.com/u/40367813?u=4feb83fbd8776f0183cf45737bb169ba6d405d24&v=4
+441419155,OneTap,Panguins/OneTap,C++,8,,28,30,https://avatars.githubusercontent.com/u/19315687?u=03fd71b3e4ef02d1c271a09fc61b0e16da276c18&v=4
+440917531,GyverTwink,AlexGyver/GyverTwink,C++,3,"Гирлянда на адресных светодидоах и esp8266, управление по WiFi",11,19,https://avatars.githubusercontent.com/u/21090953?u=12b2e18f7cf6d0cf8240eb437d8d33f54a4680db&v=4
