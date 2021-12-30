@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,19,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",20525,52545,https://avatars.githubusercontent.com/u/1529926?v=4
-18666758,darknet,pjreddie/darknet,C,9,Convolutional Neural Networks,19068,21977,https://avatars.githubusercontent.com/u/302108?v=4
-1357796,emscripten,emscripten-core/emscripten,C,7,Emscripten: An LLVM-to-WebAssembly Compiler,2721,21624,https://avatars.githubusercontent.com/u/46011144?v=4
+156018,redis,redis/redis,C,16,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",20528,52545,https://avatars.githubusercontent.com/u/1529926?v=4
+18666758,darknet,pjreddie/darknet,C,7,Convolutional Neural Networks,19067,21978,https://avatars.githubusercontent.com/u/302108?v=4
+1357796,emscripten,emscripten-core/emscripten,C,6,Emscripten: An LLVM-to-WebAssembly Compiler,2722,21625,https://avatars.githubusercontent.com/u/46011144?v=4
 196353673,TDengine,taosdata/TDengine,C,10,An open-source big data platform designed and optimized for the Internet of Things (IoT).,4193,17490,https://avatars.githubusercontent.com/u/48876650?v=4
-6201092,mpv,mpv-player/mpv,C,34,🎥 Command line video player,2129,17200,https://avatars.githubusercontent.com/u/2550273?v=4
-80286288,Tasmota,arendst/Tasmota,C,14,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",3678,16716,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-15337142,micropython,micropython/micropython,C,7,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,4986,13494,https://avatars.githubusercontent.com/u/6298560?v=4
-34921116,bcc,iovisor/bcc,C,24,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",2574,13311,https://avatars.githubusercontent.com/u/12766186?v=4
-5254557,skynet,cloudwu/skynet,C,5,A lightweight online game framework,3756,10847,https://avatars.githubusercontent.com/u/729648?v=4
-45821540,openwrt,openwrt/openwrt,C,10,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org,6621,10259,https://avatars.githubusercontent.com/u/2528830?v=4
-184909163,yabai,koekeishiya/yabai,C,11,A tiling window manager for macOS based on binary space partitioning,360,9867,https://avatars.githubusercontent.com/u/6175959?u=e07b472bc4fa5500439c2c099a4736bcfd636769&v=4
-54280778,cJSON,DaveGamble/cJSON,C,9,Ultralightweight JSON parser in ANSI C,2452,6676,https://avatars.githubusercontent.com/u/118247?v=4
+6201092,mpv,mpv-player/mpv,C,34,🎥 Command line video player,2129,17203,https://avatars.githubusercontent.com/u/2550273?v=4
+80286288,Tasmota,arendst/Tasmota,C,14,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",3679,16717,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+15337142,micropython,micropython/micropython,C,8,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,4988,13496,https://avatars.githubusercontent.com/u/6298560?v=4
+34921116,bcc,iovisor/bcc,C,24,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",2574,13314,https://avatars.githubusercontent.com/u/12766186?v=4
+5254557,skynet,cloudwu/skynet,C,6,A lightweight online game framework,3756,10848,https://avatars.githubusercontent.com/u/729648?v=4
+45821540,openwrt,openwrt/openwrt,C,9,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org,6621,10260,https://avatars.githubusercontent.com/u/2528830?v=4
+184909163,yabai,koekeishiya/yabai,C,11,A tiling window manager for macOS based on binary space partitioning,360,9868,https://avatars.githubusercontent.com/u/6175959?u=e07b472bc4fa5500439c2c099a4736bcfd636769&v=4
+54280778,cJSON,DaveGamble/cJSON,C,8,Ultralightweight JSON parser in ANSI C,2451,6677,https://avatars.githubusercontent.com/u/118247?v=4
 13310527,jemalloc,jemalloc/jemalloc,C,2,,1161,6671,https://avatars.githubusercontent.com/u/5606968?v=4
-88327406,xmrig,xmrig/xmrig,C,16,"RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark",2907,6434,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
-192805335,mimalloc,microsoft/mimalloc,C,7,mimalloc is a compact general purpose allocator with excellent performance.,462,6201,https://avatars.githubusercontent.com/u/6154722?v=4
+88327406,xmrig,xmrig/xmrig,C,13,"RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark",2907,6434,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
+192805335,mimalloc,microsoft/mimalloc,C,7,mimalloc is a compact general purpose allocator with excellent performance.,462,6203,https://avatars.githubusercontent.com/u/6154722?v=4
 40504480,xv6-public,mit-pdos/xv6-public,C,4,xv6 OS,2749,5151,https://avatars.githubusercontent.com/u/12404246?v=4
-91493088,GoodbyeDPI,ValdikSS/GoodbyeDPI,C,14,GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows),566,5079,https://avatars.githubusercontent.com/u/3054729?u=db712da584cc0d21a860b786b9ab2f2323758598&v=4
-5805256,lua,lua/lua,C,4,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1158,4971,https://avatars.githubusercontent.com/u/2319114?v=4
+91493088,GoodbyeDPI,ValdikSS/GoodbyeDPI,C,11,GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows),566,5080,https://avatars.githubusercontent.com/u/3054729?u=db712da584cc0d21a860b786b9ab2f2323758598&v=4
+5805256,lua,lua/lua,C,5,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1158,4973,https://avatars.githubusercontent.com/u/2319114?v=4
 44781140,gpdb,greenplum-db/gpdb,C,6,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1405,4947,https://avatars.githubusercontent.com/u/14097842?v=4
-59676171,klipper,Klipper3d/klipper,C,6,Klipper is a 3d-printer firmware,2731,4084,https://avatars.githubusercontent.com/u/90982958?v=4
-27085821,stellar-core,stellar/stellar-core,C,3,stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network,955,2875,https://avatars.githubusercontent.com/u/7386716?v=4
-28928522,wolfssl,wolfSSL/wolfssl,C,4,"The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!",528,1376,https://avatars.githubusercontent.com/u/5891092?v=4
+59676171,klipper,Klipper3d/klipper,C,8,Klipper is a 3d-printer firmware,2731,4086,https://avatars.githubusercontent.com/u/90982958?v=4
+27085821,stellar-core,stellar/stellar-core,C,3,stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network,955,2876,https://avatars.githubusercontent.com/u/7386716?v=4
+28928522,wolfssl,wolfSSL/wolfssl,C,5,"The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!",528,1377,https://avatars.githubusercontent.com/u/5891092?v=4
 211756905,Configurations,MarlinFirmware/Configurations,C,3,Configurations for Marlin Firmware,2086,1105,https://avatars.githubusercontent.com/u/10418365?v=4
 50272879,pjproject,pjsip/pjproject,C,1,PJSIP project,497,1034,https://avatars.githubusercontent.com/u/6085234?v=4
-441679860,minos2,minosproject/minos2,C,15,Minos2 is a micro-kernel OS for ARMv8-a,6,95,https://avatars.githubusercontent.com/u/61398617?v=4
+441679860,minos2,minosproject/minos2,C,4,Minos2 is a micro-kernel OS for ARMv8-a,6,95,https://avatars.githubusercontent.com/u/61398617?v=4
