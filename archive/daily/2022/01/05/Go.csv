@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-11180687,hugo,gohugoio/hugo,Go,25,The world’s fastest framework for building websites.,6362,56199,https://avatars.githubusercontent.com/u/29385237?v=4
-16752620,gogs,gogs/gogs,Go,17,Gogs is a painless self-hosted Git service,4451,38251,https://avatars.githubusercontent.com/u/6656686?v=4
-17728164,terraform,hashicorp/terraform,Go,20,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7204,30702,https://avatars.githubusercontent.com/u/761456?v=4
-163883279,act,nektos/act,Go,28,Run your GitHub Actions locally 🚀,533,20203,https://avatars.githubusercontent.com/u/3813618?v=4
-53632140,micro,zyedidia/micro,Go,11,A modern and intuitive terminal-based text editor,941,18608,https://avatars.githubusercontent.com/u/5513065?u=15db609dac90ac481ec89b92bf02f59e91974fb7&v=4
-123572362,learn-go-with-tests,quii/learn-go-with-tests,Go,22,Learn Go with test-driven development,2089,16256,https://avatars.githubusercontent.com/u/631756?u=123f719ea9c1d667afedfef562c6b1b3b929d483&v=4
-153099672,learngo,inancgumus/learngo,Go,47,"1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",1594,12345,https://avatars.githubusercontent.com/u/621232?u=4825c5449290026dd31c681af1e04f2b3ed9944d&v=4
-36071697,hydra,ory/hydra,Go,16,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.",1150,11959,https://avatars.githubusercontent.com/u/25334553?v=4
-42194129,docker-slim,docker-slim/docker-slim,Go,37,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),440,11903,https://avatars.githubusercontent.com/u/20057356?v=4
-109145553,podman,containers/podman,Go,26,Podman: A tool for managing OCI containers and pods.,1186,11666,https://avatars.githubusercontent.com/u/5874934?v=4
-31558937,teleport,gravitational/teleport,Go,13,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops",1009,10744,https://avatars.githubusercontent.com/u/10781132?v=4
-36653430,nomad,hashicorp/nomad,Go,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1469,10413,https://avatars.githubusercontent.com/u/761456?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,13,Workflow engine for Kubernetes,1932,10118,https://avatars.githubusercontent.com/u/30269780?v=4
-67382094,yay,Jguer/yay,Go,8,Yet another Yogurt - An AUR Helper written in Go,269,7178,https://avatars.githubusercontent.com/u/8071073?u=31dcf861785552275aea3a89860b081ed114ee1f&v=4
-49765480,lnd,lightningnetwork/lnd,Go,9,Lightning Network Daemon ⚡️,1588,5667,https://avatars.githubusercontent.com/u/13424735?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,4,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,694,5486,https://avatars.githubusercontent.com/u/17118990?v=4
-357885318,datree,datreeio/datree,Go,11,Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io,205,5211,https://avatars.githubusercontent.com/u/28758216?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,53,Autoscaling components for Kubernetes,2476,5151,https://avatars.githubusercontent.com/u/13629408?v=4
-23586998,mockery,vektra/mockery,Go,6,A mock code autogenerator for Golang,259,3168,https://avatars.githubusercontent.com/u/5193687?v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,3,"node of the decentralized oracle network, bridging on and off-chain computation",803,2768,https://avatars.githubusercontent.com/u/25111032?v=4
-258469100,flux2,fluxcd/flux2,Go,10,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,278,2580,https://avatars.githubusercontent.com/u/52158677?v=4
-117156031,prysm,prysmaticlabs/prysm,Go,4,Go implementation of Ethereum proof of stake,553,2343,https://avatars.githubusercontent.com/u/35349758?v=4
-335952417,cosign,sigstore/cosign,Go,13,Container Signing,156,1433,https://avatars.githubusercontent.com/u/71096353?v=4
-384505897,zkar,phith0n/zkar,Go,37,ZKar is a Java serialization protocol analysis tool implement in Go.,16,215,https://avatars.githubusercontent.com/u/5711185?u=7fa01331ea2bd4287f322dde26b69cc8c8272b5c&v=4
-438156679,log4j-detect-distribution,whitesource/log4j-detect-distribution,Go,8,,17,118,https://avatars.githubusercontent.com/u/1539627?v=4
+7691631,moby,moby/moby,Go,9,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,17890,61907,https://avatars.githubusercontent.com/u/27259197?v=4
+16563587,cockroach,cockroachdb/cockroach,Go,9,"CockroachDB - the open source, cloud-native distributed SQL database.",2984,22823,https://avatars.githubusercontent.com/u/6748139?v=4
+31288958,vault,hashicorp/vault,Go,9,"A tool for secrets management, encryption as a service, and privileged access management",3188,22476,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,9,The Kubernetes Package Manager,5976,20902,https://avatars.githubusercontent.com/u/15859888?v=4
+46806184,charts,helm/charts,Go,3,⚠️(OBSOLETE) Curated applications for Kubernetes,17095,15332,https://avatars.githubusercontent.com/u/15859888?v=4
+72891330,ingress-nginx,kubernetes/ingress-nginx,Go,7,NGINX Ingress Controller for Kubernetes,5972,11842,https://avatars.githubusercontent.com/u/13629408?v=4
+109145553,podman,containers/podman,Go,27,Podman: A tool for managing OCI containers and pods.,1186,11671,https://avatars.githubusercontent.com/u/5874934?v=4
+33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,4645,11001,https://avatars.githubusercontent.com/u/5713248?v=4
+66841911,excelize,qax-os/excelize,Go,21,Golang library for reading and writing Microsoft Excel™ (XLSX) files.,1102,10497,https://avatars.githubusercontent.com/u/29733149?v=4
+27576132,aws-sdk-go,aws/aws-sdk-go,Go,3,AWS SDK for the Go programming language.,1785,7296,https://avatars.githubusercontent.com/u/2232217?v=4
+184490584,terraformer,GoogleCloudPlatform/terraformer,Go,9,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,831,6416,https://avatars.githubusercontent.com/u/2810941?v=4
+10721619,ebiten,hajimehoshi/ebiten,Go,27,A dead simple 2D game library for Go,377,5798,https://avatars.githubusercontent.com/u/16950?u=ed7c5b7cfcec804ff78d1e3fa43c42ef9869f9c6&v=4
+49765480,lnd,lightningnetwork/lnd,Go,8,Lightning Network Daemon ⚡️,1588,5667,https://avatars.githubusercontent.com/u/13424735?v=4
+120650407,operator-sdk,operator-framework/operator-sdk,Go,3,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",1422,5306,https://avatars.githubusercontent.com/u/38202270?v=4
+93928882,swag,swaggo/swag,Go,13,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,720,5249,https://avatars.githubusercontent.com/u/29616670?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,54,Autoscaling components for Kubernetes,2477,5165,https://avatars.githubusercontent.com/u/13629408?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,10,:chains: A Framework for Building High Value Public Blockchains :sparkles:,1402,3216,https://avatars.githubusercontent.com/u/228843?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,3,Terraform provider for Azure Resource Manager,2989,3023,https://avatars.githubusercontent.com/u/761456?v=4
+189490177,kruise,openkruise/kruise,Go,2,Automate application management on Kubernetes (project under CNCF),474,2869,https://avatars.githubusercontent.com/u/49735278?v=4
+201546443,assets,trustwallet/assets,Go,8,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",10260,1950,https://avatars.githubusercontent.com/u/32179889?v=4
+351486934,netmaker,gravitl/netmaker,Go,75,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",114,1905,https://avatars.githubusercontent.com/u/81370672?v=4
+169108858,kyverno,kyverno/kyverno,Go,6,Kubernetes Native Policy Management,230,1702,https://avatars.githubusercontent.com/u/68448710?v=4
+257434373,hysteria,HyNetwork/hysteria,Go,5,"Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",114,927,https://avatars.githubusercontent.com/u/83160434?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,1,Contrib repository for the OpenTelemetry Collector,561,565,https://avatars.githubusercontent.com/u/49998002?v=4
+384505897,zkar,phith0n/zkar,Go,32,ZKar is a Java serialization protocol analysis tool implement in Go.,16,216,https://avatars.githubusercontent.com/u/5711185?u=7fa01331ea2bd4287f322dde26b69cc8c8272b5c&v=4
