@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,78,Linux kernel source tree,40655,124084,https://avatars.githubusercontent.com/u/1024025?v=4
-111583593,scrcpy,Genymobile/scrcpy,C,65,Display and control your Android device,6320,59896,https://avatars.githubusercontent.com/u/3427627?v=4
-10744183,netdata,netdata/netdata,C,17,"Real-time performance monitoring, done right! https://www.netdata.cloud",5148,57333,https://avatars.githubusercontent.com/u/43390781?v=4
-569041,curl,curl/curl,C,12,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",4842,23210,https://avatars.githubusercontent.com/u/16928085?v=4
-5101141,jq,stedolan/jq,C,13,Command-line JSON processor,1246,21108,https://avatars.githubusercontent.com/u/79765?v=4
-37912398,nginx,nginx/nginx,C,16,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",5546,15337,https://avatars.githubusercontent.com/u/1412239?v=4
-65899476,esp-idf,espressif/esp-idf,C,9,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,4955,7770,https://avatars.githubusercontent.com/u/9460735?v=4
+2325298,linux,torvalds/linux,C,66,Linux kernel source tree,40663,124086,https://avatars.githubusercontent.com/u/1024025?v=4
+111583593,scrcpy,Genymobile/scrcpy,C,56,Display and control your Android device,6320,59898,https://avatars.githubusercontent.com/u/3427627?v=4
+10744183,netdata,netdata/netdata,C,16,"Real-time performance monitoring, done right! https://www.netdata.cloud",5148,57333,https://avatars.githubusercontent.com/u/43390781?v=4
+569041,curl,curl/curl,C,12,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",4841,23212,https://avatars.githubusercontent.com/u/16928085?v=4
+5101141,jq,stedolan/jq,C,11,Command-line JSON processor,1246,21109,https://avatars.githubusercontent.com/u/79765?v=4
+37912398,nginx,nginx/nginx,C,15,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",5546,15337,https://avatars.githubusercontent.com/u/1412239?v=4
+65899476,esp-idf,espressif/esp-idf,C,11,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,4956,7772,https://avatars.githubusercontent.com/u/9460735?v=4
 18106269,lz4,lz4/lz4,C,6,Extremely Fast Compression algorithm,1045,6687,https://avatars.githubusercontent.com/u/11667224?v=4
-88327406,xmrig,xmrig/xmrig,C,9,"RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark",2962,6520,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
-5383731,qemu,qemu/qemu,C,19,Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,3762,5660,https://avatars.githubusercontent.com/u/2137033?v=4
+88327406,xmrig,xmrig/xmrig,C,10,"RandomX, KawPow, CryptoNight, AstroBWT and GhostRider unified CPU/GPU miner and RandomX benchmark",2961,6522,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
+5383731,qemu,qemu/qemu,C,17,Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,3761,5660,https://avatars.githubusercontent.com/u/2137033?v=4
 59771425,zephyr,zephyrproject-rtos/zephyr,C,9,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",3411,5457,https://avatars.githubusercontent.com/u/19595895?v=4
-7037996,yara,VirusTotal/yara,C,9,The pattern matching swiss knife,1120,5298,https://avatars.githubusercontent.com/u/7701252?v=4
+7037996,yara,VirusTotal/yara,C,9,The pattern matching swiss knife,1119,5299,https://avatars.githubusercontent.com/u/7701252?v=4
 23007417,colmap,colmap/colmap,C,1,COLMAP - Structure-from-Motion and Multi-View Stereo,934,3557,https://avatars.githubusercontent.com/u/8461936?v=4
 40556106,wazuh,wazuh/wazuh,C,4,Wazuh - The Open Source Security Platform,680,3237,https://avatars.githubusercontent.com/u/13752566?v=4
 27359183,GmSSL,guanzhi/GmSSL,C,1,支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支,1123,2804,https://avatars.githubusercontent.com/u/1787781?u=c71c577b7da3afe39a461344fdca316d82f91735&v=4
-217654199,msquic,microsoft/msquic,C,6,"Cross-platform, C implementation of the IETF QUIC protocol.",302,2538,https://avatars.githubusercontent.com/u/6154722?v=4
+217654199,msquic,microsoft/msquic,C,5,"Cross-platform, C implementation of the IETF QUIC protocol.",302,2538,https://avatars.githubusercontent.com/u/6154722?v=4
 146155284,flecs,SanderMertens/flecs,C,5,A fast entity component system (ECS) for C & C++,166,2278,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
-76599439,frr,FRRouting/frr,C,0,The FRRouting Protocol Suite,838,2033,https://avatars.githubusercontent.com/u/24592672?v=4
-26537135,u-boot,u-boot/u-boot,C,4,"""Das U-Boot"" Source Tree",2206,1938,https://avatars.githubusercontent.com/u/9681997?v=4
-15333809,open62541,open62541/open62541,C,4,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,874,1674,https://avatars.githubusercontent.com/u/16096536?v=4
-65415224,far2l,elfmz/far2l,C,7,Linux port of FAR v2,119,1210,https://avatars.githubusercontent.com/u/20957349?v=4
+76599439,frr,FRRouting/frr,C,0,The FRRouting Protocol Suite,839,2033,https://avatars.githubusercontent.com/u/24592672?v=4
+26537135,u-boot,u-boot/u-boot,C,4,"""Das U-Boot"" Source Tree",2207,1939,https://avatars.githubusercontent.com/u/9681997?v=4
+15333809,open62541,open62541/open62541,C,3,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,874,1674,https://avatars.githubusercontent.com/u/16096536?v=4
+65415224,far2l,elfmz/far2l,C,6,Linux port of FAR v2,119,1211,https://avatars.githubusercontent.com/u/20957349?v=4
 121516035,sdk-nrf,nrfconnect/sdk-nrf,C,1,nRF Connect SDK main repository,676,387,https://avatars.githubusercontent.com/u/40860733?v=4
 438747534,log4jscanwin,Qualys/log4jscanwin,C,0,Log4j Vulnerability Scanner for Windows,23,131,https://avatars.githubusercontent.com/u/871765?v=4
 117596757,IPC-Workshops,Seneca-144100/IPC-Workshops,C,2,,156,32,https://avatars.githubusercontent.com/u/5384142?v=4
-446523517,pico-display-matrix,en0b/pico-display-matrix,C,1,Digital rain animation gif with glow squeezed into a raspberry pi pico and pimoroni pico-display,0,17,https://avatars.githubusercontent.com/u/9415850?u=c65595f3848a0fa558bb8d6bd479dda4e408f1c5&v=4
+446523517,pico-display-matrix,en0b/pico-display-matrix,C,0,Digital rain animation gif with glow squeezed into a raspberry pi pico and pimoroni pico-display,0,17,https://avatars.githubusercontent.com/u/9415850?u=c65595f3848a0fa558bb8d6bd479dda4e408f1c5&v=4
