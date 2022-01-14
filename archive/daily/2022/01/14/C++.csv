@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-9384267,electron,electron/electron,C++,35,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",13101,99718,https://avatars.githubusercontent.com/u/13409222?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,48,Protocol Buffers - Google's data interchange format,13625,52607,https://avatars.githubusercontent.com/u/26310541?v=4
-27729880,grpc,grpc/grpc,C++,12,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",8678,33101,https://avatars.githubusercontent.com/u/7802525?v=4
-23405758,leveldb,google/leveldb,C++,139,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,6193,27777,https://avatars.githubusercontent.com/u/1342004?v=4
-39840932,googletest,google/googletest,C++,8,GoogleTest - Google Testing and Mocking Framework,8186,24788,https://avatars.githubusercontent.com/u/1342004?v=4
-65214191,envoy,envoyproxy/envoy,C++,12,Cloud-native high-performance edge/middle/service proxy,3484,18720,https://avatars.githubusercontent.com/u/30125649?v=4
-26038648,spdlog,gabime/spdlog,C++,16,Fast C++ logging library.,2876,13575,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-102343794,incubator-brpc,apache/incubator-brpc,C++,21,"Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. ""brpc"" means ""better RPC"".",3193,12797,https://avatars.githubusercontent.com/u/47359?v=4
-104732438,cutter,rizinorg/cutter,C++,25,Free and Open Source Reverse Engineering Platform powered by rizin,839,10624,https://avatars.githubusercontent.com/u/72097027?v=4
-146459443,nebula,vesoft-inc/nebula,C++,10,"  A distributed, fast open-source graph database featuring horizontal scalability and high availability",756,7047,https://avatars.githubusercontent.com/u/42441426?v=4
-23086893,re2,google/re2,C++,3,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",937,6436,https://avatars.githubusercontent.com/u/1342004?v=4
-64732358,cartographer,cartographer-project/cartographer,C++,7,Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.,1988,5805,https://avatars.githubusercontent.com/u/20636162?v=4
-14627445,s3fs-fuse,s3fs-fuse/s3fs-fuse,C++,7,FUSE-based file system backed by Amazon S3,832,5800,https://avatars.githubusercontent.com/u/6013166?v=4
+9384267,electron,electron/electron,C++,40,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",13101,99729,https://avatars.githubusercontent.com/u/13409222?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,53,Protocol Buffers - Google's data interchange format,13626,52613,https://avatars.githubusercontent.com/u/26310541?v=4
+27729880,grpc,grpc/grpc,C++,10,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",8680,33101,https://avatars.githubusercontent.com/u/7802525?v=4
+23405758,leveldb,google/leveldb,C++,139,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,6194,27811,https://avatars.githubusercontent.com/u/1342004?v=4
+39840932,googletest,google/googletest,C++,8,GoogleTest - Google Testing and Mocking Framework,8187,24787,https://avatars.githubusercontent.com/u/1342004?v=4
+65214191,envoy,envoyproxy/envoy,C++,11,Cloud-native high-performance edge/middle/service proxy,3485,18721,https://avatars.githubusercontent.com/u/30125649?v=4
+26038648,spdlog,gabime/spdlog,C++,14,Fast C++ logging library.,2878,13577,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+102343794,incubator-brpc,apache/incubator-brpc,C++,13,"Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. ""brpc"" means ""better RPC"".",3194,12797,https://avatars.githubusercontent.com/u/47359?v=4
+104732438,cutter,rizinorg/cutter,C++,27,Free and Open Source Reverse Engineering Platform powered by rizin,840,10628,https://avatars.githubusercontent.com/u/72097027?v=4
+146459443,nebula,vesoft-inc/nebula,C++,11,"  A distributed, fast open-source graph database featuring horizontal scalability and high availability",756,7050,https://avatars.githubusercontent.com/u/42441426?v=4
+23086893,re2,google/re2,C++,4,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",937,6437,https://avatars.githubusercontent.com/u/1342004?v=4
+64732358,cartographer,cartographer-project/cartographer,C++,5,Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.,1988,5805,https://avatars.githubusercontent.com/u/20636162?v=4
+14627445,s3fs-fuse,s3fs-fuse/s3fs-fuse,C++,8,FUSE-based file system backed by Amazon S3,832,5800,https://avatars.githubusercontent.com/u/6013166?v=4
 31197250,glog,google/glog,C++,6,C++ implementation of the Google logging module,1794,5038,https://avatars.githubusercontent.com/u/1342004?v=4
-2436255,osrm-backend,Project-OSRM/osrm-backend,C++,6,Open Source Routing Machine - C++ backend,2597,4759,https://avatars.githubusercontent.com/u/8207060?v=4
-184657328,TensorRT,NVIDIA/TensorRT,C++,3,TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.,1179,4753,https://avatars.githubusercontent.com/u/1728152?v=4
-75662387,draco,google/draco,C++,8,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.,747,4669,https://avatars.githubusercontent.com/u/1342004?v=4
-36831874,DirectX-Graphics-Samples,microsoft/DirectX-Graphics-Samples,C++,12,This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.,1623,4222,https://avatars.githubusercontent.com/u/6154722?v=4
-151636194,server,triton-inference-server/server,C++,4,The Triton Inference Server provides an optimized cloud and edge inferencing solution. ,730,3117,https://avatars.githubusercontent.com/u/68086070?v=4
-81634683,oneflow,Oneflow-Inc/oneflow,C++,2,OneFlow is a performance-centered and open-source deep learning framework.,344,2952,https://avatars.githubusercontent.com/u/24632470?v=4
-402945349,starrocks,StarRocks/starrocks,C++,11,"StarRocks is a next-gen sub-second MPP database for full analysis scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",384,2032,https://avatars.githubusercontent.com/u/88238841?v=4
-313501668,wenet,wenet-e2e/wenet,C++,4,Production First and Production Ready End-to-End Speech Recognition Toolkit,432,1725,https://avatars.githubusercontent.com/u/84374044?v=4
-110198384,brave-core,brave/brave-core,C++,5,"Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues",499,1529,https://avatars.githubusercontent.com/u/12301619?v=4
-433542330,windowjs,windowjs/windowjs,C++,380,Window.js is an open-source Javascript runtime for desktop graphics programming.,13,866,https://avatars.githubusercontent.com/u/93479769?v=4
-379771313,Orbion_Space_Mouse,FaqT0tum/Orbion_Space_Mouse,C++,20,ORBION the OpenSource Space Mouse 3D,33,219,https://avatars.githubusercontent.com/u/69204222?u=cf44bfd5a68ea3d1af364813d9d73c1a1f88d67a&v=4
+2436255,osrm-backend,Project-OSRM/osrm-backend,C++,4,Open Source Routing Machine - C++ backend,2596,4759,https://avatars.githubusercontent.com/u/8207060?v=4
+184657328,TensorRT,NVIDIA/TensorRT,C++,4,TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.,1179,4754,https://avatars.githubusercontent.com/u/1728152?v=4
+75662387,draco,google/draco,C++,9,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.,747,4669,https://avatars.githubusercontent.com/u/1342004?v=4
+36831874,DirectX-Graphics-Samples,microsoft/DirectX-Graphics-Samples,C++,11,This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.,1625,4223,https://avatars.githubusercontent.com/u/6154722?v=4
+151636194,server,triton-inference-server/server,C++,5,The Triton Inference Server provides an optimized cloud and edge inferencing solution. ,730,3117,https://avatars.githubusercontent.com/u/68086070?v=4
+81634683,oneflow,Oneflow-Inc/oneflow,C++,4,OneFlow is a performance-centered and open-source deep learning framework.,344,2953,https://avatars.githubusercontent.com/u/24632470?v=4
+402945349,starrocks,StarRocks/starrocks,C++,9,"StarRocks is a next-gen sub-second MPP database for full analysis scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",384,2034,https://avatars.githubusercontent.com/u/88238841?v=4
+313501668,wenet,wenet-e2e/wenet,C++,5,Production First and Production Ready End-to-End Speech Recognition Toolkit,432,1724,https://avatars.githubusercontent.com/u/84374044?v=4
+110198384,brave-core,brave/brave-core,C++,6,"Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues",500,1530,https://avatars.githubusercontent.com/u/12301619?v=4
+433542330,windowjs,windowjs/windowjs,C++,394,Window.js is an open-source Javascript runtime for desktop graphics programming.,13,900,https://avatars.githubusercontent.com/u/93479769?v=4
+379771313,Orbion_Space_Mouse,FaqT0tum/Orbion_Space_Mouse,C++,19,ORBION the OpenSource Space Mouse 3D,33,219,https://avatars.githubusercontent.com/u/69204222?u=cf44bfd5a68ea3d1af364813d9d73c1a1f88d67a&v=4
