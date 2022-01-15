@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,8,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,17903,61977,https://avatars.githubusercontent.com/u/27259197?v=4
-20904437,gin,gin-gonic/gin,Go,36,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",6217,54725,https://avatars.githubusercontent.com/u/7894478?v=4
-61137153,esbuild,evanw/esbuild,Go,26,An extremely fast JavaScript and CSS bundler and minifier,740,29918,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
-56353740,minikube,kubernetes/minikube,Go,17,Run Kubernetes locally,3891,22895,https://avatars.githubusercontent.com/u/13629408?v=4
-31288958,vault,hashicorp/vault,Go,16,"A tool for secrets management, encryption as a service, and privileged access management",3202,22544,https://avatars.githubusercontent.com/u/761456?v=4
-163883279,act,nektos/act,Go,35,Run your GitHub Actions locally 🚀,540,20466,https://avatars.githubusercontent.com/u/3813618?v=4
-11393110,cli,urfave/cli,Go,9,"A simple, fast, and fun package for building command line apps in Go",1484,17143,https://avatars.githubusercontent.com/u/19274464?v=4
-165041732,kratos,go-kratos/kratos,Go,22,A modular-designed and easy-to-use microservices framework in Go.,3219,16154,https://avatars.githubusercontent.com/u/62791634?v=4
-129717717,loki,grafana/loki,Go,15,"Like Prometheus, but for logs.",1762,14663,https://avatars.githubusercontent.com/u/7195757?v=4
-86733463,kubectx,ahmetb/kubectx,Go,15,Faster way to switch between clusters and namespaces in kubectl,864,12112,https://avatars.githubusercontent.com/u/159209?u=a32d91ab1d990c840ded108a7f1ef06497ba9bb5&v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,12,NGINX Ingress Controller for Kubernetes,5993,11908,https://avatars.githubusercontent.com/u/13629408?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,8,Declarative continuous deployment for Kubernetes.,2003,8074,https://avatars.githubusercontent.com/u/30269780?v=4
-37334619,mock,golang/mock,Go,11,GoMock is a mocking framework for the Go programming language.,487,6665,https://avatars.githubusercontent.com/u/4314092?v=4
-28366058,distribution,distribution/distribution,Go,9,"The toolkit to pack, ship, store, and deliver container content",2049,6501,https://avatars.githubusercontent.com/u/78096003?v=4
-83252983,task,go-task/task,Go,12,A task runner / simpler Make alternative written in Go,279,4465,https://avatars.githubusercontent.com/u/26048825?v=4
-156946744,osmedeus,j3ssie/osmedeus,Go,10,A Workflow Engine for Offensive Security,692,3547,https://avatars.githubusercontent.com/u/23289085?u=7c4022bc6f9ddcea4df7fc279831cf60d2da59db&v=4
-258469100,flux2,fluxcd/flux2,Go,19,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,289,2637,https://avatars.githubusercontent.com/u/52158677?v=4
-124157517,cluster-api,kubernetes-sigs/cluster-api,Go,4,"Home for Cluster API, a subproject of sig-cluster-lifecycle",775,2041,https://avatars.githubusercontent.com/u/36015203?v=4
-311639195,karmada,karmada-io/karmada,Go,10,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",326,1911,https://avatars.githubusercontent.com/u/74165798?v=4
-323965659,alist,Xhofe/alist,Go,59,"🗂️Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",426,1834,https://avatars.githubusercontent.com/u/36558727?u=b90f9a85e13a0dbfcd1255c1b51bacc33707f232&v=4
-390982669,natpass,jkstack/natpass,Go,25,新一代主机管理工具，支持web vnc和web shell,191,1768,https://avatars.githubusercontent.com/u/95462751?v=4
-403020531,colima,abiosoft/colima,Go,37,Container runtimes on macOS (and Linux) with minimal setup,39,1238,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-446613820,dsq,multiprocessio/dsq,Go,132,"Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",21,810,https://avatars.githubusercontent.com/u/85761715?v=4
-310632133,token-list,solana-labs/token-list,Go,2,The community maintained Solana token registry,5831,752,https://avatars.githubusercontent.com/u/35608259?v=4
-445585163,autosaved,nikochiko/autosaved,Go,15,Never worry about losing your code. Written in Go,14,284,https://avatars.githubusercontent.com/u/37668193?u=d82557c244492c497a6ffb25a9d77d0afa8d01cd&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,28,Production-Grade Container Scheduling and Management,30970,84481,https://avatars.githubusercontent.com/u/13629408?v=4
+21540759,awesome-go,avelino/awesome-go,Go,54,"A curated list of awesome Go frameworks, libraries and software",9386,73835,https://avatars.githubusercontent.com/u/31996?u=e2c4c0d5fd5c80fd36b27a5ad10d59071a265845&v=4
+6838921,prometheus,prometheus/prometheus,Go,12,The Prometheus monitoring system and time series database.,6725,40473,https://avatars.githubusercontent.com/u/3380462?v=4
+5271882,build-web-application-with-golang,astaxie/build-web-application-with-golang,Go,7,A golang ebook intro how to build a web with golang,10408,39476,https://avatars.githubusercontent.com/u/233907?v=4
+11225014,etcd,etcd-io/etcd,Go,16,Distributed reliable key-value store for the most critical data of a distributed system,8270,38506,https://avatars.githubusercontent.com/u/41972792?v=4
+29261473,minio,minio/minio,Go,13,"High Performance, Kubernetes Native Object Storage",3569,31053,https://avatars.githubusercontent.com/u/695951?v=4
+61137153,esbuild,evanw/esbuild,Go,20,An extremely fast JavaScript and CSS bundler and minifier,741,29918,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
+74175805,istio,istio/istio,Go,17,"Connect, secure, control, and observe services.",6001,29219,https://avatars.githubusercontent.com/u/23534644?v=4
+56353740,minikube,kubernetes/minikube,Go,22,Run Kubernetes locally,3891,22901,https://avatars.githubusercontent.com/u/13629408?v=4
+43723161,helm,helm/helm,Go,5,The Kubernetes Package Manager,5992,20950,https://avatars.githubusercontent.com/u/15859888?v=4
+192632000,dapr,dapr/dapr,Go,9,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1226,16638,https://avatars.githubusercontent.com/u/51932459?v=4
+165041732,kratos,go-kratos/kratos,Go,21,A modular-designed and easy-to-use microservices framework in Go.,3221,16157,https://avatars.githubusercontent.com/u/62791634?v=4
+36071697,hydra,ory/hydra,Go,5,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",1155,11995,https://avatars.githubusercontent.com/u/25334553?v=4
+33258973,telegraf,influxdata/telegraf,Go,4,The plugin-driven server agent for collecting & reporting metrics.,4660,11057,https://avatars.githubusercontent.com/u/5713248?v=4
+28366058,distribution,distribution/distribution,Go,9,"The toolkit to pack, ship, store, and deliver container content",2049,6502,https://avatars.githubusercontent.com/u/78096003?v=4
+120650407,operator-sdk,operator-framework/operator-sdk,Go,1,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",1432,5327,https://avatars.githubusercontent.com/u/38202270?v=4
+135321861,kratos,ory/kratos,Go,9,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.",477,4825,https://avatars.githubusercontent.com/u/25334553?v=4
+281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,5,cqhttp的golang实现，轻量、原生跨平台.,718,3642,https://avatars.githubusercontent.com/u/12137562?u=343628eb9fd05e8493b6d3e2d7230bb05389062c&v=4
+318476701,nerdctl,containerd/nerdctl,Go,11,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",162,2865,https://avatars.githubusercontent.com/u/14037953?v=4
+193681111,lotus,filecoin-project/lotus,Go,3,"Implementation of the Filecoin protocol, written in Go",952,1999,https://avatars.githubusercontent.com/u/22014611?v=4
+323965659,alist,Xhofe/alist,Go,52,"🗂️Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",426,1846,https://avatars.githubusercontent.com/u/36558727?u=b90f9a85e13a0dbfcd1255c1b51bacc33707f232&v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,2,Datadog Agent ,742,1443,https://avatars.githubusercontent.com/u/365230?v=4
+341551718,netflix-verify,sjlleo/netflix-verify,Go,9,流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not,254,1187,https://avatars.githubusercontent.com/u/13616352?u=69f23f62f43cd477ea08a0ef0607921fbb82ab55&v=4
+290437899,ddns-go,jeessy2/ddns-go,Go,7,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云),239,1153,https://avatars.githubusercontent.com/u/6205259?u=0668f056159f7ab885b1749c10400aa50893da5b&v=4
+446613820,dsq,multiprocessio/dsq,Go,65,"Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",21,814,https://avatars.githubusercontent.com/u/85761715?v=4
