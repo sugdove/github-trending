@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,51,Linux kernel source tree,40772,124510,https://avatars.githubusercontent.com/u/1024025?v=4
-1903522,php-src,php/php-src,C,6,The PHP Interpreter,7050,33157,https://avatars.githubusercontent.com/u/25158?v=4
-102578345,lede,coolsnowwolf/lede,C,16,Lean's OpenWrt source,16149,19629,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
-20159867,stb,nothings/stb,C,11,stb single-file public domain libraries for C/C++,6195,17829,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
-6201092,mpv,mpv-player/mpv,C,9,🎥 Command line video player,2165,17547,https://avatars.githubusercontent.com/u/2550273?v=4
-80286288,Tasmota,arendst/Tasmota,C,10,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",3738,16991,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+2325298,linux,torvalds/linux,C,55,Linux kernel source tree,40772,124517,https://avatars.githubusercontent.com/u/1024025?v=4
+1903522,php-src,php/php-src,C,3,The PHP Interpreter,7050,33158,https://avatars.githubusercontent.com/u/25158?v=4
+102578345,lede,coolsnowwolf/lede,C,16,Lean's OpenWrt source,16146,19631,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+20159867,stb,nothings/stb,C,11,stb single-file public domain libraries for C/C++,6196,17831,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
+6201092,mpv,mpv-player/mpv,C,12,🎥 Command line video player,2165,17551,https://avatars.githubusercontent.com/u/2550273?v=4
+80286288,Tasmota,arendst/Tasmota,C,10,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",3739,16992,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
 15337142,micropython,micropython/micropython,C,7,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,5060,13609,https://avatars.githubusercontent.com/u/6298560?v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,14,Open-source keyboard firmware for Atmel AVR and Arm USB families,24049,11415,https://avatars.githubusercontent.com/u/25358678?v=4
-105627846,reactos,reactos/reactos,C,6,A free Windows-compatible Operating System,1278,10474,https://avatars.githubusercontent.com/u/1056157?v=4
-45821540,openwrt,openwrt/openwrt,C,9,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org,6759,10423,https://avatars.githubusercontent.com/u/2528830?v=4
-179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,6,OpenCore bootloader,1590,8892,https://avatars.githubusercontent.com/u/39672954?v=4
-13836499,raylib,raysan5/raylib,C,10,A simple and easy-to-use library to enjoy videogames programming,1019,8467,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-70127218,arduino-esp32,espressif/arduino-esp32,C,7,Arduino core for the ESP32,5061,7993,https://avatars.githubusercontent.com/u/9460735?v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,15,Open-source keyboard firmware for Atmel AVR and Arm USB families,24054,11416,https://avatars.githubusercontent.com/u/25358678?v=4
+105627846,reactos,reactos/reactos,C,7,A free Windows-compatible Operating System,1280,10476,https://avatars.githubusercontent.com/u/1056157?v=4
+45821540,openwrt,openwrt/openwrt,C,9,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org,6760,10424,https://avatars.githubusercontent.com/u/2528830?v=4
+179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,8,OpenCore bootloader,1590,8896,https://avatars.githubusercontent.com/u/39672954?v=4
+13836499,raylib,raysan5/raylib,C,9,A simple and easy-to-use library to enjoy videogames programming,1019,8467,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,7,Arduino core for the ESP32,5062,7994,https://avatars.githubusercontent.com/u/9460735?v=4
 2328181,freebsd-src,freebsd/freebsd-src,C,3,FreeBSD src tree (read-only mirror),2336,6255,https://avatars.githubusercontent.com/u/811839?v=4
-5805256,lua,lua/lua,C,9,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1175,5053,https://avatars.githubusercontent.com/u/2319114?v=4
-59676171,klipper,Klipper3d/klipper,C,5,Klipper is a 3d-printer firmware,2846,4243,https://avatars.githubusercontent.com/u/90982958?v=4
-53133613,jo,jpmens/jo,C,13,JSON output from a shell,108,3281,https://avatars.githubusercontent.com/u/60706?v=4
-330008801,SDL,libsdl-org/SDL,C,12,Simple Directmedia Layer,479,2476,https://avatars.githubusercontent.com/u/77683370?v=4
-151064439,ExpressLRS,ExpressLRS/ExpressLRS,C,3,STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications,306,1432,https://avatars.githubusercontent.com/u/77287864?v=4
-266800505,edk2-sdm845,edk2-porting/edk2-sdm845,C,8,Broken edk2 port for sdm845 xD,181,1324,https://avatars.githubusercontent.com/u/63859504?v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,5,,253,1124,https://avatars.githubusercontent.com/u/1294177?v=4
+5805256,lua,lua/lua,C,10,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1176,5054,https://avatars.githubusercontent.com/u/2319114?v=4
+59676171,klipper,Klipper3d/klipper,C,5,Klipper is a 3d-printer firmware,2845,4247,https://avatars.githubusercontent.com/u/90982958?v=4
+53133613,jo,jpmens/jo,C,9,JSON output from a shell,108,3282,https://avatars.githubusercontent.com/u/60706?v=4
+330008801,SDL,libsdl-org/SDL,C,12,Simple Directmedia Layer,480,2476,https://avatars.githubusercontent.com/u/77683370?v=4
+151064439,ExpressLRS,ExpressLRS/ExpressLRS,C,3,STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications,307,1432,https://avatars.githubusercontent.com/u/77287864?v=4
+266800505,edk2-sdm845,edk2-porting/edk2-sdm845,C,6,Broken edk2 port for sdm845 xD,181,1324,https://avatars.githubusercontent.com/u/63859504?v=4
+331380723,pico-sdk,raspberrypi/pico-sdk,C,5,,255,1124,https://avatars.githubusercontent.com/u/1294177?v=4
 203759896,immortalwrt,immortalwrt/immortalwrt,C,2,An opensource OpenWrt variant for mainland China users.,523,884,https://avatars.githubusercontent.com/u/53193414?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,4,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",491,884,https://avatars.githubusercontent.com/u/54647343?v=4
-270692521,zmk,zmkfirmware/zmk,C,2,ZMK Firmware Repository,668,701,https://avatars.githubusercontent.com/u/66629601?v=4
-447021040,EmbeddedController,FrameworkComputer/EmbeddedController,C,97,Embedded Controller firmware for the Framework Laptop,12,441,https://avatars.githubusercontent.com/u/58124942?v=4
+207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,3,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",491,884,https://avatars.githubusercontent.com/u/54647343?v=4
+270692521,zmk,zmkfirmware/zmk,C,5,ZMK Firmware Repository,668,704,https://avatars.githubusercontent.com/u/66629601?v=4
+447021040,EmbeddedController,FrameworkComputer/EmbeddedController,C,92,Embedded Controller firmware for the Framework Laptop,12,450,https://avatars.githubusercontent.com/u/58124942?v=4
