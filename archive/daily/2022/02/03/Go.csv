@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 36653430,nomad,hashicorp/nomad,Go,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1494,10569,https://avatars.githubusercontent.com/u/761456?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,15,Network-wide ads & trackers blocking DNS server,1013,10354,https://avatars.githubusercontent.com/u/8361145?v=4
-13021798,git-lfs,git-lfs/git-lfs,Go,6,Git extension for versioning large files,1892,9974,https://avatars.githubusercontent.com/u/20246716?v=4
-119419195,kaniko,GoogleContainerTools/kaniko,Go,12,Build Container Images In Kubernetes,974,9733,https://avatars.githubusercontent.com/u/38444003?v=4
-66156850,Go,TheAlgorithms/Go,Go,80,"Algorithms implemented in Go for beginners, following best practices.",1587,8323,https://avatars.githubusercontent.com/u/20487725?v=4
-118105436,migrate,golang-migrate/migrate,Go,11,Database migrations. CLI and Golang library.,857,7985,https://avatars.githubusercontent.com/u/35595841?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,6,Terraform AWS provider,6160,6836,https://avatars.githubusercontent.com/u/761456?v=4
-815644,dns,miekg/dns,Go,8,DNS library in Go,949,6071,https://avatars.githubusercontent.com/u/353371?u=b98951c0352124cc5ac3e526f0a372accf41041a&v=4
-99143276,velero,vmware-tanzu/velero,Go,5,Backup and migrate Kubernetes applications and their persistent volumes,1014,5987,https://avatars.githubusercontent.com/u/54452117?v=4
-40539602,aws-vault,99designs/aws-vault,Go,13,A vault for securely storing and accessing AWS credentials in development environments,549,5791,https://avatars.githubusercontent.com/u/17182?v=4
-49765480,lnd,lightningnetwork/lnd,Go,6,Lightning Network Daemon ⚡️,1611,5749,https://avatars.githubusercontent.com/u/13424735?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,6,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1633,4924,https://avatars.githubusercontent.com/u/36015203?v=4
-140412864,evilginx2,kgretzky/evilginx2,Go,4,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",1017,4907,https://avatars.githubusercontent.com/u/19260967?u=220f620ddd124b2532e92444d41c47cb8c58283b&v=4
-193160679,sqlc,kyleconroy/sqlc,Go,8,Generate type-safe code from SQL,288,4753,https://avatars.githubusercontent.com/u/34893?u=2a72510548627c1bcb6fe6913429d876dcfa2f91&v=4
-134539560,eksctl,weaveworks/eksctl,Go,3,The official CLI for Amazon EKS,976,3627,https://avatars.githubusercontent.com/u/9976052?v=4
-212465715,buf,bufbuild/buf,Go,20,A new way of working with Protocol Buffers.,96,3535,https://avatars.githubusercontent.com/u/54191850?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,3,Terraform provider for Azure Resource Manager,3067,3096,https://avatars.githubusercontent.com/u/761456?v=4
-302670797,scorecard,ossf/scorecard,Go,11,Security Scorecards - Security health metrics for Open Source,209,2382,https://avatars.githubusercontent.com/u/67707773?v=4
-154894457,gatekeeper,open-policy-agent/gatekeeper,Go,4,Gatekeeper - Policy Controller for Kubernetes,470,2298,https://avatars.githubusercontent.com/u/16468693?v=4
-403020531,colima,abiosoft/colima,Go,64,Container runtimes on macOS (and Linux) with minimal setup,64,2234,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-67908757,saml2aws,Versent/saml2aws,Go,7,CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP,420,1419,https://avatars.githubusercontent.com/u/11023632?v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,7,Progressive Delivery for Kubernetes,361,1353,https://avatars.githubusercontent.com/u/30269780?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,14,Network-wide ads & trackers blocking DNS server,1013,10356,https://avatars.githubusercontent.com/u/8361145?v=4
+13021798,git-lfs,git-lfs/git-lfs,Go,6,Git extension for versioning large files,1892,9975,https://avatars.githubusercontent.com/u/20246716?v=4
+119419195,kaniko,GoogleContainerTools/kaniko,Go,10,Build Container Images In Kubernetes,974,9734,https://avatars.githubusercontent.com/u/38444003?v=4
+66156850,Go,TheAlgorithms/Go,Go,76,"Algorithms implemented in Go for beginners, following best practices.",1587,8333,https://avatars.githubusercontent.com/u/20487725?v=4
+118105436,migrate,golang-migrate/migrate,Go,12,Database migrations. CLI and Golang library.,857,7987,https://avatars.githubusercontent.com/u/35595841?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,5,Terraform AWS provider,6160,6837,https://avatars.githubusercontent.com/u/761456?v=4
+815644,dns,miekg/dns,Go,7,DNS library in Go,949,6072,https://avatars.githubusercontent.com/u/353371?u=b98951c0352124cc5ac3e526f0a372accf41041a&v=4
+99143276,velero,vmware-tanzu/velero,Go,4,Backup and migrate Kubernetes applications and their persistent volumes,1014,5987,https://avatars.githubusercontent.com/u/54452117?v=4
+40539602,aws-vault,99designs/aws-vault,Go,8,A vault for securely storing and accessing AWS credentials in development environments,549,5791,https://avatars.githubusercontent.com/u/17182?v=4
+49765480,lnd,lightningnetwork/lnd,Go,7,Lightning Network Daemon ⚡️,1611,5750,https://avatars.githubusercontent.com/u/13424735?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1633,4924,https://avatars.githubusercontent.com/u/36015203?v=4
+140412864,evilginx2,kgretzky/evilginx2,Go,6,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",1017,4910,https://avatars.githubusercontent.com/u/19260967?u=220f620ddd124b2532e92444d41c47cb8c58283b&v=4
+193160679,sqlc,kyleconroy/sqlc,Go,10,Generate type-safe code from SQL,288,4755,https://avatars.githubusercontent.com/u/34893?u=2a72510548627c1bcb6fe6913429d876dcfa2f91&v=4
+134539560,eksctl,weaveworks/eksctl,Go,5,The official CLI for Amazon EKS,976,3629,https://avatars.githubusercontent.com/u/9976052?v=4
+212465715,buf,bufbuild/buf,Go,21,A new way of working with Protocol Buffers.,96,3539,https://avatars.githubusercontent.com/u/54191850?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,3,Terraform provider for Azure Resource Manager,3067,3097,https://avatars.githubusercontent.com/u/761456?v=4
+302670797,scorecard,ossf/scorecard,Go,8,Security Scorecards - Security health metrics for Open Source,209,2383,https://avatars.githubusercontent.com/u/67707773?v=4
+154894457,gatekeeper,open-policy-agent/gatekeeper,Go,5,Gatekeeper - Policy Controller for Kubernetes,471,2299,https://avatars.githubusercontent.com/u/16468693?v=4
+403020531,colima,abiosoft/colima,Go,60,Container runtimes on macOS (and Linux) with minimal setup,65,2239,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
+67908757,saml2aws,Versent/saml2aws,Go,6,CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP,421,1419,https://avatars.githubusercontent.com/u/11023632?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,6,Progressive Delivery for Kubernetes,361,1354,https://avatars.githubusercontent.com/u/30269780?v=4
 170803235,magma,magma/magma,Go,2,Platform for building access networks and modular network services,460,1212,https://avatars.githubusercontent.com/u/66266171?v=4
 188836864,erigon,ledgerwatch/erigon,Go,3,Ethereum implementation on the efficiency frontier,249,1030,https://avatars.githubusercontent.com/u/29105044?v=4
-303802332,community-edition,vmware-tanzu/community-edition,Go,4,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",157,900,https://avatars.githubusercontent.com/u/54452117?v=4
+303802332,community-edition,vmware-tanzu/community-edition,Go,4,"VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",157,901,https://avatars.githubusercontent.com/u/54452117?v=4
