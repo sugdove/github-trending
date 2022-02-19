@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1903522,php-src,php/php-src,C,6,The PHP Interpreter,7076,33327,https://avatars.githubusercontent.com/u/25158?v=4
-102578345,lede,coolsnowwolf/lede,C,9,Lean's OpenWrt source,16402,19962,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
-84240850,timescaledb,timescale/timescaledb,C,10,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,660,12534,https://avatars.githubusercontent.com/u/8986001?v=4
-45821540,openwrt,openwrt/openwrt,C,7,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,6888,10629,https://avatars.githubusercontent.com/u/2528830?v=4
+1903522,php-src,php/php-src,C,6,The PHP Interpreter,7077,33329,https://avatars.githubusercontent.com/u/25158?v=4
+102578345,lede,coolsnowwolf/lede,C,18,Lean's OpenWrt source,16406,19965,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+84240850,timescaledb,timescale/timescaledb,C,8,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,660,12536,https://avatars.githubusercontent.com/u/8986001?v=4
+45821540,openwrt,openwrt/openwrt,C,8,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,6888,10631,https://avatars.githubusercontent.com/u/2528830?v=4
 613829,lua-nginx-module,openresty/lua-nginx-module,C,0,Embed the Power of Lua into NGINX HTTP servers,1925,9805,https://avatars.githubusercontent.com/u/7390180?v=4
-60667730,lvgl,lvgl/lvgl,C,7,"Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",1720,8625,https://avatars.githubusercontent.com/u/19811762?v=4
-1856976,libevent,libevent/libevent,C,4,Event notification library,2962,8388,https://avatars.githubusercontent.com/u/833750?v=4
-35780977,ImageMagick,ImageMagick/ImageMagick,C,9,🧙‍♂️ ImageMagick 7,970,6697,https://avatars.githubusercontent.com/u/12486768?v=4
-53614190,mosquitto,eclipse/mosquitto,C,2,Eclipse Mosquitto - An open source MQTT broker,1852,5969,https://avatars.githubusercontent.com/u/56974?v=4
-44781140,gpdb,greenplum-db/gpdb,C,2,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1426,5005,https://avatars.githubusercontent.com/u/14097842?v=4
-108110706,redis,tporadowski/redis,C,11,"Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.",675,4515,https://avatars.githubusercontent.com/u/6212622?u=27e7a140d39b98e8ee04e3123740139dab9f199c&v=4
+60667730,lvgl,lvgl/lvgl,C,8,"Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",1720,8627,https://avatars.githubusercontent.com/u/19811762?v=4
+1856976,libevent,libevent/libevent,C,8,Event notification library,2963,8402,https://avatars.githubusercontent.com/u/833750?v=4
+35780977,ImageMagick,ImageMagick/ImageMagick,C,9,🧙‍♂️ ImageMagick 7,970,6699,https://avatars.githubusercontent.com/u/12486768?v=4
+53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,1851,5972,https://avatars.githubusercontent.com/u/56974?v=4
+44781140,gpdb,greenplum-db/gpdb,C,3,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1426,5004,https://avatars.githubusercontent.com/u/14097842?v=4
+108110706,redis,tporadowski/redis,C,10,"Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.",675,4516,https://avatars.githubusercontent.com/u/6212622?u=27e7a140d39b98e8ee04e3123740139dab9f199c&v=4
 21287076,s2n-tls,aws/s2n-tls,C,2,An implementation of the TLS/SSL protocols,614,4074,https://avatars.githubusercontent.com/u/2232217?v=4
-71691212,n2n,ntop/n2n,C,14,Peer-to-peer VPN,640,3643,https://avatars.githubusercontent.com/u/12014789?v=4
-8046269,libwebsockets,warmcat/libwebsockets,C,2,canonical libwebsockets.org networking library,1260,3374,https://avatars.githubusercontent.com/u/1497695?v=4
-6331631,fio,axboe/fio,C,4,Flexible I/O Tester,957,3344,https://avatars.githubusercontent.com/u/2619634?v=4
-27275442,tpotce,telekom-security/tpotce,C,6,🍯 T-Pot - The All In One Honeypot Platform 🐝,658,3284,https://avatars.githubusercontent.com/u/30164233?v=4
-83160811,littlefs,littlefs-project/littlefs,C,285,A little fail-safe filesystem designed for microcontrollers,505,2907,https://avatars.githubusercontent.com/u/60944974?v=4
-43683082,jsmn,zserge/jsmn,C,2,Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket,671,2867,https://avatars.githubusercontent.com/u/1911760?u=d54bceb88fc5adc736476c5625bc96eed3725de0&v=4
+71691212,n2n,ntop/n2n,C,10,Peer-to-peer VPN,640,3643,https://avatars.githubusercontent.com/u/12014789?v=4
+8046269,libwebsockets,warmcat/libwebsockets,C,1,canonical libwebsockets.org networking library,1260,3374,https://avatars.githubusercontent.com/u/1497695?v=4
+6331631,fio,axboe/fio,C,4,Flexible I/O Tester,957,3345,https://avatars.githubusercontent.com/u/2619634?v=4
+27275442,tpotce,telekom-security/tpotce,C,6,🍯 T-Pot - The All In One Honeypot Platform 🐝,658,3286,https://avatars.githubusercontent.com/u/30164233?v=4
+83160811,littlefs,littlefs-project/littlefs,C,285,A little fail-safe filesystem designed for microcontrollers,506,2931,https://avatars.githubusercontent.com/u/60944974?v=4
+43683082,jsmn,zserge/jsmn,C,3,Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket,671,2868,https://avatars.githubusercontent.com/u/1911760?u=d54bceb88fc5adc736476c5625bc96eed3725de0&v=4
 34807561,nanopb,nanopb/nanopb,C,1,Protocol Buffers with small code size,616,2763,https://avatars.githubusercontent.com/u/12173937?v=4
-438857216,pushdeer,easychen/pushdeer,C,63,开放源码的无App推送服务，iOS14+扫码即用。🚧   快应用开发中,184,1722,https://avatars.githubusercontent.com/u/1294760?u=7f6a30a62cbba932e36f36a2f913db3c7d0ab997&v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,3,,277,1193,https://avatars.githubusercontent.com/u/1294177?v=4
+438857216,pushdeer,easychen/pushdeer,C,55,开放源码的无App推送服务，iOS14+扫码即用。🚧   快应用开发中,184,1725,https://avatars.githubusercontent.com/u/1294760?u=7f6a30a62cbba932e36f36a2f913db3c7d0ab997&v=4
+331380723,pico-sdk,raspberrypi/pico-sdk,C,2,,277,1193,https://avatars.githubusercontent.com/u/1294177?v=4
 197141607,BIGTREETECH-TouchScreenFirmware,bigtreetech/BIGTREETECH-TouchScreenFirmware,C,0,"support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1, TFT43, TFT50, TFT70",1267,896,https://avatars.githubusercontent.com/u/38851044?u=7ea81b7e2e748ece8ba6c3d592cf4b5a3da0b5f9&v=4
-61964127,86Box,86Box/86Box,C,6,Emulator of x86-based machines based on PCem.,147,870,https://avatars.githubusercontent.com/u/35927955?v=4
-270692521,zmk,zmkfirmware/zmk,C,2,ZMK Firmware Repository,724,751,https://avatars.githubusercontent.com/u/66629601?v=4
-416978826,auto_updater,leanflutter/auto_updater,C,16,This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle).,3,72,https://avatars.githubusercontent.com/u/67750077?v=4
+61964127,86Box,86Box/86Box,C,7,Emulator of x86-based machines based on PCem.,147,872,https://avatars.githubusercontent.com/u/35927955?v=4
+270692521,zmk,zmkfirmware/zmk,C,1,ZMK Firmware Repository,724,752,https://avatars.githubusercontent.com/u/66629601?v=4
+416978826,auto_updater,leanflutter/auto_updater,C,13,This plugin allows Flutter desktop apps to automatically update themselves (based on sparkle and winsparkle).,3,76,https://avatars.githubusercontent.com/u/67750077?v=4
