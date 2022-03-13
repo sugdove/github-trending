@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-9384267,electron,electron/electron,C++,30,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",13286,100806,https://avatars.githubusercontent.com/u/13409222?v=4
-11171548,json,nlohmann/json,C++,14,JSON for Modern C++,4985,29009,https://avatars.githubusercontent.com/u/159488?v=4
-67702184,Magisk,topjohnwu/Magisk,C++,19,The Magic Mask for Android,5925,24441,https://avatars.githubusercontent.com/u/7337301?v=4
-4524181,folly,facebook/folly,C++,9,An open-source C++ library developed and used at Facebook.,4566,21547,https://avatars.githubusercontent.com/u/69631?v=4
-13862381,Telegram,DrKLO/Telegram,Java,10,Telegram for Android source,6735,19426,https://avatars.githubusercontent.com/u/69369?v=4
-196813750,CPlusPlusThings,Light-City/CPlusPlusThings,C++,31,C++那些事,4758,19169,https://avatars.githubusercontent.com/u/25699850?u=ae1ceddf2cd1d69488bc3132d29b5ca3bb57ee26&v=4
-19374812,tdesktop,telegramdesktop/tdesktop,C++,12,Telegram Desktop messaging app,3929,18221,https://avatars.githubusercontent.com/u/6113871?v=4
-149111813,MMKV,Tencent/MMKV,C++,2,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",1588,14192,https://avatars.githubusercontent.com/u/18461506?v=4
-26038648,spdlog,gabime/spdlog,C++,6,Fast C++ logging library.,2994,14030,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-114187903,foundationdb,apple/foundationdb,C++,9,"FoundationDB - the open source, distributed, transactional key-value store",1062,11126,https://avatars.githubusercontent.com/u/10639145?v=4
-310611,thrift,apache/thrift,C++,4,Apache Thrift,3783,8945,https://avatars.githubusercontent.com/u/47359?v=4
-25135037,synergy-core,symless/synergy-core,C++,7,"Open source core of Synergy, the keyboard and mouse sharing tool",2959,8791,https://avatars.githubusercontent.com/u/313412?v=4
-76990209,WLED,Aircoookie/WLED,C++,4,Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!,1683,8466,https://avatars.githubusercontent.com/u/21045690?u=b6ef8107e15c7fc6c160235afba9c3813117a768&v=4
-181436799,MNN,alibaba/MNN,C++,2,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",1339,6498,https://avatars.githubusercontent.com/u/1961952?v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,7,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1485,6374,https://avatars.githubusercontent.com/u/6154722?v=4
-194269070,skyline,skyline-emu/skyline,C++,89,Run Nintendo Switch homebrew & games on your Android device!,725,4276,https://avatars.githubusercontent.com/u/52578041?v=4
-143131,cppcheck,danmar/cppcheck,C++,6,static analysis of C/C++ code,1182,4013,https://avatars.githubusercontent.com/u/60195?v=4
-11452676,nghttp2,nghttp2/nghttp2,C++,4,nghttp2 - HTTP/2 C Library and tools,784,3941,https://avatars.githubusercontent.com/u/16933524?v=4
-309512982,redpanda,redpanda-data/redpanda,C++,8,"Redpanda is a streaming data platform for developers. Kafka API compatible, 10x faster, ZooKeeper free, JVM free! See more at redpanda.com",219,3559,https://avatars.githubusercontent.com/u/49406389?v=4
-178613040,magic_enum,Neargye/magic_enum,C++,6,"Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",223,2587,https://avatars.githubusercontent.com/u/7997966?u=cc5d3a577c3b615ae5bad0c0c293363acf00acfe&v=4
-2567844,qgroundcontrol,mavlink/qgroundcontrol,C++,1,"Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",2651,2091,https://avatars.githubusercontent.com/u/961247?v=4
-87443396,srt,Haivision/srt,C++,4,"Secure, Reliable, Transport",621,2040,https://avatars.githubusercontent.com/u/1405927?v=4
-191796209,waymo-open-dataset,waymo-research/waymo-open-dataset,C++,5,Waymo Open Dataset,371,1639,https://avatars.githubusercontent.com/u/49494974?v=4
-350375089,lite.ai.toolkit,DefTruth/lite.ai.toolkit,C++,2,"🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX .  MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.",268,1100,https://avatars.githubusercontent.com/u/31974251?u=b7d035be625416512794badb08dedc648983bf3f&v=4
-359624909,functorch,pytorch/functorch,C++,22,functorch is JAX-like composable function transforms for PyTorch.,46,715,https://avatars.githubusercontent.com/u/21003710?v=4
+9384267,electron,electron/electron,C++,64,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",13288,100811,https://avatars.githubusercontent.com/u/13409222?v=4
+1181927,bitcoin,bitcoin/bitcoin,C++,30,Bitcoin Core integration/staging tree,31792,62415,https://avatars.githubusercontent.com/u/528860?v=4
+33791743,x64dbg,x64dbg/x64dbg,C++,4,An open-source x64/x32 debugger for windows.,1783,38202,https://avatars.githubusercontent.com/u/7937360?v=4
+22067521,imgui,ocornut/imgui,C++,23,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,6275,36353,https://avatars.githubusercontent.com/u/8225057?u=01bf929efb697d8ff49effc3b08ea180b54f5564&v=4
+1116542,aria2,aria2/aria2,C++,11,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",2921,25761,https://avatars.githubusercontent.com/u/13545224?v=4
+67702184,Magisk,topjohnwu/Magisk,C++,18,The Magic Mask for Android,5925,24444,https://avatars.githubusercontent.com/u/7337301?v=4
+16587283,xgboost,dmlc/xgboost,C++,5,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8336,22316,https://avatars.githubusercontent.com/u/11508361?v=4
+13862381,Telegram,DrKLO/Telegram,Java,9,Telegram for Android source,6735,19426,https://avatars.githubusercontent.com/u/69369?v=4
+116167731,yuzu,yuzu-emu/yuzu,C++,32,Nintendo Switch Emulator,1626,19418,https://avatars.githubusercontent.com/u/35075882?v=4
+3351871,qBittorrent,qbittorrent/qBittorrent,C++,23,qBittorrent BitTorrent client,2622,14881,https://avatars.githubusercontent.com/u/2131270?v=4
+3925242,bgfx,bkaradzic/bgfx,C++,17,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.",1604,11131,https://avatars.githubusercontent.com/u/814772?v=4
+114187903,foundationdb,apple/foundationdb,C++,10,"FoundationDB - the open source, distributed, transactional key-value store",1062,11129,https://avatars.githubusercontent.com/u/10639145?v=4
+106558568,dxvk,doitsujin/dxvk,C++,11,"Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",460,7516,https://avatars.githubusercontent.com/u/25567304?u=e753c1eafb0e81504b6ab74883303565cdfa66b2&v=4
+36451925,waifu2x-caffe,lltcggie/waifu2x-caffe,C++,10,waifu2xのCaffe版,780,6713,https://avatars.githubusercontent.com/u/7032792?v=4
+128479644,esphome,esphome/esphome,C++,5,ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.,1483,4659,https://avatars.githubusercontent.com/u/45919759?v=4
+194269070,skyline,skyline-emu/skyline,C++,87,Run Nintendo Switch homebrew & games on your Android device!,725,4279,https://avatars.githubusercontent.com/u/52578041?v=4
+52882701,PrusaSlicer,prusa3d/PrusaSlicer,C++,6,"G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",1187,4185,https://avatars.githubusercontent.com/u/14859759?v=4
+36781769,libtorrent,arvidn/libtorrent,C++,7,an efficient feature complete C++ bittorrent implementation,828,3823,https://avatars.githubusercontent.com/u/661450?u=0776b7dc299640869e1b67765046d2f7057c78cf&v=4
+51181211,cpp-cheat-sheet,gibsjose/cpp-cheat-sheet,C++,6,"C++ Syntax, Data Structures, and Algorithms Cheat Sheet",1192,3532,https://avatars.githubusercontent.com/u/2448058?u=1a90e09c9b2d5361e03ad9f1d98d9445bb54bb29&v=4
+207245092,duckstation,stenzek/duckstation,C++,3,Fast PlayStation 1 emulator for x86-64/AArch32/AArch64,331,3208,https://avatars.githubusercontent.com/u/11288319?u=40beea037e6f06e444c12d74a387caec34d60086&v=4
+256049233,WindowsAppSDK,microsoft/WindowsAppSDK,C++,1,"The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",178,2701,https://avatars.githubusercontent.com/u/6154722?v=4
+10126031,mixxx,mixxxdj/mixxx,C++,2,Mixxx is Free DJ software that gives you everything you need to perform live mixes.,950,2619,https://avatars.githubusercontent.com/u/1743769?v=4
+150550175,bongocat-osu,kuroni/bongocat-osu,C++,9,An osu! Bongo Cat overlay,237,1564,https://avatars.githubusercontent.com/u/13513478?u=64d3f167b8cff99556846ba182dacee8322058bb&v=4
+359624909,functorch,pytorch/functorch,C++,44,functorch is JAX-like composable function transforms for PyTorch.,46,722,https://avatars.githubusercontent.com/u/21003710?v=4
+439448087,PolyMC,PolyMC/PolyMC,C++,12,A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC),42,520,https://avatars.githubusercontent.com/u/96310119?v=4
