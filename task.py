@@ -29,8 +29,8 @@ while True:
     if now.minute == 0:
         subprocess.call(["scrapy", "crawl", "trending"])
         # Commit every 3h
-        # if now.hour % 3 == 0:
-        if True:
+        if now.hour % 3 == 0:
+        # if True:
             try:
                 push2github()
             except:
