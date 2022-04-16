@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-14712850,syncthing,syncthing/syncthing,Go,174,Open Source Continuous File Synchronization,3382,44024,https://avatars.githubusercontent.com/u/7628018?v=4
-6838921,prometheus,prometheus/prometheus,Go,133,The Prometheus monitoring system and time series database.,7022,41952,https://avatars.githubusercontent.com/u/3380462?v=4
-11225014,etcd,etcd-io/etcd,Go,109,Distributed reliable key-value store for the most critical data of a distributed system,8496,39532,https://avatars.githubusercontent.com/u/41972792?v=4
-29207621,caddy,caddyserver/caddy,Go,366,"Fast, multi-platform web server with automatic HTTPS",3093,38687,https://avatars.githubusercontent.com/u/12955528?v=4
-12574344,cobra,spf13/cobra,Go,140,A Commander for modern Go CLI interactions,2282,26116,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-97533102,LeetCode-Go,halfrost/LeetCode-Go,Go,143,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",4472,24183,https://avatars.githubusercontent.com/u/10825609?u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4
-43723161,helm,helm/helm,Go,66,The Kubernetes Package Manager,6144,21519,https://avatars.githubusercontent.com/u/15859888?v=4
+14712850,syncthing,syncthing/syncthing,Go,173,Open Source Continuous File Synchronization,3382,44025,https://avatars.githubusercontent.com/u/7628018?v=4
+6838921,prometheus,prometheus/prometheus,Go,133,The Prometheus monitoring system and time series database.,7023,41955,https://avatars.githubusercontent.com/u/3380462?v=4
+11225014,etcd,etcd-io/etcd,Go,111,Distributed reliable key-value store for the most critical data of a distributed system,8496,39534,https://avatars.githubusercontent.com/u/41972792?v=4
+29207621,caddy,caddyserver/caddy,Go,366,"Fast, multi-platform web server with automatic HTTPS",3093,38692,https://avatars.githubusercontent.com/u/12955528?v=4
+12574344,cobra,spf13/cobra,Go,143,A Commander for modern Go CLI interactions,2282,26118,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+97533102,LeetCode-Go,halfrost/LeetCode-Go,Go,144,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",4472,24187,https://avatars.githubusercontent.com/u/10825609?u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4
+43723161,helm,helm/helm,Go,65,The Kubernetes Package Manager,6143,21520,https://avatars.githubusercontent.com/u/15859888?v=4
 135516270,k3s,k3s-io/k3s,Go,79,Lightweight Kubernetes,1743,19688,https://avatars.githubusercontent.com/u/49319725?v=4
-129717717,loki,grafana/loki,Go,238,"Like Prometheus, but for logs.",1910,15511,https://avatars.githubusercontent.com/u/7195757?v=4
-205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,133,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,3654,12493,https://avatars.githubusercontent.com/u/63276650?v=4
+129717717,loki,grafana/loki,Go,239,"Like Prometheus, but for logs.",1910,15512,https://avatars.githubusercontent.com/u/7195757?v=4
+205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,135,基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。,3654,12494,https://avatars.githubusercontent.com/u/63276650?v=4
 66841911,excelize,qax-os/excelize,Go,228,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1180,11440,https://avatars.githubusercontent.com/u/29733149?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,451,Find credentials all over the place,992,8033,https://avatars.githubusercontent.com/u/79229934?v=4
-413918947,turborepo,vercel/turborepo,Go,240,The High-performance Build System for JavaScript & TypeScript Codebases,322,6936,https://avatars.githubusercontent.com/u/14985020?v=4
-367758176,dtm,dtm-labs/dtm,Go,180,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",638,5515,https://avatars.githubusercontent.com/u/6055142?v=4
-127519518,subfinder,projectdiscovery/subfinder,Go,294,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,792,5368,https://avatars.githubusercontent.com/u/50994705?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,153,A prompt theme engine for any shell.,911,5342,https://avatars.githubusercontent.com/u/2492783?u=9248d9f9f137dd48b73b65b09d6d602ce2fea045&v=4
-327859577,juicefs,juicedata/juicefs,Go,76,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,461,5200,https://avatars.githubusercontent.com/u/27241737?v=4
-11931032,btcd,btcsuite/btcd,Go,19,An alternative full node bitcoin implementation written in Go (golang),1646,4729,https://avatars.githubusercontent.com/u/10235229?v=4
-267713284,httpx,projectdiscovery/httpx,Go,105,"httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.",403,2925,https://avatars.githubusercontent.com/u/50994705?v=4
-278480393,karpenter,aws/karpenter,Go,46,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",249,2679,https://avatars.githubusercontent.com/u/2232217?v=4
-262126497,syft,anchore/syft,Go,94,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,189,2273,https://avatars.githubusercontent.com/u/16208487?v=4
-105711679,protoc-gen-validate,envoyproxy/protoc-gen-validate,Go,42,protoc plugin to generate polyglot message validators,382,2116,https://avatars.githubusercontent.com/u/30125649?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,29,Generate Go client and server boilerplate from OpenAPI 3 specifications,362,1860,https://avatars.githubusercontent.com/u/47459865?v=4
-125253663,go-containerregistry,google/go-containerregistry,Go,30,Go library and CLIs for working with container registries,319,1729,https://avatars.githubusercontent.com/u/1342004?v=4
-478554949,robFoodDD,lambda765/robFoodDD,Go,45,辅助买菜,202,194,https://avatars.githubusercontent.com/u/51049551?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,446,Find credentials all over the place,992,8034,https://avatars.githubusercontent.com/u/79229934?v=4
+413918947,turborepo,vercel/turborepo,Go,237,The High-performance Build System for JavaScript & TypeScript Codebases,322,6939,https://avatars.githubusercontent.com/u/14985020?v=4
+367758176,dtm,dtm-labs/dtm,Go,183,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",638,5515,https://avatars.githubusercontent.com/u/6055142?v=4
+127519518,subfinder,projectdiscovery/subfinder,Go,299,Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.,792,5370,https://avatars.githubusercontent.com/u/50994705?v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,153,A prompt theme engine for any shell.,912,5344,https://avatars.githubusercontent.com/u/2492783?u=9248d9f9f137dd48b73b65b09d6d602ce2fea045&v=4
+327859577,juicefs,juicedata/juicefs,Go,77,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,461,5199,https://avatars.githubusercontent.com/u/27241737?v=4
+11931032,btcd,btcsuite/btcd,Go,19,An alternative full node bitcoin implementation written in Go (golang),1646,4730,https://avatars.githubusercontent.com/u/10235229?v=4
+267713284,httpx,projectdiscovery/httpx,Go,120,"httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.",403,2930,https://avatars.githubusercontent.com/u/50994705?v=4
+278480393,karpenter,aws/karpenter,Go,45,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",249,2679,https://avatars.githubusercontent.com/u/2232217?v=4
+262126497,syft,anchore/syft,Go,87,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,189,2273,https://avatars.githubusercontent.com/u/16208487?v=4
+105711679,protoc-gen-validate,envoyproxy/protoc-gen-validate,Go,42,protoc plugin to generate polyglot message validators,382,2115,https://avatars.githubusercontent.com/u/30125649?v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,30,Generate Go client and server boilerplate from OpenAPI 3 specifications,362,1861,https://avatars.githubusercontent.com/u/47459865?v=4
+125253663,go-containerregistry,google/go-containerregistry,Go,33,Go library and CLIs for working with container registries,319,1730,https://avatars.githubusercontent.com/u/1342004?v=4
+478554949,robFoodDD,lambda765/robFoodDD,Go,40,辅助买菜,202,194,https://avatars.githubusercontent.com/u/51049551?v=4
