@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-36502,git,git/git,C,121,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,23412,41902,https://avatars.githubusercontent.com/u/18133?v=4
-10446890,ijkplayer,bilibili/ijkplayer,C,51,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",7805,30274,https://avatars.githubusercontent.com/u/12002442?v=4
-1614410,FFmpeg,FFmpeg/FFmpeg,C,126,Mirror of https://git.ffmpeg.org/ffmpeg.git,9525,29242,https://avatars.githubusercontent.com/u/729418?v=4
-7634677,openssl,openssl/openssl,C,63,TLS/SSL and crypto library,7961,18224,https://avatars.githubusercontent.com/u/3279138?v=4
-196353673,TDengine,taosdata/TDengine,C,130,"An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.",4329,18213,https://avatars.githubusercontent.com/u/48876650?v=4
-47409672,hashcat,hashcat/hashcat,C,845,World's fastest and most advanced password recovery utility,2114,13337,https://avatars.githubusercontent.com/u/15949799?v=4
-184981,memcached,memcached/memcached,C,28,memcached development tree,3074,11768,https://avatars.githubusercontent.com/u/41836?v=4
-3784017,tengine,alibaba/tengine,C,20,A distribution of Nginx with some advanced features,2412,11413,https://avatars.githubusercontent.com/u/1961952?v=4
-45821540,openwrt,openwrt/openwrt,C,133,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,7250,11333,https://avatars.githubusercontent.com/u/2528830?v=4
-480080,openresty,openresty/openresty,C,27,High Performance Web Platform Based on Nginx and LuaJIT,1372,10389,https://avatars.githubusercontent.com/u/7390180?v=4
-13836499,raylib,raysan5/raylib,C,208,A simple and easy-to-use library to enjoy videogames programming,1130,9453,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
+10744183,netdata,netdata/netdata,C,114,"Real-time performance monitoring, done right! https://www.netdata.cloud",5279,58978,https://avatars.githubusercontent.com/u/43390781?v=4
+36502,git,git/git,C,118,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,23412,41903,https://avatars.githubusercontent.com/u/18133?v=4
+10446890,ijkplayer,bilibili/ijkplayer,C,51,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",7805,30275,https://avatars.githubusercontent.com/u/12002442?v=4
+1614410,FFmpeg,FFmpeg/FFmpeg,C,129,Mirror of https://git.ffmpeg.org/ffmpeg.git,9529,29242,https://avatars.githubusercontent.com/u/729418?v=4
+569041,curl,curl/curl,C,107,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",5043,24805,https://avatars.githubusercontent.com/u/16928085?v=4
+24586308,os-tutorial,cfenollosa/os-tutorial,C,109,How to create an OS from scratch,2853,22879,https://avatars.githubusercontent.com/u/2249551?u=89653230eaad2d58b34ad328cca51f3e73144316&v=4
+7634677,openssl,openssl/openssl,C,64,TLS/SSL and crypto library,7963,18227,https://avatars.githubusercontent.com/u/3279138?v=4
+196353673,TDengine,taosdata/TDengine,C,122,"An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.",4329,18213,https://avatars.githubusercontent.com/u/48876650?v=4
+34921116,bcc,iovisor/bcc,C,78,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",2795,14311,https://avatars.githubusercontent.com/u/12766186?v=4
+47409672,hashcat,hashcat/hashcat,C,842,World's fastest and most advanced password recovery utility,2114,13364,https://avatars.githubusercontent.com/u/15949799?v=4
+45821540,openwrt,openwrt/openwrt,C,130,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,7252,11335,https://avatars.githubusercontent.com/u/2528830?v=4
+13836499,raylib,raysan5/raylib,C,208,A simple and easy-to-use library to enjoy videogames programming,1130,9454,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
 65899476,esp-idf,espressif/esp-idf,C,54,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,5350,8344,https://avatars.githubusercontent.com/u/9460735?v=4
-192805335,mimalloc,microsoft/mimalloc,C,49,mimalloc is a compact general purpose allocator with excellent performance.,489,6619,https://avatars.githubusercontent.com/u/6154722?v=4
-14735429,capstone,capstone-engine/capstone,C,17,"Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.",1299,5595,https://avatars.githubusercontent.com/u/13388937?v=4
-38617,sqlcipher,sqlcipher/sqlcipher,C,19,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1151,4951,https://avatars.githubusercontent.com/u/649049?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,129,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,333,4544,https://avatars.githubusercontent.com/u/51009775?v=4
-27359183,GmSSL,guanzhi/GmSSL,C,44,支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱,1181,3005,https://avatars.githubusercontent.com/u/1787781?u=c71c577b7da3afe39a461344fdca316d82f91735&v=4
-330980599,coder-kung-fu,yanfeizhang/coder-kung-fu,C,217,开发内功修炼,527,2765,https://avatars.githubusercontent.com/u/6801783?u=f48017dcdf757b5f5e8a3776c7d69b26d574ac58&v=4
-204459250,xv6-riscv,mit-pdos/xv6-riscv,C,35,Xv6 for RISC-V,778,2409,https://avatars.githubusercontent.com/u/12404246?v=4
-66966208,src,openbsd/src,C,25,Public git conversion mirror of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.,696,2342,https://avatars.githubusercontent.com/u/929183?v=4
-45734719,litex,enjoy-digital/litex,C,22,"Build your hardware, easily!",342,1545,https://avatars.githubusercontent.com/u/1450143?u=1a9912f1a280ca3120df158d0d6eca1af88f04fe&v=4
-28928522,wolfssl,wolfSSL/wolfssl,C,25,"The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!",568,1534,https://avatars.githubusercontent.com/u/5891092?v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,44,Flipper Zero Firmware,217,1368,https://avatars.githubusercontent.com/u/57576566?v=4
-152338895,libbpf,libbpf/libbpf,C,19,Automated upstream mirror for libbpf stand-alone build.,213,851,https://avatars.githubusercontent.com/u/44008517?v=4
-51990771,CMSIS_5,ARM-software/CMSIS_5,C,17,CMSIS Version 5 Development Repository,922,497,https://avatars.githubusercontent.com/u/5690313?v=4
+5414488,mongoose,cesanta/mongoose,C,39,Embedded Web Server,2295,8204,https://avatars.githubusercontent.com/u/5111322?v=4
+437011,zfs,openzfs/zfs,C,26,OpenZFS on Linux and FreeBSD,1450,7779,https://avatars.githubusercontent.com/u/4510897?v=4
+192805335,mimalloc,microsoft/mimalloc,C,53,mimalloc is a compact general purpose allocator with excellent performance.,489,6619,https://avatars.githubusercontent.com/u/6154722?v=4
+37060852,betaflight,betaflight/betaflight,C,26,Open Source Flight Controller Firmware,2267,5660,https://avatars.githubusercontent.com/u/19597933?v=4
+14735429,capstone,capstone-engine/capstone,C,16,"Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.",1299,5595,https://avatars.githubusercontent.com/u/13388937?v=4
+31806094,sysbench,akopytov/sysbench,C,19,Scriptable database and system performance benchmark,896,4477,https://avatars.githubusercontent.com/u/1174709?v=4
+157590294,Telegram-iOS,TelegramMessenger/Telegram-iOS,C,29,Telegram-iOS,939,3512,https://avatars.githubusercontent.com/u/22377696?v=4
+27359183,GmSSL,guanzhi/GmSSL,C,43,支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱,1181,3005,https://avatars.githubusercontent.com/u/1787781?u=c71c577b7da3afe39a461344fdca316d82f91735&v=4
+66966208,src,openbsd/src,C,24,Public git conversion mirror of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.,696,2342,https://avatars.githubusercontent.com/u/929183?v=4
+28928522,wolfssl,wolfSSL/wolfssl,C,24,"The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!",568,1534,https://avatars.githubusercontent.com/u/5891092?v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,45,Flipper Zero Firmware,217,1369,https://avatars.githubusercontent.com/u/57576566?v=4
+51990771,CMSIS_5,ARM-software/CMSIS_5,C,18,CMSIS Version 5 Development Repository,923,498,https://avatars.githubusercontent.com/u/5690313?v=4
