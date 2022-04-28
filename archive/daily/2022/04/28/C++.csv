@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1181927,bitcoin,bitcoin/bitcoin,C++,38,Bitcoin Core integration/staging tree,32263,63631,https://avatars.githubusercontent.com/u/528860?v=4
-44838949,swift,apple/swift,C++,20,The Swift Programming Language,9550,59374,https://avatars.githubusercontent.com/u/10639145?v=4
-65600975,pytorch,pytorch/pytorch,C++,31,Tensors and Dynamic neural networks in Python with strong GPU acceleration,15433,55595,https://avatars.githubusercontent.com/u/21003710?v=4
-39840932,googletest,google/googletest,C++,14,GoogleTest - Google Testing and Mocking Framework,8484,25688,https://avatars.githubusercontent.com/u/1342004?v=4
-4524181,folly,facebook/folly,C++,12,An open-source C++ library developed and used at Facebook.,4618,21774,https://avatars.githubusercontent.com/u/69631?v=4
-26038648,spdlog,gabime/spdlog,C++,10,Fast C++ logging library.,3079,14431,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-14981376,dogecoin,dogecoin/dogecoin,C++,8,very currency,2531,13938,https://avatars.githubusercontent.com/u/6122353?v=4
-143455116,filament,google/filament,C++,9,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",1354,13866,https://avatars.githubusercontent.com/u/1342004?v=4
-102692863,onnx,onnx/onnx,C++,8,Open standard for machine learning interoperability,2679,12416,https://avatars.githubusercontent.com/u/31675368?v=4
-1605598,bullet3,bulletphysics/bullet3,C++,8,"Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",2484,9225,https://avatars.githubusercontent.com/u/6955508?v=4
-283410102,workflow,sogou/workflow,C++,18,C++ Parallel Computing and Asynchronous Networking Engine,1550,7883,https://avatars.githubusercontent.com/u/15903299?v=4
-23086893,re2,google/re2,C++,4,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",978,6819,https://avatars.githubusercontent.com/u/1342004?v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,6,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1548,6614,https://avatars.githubusercontent.com/u/6154722?v=4
-181436799,MNN,alibaba/MNN,C++,3,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",1358,6628,https://avatars.githubusercontent.com/u/1961952?v=4
-194269070,skyline,skyline-emu/skyline,C++,58,Run Nintendo Switch homebrew & games on your Android device!,965,6213,https://avatars.githubusercontent.com/u/52578041?v=4
-1690480,QGIS,qgis/QGIS,C++,10,"QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",2280,5713,https://avatars.githubusercontent.com/u/483444?v=4
-99302204,udp2raw,wangyu-/udp2raw,C++,6,"A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)",999,5082,https://avatars.githubusercontent.com/u/4922024?u=45aeb0be8d4a7b1e0a259cce75de47ee3720cff7&v=4
-244694174,connectedhomeip,project-chip/connectedhomeip,C++,4,"Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).",772,3592,https://avatars.githubusercontent.com/u/61027988?v=4
-81634683,oneflow,Oneflow-Inc/oneflow,C++,22,OneFlow is a performance-centered and open-source deep learning framework.,401,3256,https://avatars.githubusercontent.com/u/24632470?v=4
+11171548,json,nlohmann/json,C++,14,JSON for Modern C++,5126,29849,https://avatars.githubusercontent.com/u/159488?v=4
+39840932,googletest,google/googletest,C++,14,GoogleTest - Google Testing and Mocking Framework,8484,25689,https://avatars.githubusercontent.com/u/1342004?v=4
+4524181,folly,facebook/folly,C++,10,An open-source C++ library developed and used at Facebook.,4618,21774,https://avatars.githubusercontent.com/u/69631?v=4
+19953044,flatbuffers,google/flatbuffers,C++,7,FlatBuffers: Memory Efficient Serialization Library,2767,17809,https://avatars.githubusercontent.com/u/1342004?v=4
+26038648,spdlog,gabime/spdlog,C++,10,Fast C++ logging library.,3079,14432,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+7056202,fmt,fmtlib/fmt,C++,8,A modern formatting library,1689,14058,https://avatars.githubusercontent.com/u/7280830?v=4
+54360307,uWebSockets,uNetworking/uWebSockets,C++,9,"Simple, secure & standards compliant web server for the most demanding of applications",1530,13747,https://avatars.githubusercontent.com/u/28876608?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,2,A fast JSON parser/generator for C++ with both SAX/DOM style API,3164,11969,https://avatars.githubusercontent.com/u/18461506?v=4
+38581626,pybind11,pybind/pybind11,C++,12,Seamless operability between C++11 and Python,1569,10908,https://avatars.githubusercontent.com/u/17565521?v=4
+104231541,abseil-cpp,abseil/abseil-cpp,C++,6,Abseil Common Libraries (C++),1933,10296,https://avatars.githubusercontent.com/u/26718316?v=4
+243487250,chineseocr_lite,DayBreak-u/chineseocr_lite,C++,9,"超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",1832,8902,https://avatars.githubusercontent.com/u/42023607?u=0aca31a8f19272c25b300963e583877599105b86&v=4
+24494032,mysql-server,mysql/mysql-server,C++,9,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.",2993,7720,https://avatars.githubusercontent.com/u/2452804?v=4
+204593825,STL,microsoft/STL,C++,7,MSVC's implementation of the C++ Standard Library.,1096,7698,https://avatars.githubusercontent.com/u/6154722?v=4
+12756992,opencv_contrib,opencv/opencv_contrib,C++,7,Repository for OpenCV's extra modules,5355,7419,https://avatars.githubusercontent.com/u/5009934?v=4
+31197250,glog,google/glog,C++,3,C++ implementation of the Google logging module,1842,5268,https://avatars.githubusercontent.com/u/1342004?v=4
+138754790,duckdb,duckdb/duckdb,C++,35,DuckDB is an in-process SQL OLAP Database Management System,454,4815,https://avatars.githubusercontent.com/u/82039556?v=4
+109291007,perspective,finos/perspective,C++,18,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",463,4432,https://avatars.githubusercontent.com/u/35377814?v=4
+143131,cppcheck,danmar/cppcheck,C++,1,static analysis of C/C++ code,1200,4091,https://avatars.githubusercontent.com/u/60195?v=4
+3030065,gnuradio,gnuradio/gnuradio,C++,34,GNU Radio – the Free and Open Software Radio Ecosystem,1661,3760,https://avatars.githubusercontent.com/u/1278659?v=4
+81634683,oneflow,Oneflow-Inc/oneflow,C++,21,OneFlow is a performance-centered and open-source deep learning framework.,401,3258,https://avatars.githubusercontent.com/u/24632470?v=4
 153097643,openvino,openvinotoolkit/openvino,C++,7,OpenVINO™ Toolkit repository,1371,3214,https://avatars.githubusercontent.com/u/55443902?v=4
-83542585,LeetCode,wisdompeak/LeetCode,C++,41,This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.,751,2997,https://avatars.githubusercontent.com/u/25891014?v=4
-58414589,oneDNN,oneapi-src/oneDNN,C++,0,oneAPI Deep Neural Network Library (oneDNN),757,2763,https://avatars.githubusercontent.com/u/60144784?v=4
-48289924,ESPAsyncWebServer,me-no-dev/ESPAsyncWebServer,C++,2,Async Web Server for ESP8266 and ESP32,727,2322,https://avatars.githubusercontent.com/u/12663778?u=73fccd3b044318b8c0dece627b58c0ad608d65ba&v=4
-131630299,onnx-tensorrt,onnx/onnx-tensorrt,C++,1,ONNX-TensorRT: TensorRT backend for ONNX,445,1940,https://avatars.githubusercontent.com/u/31675368?v=4
-108592307,sumo,eclipse/sumo,C++,5,"Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.",908,1485,https://avatars.githubusercontent.com/u/56974?v=4
+178545630,1earn,ffffffff0x/1earn,C++,34,"ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",647,2994,https://avatars.githubusercontent.com/u/55578766?v=4
+26494018,winmerge,WinMerge/winmerge,C++,11,"WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",437,2739,https://avatars.githubusercontent.com/u/32286726?v=4
+402945349,starrocks,StarRocks/starrocks,C++,8,"StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",522,2469,https://avatars.githubusercontent.com/u/88238841?v=4
+276269866,LIO-SAM,TixiaoShan/LIO-SAM,C++,1,LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping,734,1699,https://avatars.githubusercontent.com/u/9648219?v=4
