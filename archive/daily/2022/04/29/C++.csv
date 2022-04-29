@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-11171548,json,nlohmann/json,C++,21,JSON for Modern C++,5130,29863,https://avatars.githubusercontent.com/u/159488?v=4
-39840932,googletest,google/googletest,C++,8,GoogleTest - Google Testing and Mocking Framework,8484,25690,https://avatars.githubusercontent.com/u/1342004?v=4
-4524181,folly,facebook/folly,C++,1,An open-source C++ library developed and used at Facebook.,4621,21772,https://avatars.githubusercontent.com/u/69631?v=4
-19953044,flatbuffers,google/flatbuffers,C++,8,FlatBuffers: Memory Efficient Serialization Library,2767,17813,https://avatars.githubusercontent.com/u/1342004?v=4
-26038648,spdlog,gabime/spdlog,C++,9,Fast C++ logging library.,3081,14437,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-7056202,fmt,fmtlib/fmt,C++,16,A modern formatting library,1688,14066,https://avatars.githubusercontent.com/u/7280830?v=4
-54360307,uWebSockets,uNetworking/uWebSockets,C++,8,"Simple, secure & standards compliant web server for the most demanding of applications",1530,13752,https://avatars.githubusercontent.com/u/28876608?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3167,11969,https://avatars.githubusercontent.com/u/18461506?v=4
-38581626,pybind11,pybind/pybind11,C++,14,Seamless operability between C++11 and Python,1570,10915,https://avatars.githubusercontent.com/u/17565521?v=4
-104231541,abseil-cpp,abseil/abseil-cpp,C++,5,Abseil Common Libraries (C++),1934,10298,https://avatars.githubusercontent.com/u/26718316?v=4
-243487250,chineseocr_lite,DayBreak-u/chineseocr_lite,C++,22,"超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",1832,8920,https://avatars.githubusercontent.com/u/42023607?u=0aca31a8f19272c25b300963e583877599105b86&v=4
-24494032,mysql-server,mysql/mysql-server,C++,7,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.",2993,7723,https://avatars.githubusercontent.com/u/2452804?v=4
-204593825,STL,microsoft/STL,C++,8,MSVC's implementation of the C++ Standard Library.,1096,7702,https://avatars.githubusercontent.com/u/6154722?v=4
-12756992,opencv_contrib,opencv/opencv_contrib,C++,4,Repository for OpenCV's extra modules,5356,7421,https://avatars.githubusercontent.com/u/5009934?v=4
+11171548,json,nlohmann/json,C++,22,JSON for Modern C++,5130,29865,https://avatars.githubusercontent.com/u/159488?v=4
+39840932,googletest,google/googletest,C++,8,GoogleTest - Google Testing and Mocking Framework,8484,25691,https://avatars.githubusercontent.com/u/1342004?v=4
+4524181,folly,facebook/folly,C++,3,An open-source C++ library developed and used at Facebook.,4621,21774,https://avatars.githubusercontent.com/u/69631?v=4
+19953044,flatbuffers,google/flatbuffers,C++,10,FlatBuffers: Memory Efficient Serialization Library,2768,17817,https://avatars.githubusercontent.com/u/1342004?v=4
+26038648,spdlog,gabime/spdlog,C++,11,Fast C++ logging library.,3083,14440,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+7056202,fmt,fmtlib/fmt,C++,14,A modern formatting library,1688,14068,https://avatars.githubusercontent.com/u/7280830?v=4
+54360307,uWebSockets,uNetworking/uWebSockets,C++,8,"Simple, secure & standards compliant web server for the most demanding of applications",1531,13754,https://avatars.githubusercontent.com/u/28876608?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,2,A fast JSON parser/generator for C++ with both SAX/DOM style API,3167,11969,https://avatars.githubusercontent.com/u/18461506?v=4
+38581626,pybind11,pybind/pybind11,C++,11,Seamless operability between C++11 and Python,1571,10917,https://avatars.githubusercontent.com/u/17565521?v=4
+104231541,abseil-cpp,abseil/abseil-cpp,C++,5,Abseil Common Libraries (C++),1934,10299,https://avatars.githubusercontent.com/u/26718316?v=4
+243487250,chineseocr_lite,DayBreak-u/chineseocr_lite,C++,22,"超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",1833,8929,https://avatars.githubusercontent.com/u/42023607?u=0aca31a8f19272c25b300963e583877599105b86&v=4
+24494032,mysql-server,mysql/mysql-server,C++,7,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.",2992,7727,https://avatars.githubusercontent.com/u/2452804?v=4
+204593825,STL,microsoft/STL,C++,7,MSVC's implementation of the C++ Standard Library.,1096,7704,https://avatars.githubusercontent.com/u/6154722?v=4
+12756992,opencv_contrib,opencv/opencv_contrib,C++,3,Repository for OpenCV's extra modules,5356,7421,https://avatars.githubusercontent.com/u/5009934?v=4
 31197250,glog,google/glog,C++,2,C++ implementation of the Google logging module,1842,5270,https://avatars.githubusercontent.com/u/1342004?v=4
 138754790,duckdb,duckdb/duckdb,C++,22,DuckDB is an in-process SQL OLAP Database Management System,456,4822,https://avatars.githubusercontent.com/u/82039556?v=4
-109291007,perspective,finos/perspective,C++,19,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",464,4445,https://avatars.githubusercontent.com/u/35377814?v=4
+109291007,perspective,finos/perspective,C++,18,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",464,4445,https://avatars.githubusercontent.com/u/35377814?v=4
 143131,cppcheck,danmar/cppcheck,C++,5,static analysis of C/C++ code,1203,4095,https://avatars.githubusercontent.com/u/60195?v=4
-3030065,gnuradio,gnuradio/gnuradio,C++,12,GNU Radio – the Free and Open Software Radio Ecosystem,1662,3766,https://avatars.githubusercontent.com/u/1278659?v=4
-81634683,oneflow,Oneflow-Inc/oneflow,C++,23,OneFlow is a performance-centered and open-source deep learning framework.,399,3277,https://avatars.githubusercontent.com/u/24632470?v=4
+3030065,gnuradio,gnuradio/gnuradio,C++,9,GNU Radio – the Free and Open Software Radio Ecosystem,1662,3767,https://avatars.githubusercontent.com/u/1278659?v=4
+81634683,oneflow,Oneflow-Inc/oneflow,C++,22,OneFlow is a performance-centered and open-source deep learning framework.,399,3278,https://avatars.githubusercontent.com/u/24632470?v=4
 153097643,openvino,openvinotoolkit/openvino,C++,3,OpenVINO™ Toolkit repository,1371,3216,https://avatars.githubusercontent.com/u/55443902?v=4
-178545630,1earn,ffffffff0x/1earn,C++,16,"ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",647,3003,https://avatars.githubusercontent.com/u/55578766?v=4
-26494018,winmerge,WinMerge/winmerge,C++,10,"WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",437,2746,https://avatars.githubusercontent.com/u/32286726?v=4
-402945349,starrocks,StarRocks/starrocks,C++,5,"StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",523,2473,https://avatars.githubusercontent.com/u/88238841?v=4
-276269866,LIO-SAM,TixiaoShan/LIO-SAM,C++,1,LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping,734,1698,https://avatars.githubusercontent.com/u/9648219?v=4
+178545630,1earn,ffffffff0x/1earn,C++,16,"ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",647,3008,https://avatars.githubusercontent.com/u/55578766?v=4
+26494018,winmerge,WinMerge/winmerge,C++,8,"WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",437,2746,https://avatars.githubusercontent.com/u/32286726?v=4
+402945349,starrocks,StarRocks/starrocks,C++,6,"StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",523,2475,https://avatars.githubusercontent.com/u/88238841?v=4
+276269866,LIO-SAM,TixiaoShan/LIO-SAM,C++,0,LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping,734,1698,https://avatars.githubusercontent.com/u/9648219?v=4
