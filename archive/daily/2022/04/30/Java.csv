@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2562751,zxing,zxing/zxing,Java,7,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android",9208,29465,https://avatars.githubusercontent.com/u/1122572?v=4
-7587038,canal,alibaba/canal,Java,21,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,6737,22811,https://avatars.githubusercontent.com/u/1961952?v=4
-20587599,flink,apache/flink,Java,64,Apache Flink,10653,18753,https://avatars.githubusercontent.com/u/47359?v=4
-6207167,mockito,mockito/mockito,Java,7,Most popular Mocking framework for unit tests written in Java,2264,12830,https://avatars.githubusercontent.com/u/2054056?v=4
-23418517,hadoop,apache/hadoop,Java,10,Apache Hadoop,7797,12533,https://avatars.githubusercontent.com/u/47359?v=4
-221862,lombok,projectlombok/lombok,Java,8,Very spicy additions to the Java programming language.,2111,11121,https://avatars.githubusercontent.com/u/45949248?v=4
+507775,elasticsearch,elastic/elasticsearch,Java,12,"Free and Open, Distributed, RESTful Search Engine",21645,59378,https://avatars.githubusercontent.com/u/6764390?v=4
+9754983,tutorials,eugenp/tutorials,Java,12,"Just Announced - ""Learn Spring Security OAuth"": ",48574,30285,https://avatars.githubusercontent.com/u/1022859?v=4
+2562751,zxing,zxing/zxing,Java,9,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android",9208,29465,https://avatars.githubusercontent.com/u/1122572?v=4
+7587038,canal,alibaba/canal,Java,22,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,6737,22812,https://avatars.githubusercontent.com/u/1961952?v=4
+13862381,Telegram,DrKLO/Telegram,Java,6,Telegram for Android source,6840,19777,https://avatars.githubusercontent.com/u/69369?v=4
+20587599,flink,apache/flink,Java,35,Apache Flink,10653,18761,https://avatars.githubusercontent.com/u/47359?v=4
+133134007,openapi-generator,OpenAPITools/openapi-generator,Java,10,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",4147,11974,https://avatars.githubusercontent.com/u/37325267?v=4
 20275545,guice,google/guice,Java,11,"Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.",1560,11030,https://avatars.githubusercontent.com/u/1342004?v=4
 117965972,DataX,alibaba/DataX,Java,15,DataX是阿里云DataWorks数据集成的开源版本。,4048,11008,https://avatars.githubusercontent.com/u/1961952?v=4
-2352744,cas,apereo/cas,Java,5,Apereo CAS - Identity & Single Sign On for all earthlings and beyond.,3732,9400,https://avatars.githubusercontent.com/u/4679233?v=4
-237867883,metersphere,metersphere/metersphere,Java,6,MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！,1779,7230,https://avatars.githubusercontent.com/u/56869043?v=4
-283046497,airbyte,airbytehq/airbyte,Java,10,"Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",1261,6551,https://avatars.githubusercontent.com/u/59758427?v=4
-2493904,tomcat,apache/tomcat,Java,2,Apache Tomcat,4119,6005,https://avatars.githubusercontent.com/u/47359?v=4
-66023605,aws-doc-sdk-examples,awsdocs/aws-doc-sdk-examples,Java,3,"Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below.",3666,5228,https://avatars.githubusercontent.com/u/8661631?v=4
-4470435,mapstruct,mapstruct/mapstruct,Java,8,An annotation processor for generating type-safe bean mappers,711,5148,https://avatars.githubusercontent.com/u/4086779?v=4
-69400326,ksql,confluentinc/ksql,Java,5,The database purpose-built for stream processing applications.,931,4912,https://avatars.githubusercontent.com/u/9439498?v=4
-248032165,spring-authorization-server,spring-projects/spring-authorization-server,Java,3,The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.,744,3501,https://avatars.githubusercontent.com/u/317776?v=4
-27911088,nifi,apache/nifi,Java,3,Apache NiFi,2229,3113,https://avatars.githubusercontent.com/u/47359?v=4
-76474200,hudi,apache/hudi,Java,7,"Upserts, Deletes And Incremental Processing on Big Data.",1374,3087,https://avatars.githubusercontent.com/u/47359?v=4
-7420937,camunda-bpm-platform,camunda/camunda-bpm-platform,Java,5,"Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Spring, Spring Boot, CDI.",1140,2652,https://avatars.githubusercontent.com/u/2443838?v=4
-283325,logback,qos-ch/logback,Java,0,"The reliable, generic, fast and flexible logging framework for Java.",1115,2402,https://avatars.githubusercontent.com/u/1521407?v=4
-52948965,spring-security-oauth,Baeldung/spring-security-oauth,Java,2,"Just Announced - ""Learn Spring Security OAuth"": ",1656,1726,https://avatars.githubusercontent.com/u/22412497?v=4
-178034763,proguard,Guardsquare/proguard,Java,7,"ProGuard, Java optimizer and obfuscator",235,1375,https://avatars.githubusercontent.com/u/17545095?v=4
-3743376,DSpace,DSpace/DSpace,Java,2,(Official) The DSpace digital asset management system that powers your Institutional Repository,1118,637,https://avatars.githubusercontent.com/u/428620?v=4
-394557718,trainguys-animation-overhaul,Trainguy9512/trainguys-animation-overhaul,Java,11,,65,137,https://avatars.githubusercontent.com/u/70923591?u=9c8e6ffd405f2262775fd73a854ed3e8afe21a59&v=4
-485904467,project-loom-c5m,ebarlas/project-loom-c5m,Java,10,Experiment to achieve 5 million persistent connections with Project Loom virtual threads,3,86,https://avatars.githubusercontent.com/u/221014?u=ed7e2f9b15902ec14473d4f432e6557e92cd59fc&v=4
+139914932,quarkus,quarkusio/quarkus,Java,16,Quarkus: Supersonic Subatomic Java. ,1782,9839,https://avatars.githubusercontent.com/u/47638783?v=4
+111241370,capacitor,ionic-team/capacitor,Java,4,"Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",751,7335,https://avatars.githubusercontent.com/u/3171503?v=4
+113983289,kkFileView,kekingcn/kkFileView,Java,2,spring-boot打造文件文档在线预览项目,1958,6919,https://avatars.githubusercontent.com/u/34474076?v=4
+283046497,airbyte,airbytehq/airbyte,Java,13,"Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",1261,6552,https://avatars.githubusercontent.com/u/59758427?v=4
+166515022,trino,trinodb/trino,Java,3,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",1721,5324,https://avatars.githubusercontent.com/u/34147222?v=4
+124230204,micronaut-core,micronaut-projects/micronaut-core,Java,2,Micronaut Application Framework,906,5306,https://avatars.githubusercontent.com/u/36880643?v=4
+70780002,flowable-engine,flowable/flowable-engine,Java,5,"A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.",2046,5152,https://avatars.githubusercontent.com/u/22557067?v=4
+31006158,ignite,apache/ignite,Java,3,Apache Ignite,1766,4136,https://avatars.githubusercontent.com/u/47359?v=4
+58194180,strimzi-kafka-operator,strimzi/strimzi-kafka-operator,Java,3,Apache Kafka® running on Kubernetes,856,3122,https://avatars.githubusercontent.com/u/34767428?v=4
+27911088,nifi,apache/nifi,Java,5,Apache NiFi,2229,3113,https://avatars.githubusercontent.com/u/47359?v=4
+143298715,FairEmail,M66B/FairEmail,Java,3,"Fully featured, open source, privacy friendly email app for Android",360,2948,https://avatars.githubusercontent.com/u/259573?v=4
+37816257,javamelody,javamelody/javamelody,Java,7,JavaMelody : monitoring of JavaEE applications,700,2567,https://avatars.githubusercontent.com/u/6567849?v=4
+124256520,SikuliX1,RaiMan/SikuliX1,Java,6,SikuliX version 2.0.0+ (2019+),253,1753,https://avatars.githubusercontent.com/u/586370?v=4
+312830970,wvp-GB28181-pro,648540858/wvp-GB28181-pro,Java,8,WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。,472,1326,https://avatars.githubusercontent.com/u/18274453?u=0650a1000adb880f9ce571206435ed61b7410fe2&v=4
+341631350,lucene,apache/lucene,Java,1,Apache Lucene open-source search software,437,872,https://avatars.githubusercontent.com/u/47359?v=4
+394557718,trainguys-animation-overhaul,Trainguy9512/trainguys-animation-overhaul,Java,16,,65,137,https://avatars.githubusercontent.com/u/70923591?u=9c8e6ffd405f2262775fd73a854ed3e8afe21a59&v=4
