@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-100060912,terminal,microsoft/terminal,C++,32,"The new Windows Terminal and the original Windows console host, all in the same place!",7339,82783,https://avatars.githubusercontent.com/u/6154722?v=4
-22067521,imgui,ocornut/imgui,C++,20,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,6634,37976,https://avatars.githubusercontent.com/u/8225057?u=01bf929efb697d8ff49effc3b08ea180b54f5564&v=4
+100060912,terminal,microsoft/terminal,C++,31,"The new Windows Terminal and the original Windows console host, all in the same place!",7340,82782,https://avatars.githubusercontent.com/u/6154722?v=4
+65600975,pytorch,pytorch/pytorch,C++,30,Tensors and Dynamic neural networks in Python with strong GPU acceleration,15481,55774,https://avatars.githubusercontent.com/u/21003710?v=4
+12791642,caffe,BVLC/caffe,C++,8,Caffe: a fast open framework for deep learning.,18997,32581,https://avatars.githubusercontent.com/u/6182163?v=4
 39840932,googletest,google/googletest,C++,4,GoogleTest - Google Testing and Mocking Framework,8493,25727,https://avatars.githubusercontent.com/u/1342004?v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,14,ClickHouse® is a free analytics DBMS for big data,4688,23531,https://avatars.githubusercontent.com/u/54801242?v=4
-4524181,folly,facebook/folly,C++,3,An open-source C++ library developed and used at Facebook.,4629,21802,https://avatars.githubusercontent.com/u/69631?v=4
-1062572,Catch2,catchorg/Catch2,C++,5,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2554,14905,https://avatars.githubusercontent.com/u/33321405?v=4
-420580521,smartknob,scottbez1/smartknob,C++,125,Haptic input knob with software-defined endstops and virtual detents,458,9132,https://avatars.githubusercontent.com/u/414890?u=589508b11b9260a496d1735579ab79c77b49558e&v=4
-265995,vowpal_wabbit,VowpalWabbit/vowpal_wabbit,C++,8,"Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  ",1803,7953,https://avatars.githubusercontent.com/u/43754238?v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,11,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1557,6665,https://avatars.githubusercontent.com/u/6154722?v=4
-194269070,skyline,skyline-emu/skyline,C++,66,Run Nintendo Switch homebrew & games on your Android device!,1003,6743,https://avatars.githubusercontent.com/u/52578041?v=4
-5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,3,PX4 Autopilot Software,11681,5421,https://avatars.githubusercontent.com/u/2096014?v=4
-128479644,esphome,esphome/esphome,C++,2,ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.,1563,4794,https://avatars.githubusercontent.com/u/45919759?v=4
+6934395,rocksdb,facebook/rocksdb,C++,11,"A library that provides an embeddable, persistent key-value store for fast storage.",5138,22474,https://avatars.githubusercontent.com/u/69631?v=4
+40892817,solidity,ethereum/solidity,C++,27,"Solidity, the Smart Contract Programming Language",3934,16542,https://avatars.githubusercontent.com/u/6250754?v=4
+7056202,fmt,fmtlib/fmt,C++,10,A modern formatting library,1694,14105,https://avatars.githubusercontent.com/u/7280830?v=4
+38581626,pybind11,pybind/pybind11,C++,5,Seamless operability between C++11 and Python,1575,10949,https://avatars.githubusercontent.com/u/17565521?v=4
+310611,thrift,apache/thrift,C++,1,Apache Thrift,3821,9056,https://avatars.githubusercontent.com/u/47359?v=4
+23641816,sanitizers,google/sanitizers,C++,13,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",828,8104,https://avatars.githubusercontent.com/u/1342004?v=4
+32944298,z3,Z3Prover/z3,C++,4,The Z3 Theorem Prover,1211,7404,https://avatars.githubusercontent.com/u/11668813?v=4
+16309670,gperftools,gperftools/gperftools,C++,5,Main gperftools repository,1336,6756,https://avatars.githubusercontent.com/u/6523841?v=4
+156939672,onnxruntime,microsoft/onnxruntime,C++,10,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1557,6665,https://avatars.githubusercontent.com/u/6154722?v=4
+21530861,jsoncpp,open-source-parsers/jsoncpp,C++,5,A C++ library for interacting with JSON.,2317,6331,https://avatars.githubusercontent.com/u/8078093?v=4
+354743391,o3de,o3de/o3de,C++,11,"Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",1446,4672,https://avatars.githubusercontent.com/u/68126246?v=4
+244694174,connectedhomeip,project-chip/connectedhomeip,C++,5,"Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).",785,3623,https://avatars.githubusercontent.com/u/61027988?v=4
 153097643,openvino,openvinotoolkit/openvino,C++,3,OpenVINO™ Toolkit repository,1376,3231,https://avatars.githubusercontent.com/u/55443902?v=4
-256049233,WindowsAppSDK,microsoft/WindowsAppSDK,C++,1,"The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",188,2801,https://avatars.githubusercontent.com/u/6154722?v=4
-148821256,luau,Roblox/luau,C++,16,"A fast, small, safe, gradually typed embeddable scripting language derived from Lua",199,2431,https://avatars.githubusercontent.com/u/4195619?v=4
-328893373,LANDrop,LANDrop/LANDrop,C++,18,Drop any files to any devices on your LAN.,249,2520,https://avatars.githubusercontent.com/u/77804208?v=4
-119178893,naiveproxy,klzgrad/naiveproxy,C++,6,Make a fortune quietly,347,2091,https://avatars.githubusercontent.com/u/9764056?u=2a642272134eb2475b26fbbf6f1aa898e334540b&v=4
-407814259,biosim4,davidrmiller/biosim4,C++,5,Biological evolution simulator,263,1856,https://avatars.githubusercontent.com/u/9440676?u=222eb43d35891b87ce123b80959dfb415e159fe9&v=4
-112542515,cutlass,NVIDIA/cutlass,C++,3,CUDA Templates for Linear Algebra Subroutines,327,1768,https://avatars.githubusercontent.com/u/1728152?v=4
-35440404,aws-sdk-cpp,aws/aws-sdk-cpp,C++,3,AWS SDK for C++,835,1459,https://avatars.githubusercontent.com/u/2232217?v=4
-224468265,NotepadNext,dail8859/NotepadNext,C++,40,"A cross-platform, reimplementation of Notepad++",47,1332,https://avatars.githubusercontent.com/u/3694843?v=4
-114565720,jsbsim,JSBSim-Team/jsbsim,C++,12,An open source flight dynamics & control software library,214,571,https://avatars.githubusercontent.com/u/34631495?v=4
-477253530,chrome_plus,shuax/chrome_plus,C++,8,Chrome 增强软件,82,320,https://avatars.githubusercontent.com/u/6940583?u=cc002205b3d0c9ca5410b0d504451af091bc124e&v=4
-324569839,YimMenu,Yimura/YimMenu,C++,2,"Skids galore, a good GTA V menu that's open source, muhahaha.",51,91,https://avatars.githubusercontent.com/u/24669514?u=c6cc67003fb3f75a0697a9beb5ee46632a841e3a&v=4
-436989856,LOTPRobotdog2,SMDHuman/LOTPRobotdog2,C++,4,Opensource Modular Robot dog project. ,7,41,https://avatars.githubusercontent.com/u/48795375?u=a67b86d48f5cf3276ad577e49b176a274f8e108a&v=4
+6148317,gdal,OSGeo/gdal,C++,0,GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.,1732,3079,https://avatars.githubusercontent.com/u/1058467?v=4
+402945349,starrocks,StarRocks/starrocks,C++,12,"StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",528,2503,https://avatars.githubusercontent.com/u/88238841?v=4
+148821256,luau,Roblox/luau,C++,13,"A fast, small, safe, gradually typed embeddable scripting language derived from Lua",199,2432,https://avatars.githubusercontent.com/u/4195619?v=4
+328893373,LANDrop,LANDrop/LANDrop,C++,19,Drop any files to any devices on your LAN.,249,2525,https://avatars.githubusercontent.com/u/77804208?v=4
+313501668,wenet,wenet-e2e/wenet,C++,5,Production First and Production Ready End-to-End Speech Recognition Toolkit,552,2015,https://avatars.githubusercontent.com/u/84374044?v=4
+202483348,incubator-kvrocks,apache/incubator-kvrocks,C++,12,Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.,161,1426,https://avatars.githubusercontent.com/u/47359?v=4
+446669267,huatuo,focus-creative-games/huatuo,C++,12,"huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",211,1177,https://avatars.githubusercontent.com/u/71439677?v=4
+224468265,NotepadNext,dail8859/NotepadNext,C++,36,"A cross-platform, reimplementation of Notepad++",47,1337,https://avatars.githubusercontent.com/u/3694843?v=4
