@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,50,Production-Grade Container Scheduling and Management,32503,88675,https://avatars.githubusercontent.com/u/13629408?v=4
-15045751,compose,docker/compose,Go,23,Define and run multi-container applications with Docker,4387,25926,https://avatars.githubusercontent.com/u/5429470?v=4
-30215630,kit,go-kit/kit,Go,9,A standard library for microservices.,2314,23077,https://avatars.githubusercontent.com/u/10981023?v=4
-18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1660,19314,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,48,Production-Grade Container Scheduling and Management,32503,88677,https://avatars.githubusercontent.com/u/13629408?v=4
+15045751,compose,docker/compose,Go,23,Define and run multi-container applications with Docker,4386,25928,https://avatars.githubusercontent.com/u/5429470?v=4
+30215630,kit,go-kit/kit,Go,9,A standard library for microservices.,2314,23075,https://avatars.githubusercontent.com/u/10981023?v=4
+18369373,viper,spf13/viper,Go,13,Go configuration with fangs,1660,19314,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
 11393110,cli,urfave/cli,Go,14,"A simple, fast, and fun package for building command line apps in Go",1564,18348,https://avatars.githubusercontent.com/u/19274464?v=4
-285864199,go-zero,zeromicro/go-zero,Go,26,A cloud-native Go microservices framework with cli tool for productivity.,2512,17750,https://avatars.githubusercontent.com/u/74225106?v=4
-6247705,testify,stretchr/testify,Go,15,A toolkit with common assertions and mocks that plays nicely with the standard library,1239,16422,https://avatars.githubusercontent.com/u/1841476?v=4
-129717717,loki,grafana/loki,Go,22,"Like Prometheus, but for logs.",1975,15941,https://avatars.githubusercontent.com/u/7195757?v=4
+285864199,go-zero,zeromicro/go-zero,Go,27,A cloud-native Go microservices framework with cli tool for productivity.,2512,17749,https://avatars.githubusercontent.com/u/74225106?v=4
+6247705,testify,stretchr/testify,Go,18,A toolkit with common assertions and mocks that plays nicely with the standard library,1239,16423,https://avatars.githubusercontent.com/u/1841476?v=4
+129717717,loki,grafana/loki,Go,21,"Like Prometheus, but for logs.",1976,15942,https://avatars.githubusercontent.com/u/7195757?v=4
+5179099,redis,go-redis/redis,Go,60,Type-safe Redis client for Golang,1795,14418,https://avatars.githubusercontent.com/u/7314137?v=4
 33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,13,gRPC to JSON proxy generator following the gRPC HTTP spec,1770,13350,https://avatars.githubusercontent.com/u/19352526?v=4
-208728772,milvus,milvus-io/milvus,Go,7,An open-source vector database for scalable similarity search and AI applications.,1555,10388,https://avatars.githubusercontent.com/u/51735404?v=4
-37334619,mock,golang/mock,Go,8,GoMock is a mocking framework for the Go programming language.,523,7220,https://avatars.githubusercontent.com/u/4314092?v=4
-114379163,tview,rivo/tview,Go,10,"Terminal UI library with rich, interactive widgets — written in Golang",407,6890,https://avatars.githubusercontent.com/u/480930?u=997fa500636c97f5eb6e049e1c4f5773e671b3c3&v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,32,A prompt theme engine for any shell.,1048,6186,https://avatars.githubusercontent.com/u/2492783?u=9248d9f9f137dd48b73b65b09d6d602ce2fea045&v=4
-92969352,buildkit,moby/buildkit,Go,8,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",683,5234,https://avatars.githubusercontent.com/u/27259197?v=4
-10757154,go.uuid,satori/go.uuid,Go,5,UUID package for Go,584,4576,https://avatars.githubusercontent.com/u/80474?v=4
-58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,2,Add-on agent to generate and expose cluster-level metrics.,1395,3729,https://avatars.githubusercontent.com/u/13629408?v=4
-312629343,fscan,shadow1ng/fscan,Go,5,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,703,3568,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+208728772,milvus,milvus-io/milvus,Go,6,An open-source vector database for scalable similarity search and AI applications.,1555,10389,https://avatars.githubusercontent.com/u/51735404?v=4
+37334619,mock,golang/mock,Go,8,GoMock is a mocking framework for the Go programming language.,523,7219,https://avatars.githubusercontent.com/u/4314092?v=4
+114379163,tview,rivo/tview,Go,9,"Terminal UI library with rich, interactive widgets — written in Golang",407,6891,https://avatars.githubusercontent.com/u/480930?u=997fa500636c97f5eb6e049e1c4f5773e671b3c3&v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,27,A prompt theme engine for any shell.,1048,6189,https://avatars.githubusercontent.com/u/2492783?u=9248d9f9f137dd48b73b65b09d6d602ce2fea045&v=4
+92969352,buildkit,moby/buildkit,Go,11,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",683,5235,https://avatars.githubusercontent.com/u/27259197?v=4
+10757154,go.uuid,satori/go.uuid,Go,5,UUID package for Go,584,4575,https://avatars.githubusercontent.com/u/80474?v=4
+58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,3,Add-on agent to generate and expose cluster-level metrics.,1395,3729,https://avatars.githubusercontent.com/u/13629408?v=4
+312629343,fscan,shadow1ng/fscan,Go,8,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,703,3567,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
 111455867,chainlink,smartcontractkit/chainlink,Go,4,"node of the decentralized oracle network, bridging on and off-chain computation",972,3337,https://avatars.githubusercontent.com/u/25111032?v=4
 353364259,kcp,kcp-dev/kcp,Go,8,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,206,1444,https://avatars.githubusercontent.com/u/76848170?v=4
-463027648,afrog,zan8in/afrog,Go,14,afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities,59,313,https://avatars.githubusercontent.com/u/4088460?u=e8653db5b54d2e282c160820d8b6eadffb80395e&v=4
+463027648,afrog,zan8in/afrog,Go,12,afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities,59,313,https://avatars.githubusercontent.com/u/4088460?u=e8653db5b54d2e282c160820d8b6eadffb80395e&v=4
+486432320,rockscache,dtm-labs/rockscache,Go,13,首个确保最终一致、强一致的 Redis 缓存库,11,82,https://avatars.githubusercontent.com/u/6055142?v=4
 435462112,cess-bucket,CESSProject/cess-bucket,Go,13,A mining program based on cess platform,16,55,https://avatars.githubusercontent.com/u/84394512?v=4
-486432320,rockscache,dtm-labs/rockscache,Go,9,首个确保最终一致、强一致的 Redis 缓存库,11,82,https://avatars.githubusercontent.com/u/6055142?v=4
-379067204,cql-proxy,datastax/cql-proxy,Go,65,A client-side CQL proxy/sidecar.,65,137,https://avatars.githubusercontent.com/u/573369?v=4
-337964429,astra-cli,datastax-labs/astra-cli,Go,61,DataStax Astra automation CLI https://astra.datastax.com,60,132,https://avatars.githubusercontent.com/u/88110092?v=4
+379067204,cql-proxy,datastax/cql-proxy,Go,66,A client-side CQL proxy/sidecar.,65,137,https://avatars.githubusercontent.com/u/573369?v=4
+337964429,astra-cli,datastax-labs/astra-cli,Go,43,DataStax Astra automation CLI https://astra.datastax.com,60,132,https://avatars.githubusercontent.com/u/88110092?v=4
