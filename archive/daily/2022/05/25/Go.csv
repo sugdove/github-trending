@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,34,Production-Grade Container Scheduling and Management,32516,88687,https://avatars.githubusercontent.com/u/13629408?v=4
-15045751,compose,docker/compose,Go,23,Define and run multi-container applications with Docker,4389,25937,https://avatars.githubusercontent.com/u/5429470?v=4
-30215630,kit,go-kit/kit,Go,11,A standard library for microservices.,2315,23081,https://avatars.githubusercontent.com/u/10981023?v=4
-18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1661,19326,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-11393110,cli,urfave/cli,Go,14,"A simple, fast, and fun package for building command line apps in Go",1564,18352,https://avatars.githubusercontent.com/u/19274464?v=4
-285864199,go-zero,zeromicro/go-zero,Go,36,A cloud-native Go microservices framework with cli tool for productivity.,2519,17772,https://avatars.githubusercontent.com/u/74225106?v=4
-6247705,testify,stretchr/testify,Go,17,A toolkit with common assertions and mocks that plays nicely with the standard library,1239,16429,https://avatars.githubusercontent.com/u/1841476?v=4
-129717717,loki,grafana/loki,Go,22,"Like Prometheus, but for logs.",1977,15958,https://avatars.githubusercontent.com/u/7195757?v=4
-5179099,redis,go-redis/redis,Go,31,Type-safe Redis client for Golang,1797,14467,https://avatars.githubusercontent.com/u/7314137?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,17,gRPC to JSON proxy generator following the gRPC HTTP spec,1771,13355,https://avatars.githubusercontent.com/u/19352526?v=4
-208728772,milvus,milvus-io/milvus,Go,11,An open-source vector database for scalable similarity search and AI applications.,1556,10397,https://avatars.githubusercontent.com/u/51735404?v=4
-37334619,mock,golang/mock,Go,12,GoMock is a mocking framework for the Go programming language.,525,7227,https://avatars.githubusercontent.com/u/4314092?v=4
-114379163,tview,rivo/tview,Go,11,"Terminal UI library with rich, interactive widgets — written in Golang",407,6895,https://avatars.githubusercontent.com/u/480930?u=997fa500636c97f5eb6e049e1c4f5773e671b3c3&v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,27,A prompt theme engine for any shell.,1052,6201,https://avatars.githubusercontent.com/u/2492783?u=9248d9f9f137dd48b73b65b09d6d602ce2fea045&v=4
-92969352,buildkit,moby/buildkit,Go,6,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",683,5237,https://avatars.githubusercontent.com/u/27259197?v=4
-10757154,go.uuid,satori/go.uuid,Go,3,UUID package for Go,584,4582,https://avatars.githubusercontent.com/u/80474?v=4
-58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,4,Add-on agent to generate and expose cluster-level metrics.,1397,3731,https://avatars.githubusercontent.com/u/13629408?v=4
-312629343,fscan,shadow1ng/fscan,Go,8,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,702,3576,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,4,"node of the decentralized oracle network, bridging on and off-chain computation",973,3339,https://avatars.githubusercontent.com/u/25111032?v=4
-353364259,kcp,kcp-dev/kcp,Go,9,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,206,1448,https://avatars.githubusercontent.com/u/76848170?v=4
-463027648,afrog,zan8in/afrog,Go,8,afrog 是一款性能卓越、快速稳定、PoC 可定制化的漏洞扫描工具 - A tool for finding vulnerabilities,60,322,https://avatars.githubusercontent.com/u/4088460?u=e8653db5b54d2e282c160820d8b6eadffb80395e&v=4
-486432320,rockscache,dtm-labs/rockscache,Go,13,首个确保最终一致、强一致的 Redis 缓存库,14,111,https://avatars.githubusercontent.com/u/6055142?v=4
-435462112,cess-bucket,CESSProject/cess-bucket,Go,3,A mining program based on cess platform,16,56,https://avatars.githubusercontent.com/u/84394512?v=4
-379067204,cql-proxy,datastax/cql-proxy,Go,18,A client-side CQL proxy/sidecar.,66,143,https://avatars.githubusercontent.com/u/573369?v=4
-337964429,astra-cli,datastax-labs/astra-cli,Go,66,DataStax Astra automation CLI https://astra.datastax.com,61,137,https://avatars.githubusercontent.com/u/88110092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,33,Production-Grade Container Scheduling and Management,32517,88689,https://avatars.githubusercontent.com/u/13629408?v=4
+13855476,gorm,go-gorm/gorm,Go,10,"The fantastic ORM library for Golang, aims to be developer friendly",3175,28174,https://avatars.githubusercontent.com/u/15127678?v=4
+15045751,compose,docker/compose,Go,20,Define and run multi-container applications with Docker,4389,25961,https://avatars.githubusercontent.com/u/5429470?v=4
+163883279,act,nektos/act,Go,40,Run your GitHub Actions locally 🚀,649,24506,https://avatars.githubusercontent.com/u/3813618?v=4
+59239347,portainer,portainer/portainer,Go,12,Making Docker and Kubernetes management easy.,1967,21852,https://avatars.githubusercontent.com/u/22225832?v=4
+43723161,helm,helm/helm,Go,15,The Kubernetes Package Manager,6210,21819,https://avatars.githubusercontent.com/u/15859888?v=4
+129717717,loki,grafana/loki,Go,33,"Like Prometheus, but for logs.",1977,15963,https://avatars.githubusercontent.com/u/7195757?v=4
+46806184,charts,helm/charts,Go,3,⚠️(OBSOLETE) Curated applications for Kubernetes,17205,15387,https://avatars.githubusercontent.com/u/15859888?v=4
+5179099,redis,go-redis/redis,Go,31,Type-safe Redis client for Golang,1797,14470,https://avatars.githubusercontent.com/u/7314137?v=4
+109145553,podman,containers/podman,Go,17,Podman: A tool for managing OCI containers and pods.,1432,13902,https://avatars.githubusercontent.com/u/5874934?v=4
+16554739,beats,elastic/beats,Go,6,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4439,11000,https://avatars.githubusercontent.com/u/6764390?v=4
+208728772,milvus,milvus-io/milvus,Go,14,An open-source vector database for scalable similarity search and AI applications.,1556,10398,https://avatars.githubusercontent.com/u/51735404?v=4
+40684033,sops,mozilla/sops,Go,68,Simple and flexible tool for managing secrets,595,9849,https://avatars.githubusercontent.com/u/131524?v=4
+413918947,turborepo,vercel/turborepo,Go,26,The High-performance Build System for JavaScript & TypeScript Codebases,362,7669,https://avatars.githubusercontent.com/u/14985020?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,3,Terraform AWS provider,6665,7306,https://avatars.githubusercontent.com/u/761456?v=4
+40916314,dex,dexidp/dex,Go,6,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1347,7030,https://avatars.githubusercontent.com/u/42422344?v=4
+323965659,alist,Xhofe/alist,Go,35,"🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",1037,5498,https://avatars.githubusercontent.com/u/36558727?u=cd1624afce12064d88d86111bf361f31e8522386&v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,4,:chains: A Framework for Building High Value Public Blockchains :sparkles:,1763,3984,https://avatars.githubusercontent.com/u/228843?v=4
+276822250,kubevela,kubevela/kubevela,Go,7,The Modern Application Platform.,545,3705,https://avatars.githubusercontent.com/u/74584788?v=4
+312629343,fscan,shadow1ng/fscan,Go,8,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,703,3577,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+98671007,descheduler,kubernetes-sigs/descheduler,Go,6,Descheduler for Kubernetes,469,2626,https://avatars.githubusercontent.com/u/36015203?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,2,Datadog Agent ,839,1639,https://avatars.githubusercontent.com/u/365230?v=4
+188836864,erigon,ledgerwatch/erigon,Go,5,Ethereum implementation on the efficiency frontier,337,1343,https://avatars.githubusercontent.com/u/29105044?v=4
+493491173,libaws,nathants/libaws,Go,130,aws should be easy,6,290,https://avatars.githubusercontent.com/u/1566190?u=6376e06a47665747d0065c3134d1b0915ceb1545&v=4
+492404540,zero-proxy,zero-proxy/zero-proxy,Go,15,"以太坊矿池代理，矿池中转，自定义抽水账号及比例，支持监听多个端口，连接多个矿池。采用go及node.js编写，轻量、高效、透明、稳定。可同时接入3000+设备稳定不掉线。A lightweight, efficient, transparent and stable eth mining proxy.",16,77,https://avatars.githubusercontent.com/u/104604105?u=b46a7fbfb64fc1063d89a1d864c6260736118f37&v=4
