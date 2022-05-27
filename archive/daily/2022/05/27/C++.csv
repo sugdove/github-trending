@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-100060912,terminal,microsoft/terminal,C++,34,"The new Windows Terminal and the original Windows console host, all in the same place!",7381,83297,https://avatars.githubusercontent.com/u/6154722?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,24,Protocol Buffers - Google's data interchange format,14115,54682,https://avatars.githubusercontent.com/u/26310541?v=4
-16587283,xgboost,dmlc/xgboost,C++,14,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8398,22764,https://avatars.githubusercontent.com/u/11508361?v=4
-6934395,rocksdb,facebook/rocksdb,C++,13,"A library that provides an embeddable, persistent key-value store for fast storage.",5205,22628,https://avatars.githubusercontent.com/u/69631?v=4
-4524181,folly,facebook/folly,C++,3,An open-source C++ library developed and used at Facebook.,4643,21905,https://avatars.githubusercontent.com/u/69631?v=4
-96246170,apollo,ApolloAuto/apollo,C++,11,An open autonomous driving platform,8453,20801,https://avatars.githubusercontent.com/u/28768304?v=4
-34777562,srs,ossrs/srs,C++,11,"SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.",4536,18189,https://avatars.githubusercontent.com/u/12165287?v=4
-19953044,flatbuffers,google/flatbuffers,C++,9,FlatBuffers: Memory Efficient Serialization Library,2795,17954,https://avatars.githubusercontent.com/u/1342004?v=4
-26038648,spdlog,gabime/spdlog,C++,11,Fast C++ logging library.,3128,14673,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-14981376,dogecoin,dogecoin/dogecoin,C++,7,very currency,2577,14028,https://avatars.githubusercontent.com/u/6122353?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,29,An Open Source Machine Learning Framework for Everyone,86808,165265,https://avatars.githubusercontent.com/u/15658638?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,24,Protocol Buffers - Google's data interchange format,14115,54687,https://avatars.githubusercontent.com/u/26310541?v=4
+23405758,leveldb,google/leveldb,C++,7,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,6492,29299,https://avatars.githubusercontent.com/u/1342004?v=4
+89247811,openpose,CMU-Perceptual-Computing-Lab/openpose,C++,11,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",7138,24251,https://avatars.githubusercontent.com/u/12239573?v=4
+16587283,xgboost,dmlc/xgboost,C++,8,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8399,22764,https://avatars.githubusercontent.com/u/11508361?v=4
+6934395,rocksdb,facebook/rocksdb,C++,13,"A library that provides an embeddable, persistent key-value store for fast storage.",5206,22635,https://avatars.githubusercontent.com/u/69631?v=4
+34777562,srs,ossrs/srs,C++,9,"SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.",4536,18190,https://avatars.githubusercontent.com/u/12165287?v=4
+126412363,simdjson,simdjson/simdjson,C++,57,Parsing gigabytes of JSON per second ,837,15641,https://avatars.githubusercontent.com/u/62337925?v=4
+14981376,dogecoin,dogecoin/dogecoin,C++,22,very currency,2577,14029,https://avatars.githubusercontent.com/u/6122353?v=4
 102692863,onnx,onnx/onnx,C++,5,Open standard for machine learning interoperability,2740,12546,https://avatars.githubusercontent.com/u/31675368?v=4
-51905353,arrow,apache/arrow,C++,6,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,2362,9562,https://avatars.githubusercontent.com/u/47359?v=4
-35718695,ndk-samples,android/ndk-samples,C++,4,Android NDK samples with Android Studio,3932,8869,https://avatars.githubusercontent.com/u/32689599?v=4
-12756992,opencv_contrib,opencv/opencv_contrib,C++,5,Repository for OpenCV's extra modules,5378,7492,https://avatars.githubusercontent.com/u/5009934?v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,8,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1600,6781,https://avatars.githubusercontent.com/u/6154722?v=4
-146842101,bpftrace,iovisor/bpftrace,C++,10,High-level tracing language for Linux eBPF,825,5399,https://avatars.githubusercontent.com/u/12766186?v=4
-184657328,TensorRT,NVIDIA/TensorRT,C++,8,TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.,1372,5359,https://avatars.githubusercontent.com/u/1728152?v=4
-110688239,PaddleSpeech,PaddlePaddle/PaddleSpeech,C++,252,"Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",863,3784,https://avatars.githubusercontent.com/u/23534030?v=4
-145275555,slambook2,gaoxiang12/slambook2,C++,6,edition 2 of the slambook,1337,2950,https://avatars.githubusercontent.com/u/6635511?u=bf0f709a6b4fd2181ba0fa739a4a4e56462e9e64&v=4
-313501668,wenet,wenet-e2e/wenet,C++,5,Production First and Production Ready End-to-End Speech Recognition Toolkit,576,2076,https://avatars.githubusercontent.com/u/84374044?v=4
-388946490,velox,facebookincubator/velox,C++,11,A new C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,244,831,https://avatars.githubusercontent.com/u/19538647?v=4
-427306303,Kyty,InoriRus/Kyty,C++,139,PS4 & PS5 emulator,28,728,https://avatars.githubusercontent.com/u/7149418?v=4
-449826010,Speek,Speek-App/Speek,C++,112,"Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications",46,468,https://avatars.githubusercontent.com/u/98053512?v=4
-444900243,symforce,symforce-org/symforce,C++,63,"Fast symbolic computation, code generation, and nonlinear optimization for robotics",61,646,https://avatars.githubusercontent.com/u/72229494?v=4
-72869160,oss.FCL.sf.os.kernelhwsrv,SymbianSource/oss.FCL.sf.os.kernelhwsrv,C++,10,Symbian OS Kernel,55,337,https://avatars.githubusercontent.com/u/20937402?v=4
+104231541,abseil-cpp,abseil/abseil-cpp,C++,6,Abseil Common Libraries (C++),1954,10408,https://avatars.githubusercontent.com/u/26718316?v=4
+8162615,pcl,PointCloudLibrary/pcl,C++,7,Point Cloud Library (PCL),4190,7397,https://avatars.githubusercontent.com/u/2059451?v=4
+23086893,re2,google/re2,C++,5,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",984,6898,https://avatars.githubusercontent.com/u/1342004?v=4
+156939672,onnxruntime,microsoft/onnxruntime,C++,7,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1600,6781,https://avatars.githubusercontent.com/u/6154722?v=4
+221822577,Hippy,Tencent/Hippy,C++,4,Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏,765,6563,https://avatars.githubusercontent.com/u/18461506?v=4
+138754790,duckdb,duckdb/duckdb,C++,13,DuckDB is an in-process SQL OLAP Database Management System,476,5099,https://avatars.githubusercontent.com/u/82039556?v=4
+223904726,tensorrtx,wang-xinyu/tensorrtx,C++,8,Implementation of popular deep learning networks with TensorRT network definition API,1223,4130,https://avatars.githubusercontent.com/u/15235574?u=84daba0a96cf9b34a9738ecc839193d6f4f89e6f&v=4
+110688239,PaddleSpeech,PaddlePaddle/PaddleSpeech,C++,146,"Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",866,3802,https://avatars.githubusercontent.com/u/23534030?v=4
+244694174,connectedhomeip,project-chip/connectedhomeip,C++,4,"Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).",815,3728,https://avatars.githubusercontent.com/u/61027988?v=4
+243394576,pixie,pixie-io/pixie,C++,20,Instant Kubernetes-Native Application Observability,218,3352,https://avatars.githubusercontent.com/u/82631609?v=4
+153097643,openvino,openvinotoolkit/openvino,C++,4,OpenVINO™ Toolkit repository,1389,3282,https://avatars.githubusercontent.com/u/55443902?v=4
+427306303,Kyty,InoriRus/Kyty,C++,272,PS4 & PS5 emulator,28,758,https://avatars.githubusercontent.com/u/7149418?v=4
+449826010,Speek,Speek-App/Speek,C++,118,"Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications",46,472,https://avatars.githubusercontent.com/u/98053512?v=4
+444900243,symforce,symforce-org/symforce,C++,61,"Fast symbolic computation, code generation, and nonlinear optimization for robotics",61,655,https://avatars.githubusercontent.com/u/72229494?v=4
+495881211,CdpSvcLPE,sailay1996/CdpSvcLPE,C++,36,Windows Local Privilege Escalation via CdpSvc service (Writeable SYSTEM path Dll Hijacking),28,110,https://avatars.githubusercontent.com/u/16739401?u=f0dbdc768f8ef06a63c363ed4a4754bc92293b0f&v=4
