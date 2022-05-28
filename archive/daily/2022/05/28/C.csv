@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-111583593,scrcpy,Genymobile/scrcpy,C,45,Display and control your Android device,7057,65612,https://avatars.githubusercontent.com/u/3427627?v=4
-102578345,lede,coolsnowwolf/lede,C,21,Lean's OpenWrt source,17327,21395,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
-14812739,libuv,libuv/libuv,C,12,Cross-platform asynchronous I/O,3132,19488,https://avatars.githubusercontent.com/u/4030929?v=4
-196353673,TDengine,taosdata/TDengine,C,6,"An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.",4366,18387,https://avatars.githubusercontent.com/u/48876650?v=4
-80286288,Tasmota,arendst/Tasmota,C,4,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",3926,17659,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-184981,memcached,memcached/memcached,C,2,memcached development tree,3081,11850,https://avatars.githubusercontent.com/u/41836?v=4
-65899476,esp-idf,espressif/esp-idf,C,4,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,5446,8509,https://avatars.githubusercontent.com/u/9460735?v=4
-105944401,yugabyte-db,yugabyte/yugabyte-db,C,2,"The high-performance distributed SQL database for global, internet-scale apps.",786,6467,https://avatars.githubusercontent.com/u/17074854?v=4
-19330466,xxHash,Cyan4973/xxHash,C,9,Extremely fast non-cryptographic hash algorithm,610,6260,https://avatars.githubusercontent.com/u/750081?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,3,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",3825,6069,https://avatars.githubusercontent.com/u/19595895?v=4
-200321698,chibicc,rui314/chibicc,C,9,A small C compiler,469,5084,https://avatars.githubusercontent.com/u/47400?v=4
-34431834,xmake,xmake-io/xmake,C,15,🔥 A cross-platform build utility based on Lua,487,4984,https://avatars.githubusercontent.com/u/47437979?v=4
-400501136,mujoco,deepmind/mujoco,C,32,Multi-Joint dynamics with Contact. A general purpose physics simulator.,322,4106,https://avatars.githubusercontent.com/u/8596759?v=4
-58132544,RediSearch,RediSearch/RediSearch,C,1,"A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. ",394,3746,https://avatars.githubusercontent.com/u/46899501?v=4
-1418941,ultrajson,ultrajson/ultrajson,C,9,Ultra fast JSON decoder and encoder written in C with Python bindings,352,3714,https://avatars.githubusercontent.com/u/61062879?v=4
-1613176,edk2,tianocore/edk2,C,1,EDK II,1719,2945,https://avatars.githubusercontent.com/u/352162?v=4
-34807561,nanopb,nanopb/nanopb,C,4,Protocol Buffers with small code size,652,2926,https://avatars.githubusercontent.com/u/12173937?v=4
-18383364,ovs,openvswitch/ovs,C,3,Open vSwitch,1700,2879,https://avatars.githubusercontent.com/u/7143863?v=4
-14521001,flex,westes/flex,C,2,The Fast Lexical Analyzer - scanner generator for lexing in C and C++,446,2565,https://avatars.githubusercontent.com/u/1587870?v=4
-5410234,suricata,OISF/suricata,C,2,Suricata git repository maintained by the OISF,1070,2551,https://avatars.githubusercontent.com/u/2188963?v=4
-154525111,freeswitch,signalwire/freeswitch,C,2,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",889,1821,https://avatars.githubusercontent.com/u/34925332?v=4
-53432472,sonic-buildimage,Azure/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,939,412,https://avatars.githubusercontent.com/u/6844498?v=4
-480829924,xdp-for-windows,microsoft/xdp-for-windows,C,6,A Windows interface used to accelerate networking by bypassing most of the OS networking stack.,6,121,https://avatars.githubusercontent.com/u/6154722?v=4
-495997511,DeepSleep,thefLink/DeepSleep,C,10,A variant of Gargoyle for x64 to hide memory artifacts using ROP only and PIC,28,156,https://avatars.githubusercontent.com/u/24278383?u=139b559ee2287a17ebc75a7aa10e94defaee93cc&v=4
+2325298,linux,torvalds/linux,C,62,Linux kernel source tree,43125,132319,https://avatars.githubusercontent.com/u/1024025?v=4
+156018,redis,redis/redis,C,12,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",21300,55113,https://avatars.githubusercontent.com/u/1529926?v=4
+36836475,tmux,tmux/tmux,C,17,tmux source code,1746,24932,https://avatars.githubusercontent.com/u/12054114?v=4
+1357796,emscripten,emscripten-core/emscripten,C,6,Emscripten: An LLVM-to-WebAssembly Compiler,2832,22299,https://avatars.githubusercontent.com/u/46011144?v=4
+102578345,lede,coolsnowwolf/lede,C,14,Lean's OpenWrt source,17325,21398,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+1856976,libevent,libevent/libevent,C,2,Event notification library,3038,8857,https://avatars.githubusercontent.com/u/833750?v=4
+7408108,rt-thread,RT-Thread/rt-thread,C,2,RT-Thread is an open source IoT operating system.,3903,7071,https://avatars.githubusercontent.com/u/1783729?v=4
+13310527,jemalloc,jemalloc/jemalloc,C,4,,1206,7021,https://avatars.githubusercontent.com/u/5606968?v=4
+1291410,libvips,libvips/libvips,C,5,A fast image processing library with low memory needs.,509,6628,https://avatars.githubusercontent.com/u/26797616?v=4
+1979797,FreeRDP,FreeRDP/FreeRDP,C,44,FreeRDP is a free remote desktop protocol library and clients,16446,6573,https://avatars.githubusercontent.com/u/663376?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,5,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",3824,6079,https://avatars.githubusercontent.com/u/19595895?v=4
+394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,18,This project aims to enhance the working environment on Windows,340,5757,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
+59676171,klipper,Klipper3d/klipper,C,3,Klipper is a 3d-printer firmware,3301,4802,https://avatars.githubusercontent.com/u/90982958?v=4
+217654199,msquic,microsoft/msquic,C,2,"Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",333,2794,https://avatars.githubusercontent.com/u/6154722?v=4
+189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,3,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",560,2735,https://avatars.githubusercontent.com/u/62360046?v=4
+385037052,sioyek,ahrm/sioyek,C,26,Sioyek is a PDF viewer designed for reading research papers and technical books.,63,2369,https://avatars.githubusercontent.com/u/6392321?v=4
+32148604,inav,iNavFlight/inav,C,3,INAV: Navigation-enabled flight control software,1095,2030,https://avatars.githubusercontent.com/u/15979895?v=4
+126983399,entr,eradman/entr,C,21,Run arbitrary commands when files change,58,2031,https://avatars.githubusercontent.com/u/1175398?u=ef2a4647a2d04410bd221a2082169c32d0d62523&v=4
+138679609,ServerStatus,cppla/ServerStatus,C,17,云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/,708,1997,https://avatars.githubusercontent.com/u/10623809?u=ee614b0e89bd7f492bce8be20a87987496bbd120&v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,6,Flipper Zero Firmware,344,1651,https://avatars.githubusercontent.com/u/57576566?v=4
+19881421,dosbox-x,joncampbell123/dosbox-x,C,4,DOSBox-X fork of the DOSBox project,261,1620,https://avatars.githubusercontent.com/u/6245486?u=af4426463edef2eb241f2c8c7e59a801efa67472&v=4
+487223563,os-guide-cn,yanull/os-guide-cn,C,22,从零开始制作一个操作系统！---- 操作系统开发指南,42,277,https://avatars.githubusercontent.com/u/92664048?v=4
+400402817,Shubham-Nimase,BtwefKang/Shubham-Nimase,C,22,Shubham-Nimase,23,54,https://avatars.githubusercontent.com/u/81902522?u=306cc783932349bb87e9240dadc1341aabc20eb7&v=4
+400473868,CloudLabsAI-Azure9,taogkuk315/CloudLabsAI-Azure9,C,22,,23,53,https://avatars.githubusercontent.com/u/81960794?u=61f52d37d79ff7280a830b5e7b72e54224488d50&v=4
