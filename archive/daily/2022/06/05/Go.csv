@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-14712850,syncthing,syncthing/syncthing,Go,14,Open Source Continuous File Synchronization,3424,45046,https://avatars.githubusercontent.com/u/7628018?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,13,Official Go implementation of the Ethereum protocol,14066,37688,https://avatars.githubusercontent.com/u/6250754?v=4
-17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7643,32838,https://avatars.githubusercontent.com/u/761456?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,23,simple terminal UI for git commands,1093,27752,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-31288958,vault,hashicorp/vault,Go,2,"A tool for secrets management, encryption as a service, and privileged access management",3367,24208,https://avatars.githubusercontent.com/u/761456?v=4
+14712850,syncthing,syncthing/syncthing,Go,13,Open Source Continuous File Synchronization,3424,45049,https://avatars.githubusercontent.com/u/7628018?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,14,Official Go implementation of the Ethereum protocol,14067,37688,https://avatars.githubusercontent.com/u/6250754?v=4
+17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7643,32840,https://avatars.githubusercontent.com/u/761456?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,27,simple terminal UI for git commands,1093,27756,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+31288958,vault,hashicorp/vault,Go,2,"A tool for secrets management, encryption as a service, and privileged access management",3367,24209,https://avatars.githubusercontent.com/u/761456?v=4
 37448451,mattermost-server,mattermost/mattermost-server,Go,7,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,5516,23037,https://avatars.githubusercontent.com/u/9828093?v=4
-43723161,helm,helm/helm,Go,6,The Kubernetes Package Manager,6222,21926,https://avatars.githubusercontent.com/u/15859888?v=4
-54400687,k6,grafana/k6,Go,16,"A modern load testing tool, using Go and JavaScript - https://k6.io",866,16655,https://avatars.githubusercontent.com/u/7195757?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,11,gRPC to JSON proxy generator following the gRPC HTTP spec,1784,13443,https://avatars.githubusercontent.com/u/19352526?v=4
-44344606,chi,go-chi/chi,Go,11,"lightweight, idiomatic and composable router for building Go HTTP services",771,11556,https://avatars.githubusercontent.com/u/29575368?v=4
-36653430,nomad,hashicorp/nomad,Go,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1559,11131,https://avatars.githubusercontent.com/u/761456?v=4
-434218673,zinc,zinclabs/zinc,Go,92,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",375,8724,https://avatars.githubusercontent.com/u/95867656?v=4
+43723161,helm,helm/helm,Go,5,The Kubernetes Package Manager,6222,21926,https://avatars.githubusercontent.com/u/15859888?v=4
+54400687,k6,grafana/k6,Go,17,"A modern load testing tool, using Go and JavaScript - https://k6.io",866,16657,https://avatars.githubusercontent.com/u/7195757?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,13,gRPC to JSON proxy generator following the gRPC HTTP spec,1784,13445,https://avatars.githubusercontent.com/u/19352526?v=4
+44344606,chi,go-chi/chi,Go,11,"lightweight, idiomatic and composable router for building Go HTTP services",771,11557,https://avatars.githubusercontent.com/u/29575368?v=4
+36653430,nomad,hashicorp/nomad,Go,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1559,11131,https://avatars.githubusercontent.com/u/761456?v=4
+434218673,zinc,zinclabs/zinc,Go,77,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",375,8726,https://avatars.githubusercontent.com/u/95867656?v=4
 27576132,aws-sdk-go,aws/aws-sdk-go,Go,2,AWS SDK for the Go programming language.,1872,7645,https://avatars.githubusercontent.com/u/2232217?v=4
 68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,1,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3106,7054,https://avatars.githubusercontent.com/u/66682517?v=4
 18950460,concourse,concourse/concourse,Go,5,Concourse is a container-based continuous thing-doer written in Go.,800,6348,https://avatars.githubusercontent.com/u/7809479?v=4
-465303307,lo,samber/lo,Go,137,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",191,5698,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,5,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",989,5307,https://avatars.githubusercontent.com/u/62798169?v=4
-368683828,jwt,golang-jwt/jwt,Go,10,Community maintained clone of https://github.com/dgrijalva/jwt-go,169,2631,https://avatars.githubusercontent.com/u/84194169?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,7,Generate Go client and server boilerplate from OpenAPI 3 specifications,402,2024,https://avatars.githubusercontent.com/u/47459865?v=4
-178079595,opencost,kubecost/opencost,Go,70,Cross-cloud cost allocation models for Kubernetes workloads,206,2036,https://avatars.githubusercontent.com/u/45108136?v=4
+465303307,lo,samber/lo,Go,129,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",191,5721,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,7,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",989,5309,https://avatars.githubusercontent.com/u/62798169?v=4
+368683828,jwt,golang-jwt/jwt,Go,11,Community maintained clone of https://github.com/dgrijalva/jwt-go,169,2633,https://avatars.githubusercontent.com/u/84194169?v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,402,2025,https://avatars.githubusercontent.com/u/47459865?v=4
+178079595,opencost,kubecost/opencost,Go,74,Cross-cloud cost allocation models for Kubernetes workloads,206,2048,https://avatars.githubusercontent.com/u/45108136?v=4
 41317079,postgres_exporter,prometheus-community/postgres_exporter,Go,5,A PostgreSQL metric exporter for Prometheus,553,1724,https://avatars.githubusercontent.com/u/42581734?v=4
 93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,0,Terraform Google Cloud Platform provider,1381,1705,https://avatars.githubusercontent.com/u/761456?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,808,858,https://avatars.githubusercontent.com/u/49998002?v=4
-391811592,connect-go,bufbuild/connect-go,Go,47,"Simple, reliable, interoperable. A better gRPC.",5,684,https://avatars.githubusercontent.com/u/54191850?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,808,859,https://avatars.githubusercontent.com/u/49998002?v=4
+391811592,connect-go,bufbuild/connect-go,Go,47,"Simple, reliable, interoperable. A better gRPC.",5,689,https://avatars.githubusercontent.com/u/54191850?v=4
 498881798,npmdomainchecker,firefart/npmdomainchecker,Go,8,Checks all maintainers of all NPM packages for hijackable domains,9,105,https://avatars.githubusercontent.com/u/105281?u=34b91b58b59ab25a46eef20861ee0200496d3b56&v=4
