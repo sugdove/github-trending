@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,17,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18149,63350,https://avatars.githubusercontent.com/u/27259197?v=4
+7691631,moby,moby/moby,Go,16,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18149,63352,https://avatars.githubusercontent.com/u/27259197?v=4
 6838921,prometheus,prometheus/prometheus,Go,18,The Prometheus monitoring system and time series database.,7237,43075,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7700,33117,https://avatars.githubusercontent.com/u/761456?v=4
-56353740,minikube,kubernetes/minikube,Go,30,Run Kubernetes locally,4155,24205,https://avatars.githubusercontent.com/u/13629408?v=4
-43723161,helm,helm/helm,Go,14,The Kubernetes Package Manager,6253,22077,https://avatars.githubusercontent.com/u/15859888?v=4
-6247705,testify,stretchr/testify,Go,36,A toolkit with common assertions and mocks that plays nicely with the standard library,1262,16798,https://avatars.githubusercontent.com/u/1841476?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,12,NGINX Ingress Controller for Kubernetes,6629,12912,https://avatars.githubusercontent.com/u/13629408?v=4
-33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,4903,11649,https://avatars.githubusercontent.com/u/5713248?v=4
-36653430,nomad,hashicorp/nomad,Go,176,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1586,11570,https://avatars.githubusercontent.com/u/761456?v=4
-208728772,milvus,milvus-io/milvus,Go,118,Vector database for scalable similarity search and AI applications.,1580,10892,https://avatars.githubusercontent.com/u/51735404?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,12,Automatically provision and manage TLS certificates in Kubernetes,1647,9015,https://avatars.githubusercontent.com/u/39950598?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,19,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1048,7803,https://avatars.githubusercontent.com/u/2810941?v=4
+17728164,terraform,hashicorp/terraform,Go,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7701,33122,https://avatars.githubusercontent.com/u/761456?v=4
+56353740,minikube,kubernetes/minikube,Go,30,Run Kubernetes locally,4155,24207,https://avatars.githubusercontent.com/u/13629408?v=4
+43723161,helm,helm/helm,Go,14,The Kubernetes Package Manager,6253,22080,https://avatars.githubusercontent.com/u/15859888?v=4
+6247705,testify,stretchr/testify,Go,36,A toolkit with common assertions and mocks that plays nicely with the standard library,1263,16809,https://avatars.githubusercontent.com/u/1841476?v=4
+72891330,ingress-nginx,kubernetes/ingress-nginx,Go,12,NGINX Ingress Controller for Kubernetes,6629,12913,https://avatars.githubusercontent.com/u/13629408?v=4
+33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,4904,11649,https://avatars.githubusercontent.com/u/5713248?v=4
+36653430,nomad,hashicorp/nomad,Go,176,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1586,11598,https://avatars.githubusercontent.com/u/761456?v=4
+208728772,milvus,milvus-io/milvus,Go,118,Vector database for scalable similarity search and AI applications.,1580,10911,https://avatars.githubusercontent.com/u/51735404?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,12,Automatically provision and manage TLS certificates in Kubernetes,1647,9016,https://avatars.githubusercontent.com/u/39950598?v=4
+184490584,terraformer,GoogleCloudPlatform/terraformer,Go,21,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1048,7807,https://avatars.githubusercontent.com/u/2810941?v=4
 27576132,aws-sdk-go,aws/aws-sdk-go,Go,7,AWS SDK for the Go programming language.,1883,7691,https://avatars.githubusercontent.com/u/2232217?v=4
-367758176,dtm,dtm-labs/dtm,Go,21,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",723,6557,https://avatars.githubusercontent.com/u/6055142?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,8,Universal code search (self-hosted),789,6347,https://avatars.githubusercontent.com/u/3979584?v=4
-273871859,headscale,juanfont/headscale,Go,21,"An open source, self-hosted implementation of the Tailscale control server",297,5055,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-244694886,nightingale,ccfos/nightingale,Go,7,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",858,4808,https://avatars.githubusercontent.com/u/96813578?v=4
-22485114,hcl,hashicorp/hcl,Go,3,HCL is the HashiCorp configuration language.,464,4116,https://avatars.githubusercontent.com/u/761456?v=4
+367758176,dtm,dtm-labs/dtm,Go,22,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",723,6558,https://avatars.githubusercontent.com/u/6055142?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,8,Universal code search (self-hosted),789,6350,https://avatars.githubusercontent.com/u/3979584?v=4
+273871859,headscale,juanfont/headscale,Go,25,"An open source, self-hosted implementation of the Tailscale control server",297,5059,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+244694886,nightingale,ccfos/nightingale,Go,7,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",858,4809,https://avatars.githubusercontent.com/u/96813578?v=4
+22485114,hcl,hashicorp/hcl,Go,4,HCL is the HashiCorp configuration language.,464,4116,https://avatars.githubusercontent.com/u/761456?v=4
 63882194,calico,projectcalico/calico,Go,11,Cloud native networking and network security,866,3616,https://avatars.githubusercontent.com/u/12304728?v=4
-201546443,assets,trustwallet/assets,Go,8,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",14343,3125,https://avatars.githubusercontent.com/u/32179889?v=4
+201546443,assets,trustwallet/assets,Go,8,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",14343,3126,https://avatars.githubusercontent.com/u/32179889?v=4
 154894457,gatekeeper,open-policy-agent/gatekeeper,Go,4,Gatekeeper - Policy Controller for Kubernetes,541,2612,https://avatars.githubusercontent.com/u/16468693?v=4
-376842961,polaris,polarismesh/polaris,Go,35,Service Governance Center for Distributed and Microservice Architecture,194,1279,https://avatars.githubusercontent.com/u/85474408?v=4
-491539130,hertz,cloudwego/hertz,Go,117,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,64,785,https://avatars.githubusercontent.com/u/79236453?v=4
-465143795,minerproxy,ethminerpro/minerproxy,Go,10,"原创程序, 性能强大, 功能齐全, 体验拉满；支持专业机, 开发费恒定！无论你抽3%还是30%，甚至80%，都是0.3%开发费！已内置官方地址可供选择，避免被私人地址二次暗抽；无视CC攻击，不怕扫描攻击，内置加密证书，抽水设置范围支持0.1%-80%；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备",138,618,https://avatars.githubusercontent.com/u/98194667?u=e741a66b11ee87b7211bb06dba9fc9820d452812&v=4
-502970043,ojosama,jiro4989/ojosama,Go,27,テキストを壱百満天原サロメお嬢様風の口調に変換します,11,304,https://avatars.githubusercontent.com/u/13825004?u=f54ea356ee8b0ecd4b6b4c2e231db10631930bd0&v=4
+376842961,polaris,polarismesh/polaris,Go,35,Service Governance Center for Distributed and Microservice Architecture,194,1280,https://avatars.githubusercontent.com/u/85474408?v=4
+491539130,hertz,cloudwego/hertz,Go,117,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,64,801,https://avatars.githubusercontent.com/u/79236453?v=4
+465143795,minerproxy,ethminerpro/minerproxy,Go,7,"原创程序, 性能强大, 功能齐全, 体验拉满；支持专业机, 开发费恒定！无论你抽3%还是30%，甚至80%，都是0.3%开发费！已内置官方地址可供选择，避免被私人地址二次暗抽；无视CC攻击，不怕扫描攻击，内置加密证书，抽水设置范围支持0.1%-80%；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备",138,620,https://avatars.githubusercontent.com/u/98194667?u=e741a66b11ee87b7211bb06dba9fc9820d452812&v=4
+502970043,ojosama,jiro4989/ojosama,Go,25,テキストを壱百満天原サロメお嬢様風の口調に変換します,11,305,https://avatars.githubusercontent.com/u/13825004?u=f54ea356ee8b0ecd4b6b4c2e231db10631930bd0&v=4
