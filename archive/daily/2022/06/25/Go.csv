@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,17,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18148,63353,https://avatars.githubusercontent.com/u/27259197?v=4
-6838921,prometheus,prometheus/prometheus,Go,16,The Prometheus monitoring system and time series database.,7235,43078,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,24,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7703,33129,https://avatars.githubusercontent.com/u/761456?v=4
-56353740,minikube,kubernetes/minikube,Go,23,Run Kubernetes locally,4157,24208,https://avatars.githubusercontent.com/u/13629408?v=4
-43723161,helm,helm/helm,Go,8,The Kubernetes Package Manager,6254,22080,https://avatars.githubusercontent.com/u/15859888?v=4
-6247705,testify,stretchr/testify,Go,48,A toolkit with common assertions and mocks that plays nicely with the standard library,1263,16833,https://avatars.githubusercontent.com/u/1841476?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,10,NGINX Ingress Controller for Kubernetes,6631,12917,https://avatars.githubusercontent.com/u/13629408?v=4
-33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,4903,11650,https://avatars.githubusercontent.com/u/5713248?v=4
-36653430,nomad,hashicorp/nomad,Go,158,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1590,11634,https://avatars.githubusercontent.com/u/761456?v=4
-208728772,milvus,milvus-io/milvus,Go,113,Vector database for scalable similarity search and AI applications.,1580,10949,https://avatars.githubusercontent.com/u/51735404?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,9,Automatically provision and manage TLS certificates in Kubernetes,1647,9018,https://avatars.githubusercontent.com/u/39950598?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,22,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1050,7813,https://avatars.githubusercontent.com/u/2810941?v=4
-27576132,aws-sdk-go,aws/aws-sdk-go,Go,6,AWS SDK for the Go programming language.,1883,7692,https://avatars.githubusercontent.com/u/2232217?v=4
-367758176,dtm,dtm-labs/dtm,Go,20,"A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.",723,6563,https://avatars.githubusercontent.com/u/6055142?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,8,Universal code search (self-hosted),789,6351,https://avatars.githubusercontent.com/u/3979584?v=4
-273871859,headscale,juanfont/headscale,Go,22,"An open source, self-hosted implementation of the Tailscale control server",297,5063,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-244694886,nightingale,ccfos/nightingale,Go,7,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",859,4810,https://avatars.githubusercontent.com/u/96813578?v=4
-22485114,hcl,hashicorp/hcl,Go,2,HCL is the HashiCorp configuration language.,465,4116,https://avatars.githubusercontent.com/u/761456?v=4
-63882194,calico,projectcalico/calico,Go,7,Cloud native networking and network security,866,3617,https://avatars.githubusercontent.com/u/12304728?v=4
-201546443,assets,trustwallet/assets,Go,6,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",14354,3126,https://avatars.githubusercontent.com/u/32179889?v=4
-154894457,gatekeeper,open-policy-agent/gatekeeper,Go,3,Gatekeeper - Policy Controller for Kubernetes,541,2612,https://avatars.githubusercontent.com/u/16468693?v=4
-376842961,polaris,polarismesh/polaris,Go,34,Service Governance Center for Distributed and Microservice Architecture,196,1287,https://avatars.githubusercontent.com/u/85474408?v=4
-491539130,hertz,cloudwego/hertz,Go,304,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,67,853,https://avatars.githubusercontent.com/u/79236453?v=4
-465143795,minerproxy,ethminerpro/minerproxy,Go,8,"原创程序, 性能强大, 功能齐全, 体验拉满；支持专业机, 开发费恒定！无论你抽3%还是30%，甚至80%，都是0.3%开发费！已内置官方地址可供选择，避免被私人地址二次暗抽；无视CC攻击，不怕扫描攻击，内置加密证书，抽水设置范围支持0.1%-80%；无需繁琐设置，支持专业机！支持自定义证书，欢迎实测！矿场运维必备",139,621,https://avatars.githubusercontent.com/u/98194667?u=e741a66b11ee87b7211bb06dba9fc9820d452812&v=4
-502970043,ojosama,jiro4989/ojosama,Go,19,テキストを壱百満天原サロメお嬢様風の口調に変換します,11,309,https://avatars.githubusercontent.com/u/13825004?u=f54ea356ee8b0ecd4b6b4c2e231db10631930bd0&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,33,Production-Grade Container Scheduling and Management,32843,89574,https://avatars.githubusercontent.com/u/13629408?v=4
+14125254,consul,hashicorp/consul,Go,11,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4086,24946,https://avatars.githubusercontent.com/u/761456?v=4
+56353740,minikube,kubernetes/minikube,Go,22,Run Kubernetes locally,4157,24209,https://avatars.githubusercontent.com/u/13629408?v=4
+37448451,mattermost-server,mattermost/mattermost-server,Go,132,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,5540,23294,https://avatars.githubusercontent.com/u/9828093?v=4
+6247705,testify,stretchr/testify,Go,53,A toolkit with common assertions and mocks that plays nicely with the standard library,1263,16838,https://avatars.githubusercontent.com/u/1841476?v=4
+27729907,grpc-go,grpc/grpc-go,Go,11,The Go language implementation of gRPC. HTTP/2 based RPC,3622,16291,https://avatars.githubusercontent.com/u/7802525?v=4
+24977535,transfer.sh,dutchcoders/transfer.sh,Go,5,Easy and fast file sharing from the command-line.,1353,12876,https://avatars.githubusercontent.com/u/5444419?v=4
+198683574,dolt,dolthub/dolt,Go,148,Dolt – It's Git for Data,311,11696,https://avatars.githubusercontent.com/u/42156961?v=4
+36653430,nomad,hashicorp/nomad,Go,155,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1592,11645,https://avatars.githubusercontent.com/u/761456?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,9,Workflow engine for Kubernetes,2302,11254,https://avatars.githubusercontent.com/u/30269780?v=4
+208728772,milvus,milvus-io/milvus,Go,110,Vector database for scalable similarity search and AI applications.,1580,10954,https://avatars.githubusercontent.com/u/51735404?v=4
+116739828,dnscrypt-proxy,DNSCrypt/dnscrypt-proxy,Go,7,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",852,8915,https://avatars.githubusercontent.com/u/34526273?v=4
+11206255,sarama,Shopify/sarama,Go,3,Sarama is a Go library for Apache Kafka.,1494,8665,https://avatars.githubusercontent.com/u/8085?v=4
+184490584,terraformer,GoogleCloudPlatform/terraformer,Go,20,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1050,7813,https://avatars.githubusercontent.com/u/2810941?v=4
+14508450,gophish,gophish/gophish,Go,35,Open-Source Phishing Toolkit,1397,7131,https://avatars.githubusercontent.com/u/16602581?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,6,Autoscaling components for Kubernetes,2859,5792,https://avatars.githubusercontent.com/u/13629408?v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,3,Kubernetes Native Edge Computing Framework (project under CNCF),1338,5070,https://avatars.githubusercontent.com/u/41812520?v=4
+384451028,kitex,cloudwego/kitex,Go,12,A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.,477,4508,https://avatars.githubusercontent.com/u/79236453?v=4
+201546443,assets,trustwallet/assets,Go,6,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",14358,3127,https://avatars.githubusercontent.com/u/32179889?v=4
+342158146,netpoll,cloudwego/netpoll,Go,8,"A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",291,2750,https://avatars.githubusercontent.com/u/79236453?v=4
+376842961,polaris,polarismesh/polaris,Go,34,Service Governance Center for Distributed and Microservice Architecture,196,1293,https://avatars.githubusercontent.com/u/85474408?v=4
+491539130,hertz,cloudwego/hertz,Go,303,A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.,69,870,https://avatars.githubusercontent.com/u/79236453?v=4
+505462535,gopherlings,soypat/gopherlings,Go,30,📘️ Learn Go by fixing tiny incorrect programs,9,167,https://avatars.githubusercontent.com/u/26156425?u=40849e07e195939f8aa6b90cb22c10cfc916f4b7&v=4
+493077843,HTTPLoot,redhuntlabs/HTTPLoot,Go,17,"An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and ""loot"" secrets out of the client-facing code of sites.",15,122,https://avatars.githubusercontent.com/u/36505047?v=4
+505984181,Mangle,optiv/Mangle,Go,42,Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs,37,307,https://avatars.githubusercontent.com/u/12102497?v=4
