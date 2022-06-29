@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-61137153,esbuild,evanw/esbuild,Go,21,An extremely fast JavaScript and CSS bundler and minifier,849,32259,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
-8989842,the-way-to-go_ZH_CN,unknwon/the-way-to-go_ZH_CN,Go,17,《The Way to Go》中文译本，中文正式名《Go 入门指南》,8019,29999,https://avatars.githubusercontent.com/u/2946214?u=f7db4e71ec55cfd9d462c7cdb041e5dfb8174efc&v=4
-13124802,influxdb,influxdata/influxdb,Go,9,"Scalable datastore for metrics, events, and real-time analytics",3204,23712,https://avatars.githubusercontent.com/u/5713248?v=4
-234231371,fiber,gofiber/fiber,Go,20,⚡️ Express inspired web framework written in Go,1051,20691,https://avatars.githubusercontent.com/u/59947262?v=4
+61137153,esbuild,evanw/esbuild,Go,20,An extremely fast JavaScript and CSS bundler and minifier,849,32260,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
+8989842,the-way-to-go_ZH_CN,unknwon/the-way-to-go_ZH_CN,Go,16,《The Way to Go》中文译本，中文正式名《Go 入门指南》,8019,30000,https://avatars.githubusercontent.com/u/2946214?u=f7db4e71ec55cfd9d462c7cdb041e5dfb8174efc&v=4
+13124802,influxdb,influxdata/influxdb,Go,7,"Scalable datastore for metrics, events, and real-time analytics",3204,23713,https://avatars.githubusercontent.com/u/5713248?v=4
+234231371,fiber,gofiber/fiber,Go,20,⚡️ Express inspired web framework written in Go,1051,20694,https://avatars.githubusercontent.com/u/59947262?v=4
 135516270,k3s,k3s-io/k3s,Go,13,Lightweight Kubernetes,1795,20322,https://avatars.githubusercontent.com/u/49319725?v=4
-11008207,vitess,vitessio/vitess,Go,9,Vitess is a database clustering system for horizontal scaling of MySQL.,1776,14269,https://avatars.githubusercontent.com/u/33043890?v=4
-180687624,trivy,aquasecurity/trivy,Go,17,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",1193,12701,https://avatars.githubusercontent.com/u/12783832?v=4
-109162639,thanos,thanos-io/thanos,Go,9,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1610,10675,https://avatars.githubusercontent.com/u/49725059?v=4
-130430977,kubesphere,kubesphere/kubesphere,Go,26,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",1557,10311,https://avatars.githubusercontent.com/u/37326490?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,11,Declarative continuous deployment for Kubernetes.,2574,9736,https://avatars.githubusercontent.com/u/30269780?v=4
-434218673,zinc,zinclabs/zinc,Go,159,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",410,9492,https://avatars.githubusercontent.com/u/95867656?v=4
-14508450,gophish,gophish/gophish,Go,27,Open-Source Phishing Toolkit,1419,7549,https://avatars.githubusercontent.com/u/16602581?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3149,7125,https://avatars.githubusercontent.com/u/66682517?v=4
-91054480,zerolog,rs/zerolog,Go,15,Zero Allocation JSON Logger,395,6494,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
-99143276,velero,vmware-tanzu/velero,Go,10,Backup and migrate Kubernetes applications and their persistent volumes,1081,6376,https://avatars.githubusercontent.com/u/54452117?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1882,5398,https://avatars.githubusercontent.com/u/36015203?v=4
+11008207,vitess,vitessio/vitess,Go,8,Vitess is a database clustering system for horizontal scaling of MySQL.,1776,14269,https://avatars.githubusercontent.com/u/33043890?v=4
+180687624,trivy,aquasecurity/trivy,Go,16,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",1195,12703,https://avatars.githubusercontent.com/u/12783832?v=4
+109162639,thanos,thanos-io/thanos,Go,8,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1611,10675,https://avatars.githubusercontent.com/u/49725059?v=4
+130430977,kubesphere,kubesphere/kubesphere,Go,26,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",1557,10313,https://avatars.githubusercontent.com/u/37326490?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,10,Declarative continuous deployment for Kubernetes.,2576,9736,https://avatars.githubusercontent.com/u/30269780?v=4
+434218673,zinc,zinclabs/zinc,Go,144,"ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",410,9492,https://avatars.githubusercontent.com/u/95867656?v=4
+14508450,gophish,gophish/gophish,Go,26,Open-Source Phishing Toolkit,1419,7550,https://avatars.githubusercontent.com/u/16602581?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,8,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3149,7126,https://avatars.githubusercontent.com/u/66682517?v=4
+91054480,zerolog,rs/zerolog,Go,15,Zero Allocation JSON Logger,395,6495,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+99143276,velero,vmware-tanzu/velero,Go,8,Backup and migrate Kubernetes applications and their persistent volumes,1081,6377,https://avatars.githubusercontent.com/u/54452117?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1883,5399,https://avatars.githubusercontent.com/u/36015203?v=4
 92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,5,A Kubernetes controller and tool for one-way encrypted Secrets,475,5126,https://avatars.githubusercontent.com/u/34656521?v=4
-23586998,mockery,vektra/mockery,Go,7,A mock code autogenerator for Golang,290,3639,https://avatars.githubusercontent.com/u/5193687?v=4
-90921999,ksuid,segmentio/ksuid,Go,7,K-Sortable Globally Unique IDs,143,3506,https://avatars.githubusercontent.com/u/819518?v=4
-76686583,kubevirt,kubevirt/kubevirt,Go,3,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,804,3349,https://avatars.githubusercontent.com/u/18700703?v=4
-52481933,navidrome,navidrome/navidrome,Go,58,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,350,3652,https://avatars.githubusercontent.com/u/26692192?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,7,Datadog Agent ,861,1697,https://avatars.githubusercontent.com/u/365230?v=4
-495645548,paopao-ce,rocboss/paopao-ce,Go,33,"🔥A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",251,1806,https://avatars.githubusercontent.com/u/11001145?v=4
-353364259,kcp,kcp-dev/kcp,Go,17,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,229,1517,https://avatars.githubusercontent.com/u/76848170?v=4
-463013407,easeprobe,megaease/easeprobe,Go,7,"A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.",76,857,https://avatars.githubusercontent.com/u/29247155?v=4
+23586998,mockery,vektra/mockery,Go,8,A mock code autogenerator for Golang,290,3643,https://avatars.githubusercontent.com/u/5193687?v=4
+90921999,ksuid,segmentio/ksuid,Go,8,K-Sortable Globally Unique IDs,143,3508,https://avatars.githubusercontent.com/u/819518?v=4
+76686583,kubevirt,kubevirt/kubevirt,Go,3,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,803,3349,https://avatars.githubusercontent.com/u/18700703?v=4
+52481933,navidrome,navidrome/navidrome,Go,58,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,350,3659,https://avatars.githubusercontent.com/u/26692192?v=4
+495645548,paopao-ce,rocboss/paopao-ce,Go,34,"🔥A artistic ""twitter like"" community built on gin+zinc+vue+ts 清新文艺微社区",251,1809,https://avatars.githubusercontent.com/u/11001145?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,7,Datadog Agent ,861,1698,https://avatars.githubusercontent.com/u/365230?v=4
+353364259,kcp,kcp-dev/kcp,Go,18,kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters,229,1518,https://avatars.githubusercontent.com/u/76848170?v=4
+463013407,easeprobe,megaease/easeprobe,Go,9,"A simple, standalone, and lightWeight tool that can do health/status checking, written in Go.",76,861,https://avatars.githubusercontent.com/u/29247155?v=4
