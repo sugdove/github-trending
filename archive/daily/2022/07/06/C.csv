@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,95,Linux kernel source tree,43617,134304,https://avatars.githubusercontent.com/u/1024025?v=4
-1903522,php-src,php/php-src,C,10,The PHP Interpreter,7237,33998,https://avatars.githubusercontent.com/u/25158?v=4
-1357796,emscripten,emscripten-core/emscripten,C,4,Emscripten: An LLVM-to-WebAssembly Compiler,2856,22445,https://avatars.githubusercontent.com/u/46011144?v=4
-196353673,TDengine,taosdata/TDengine,C,9,"An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.",4402,18597,https://avatars.githubusercontent.com/u/48876650?v=4
-28515839,kcp,skywind3000/kcp,C,3,:zap: KCP - A Fast and Reliable ARQ Protocol,2176,11380,https://avatars.githubusercontent.com/u/3035071?u=082cfef5e6dbd57bf6ee4c481e163d103014a1f3&v=4
-3199002,linux,raspberrypi/linux,C,0,Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/,4246,9114,https://avatars.githubusercontent.com/u/1294177?v=4
-35930805,Tinyhttpd,EZLippi/Tinyhttpd,C,6,Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net,3551,8637,https://avatars.githubusercontent.com/u/5326814?u=636d36966367e62aebfc1538b064a79863124534&v=4
+2325298,linux,torvalds/linux,C,145,Linux kernel source tree,43616,134312,https://avatars.githubusercontent.com/u/1024025?v=4
+18666758,darknet,pjreddie/darknet,C,5,Convolutional Neural Networks,20222,22908,https://avatars.githubusercontent.com/u/302108?v=4
+196353673,TDengine,taosdata/TDengine,C,10,"An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.",4402,18597,https://avatars.githubusercontent.com/u/48876650?v=4
+34921116,bcc,iovisor/bcc,C,13,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",2945,14908,https://avatars.githubusercontent.com/u/12766186?v=4
+32873313,systemd,systemd/systemd,C,9,The systemd System and Service Manager ,2988,9770,https://avatars.githubusercontent.com/u/1918868?v=4
+179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,11,OpenCore bootloader,1761,9748,https://avatars.githubusercontent.com/u/39672954?v=4
+65899476,esp-idf,espressif/esp-idf,C,4,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,5568,8715,https://avatars.githubusercontent.com/u/9460735?v=4
 5414488,mongoose,cesanta/mongoose,C,9,Embedded Web Server,2364,8505,https://avatars.githubusercontent.com/u/5111322?v=4
-3791835,darktable,darktable-org/darktable,C,16,darktable is an open source photography workflow application and raw developer,936,6781,https://avatars.githubusercontent.com/u/1561544?v=4
-91493088,GoodbyeDPI,ValdikSS/GoodbyeDPI,C,6,GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows),693,6688,https://avatars.githubusercontent.com/u/3054729?u=db712da584cc0d21a860b786b9ab2f2323758598&v=4
-53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,1968,6376,https://avatars.githubusercontent.com/u/56974?v=4
-47057247,vlmcsd,Wind4/vlmcsd,C,4,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",1816,6292,https://avatars.githubusercontent.com/u/3997851?v=4
-5805256,lua,lua/lua,C,6,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1264,5741,https://avatars.githubusercontent.com/u/2319114?v=4
-40504480,xv6-public,mit-pdos/xv6-public,C,3,xv6 OS,3104,5611,https://avatars.githubusercontent.com/u/12404246?v=4
-400501136,mujoco,deepmind/mujoco,C,10,Multi-Joint dynamics with Contact. A general purpose physics simulator.,371,4549,https://avatars.githubusercontent.com/u/8596759?v=4
-469303019,ecapture,ehids/ecapture,C,13,"capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.",429,3917,https://avatars.githubusercontent.com/u/95527736?v=4
-4434428,tiny-AES-c,kokke/tiny-AES-c,C,3,Small portable AES128/192/256 in C,1117,3158,https://avatars.githubusercontent.com/u/1774646?v=4
-34807561,nanopb,nanopb/nanopb,C,5,Protocol Buffers with small code size,655,2969,https://avatars.githubusercontent.com/u/12173937?v=4
-98257850,haxm,intel/haxm,C,2,Intel® Hardware Accelerated Execution Manager (Intel® HAXM),715,2674,https://avatars.githubusercontent.com/u/17888862?v=4
-452081015,CVE-2021-4034,berdav/CVE-2021-4034,C,4,CVE-2021-4034 1day,463,1600,https://avatars.githubusercontent.com/u/1332095?v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,8,,342,1518,https://avatars.githubusercontent.com/u/1294177?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,1,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",590,1077,https://avatars.githubusercontent.com/u/54647343?v=4
-442041737,Onion,jimgraygit/Onion,C,2,Stock OS overhaul for Miyoo Mini ,30,479,https://avatars.githubusercontent.com/u/85693713?v=4
-509239164,triforce-percent,triforce-percent/triforce-percent,C,13,Triforce% OoT ACE Showcase source release,4,91,https://avatars.githubusercontent.com/u/107783439?v=4
-497288167,promit,singul4ri7y/promit,C,2,"Promit is object oriented, bytecode interpreted, lightweight, elegant and fast programming language designed by a 19 year old.",0,29,https://avatars.githubusercontent.com/u/101280084?u=5307b2a076566e773287037b2fc7b38b39f54041&v=4
+272457606,cosmopolitan,jart/cosmopolitan,C,23,build-once run-anywhere c library,225,7402,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+3791835,darktable,darktable-org/darktable,C,16,darktable is an open source photography workflow application and raw developer,936,6783,https://avatars.githubusercontent.com/u/1561544?v=4
+105944401,yugabyte-db,yugabyte/yugabyte-db,C,7,"The high-performance distributed SQL database for global, internet-scale apps.",807,6612,https://avatars.githubusercontent.com/u/17074854?v=4
+16734696,janus-gateway,meetecho/janus-gateway,C,2,Janus WebRTC Server,2199,6555,https://avatars.githubusercontent.com/u/4520545?v=4
+53614190,mosquitto,eclipse/mosquitto,C,3,Eclipse Mosquitto - An open source MQTT broker,1968,6376,https://avatars.githubusercontent.com/u/56974?v=4
+7037996,yara,VirusTotal/yara,C,6,The pattern matching swiss knife,1206,5782,https://avatars.githubusercontent.com/u/7701252?v=4
+59676171,klipper,Klipper3d/klipper,C,7,Klipper is a 3d-printer firmware,3418,4967,https://avatars.githubusercontent.com/u/90982958?v=4
+469303019,ecapture,ehids/ecapture,C,13,"capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.",429,3918,https://avatars.githubusercontent.com/u/95527736?v=4
+2359378,zlib,madler/zlib,C,5,A massively spiffy yet delicately unobtrusive compression library.,1891,3651,https://avatars.githubusercontent.com/u/240717?v=4
+349490770,X-TRACK,FASTSHIFT/X-TRACK,C,6,A GPS bicycle speedometer that supports offline maps and track recording ,873,3538,https://avatars.githubusercontent.com/u/26767803?u=d98e95d8c3d17941cb1f96e857b6039d9f4d494c&v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,4,Flipper Zero firmware source code,419,1799,https://avatars.githubusercontent.com/u/57576566?v=4
+51990771,CMSIS_5,ARM-software/CMSIS_5,C,1,CMSIS Version 5 Development Repository,957,583,https://avatars.githubusercontent.com/u/5690313?v=4
+421918747,TripleCross,h3xduck/TripleCross,C,229,"A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.",52,585,https://avatars.githubusercontent.com/u/16279197?u=cf39f5a5fb704c018bd3dd3499115e088eda4477&v=4
+53432472,sonic-buildimage,Azure/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,964,424,https://avatars.githubusercontent.com/u/6844498?v=4
+280087114,IOWA,IOTEROP/IOWA,C,42,This repository contains sample applications illustrating how to use the IOWA SDK as well as the Evaluation IOWA SDK. The IOWA SDK is the most compact C implementation OMA LwM2M protocol.,83,104,https://avatars.githubusercontent.com/u/17408175?v=4
+429038255,PetitPotam,crisprss/PetitPotam,C,14,"替代PrintBug用于本地提权的新方式，主要利用MS-EFSR协议中的接口函数  借鉴了Potitpotam中对于EFSR协议的利用,实现了本地提权的一系列方式 Drawing on the use of the EFSR protocol in Potitpotam, a series of local rights escalation methods have been realized",13,97,https://avatars.githubusercontent.com/u/55953931?u=f3b559114914673123a1709823eaf76ea3561d73&v=4
+510227236,sshdHooker,9bie/sshdHooker,C,18,注入SSHD进程并记录ssh登录的密码,15,113,https://avatars.githubusercontent.com/u/12439321?v=4
