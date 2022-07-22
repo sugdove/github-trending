@@ -1,22 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,33,Production-Grade Container Scheduling and Management,33141,90408,https://avatars.githubusercontent.com/u/13629408?v=4
-8989842,the-way-to-go_ZH_CN,unknwon/the-way-to-go_ZH_CN,Go,28,《The Way to Go》中文译本，中文正式名《Go 入门指南》,8089,30382,https://avatars.githubusercontent.com/u/2946214?u=f7db4e71ec55cfd9d462c7cdb041e5dfb8174efc&v=4
-12574344,cobra,spf13/cobra,Go,46,A Commander for modern Go CLI interactions,2411,27709,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-18369373,viper,spf13/viper,Go,22,Go configuration with fangs,1712,19975,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-285864199,go-zero,zeromicro/go-zero,Go,39,A cloud-native Go microservices framework with cli tool for productivity.,2810,19340,https://avatars.githubusercontent.com/u/74225106?v=4
-56342508,jaeger,jaegertracing/jaeger,Go,7,"CNCF Jaeger, a Distributed Tracing Platform",1935,16082,https://avatars.githubusercontent.com/u/28545596?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,9,Ingress-NGINX Controller for Kubernetes,6739,13098,https://avatars.githubusercontent.com/u/13629408?v=4
-198683574,dolt,dolthub/dolt,Go,36,Dolt – It's Git for Data,341,12570,https://avatars.githubusercontent.com/u/42156961?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,12,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1100,8043,https://avatars.githubusercontent.com/u/2810941?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,2,Terraform AWS provider,6899,7536,https://avatars.githubusercontent.com/u/761456?v=4
-48714685,opa,open-policy-agent/opa,Go,9,"An open source, general-purpose policy engine.",935,6882,https://avatars.githubusercontent.com/u/16468693?v=4
-10166531,mapstructure,mitchellh/mapstructure,Go,9,Go library for decoding generic map values into native Go structures and vice versa.,586,5930,https://avatars.githubusercontent.com/u/1299?u=cc88a733b0c95bdfd323ec661c0da4c6768c4e4b&v=4
-7823926,client_golang,prometheus/client_golang,Go,8,Prometheus instrumentation library for Go applications,957,4011,https://avatars.githubusercontent.com/u/3380462?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,4,Terraform provider for Azure Resource Manager,3494,3455,https://avatars.githubusercontent.com/u/761456?v=4
-83363132,postgres-operator,CrunchyData/postgres-operator,Go,3,"Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",450,2857,https://avatars.githubusercontent.com/u/8248870?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,7,OpenTelemetry Go API and SDK,652,2846,https://avatars.githubusercontent.com/u/49998002?v=4
-503167251,tproxy,kevwan/tproxy,Go,330,A cli tool to proxy and analyze TCP connections.,128,1791,https://avatars.githubusercontent.com/u/1918356?u=4dd68676f27765f2f6f1b8f343b8fa34c332defc&v=4
-136494223,controller-runtime,kubernetes-sigs/controller-runtime,Go,0,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),819,1600,https://avatars.githubusercontent.com/u/36015203?v=4
-432717637,lancet,duke-git/lancet,Go,29,"A comprehensive, efficient, and reusable util function library of go.",173,1491,https://avatars.githubusercontent.com/u/5037603?u=3f6c46718a716f0145b17534555c83c40ada42c8&v=4
-505278571,scan4all,hktalent/scan4all,Go,195,"Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",114,658,https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4
-162647455,aws-efs-csi-driver,kubernetes-sigs/aws-efs-csi-driver,Go,0,CSI Driver for Amazon EFS https://aws.amazon.com/efs/,354,467,https://avatars.githubusercontent.com/u/36015203?v=4
+12574344,cobra,spf13/cobra,Go,46,A Commander for modern Go CLI interactions,2411,27713,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+31288958,vault,hashicorp/vault,Go,174,"A tool for secrets management, encryption as a service, and privileged access management",3441,24847,https://avatars.githubusercontent.com/u/761456?v=4
+37448451,mattermost-server,mattermost/mattermost-server,Go,15,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,5591,23520,https://avatars.githubusercontent.com/u/9828093?v=4
+129717717,loki,grafana/loki,Go,7,"Like Prometheus, but for logs.",2062,16561,https://avatars.githubusercontent.com/u/7195757?v=4
+198683574,dolt,dolthub/dolt,Go,36,Dolt – It's Git for Data,341,12574,https://avatars.githubusercontent.com/u/42156961?v=4
+48109239,cilium,cilium/cilium,Go,18,"eBPF-based Networking, Security, and Observability",1684,12501,https://avatars.githubusercontent.com/u/21054566?v=4
+7877397,sqlx,jmoiron/sqlx,Go,3,general purpose extensions to golang's database/sql,945,12294,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
+66841911,excelize,qax-os/excelize,Go,17,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1256,12279,https://avatars.githubusercontent.com/u/29733149?v=4
+208728772,milvus,milvus-io/milvus,Go,9,Vector database for scalable similarity search and AI applications.,1616,11375,https://avatars.githubusercontent.com/u/51735404?v=4
+144849757,sealos,labring/sealos,Go,22,"sealos is a multi-tenant kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!",1532,9252,https://avatars.githubusercontent.com/u/102226726?v=4
+27576132,aws-sdk-go,aws/aws-sdk-go,Go,4,AWS SDK for the Go programming language.,1900,7738,https://avatars.githubusercontent.com/u/2232217?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,2,Terraform AWS provider,6900,7536,https://avatars.githubusercontent.com/u/761456?v=4
+21306961,fsnotify,fsnotify/fsnotify,Go,3,Cross-platform file system notifications for Go.,778,7085,https://avatars.githubusercontent.com/u/8013877?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,16,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",647,6759,https://avatars.githubusercontent.com/u/43720803?v=4
+273871859,headscale,juanfont/headscale,Go,52,"An open source, self-hosted implementation of the Tailscale control server",319,5805,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+44087204,syzkaller,google/syzkaller,Go,4,syzkaller is an unsupervised coverage-guided kernel fuzzer,1015,4247,https://avatars.githubusercontent.com/u/1342004?v=4
+52481933,navidrome,navidrome/navidrome,Go,53,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,376,4030,https://avatars.githubusercontent.com/u/26692192?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,4,Terraform provider for Azure Resource Manager,3494,3457,https://avatars.githubusercontent.com/u/761456?v=4
+267713284,httpx,projectdiscovery/httpx,Go,5,"httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.",464,3451,https://avatars.githubusercontent.com/u/50994705?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,7,OpenTelemetry Go API and SDK,652,2848,https://avatars.githubusercontent.com/u/49998002?v=4
+385634291,mimir,grafana/mimir,Go,5,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",139,2230,https://avatars.githubusercontent.com/u/7195757?v=4
+503167251,tproxy,kevwan/tproxy,Go,330,A cli tool to proxy and analyze TCP connections.,129,1800,https://avatars.githubusercontent.com/u/1918356?u=4dd68676f27765f2f6f1b8f343b8fa34c332defc&v=4
+93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,1,Terraform Google Cloud Platform provider,1408,1740,https://avatars.githubusercontent.com/u/761456?v=4
+432717637,lancet,duke-git/lancet,Go,29,"A comprehensive, efficient, and reusable util function library of go.",173,1495,https://avatars.githubusercontent.com/u/5037603?u=3f6c46718a716f0145b17534555c83c40ada42c8&v=4
+505278571,scan4all,hktalent/scan4all,Go,195,"Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",116,680,https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4
