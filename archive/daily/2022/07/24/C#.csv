@@ -1,16 +1,16 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 7600409,shadowsocks-windows,shadowsocks/shadowsocks-windows,C#,12,A C# port of shadowsocks,16324,54748,https://avatars.githubusercontent.com/u/3006190?v=4
-17620347,aspnetcore,dotnet/aspnetcore,C#,3,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",8060,29017,https://avatars.githubusercontent.com/u/9141961?v=4
-164140756,Files,files-community/Files,C#,12,A modern file manager for Windows,1430,23436,https://avatars.githubusercontent.com/u/65931357?v=4
+17620347,aspnetcore,dotnet/aspnetcore,C#,1,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",8060,29017,https://avatars.githubusercontent.com/u/9141961?v=4
+164140756,Files,files-community/Files,C#,13,A modern file manager for Windows,1430,23437,https://avatars.githubusercontent.com/u/65931357?v=4
 38380854,dnSpy,dnSpy/dnSpy,C#,9,.NET debugger and assembly editor,4162,21278,https://avatars.githubusercontent.com/u/67931932?v=4
-262395224,maui,dotnet/maui,C#,13,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",967,16362,https://avatars.githubusercontent.com/u/9141961?v=4
+262395224,maui,dotnet/maui,C#,35,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",967,16364,https://avatars.githubusercontent.com/u/9141961?v=4
 29078997,roslyn,dotnet/roslyn,C#,3,The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.,3649,16174,https://avatars.githubusercontent.com/u/9141961?v=4
-161012019,jellyfin,jellyfin/jellyfin,C#,12,The Free Software Media System,1577,15650,https://avatars.githubusercontent.com/u/45698031?v=4
-102904613,ml-agents,Unity-Technologies/ml-agents,C#,2,The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.,3494,13152,https://avatars.githubusercontent.com/u/426196?v=4
+161012019,jellyfin,jellyfin/jellyfin,C#,11,The Free Software Media System,1577,15650,https://avatars.githubusercontent.com/u/45698031?v=4
+102904613,ml-agents,Unity-Technologies/ml-agents,C#,4,The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.,3494,13154,https://avatars.githubusercontent.com/u/426196?v=4
 22456440,osu,ppy/osu,C#,7,rhythm is just a *click* away!,1667,10275,https://avatars.githubusercontent.com/u/995763?v=4
-165548191,PEASS-ng,carlospolop/PEASS-ng,C#,12,PEASS - Privilege Escalation Awesome Scripts SUITE (with colors),2269,9617,https://avatars.githubusercontent.com/u/17181413?u=7bab6cb28b2c583ee1f5f6ce8b3e0195601b6dde&v=4
-182095352,N_m3u8DL-CLI,nilaoda/N_m3u8DL-CLI,C#,13,"[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.",1646,9028,https://avatars.githubusercontent.com/u/20772925?u=6332a7ef3fc5f4f6ce844a764e912638fc01b64a&v=4
-321682465,SteamTools,BeyondDimension/SteamTools,C#,40,🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。,579,9021,https://avatars.githubusercontent.com/u/79355691?v=4
+165548191,PEASS-ng,carlospolop/PEASS-ng,C#,12,PEASS - Privilege Escalation Awesome Scripts SUITE (with colors),2270,9623,https://avatars.githubusercontent.com/u/17181413?u=7bab6cb28b2c583ee1f5f6ce8b3e0195601b6dde&v=4
+182095352,N_m3u8DL-CLI,nilaoda/N_m3u8DL-CLI,C#,12,"[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.",1646,9028,https://avatars.githubusercontent.com/u/20772925?u=6332a7ef3fc5f4f6ce844a764e912638fc01b64a&v=4
+321682465,SteamTools,BeyondDimension/SteamTools,C#,39,🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。,579,9021,https://avatars.githubusercontent.com/u/79355691?v=4
 1579990,MonoGame,MonoGame/MonoGame,C#,4,One framework for creating powerful cross-platform games.,2611,8622,https://avatars.githubusercontent.com/u/4772066?v=4
 375939072,FastGithub,dotnetcore/FastGithub,C#,7,github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题,1047,7713,https://avatars.githubusercontent.com/u/19404084?v=4
 77323220,Radarr,Radarr/Radarr,C#,6,A fork of Sonarr to work with movies à la Couchpotato.,773,6454,https://avatars.githubusercontent.com/u/25025331?v=4
@@ -18,9 +18,9 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 282637924,BBDown,nilaoda/BBDown,C#,6,Bilibili Downloader. 一款命令行式哔哩哔哩下载器.,416,3399,https://avatars.githubusercontent.com/u/20772925?u=6332a7ef3fc5f4f6ce844a764e912638fc01b64a&v=4
 109916954,SteamAchievementManager,gibbed/SteamAchievementManager,C#,2,A manager for game achievements in Steam.,540,3282,https://avatars.githubusercontent.com/u/85170?u=bd14aa5c025961e698eff7018d168cc80357a2cd&v=4
 342637264,CleanArchitecture,blazorhero/CleanArchitecture,C#,1,Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.,537,2686,https://avatars.githubusercontent.com/u/76645960?v=4
-103370157,optimizer,hellzerg/optimizer,C#,13,The finest Windows Optimizer,269,2476,https://avatars.githubusercontent.com/u/3146835?u=012a457ae34fc7f8a0e55e66f7e3f1702a6e7a47&v=4
+103370157,optimizer,hellzerg/optimizer,C#,11,The finest Windows Optimizer,269,2476,https://avatars.githubusercontent.com/u/3146835?u=012a457ae34fc7f8a0e55e66f7e3f1702a6e7a47&v=4
 121067132,BepInEx,BepInEx/BepInEx,C#,2,Unity / XNA game patcher and plugin framework,343,2239,https://avatars.githubusercontent.com/u/39589027?v=4
 59467988,Unigram,UnigramDev/Unigram,C#,5,Telegram for Windows,332,2173,https://avatars.githubusercontent.com/u/22216198?v=4
-44125268,marten,JasperFx/marten,C#,4,.NET Transactional Document DB and Event Store on PostgreSQL,334,1833,https://avatars.githubusercontent.com/u/10048186?v=4
-256651878,MelonLoader,LavaGang/MelonLoader,C#,3,The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono,261,1008,https://avatars.githubusercontent.com/u/70487270?v=4
-491611289,GI_Assets,zeroruka/GI_Assets,C#,21,"Character textures, models and mods for a certain anime game. ",248,480,https://avatars.githubusercontent.com/u/89210318?u=4c1ea716fabfa2bc88f7a92098443a810ff8f5e3&v=4
+44125268,marten,JasperFx/marten,C#,3,.NET Transactional Document DB and Event Store on PostgreSQL,334,1833,https://avatars.githubusercontent.com/u/10048186?v=4
+256651878,MelonLoader,LavaGang/MelonLoader,C#,2,The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono,261,1008,https://avatars.githubusercontent.com/u/70487270?v=4
+491611289,GI_Assets,zeroruka/GI_Assets,C#,21,"Character textures, models and mods for a certain anime game. ",247,480,https://avatars.githubusercontent.com/u/89210318?u=4c1ea716fabfa2bc88f7a92098443a810ff8f5e3&v=4
