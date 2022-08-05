@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,64,The Go programming language,15195,102379,https://avatars.githubusercontent.com/u/4314092?v=4
-7691631,moby,moby/moby,Go,7,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18210,63697,https://avatars.githubusercontent.com/u/27259197?v=4
-17728164,terraform,hashicorp/terraform,Go,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",7811,33682,https://avatars.githubusercontent.com/u/761456?v=4
-13855476,gorm,go-gorm/gorm,Go,18,"The fantastic ORM library for Golang, aims to be developer friendly",3266,29176,https://avatars.githubusercontent.com/u/15127678?v=4
-13124802,influxdb,influxdata/influxdb,Go,8,"Scalable datastore for metrics, events, and real-time analytics",3224,23918,https://avatars.githubusercontent.com/u/5713248?v=4
-31504491,echo,labstack/echo,Go,16,"High performance, minimalist Go web framework",2009,23003,https://avatars.githubusercontent.com/u/2624634?v=4
-4307108,nsq,nsqio/nsq,Go,103,A realtime distributed messaging platform,2770,22425,https://avatars.githubusercontent.com/u/8295919?v=4
-26337322,rancher,rancher/rancher,Go,16,Complete container management platform,2620,19662,https://avatars.githubusercontent.com/u/9343010?v=4
-46806184,charts,helm/charts,Go,1,⚠️(OBSOLETE) Curated applications for Kubernetes,17242,15445,https://avatars.githubusercontent.com/u/15859888?v=4
-42194129,docker-slim,docker-slim/docker-slim,Go,187,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),531,14568,https://avatars.githubusercontent.com/u/20057356?v=4
-30711774,validator,go-playground/validator,Go,17,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",990,11032,https://avatars.githubusercontent.com/u/14768796?v=4
-132145189,golangci-lint,golangci/golangci-lint,Go,21,Fast linters Runner for Go,1053,10854,https://avatars.githubusercontent.com/u/35628013?v=4
-121086193,gqlgen,99designs/gqlgen,Go,17,go generate based graphql server library,895,7848,https://avatars.githubusercontent.com/u/17182?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3190,7250,https://avatars.githubusercontent.com/u/66682517?v=4
-10721619,ebiten,hajimehoshi/ebiten,Go,15,Ebitengine - A dead simple 2D game library for Go,453,6847,https://avatars.githubusercontent.com/u/16950?u=ed7c5b7cfcec804ff78d1e3fa43c42ef9869f9c6&v=4
-107417113,Yearning,cookieY/Yearning,Go,23,🐳 A most popular sql audit platform for mysql ,1786,6793,https://avatars.githubusercontent.com/u/22343354?u=6b219d6f1284feba79138823024eed9f38b4eba7&v=4
-9120526,pgx,jackc/pgx,Go,10,PostgreSQL driver and toolkit for Go,549,5811,https://avatars.githubusercontent.com/u/94130?v=4
-90798757,kafka-go,segmentio/kafka-go,Go,11,Kafka library in Go,582,5104,https://avatars.githubusercontent.com/u/819518?v=4
-206213815,chaos-mesh,chaos-mesh/chaos-mesh,Go,11,A Chaos Engineering Platform for Kubernetes.,643,5059,https://avatars.githubusercontent.com/u/59082378?v=4
-110027931,metallb,metallb/metallb,Go,7,A network load-balancer implementation for Kubernetes using standard routing protocols,665,5018,https://avatars.githubusercontent.com/u/60239468?v=4
-149515625,flagger,fluxcd/flagger,Go,10,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",572,3774,https://avatars.githubusercontent.com/u/52158677?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,20,OpenTelemetry Go API and SDK,666,2950,https://avatars.githubusercontent.com/u/49998002?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,2,Datadog Agent ,877,1747,https://avatars.githubusercontent.com/u/365230?v=4
-321485314,gio,gioui/gio,Go,42,Mirror of the Gio main repository (https://git.sr.ht/~eliasnaur/gio),111,1011,https://avatars.githubusercontent.com/u/48319945?v=4
-474521466,helmfile,helmfile/helmfile,Go,8,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot",53,703,https://avatars.githubusercontent.com/u/83191469?v=4
+23096959,go,golang/go,Go,68,The Go programming language,15196,102386,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,43,Production-Grade Container Scheduling and Management,33293,90848,https://avatars.githubusercontent.com/u/13629408?v=4
+20904437,gin,gin-gonic/gin,Go,40,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",6810,61676,https://avatars.githubusercontent.com/u/7894478?v=4
+52034309,zap,uber-go/zap,Go,12,"Blazing fast, structured, leveled logging in Go.",1187,16539,https://avatars.githubusercontent.com/u/19262598?v=4
+42194129,docker-slim,docker-slim/docker-slim,Go,127,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),531,14581,https://avatars.githubusercontent.com/u/20057356?v=4
+46089560,containerd,containerd/containerd,Go,8,An open and reliable container runtime,2330,11646,https://avatars.githubusercontent.com/u/14037953?v=4
+208728772,milvus,milvus-io/milvus,Go,17,Vector database for scalable similarity search and AI applications.,1630,11504,https://avatars.githubusercontent.com/u/51735404?v=4
+148545807,kind,kubernetes-sigs/kind,Go,11,Kubernetes IN Docker - local clusters for testing Kubernetes,1185,10221,https://avatars.githubusercontent.com/u/36015203?v=4
+413918947,turborepo,vercel/turborepo,Go,17,The High-performance Build System for JavaScript & TypeScript Codebases,489,8601,https://avatars.githubusercontent.com/u/14985020?v=4
+121086193,gqlgen,99designs/gqlgen,Go,17,go generate based graphql server library,895,7850,https://avatars.githubusercontent.com/u/17182?v=4
+107417113,Yearning,cookieY/Yearning,Go,20,🐳 A most popular sql audit platform for mysql ,1786,6794,https://avatars.githubusercontent.com/u/22343354?u=6b219d6f1284feba79138823024eed9f38b4eba7&v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",1925,5500,https://avatars.githubusercontent.com/u/36015203?v=4
+90798757,kafka-go,segmentio/kafka-go,Go,11,Kafka library in Go,582,5106,https://avatars.githubusercontent.com/u/819518?v=4
+53356367,skopeo,containers/skopeo,Go,5,"Work with remote images registries - retrieving information, images, signing content",571,4959,https://avatars.githubusercontent.com/u/5874934?v=4
+67828134,cri-o,cri-o/cri-o,Go,3,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,820,4103,https://avatars.githubusercontent.com/u/29074118?v=4
+74891203,aws-nuke,rebuy-de/aws-nuke,Go,5,Nuke a whole AWS account and delete all its resources.,466,3599,https://avatars.githubusercontent.com/u/1541072?v=4
+57333709,test-infra,kubernetes/test-infra,Go,1,Test infrastructure for the Kubernetes project.,2261,3393,https://avatars.githubusercontent.com/u/13629408?v=4
+94166852,httprunner,httprunner/httprunner,Go,8,HttpRunner 是一个开源的 API 测试工具，支持 HTTP(S) / HTTP2 / WebSocket / RPC 等网络协议，涵盖接口测试、性能测试、数字体验监测等测试类型。简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。,1128,3312,https://avatars.githubusercontent.com/u/33365280?v=4
+98671007,descheduler,kubernetes-sigs/descheduler,Go,3,Descheduler for Kubernetes,500,2764,https://avatars.githubusercontent.com/u/36015203?v=4
+169108858,kyverno,kyverno/kyverno,Go,7,Kubernetes Native Policy Management,360,2734,https://avatars.githubusercontent.com/u/68448710?v=4
+54503347,image-spec,opencontainers/image-spec,Go,2,OCI Image Format,453,2240,https://avatars.githubusercontent.com/u/12563465?v=4
+248386471,kubekey,kubesphere/kubekey,Go,3,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",320,1112,https://avatars.githubusercontent.com/u/37326490?v=4
+520721870,2022-HW-POC,sobinge/2022-HW-POC,Go,198,2022 护网行动 POC 整理,449,640,https://avatars.githubusercontent.com/u/42490244?v=4
+484208174,acorn,acorn-io/acorn,Go,51,A simple application deployment framework for Kubernetes,9,180,https://avatars.githubusercontent.com/u/104170065?v=4
+416088944,sqlite-html,asg017/sqlite-html,Go,38,"A SQLite extension for querying, manipulating, and creating HTML elements.",7,179,https://avatars.githubusercontent.com/u/15178711?u=79bc7ce06934e9f2e6344d112f5bb5ea4e80e53a&v=4
