@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-111583593,scrcpy,Genymobile/scrcpy,C,69,Display and control your Android device,7405,69513,https://avatars.githubusercontent.com/u/3427627?v=4
-5101141,jq,stedolan/jq,C,8,Command-line JSON processor,1334,22844,https://avatars.githubusercontent.com/u/79765?v=4
-29759715,zstd,facebook/zstd,C,36,Zstandard - Fast real-time compression algorithm,1727,17874,https://avatars.githubusercontent.com/u/69631?v=4
-613829,lua-nginx-module,openresty/lua-nginx-module,C,7,Embed the Power of Lua into NGINX HTTP servers,1959,10197,https://avatars.githubusercontent.com/u/7390180?v=4
-60667730,lvgl,lvgl/lvgl,C,13,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2061,10155,https://avatars.githubusercontent.com/u/19811762?v=4
-65899476,esp-idf,espressif/esp-idf,C,7,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,5698,8987,https://avatars.githubusercontent.com/u/9460735?v=4
-272457606,cosmopolitan,jart/cosmopolitan,C,123,build-once run-anywhere c library,270,8759,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
-5414488,mongoose,cesanta/mongoose,C,8,Embedded Web Server,2390,8656,https://avatars.githubusercontent.com/u/5111322?v=4
-53614190,mosquitto,eclipse/mosquitto,C,3,Eclipse Mosquitto - An open source MQTT broker,2004,6529,https://avatars.githubusercontent.com/u/56974?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,16,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4076,6523,https://avatars.githubusercontent.com/u/19595895?v=4
-6376337,poco,pocoproject/poco,C,2,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",1839,6290,https://avatars.githubusercontent.com/u/201918?v=4
-5870069,librdkafka,edenhill/librdkafka,C,3,The Apache Kafka C/C++ library,2795,6160,https://avatars.githubusercontent.com/u/524990?v=4
-2755696,go-sqlite3,mattn/go-sqlite3,C,1,sqlite3 driver for go using database/sql,978,5942,https://avatars.githubusercontent.com/u/10111?u=52c03ac58f0027d43f6708fcbc3c2913f195439c&v=4
-8270972,mbed-os,ARMmbed/mbed-os,C,1,Arm Mbed OS is a platform operating system designed for the internet of things,2847,4161,https://avatars.githubusercontent.com/u/8916057?v=4
-334777857,ravynos,ravynsoft/ravynos,C,33,A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS),124,3941,https://avatars.githubusercontent.com/u/88578950?v=4
-204459250,xv6-riscv,mit-pdos/xv6-riscv,C,1,Xv6 for RISC-V,970,2904,https://avatars.githubusercontent.com/u/12404246?v=4
-206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,3,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,981,2853,https://avatars.githubusercontent.com/u/54647343?v=4
+111583593,scrcpy,Genymobile/scrcpy,C,53,Display and control your Android device,7407,69516,https://avatars.githubusercontent.com/u/3427627?v=4
+156018,redis,redis/redis,C,30,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",21652,56452,https://avatars.githubusercontent.com/u/1529926?v=4
+613829,lua-nginx-module,openresty/lua-nginx-module,C,5,Embed the Power of Lua into NGINX HTTP servers,1959,10197,https://avatars.githubusercontent.com/u/7390180?v=4
+60667730,lvgl,lvgl/lvgl,C,13,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2062,10156,https://avatars.githubusercontent.com/u/19811762?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,5,Arduino core for the ESP32,5837,9193,https://avatars.githubusercontent.com/u/9460735?v=4
+272457606,cosmopolitan,jart/cosmopolitan,C,78,build-once run-anywhere c library,270,8762,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+5414488,mongoose,cesanta/mongoose,C,3,Embedded Web Server,2390,8656,https://avatars.githubusercontent.com/u/5111322?v=4
+13310527,jemalloc,jemalloc/jemalloc,C,2,,1238,7306,https://avatars.githubusercontent.com/u/5606968?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,42,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4076,6524,https://avatars.githubusercontent.com/u/19595895?v=4
+17183871,iperf,esnet/iperf,C,6,"iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool",1042,4594,https://avatars.githubusercontent.com/u/1566018?v=4
+29933948,fluent-bit,fluent/fluent-bit,C,3,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1101,3842,https://avatars.githubusercontent.com/u/859518?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,3,"An open source, portable, easy to use, readable and flexible SSL library",2067,3707,https://avatars.githubusercontent.com/u/97226525?v=4
+330008801,SDL,libsdl-org/SDL,C,11,Simple Directmedia Layer,712,3670,https://avatars.githubusercontent.com/u/77683370?v=4
+59213200,flatpak,flatpak/flatpak,C,15,Linux application sandboxing and distribution framework,336,3286,https://avatars.githubusercontent.com/u/19473042?v=4
+34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,672,3051,https://avatars.githubusercontent.com/u/12173937?v=4
+128791889,haproxy,haproxy/haproxy,C,4,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),597,3035,https://avatars.githubusercontent.com/u/38220289?v=4
+6860771,tinyusb,hathach/tinyusb,C,3,An open source  cross-platform USB stack for embedded system,590,2980,https://avatars.githubusercontent.com/u/249515?u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4
+220449772,openwifi,open-sdr/openwifi,C,8,"open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software",428,2623,https://avatars.githubusercontent.com/u/57527287?v=4
 154525111,freeswitch,signalwire/freeswitch,C,3,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",942,1941,https://avatars.githubusercontent.com/u/34925332?v=4
-23780138,riscv-gnu-toolchain,riscv-collab/riscv-gnu-toolchain,C,1,"GNU toolchain for RISC-V, including GCC",734,1810,https://avatars.githubusercontent.com/u/89536104?v=4
-228103273,incubator-nuttx,apache/incubator-nuttx,C,1,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",562,1063,https://avatars.githubusercontent.com/u/47359?v=4
-423888812,EDRSandblast,wavestone-cdt/EDRSandblast,C,2,,132,679,https://avatars.githubusercontent.com/u/25906112?u=6719b3fdad01b1547d5a724aa6676f5abfd43cc8&v=4
-51990771,CMSIS_5,ARM-software/CMSIS_5,C,3,CMSIS Version 5 Development Repository,983,656,https://avatars.githubusercontent.com/u/5690313?v=4
-53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,1006,439,https://avatars.githubusercontent.com/u/102750714?v=4
-527234128,Pico-10BASE-T,kingyoPiyo/Pico-10BASE-T,C,110,10BASE-T from Raspberry Pi Pico,9,303,https://avatars.githubusercontent.com/u/8263942?u=a9dc992f96a73fdbb704dc0348483d47d56782c5&v=4
-526863912,mpu9250,hepingood/mpu9250,C,6,mpu9250 full function driver,11,24,https://avatars.githubusercontent.com/u/45958776?u=ac211d5771c6dfbb2f3be91f1677d94c7280b66e&v=4
+152338895,libbpf,libbpf/libbpf,C,3,Automated upstream mirror for libbpf stand-alone build.,263,1035,https://avatars.githubusercontent.com/u/44008517?v=4
+70934373,azure-iot-sdk-c,Azure/azure-iot-sdk-c,C,0,A C99 SDK for connecting devices to Microsoft Azure IoT services,707,513,https://avatars.githubusercontent.com/u/6844498?v=4
+121516035,sdk-nrf,nrfconnect/sdk-nrf,C,2,nRF Connect SDK main repository,827,509,https://avatars.githubusercontent.com/u/40860733?v=4
+527234128,Pico-10BASE-T,kingyoPiyo/Pico-10BASE-T,C,29,10BASE-T from Raspberry Pi Pico,9,305,https://avatars.githubusercontent.com/u/8263942?u=a9dc992f96a73fdbb704dc0348483d47d56782c5&v=4
+120317722,sdk-zephyr,nrfconnect/sdk-zephyr,C,0,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,383,125,https://avatars.githubusercontent.com/u/40860733?v=4
+481330031,Adam74,EngineersNeedArt/Adam74,C,6,Small ASCII terminal for hobbyist 8-bit computers. Uses Teensy and ILI9341-based LCD display.,0,31,https://avatars.githubusercontent.com/u/84056606?u=11be43c4b938c07248809438e7b444bcdc2981ee&v=4
