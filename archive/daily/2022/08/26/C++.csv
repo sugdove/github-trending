@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1181927,bitcoin,bitcoin/bitcoin,C++,28,Bitcoin Core integration/staging tree,32899,65881,https://avatars.githubusercontent.com/u/528860?v=4
-5108051,opencv,opencv/opencv,C++,28,Open Source Computer Vision Library,52344,63421,https://avatars.githubusercontent.com/u/5009934?v=4
-65600975,pytorch,pytorch/pytorch,C++,26,Tensors and Dynamic neural networks in Python with strong GPU acceleration,16227,58242,https://avatars.githubusercontent.com/u/21003710?v=4
-15634981,godot,godotengine/godot,C++,47,Godot Engine – Multi-platform 2D and 3D game engine,9182,52512,https://avatars.githubusercontent.com/u/6318500?v=4
-11171548,json,nlohmann/json,C++,20,JSON for Modern C++,5424,31478,https://avatars.githubusercontent.com/u/159488?v=4
-23405758,leveldb,google/leveldb,C++,18,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,6725,30352,https://avatars.githubusercontent.com/u/1342004?v=4
-39840932,googletest,google/googletest,C++,4,GoogleTest - Google Testing and Mocking Framework,8757,27341,https://avatars.githubusercontent.com/u/1342004?v=4
-96246170,apollo,ApolloAuto/apollo,C++,9,An open autonomous driving platform,8693,21435,https://avatars.githubusercontent.com/u/28768304?v=4
+65600975,pytorch,pytorch/pytorch,C++,26,Tensors and Dynamic neural networks in Python with strong GPU acceleration,16227,58247,https://avatars.githubusercontent.com/u/21003710?v=4
+27729880,grpc,grpc/grpc,C++,16,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",9318,35347,https://avatars.githubusercontent.com/u/7802525?v=4
+168008797,calculator,microsoft/calculator,C++,3,Windows Calculator: A simple yet powerful calculator that ships with Windows,4601,25486,https://avatars.githubusercontent.com/u/6154722?v=4
+191820100,mediapipe,google/mediapipe,C++,20,"Cross-platform, customizable ML solutions for live and streaming media.",3890,18470,https://avatars.githubusercontent.com/u/1342004?v=4
 1062572,Catch2,catchorg/Catch2,C++,9,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2646,15447,https://avatars.githubusercontent.com/u/33321405?v=4
-26038648,spdlog,gabime/spdlog,C++,14,Fast C++ logging library.,3296,15384,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-648332,assimp,assimp/assimp,C++,11,The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. ,2364,8143,https://avatars.githubusercontent.com/u/265533?v=4
-146459443,nebula,vesoft-inc/nebula,C++,16,"  A distributed, fast open-source graph database featuring horizontal scalability and high availability",875,7847,https://avatars.githubusercontent.com/u/42441426?v=4
-99919302,doris,apache/doris,C++,9,"Apache Doris is an easy-to-use, high performance and unified analytics database.",1662,5439,https://avatars.githubusercontent.com/u/47359?v=4
-354743391,o3de,o3de/o3de,C++,9,"Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",1607,5256,https://avatars.githubusercontent.com/u/68126246?v=4
-49986046,falco,falcosecurity/falco,C++,6,Cloud Native Runtime Security,684,5125,https://avatars.githubusercontent.com/u/42391047?v=4
-4930716,zeek,zeek/zeek,C++,5,Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.,1079,4605,https://avatars.githubusercontent.com/u/1194067?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,3,OpenVINO™ Toolkit repository,1486,3548,https://avatars.githubusercontent.com/u/55443902?v=4
-467157951,FileCentipede,filecxx/FileCentipede,C++,40,"Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",177,2316,https://avatars.githubusercontent.com/u/100348948?u=d8563d779bdb796b1ad7ba640313a8da4c2c354a&v=4
-52400453,realsense-ros,IntelRealSense/realsense-ros,C++,3,"Intel(R) RealSense(TM) ROS Wrapper for D400 series, SR300 Camera and T265 Tracking Module",1378,1719,https://avatars.githubusercontent.com/u/14095512?v=4
-493029626,Akebi-GC,Akebi-Group/Akebi-GC,C++,79,The great software for some game that exploiting anime girls (and boys).,291,1190,https://avatars.githubusercontent.com/u/105681966?v=4
-135363400,navigation2,ros-planning/navigation2,C++,7,ROS2 Navigation Framework and System,710,1136,https://avatars.githubusercontent.com/u/2328631?v=4
-388946490,velox,facebookincubator/velox,C++,6,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,320,1065,https://avatars.githubusercontent.com/u/19538647?v=4
-520364086,UnityPerformanceTuningBible,CyberAgentGameEntertainment/UnityPerformanceTuningBible,C++,28,Unity Performance Tuning knowledge book,16,650,https://avatars.githubusercontent.com/u/93517442?v=4
-345084721,LGTVCompanion,JPersson77/LGTVCompanion,C++,8,Power On and Off WebOS LG TVs together with your PC,16,264,https://avatars.githubusercontent.com/u/77928210?v=4
-281574648,my_vulnerabilities,k0keoyo/my_vulnerabilities,C++,2,,23,100,https://avatars.githubusercontent.com/u/13257929?v=4
+64991887,LightGBM,microsoft/LightGBM,C++,4,"A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",3612,14106,https://avatars.githubusercontent.com/u/6154722?v=4
+20570214,tink,google/tink,C++,4,"Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",1131,12589,https://avatars.githubusercontent.com/u/1342004?v=4
+283410102,workflow,sogou/workflow,C++,12,C++ Parallel Computing and Asynchronous Networking Engine,1769,9004,https://avatars.githubusercontent.com/u/15903299?v=4
+204593825,STL,microsoft/STL,C++,1,MSVC's implementation of the C++ Standard Library.,1181,8040,https://avatars.githubusercontent.com/u/6154722?v=4
+32944298,z3,Z3Prover/z3,C++,6,The Z3 Theorem Prover,1265,7906,https://avatars.githubusercontent.com/u/11668813?v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,13,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2020,7355,https://avatars.githubusercontent.com/u/84565724?v=4
+130068982,taskflow,taskflow/taskflow,C++,5,A General-purpose Parallel and Heterogeneous Task Programming System,851,7187,https://avatars.githubusercontent.com/u/40002981?v=4
+99919302,doris,apache/doris,C++,11,"Apache Doris is an easy-to-use, high performance and unified analytics database.",1661,5440,https://avatars.githubusercontent.com/u/47359?v=4
+49986046,falco,falcosecurity/falco,C++,6,Cloud Native Runtime Security,684,5126,https://avatars.githubusercontent.com/u/42391047?v=4
+244694174,connectedhomeip,project-chip/connectedhomeip,C++,9,"Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).",954,4234,https://avatars.githubusercontent.com/u/61027988?v=4
+22660515,doctest,doctest/doctest,C++,4,The fastest feature-rich C++11/14/17/20 single-header testing framework,505,4125,https://avatars.githubusercontent.com/u/70880936?v=4
+224908244,WasmEdge,WasmEdge/WasmEdge,C++,2,"WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",380,3662,https://avatars.githubusercontent.com/u/83329692?v=4
+467157951,FileCentipede,filecxx/FileCentipede,C++,34,"Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",177,2320,https://avatars.githubusercontent.com/u/100348948?u=d8563d779bdb796b1ad7ba640313a8da4c2c354a&v=4
+350375089,lite.ai.toolkit,DefTruth/lite.ai.toolkit,C++,1,"🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5.  MNN, NCNN, TNN, ONNXRuntime.",458,2024,https://avatars.githubusercontent.com/u/31974251?u=b7d035be625416512794badb08dedc648983bf3f&v=4
+527719753,Cemu,cemu-project/Cemu,C++,382,Cemu is a Wii U emulator,80,1750,https://avatars.githubusercontent.com/u/40145098?v=4
+223322895,OpenHashTab,namazso/OpenHashTab,C++,10,📝 File hashing and checking shell extension,70,1411,https://avatars.githubusercontent.com/u/8676443?u=7967beb99a4d9f9c61cdb6b89080d2d227b4317e&v=4
+493029626,Akebi-GC,Akebi-Group/Akebi-GC,C++,78,The great software for some game that exploiting anime girls (and boys).,294,1200,https://avatars.githubusercontent.com/u/105681966?v=4
+523544748,zelda3,snesrev/zelda3,C++,126,,54,609,https://avatars.githubusercontent.com/u/111028570?v=4
+527849461,EtwSessionHijacking,ORCx41/EtwSessionHijacking,C++,9,A Poc on blocking Procmon from monitoring network events,8,70,https://avatars.githubusercontent.com/u/111295429?u=c0902aad86992f998baa0a60bf14d54edd994de6&v=4
+508346734,kyan-app,coder0211/kyan-app,C++,1,,9,10,https://avatars.githubusercontent.com/u/63215994?u=e6250664b2be09f93e20c155afb0b39c8f45727b&v=4
