@@ -1,26 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,17,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",21718,56650,https://avatars.githubusercontent.com/u/1529926?v=4
-1903522,php-src,php/php-src,C,6,The PHP Interpreter,7287,34290,https://avatars.githubusercontent.com/u/25158?v=4
-24586308,os-tutorial,cfenollosa/os-tutorial,C,17,How to create an OS from scratch,2941,23636,https://avatars.githubusercontent.com/u/2249551?u=89653230eaad2d58b34ad328cca51f3e73144316&v=4
-1357796,emscripten,emscripten-core/emscripten,C,6,Emscripten: An LLVM-to-WebAssembly Compiler,2914,22654,https://avatars.githubusercontent.com/u/46011144?v=4
-80286288,Tasmota,arendst/Tasmota,C,6,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4051,18309,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-15337142,micropython,micropython/micropython,C,6,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,5705,15054,https://avatars.githubusercontent.com/u/6298560?v=4
-5254557,skynet,cloudwu/skynet,C,3,A lightweight online game framework,3875,11468,https://avatars.githubusercontent.com/u/729648?v=4
-179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,9,OpenCore bootloader,1798,10071,https://avatars.githubusercontent.com/u/39672954?v=4
-70127218,arduino-esp32,espressif/arduino-esp32,C,7,Arduino core for the ESP32,5884,9259,https://avatars.githubusercontent.com/u/9460735?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,31,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,624,8593,https://avatars.githubusercontent.com/u/51009775?v=4
-394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,17,This project aims to enhance the working environment on Windows,444,7798,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
-37060852,betaflight,betaflight/betaflight,C,4,Open Source Flight Controller Firmware,2346,6052,https://avatars.githubusercontent.com/u/19597933?v=4
-40504480,xv6-public,mit-pdos/xv6-public,C,5,xv6 OS,3153,5780,https://avatars.githubusercontent.com/u/12404246?v=4
-130578889,smartdns,pymumu/smartdns,C,5,A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。,839,5299,https://avatars.githubusercontent.com/u/3275997?u=6eafad1c66232f210a74f5dda345195d16be8f07&v=4
-40556106,wazuh,wazuh/wazuh,C,6,Wazuh - The Open Source Security Platform,849,4713,https://avatars.githubusercontent.com/u/13752566?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,1,"An open source, portable, easy to use, readable and flexible SSL library",2078,3731,https://avatars.githubusercontent.com/u/97226525?v=4
-187042471,bytehound,koute/bytehound,C,13,A memory profiler for Linux.,123,3070,https://avatars.githubusercontent.com/u/246574?v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,3,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",595,2993,https://avatars.githubusercontent.com/u/62360046?v=4
-4065980,libopencm3,libopencm3/libopencm3,C,3,Open source ARM Cortex-M microcontroller library,916,2461,https://avatars.githubusercontent.com/u/1656279?v=4
-15333809,open62541,open62541/open62541,C,0,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,970,1883,https://avatars.githubusercontent.com/u/16096536?v=4
-336719229,qemu-t8030,TrungNguyen1909/qemu-t8030,C,7,iPhone 11 emulated on QEMU,98,1446,https://avatars.githubusercontent.com/u/22745058?u=5c19db62e339ca4daf7e3ed5c352514a99643957&v=4
-531976789,TrollStore,opa334/TrollStore,C,178,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,81,1244,https://avatars.githubusercontent.com/u/18235760?v=4
-530536922,amx,corsix/amx,C,40,Apple AMX Instruction Set,13,326,https://avatars.githubusercontent.com/u/1670?u=ebc3d486c8016f1f1d6c749fcee7ab276dca49ff&v=4
-400879419,GP2040,FeralAI/GP2040,C,3,"Gamepad firmware for Raspberry Pi Pico and other RP2040 microcontrollers supporting Nintendo Switch, XInput and DirectInput",68,299,https://avatars.githubusercontent.com/u/13342258?u=48203df5996badefa86620229adbae99549caa08&v=4
-193436610,win2k,gameprive/win2k,C,3,Windows 2000 source code ,32,54,https://avatars.githubusercontent.com/u/25477592?v=4
+2325298,linux,torvalds/linux,C,51,Linux kernel source tree,44426,137492,https://avatars.githubusercontent.com/u/1024025?v=4
+156018,redis,redis/redis,C,22,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",21718,56654,https://avatars.githubusercontent.com/u/1529926?v=4
+36502,git,git/git,C,12,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,23966,43436,https://avatars.githubusercontent.com/u/18133?v=4
+196353673,TDengine,taosdata/TDengine,C,16,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4473,19181,https://avatars.githubusercontent.com/u/48876650?v=4
+45821540,openwrt,openwrt/openwrt,C,14,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,7698,12513,https://avatars.githubusercontent.com/u/2528830?v=4
+927442,postgres,postgres/postgres,C,9,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3455,10889,https://avatars.githubusercontent.com/u/177543?v=4
+39242894,coturn,coturn/coturn,C,5,coturn TURN server project,1678,8163,https://avatars.githubusercontent.com/u/6572098?v=4
+437011,zfs,openzfs/zfs,C,2,OpenZFS on Linux and FreeBSD,1503,8072,https://avatars.githubusercontent.com/u/4510897?v=4
+105944401,yugabyte-db,yugabyte/yugabyte-db,C,2,"The high-performance distributed SQL database for global, internet-scale apps.",823,6852,https://avatars.githubusercontent.com/u/17074854?v=4
+16734696,janus-gateway,meetecho/janus-gateway,C,3,Janus WebRTC Server,2220,6703,https://avatars.githubusercontent.com/u/4520545?v=4
+6376337,poco,pocoproject/poco,C,4,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",1850,6336,https://avatars.githubusercontent.com/u/201918?v=4
+5870069,librdkafka,edenhill/librdkafka,C,5,The Apache Kafka C/C++ library,2813,6194,https://avatars.githubusercontent.com/u/524990?v=4
+44781140,gpdb,greenplum-db/gpdb,C,1,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1521,5358,https://avatars.githubusercontent.com/u/14097842?v=4
+2359378,zlib,madler/zlib,C,7,A massively spiffy yet delicately unobtrusive compression library.,1940,3787,https://avatars.githubusercontent.com/u/240717?v=4
+34807561,nanopb,nanopb/nanopb,C,0,Protocol Buffers with small code size,674,3064,https://avatars.githubusercontent.com/u/12173937?v=4
+204459250,xv6-riscv,mit-pdos/xv6-riscv,C,4,Xv6 for RISC-V,997,2975,https://avatars.githubusercontent.com/u/12404246?v=4
+99199151,rnnoise,xiph/rnnoise,C,5,Recurrent neural network for audio noise reduction,771,2678,https://avatars.githubusercontent.com/u/8365509?v=4
+14521001,flex,westes/flex,C,3,The Fast Lexical Analyzer - scanner generator for lexing in C and C++,460,2677,https://avatars.githubusercontent.com/u/1587870?v=4
+71643008,obs-ndi,Palakis/obs-ndi,C,5,NewTek NDI integration for OBS Studio,268,2253,https://avatars.githubusercontent.com/u/1812130?u=3645c7b6b17170c5284d26cd6d38cbd09b9aaec4&v=4
+122993186,ostep-code,remzi-arpacidusseau/ostep-code,C,3,Code from various chapters in OSTEP (http://www.ostep.org),981,2202,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
+151064439,ExpressLRS,ExpressLRS/ExpressLRS,C,3,STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications,393,1922,https://avatars.githubusercontent.com/u/77287864?v=4
+531976789,TrollStore,opa334/TrollStore,C,167,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,81,1262,https://avatars.githubusercontent.com/u/18235760?v=4
+494666336,123elf,taviso/123elf,C,5,A native port of Lotus 1-2-3 to Linux.,45,697,https://avatars.githubusercontent.com/u/123814?u=b62bec1a41456a2f68b4f22641f9bf816d4bbddf&v=4
+530536922,amx,corsix/amx,C,35,Apple AMX Instruction Set,13,328,https://avatars.githubusercontent.com/u/1670?u=ebc3d486c8016f1f1d6c749fcee7ab276dca49ff&v=4
