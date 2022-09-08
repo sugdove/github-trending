@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,61,Linux kernel source tree,44432,137534,https://avatars.githubusercontent.com/u/1024025?v=4
-156018,redis,redis/redis,C,28,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",21722,56677,https://avatars.githubusercontent.com/u/1529926?v=4
-36502,git,git/git,C,12,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,23968,43446,https://avatars.githubusercontent.com/u/18133?v=4
-196353673,TDengine,taosdata/TDengine,C,22,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4475,19198,https://avatars.githubusercontent.com/u/48876650?v=4
-45821540,openwrt,openwrt/openwrt,C,12,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,7701,12522,https://avatars.githubusercontent.com/u/2528830?v=4
-927442,postgres,postgres/postgres,C,11,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3458,10898,https://avatars.githubusercontent.com/u/177543?v=4
-39242894,coturn,coturn/coturn,C,7,coturn TURN server project,1679,8170,https://avatars.githubusercontent.com/u/6572098?v=4
-437011,zfs,openzfs/zfs,C,10,OpenZFS on Linux and FreeBSD,1503,8082,https://avatars.githubusercontent.com/u/4510897?v=4
-105944401,yugabyte-db,yugabyte/yugabyte-db,C,8,"The high-performance distributed SQL database for global, internet-scale apps.",825,6860,https://avatars.githubusercontent.com/u/17074854?v=4
+246335987,Ventoy,ventoy/Ventoy,C,23,A new bootable USB solution.,2850,39005,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
+10446890,ijkplayer,bilibili/ijkplayer,C,4,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",7864,30750,https://avatars.githubusercontent.com/u/12002442?v=4
+14812739,libuv,libuv/libuv,C,8,Cross-platform asynchronous I/O,3209,20021,https://avatars.githubusercontent.com/u/4030929?v=4
+60667730,lvgl,lvgl/lvgl,C,9,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2088,10254,https://avatars.githubusercontent.com/u/19811762?v=4
+1856976,libevent,libevent/libevent,C,3,Event notification library,3104,9124,https://avatars.githubusercontent.com/u/833750?v=4
+214011414,WindTerm,kingToolbox/WindTerm,C,44,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,627,8644,https://avatars.githubusercontent.com/u/51009775?v=4
+109762904,ffmpeg-libav-tutorial,leandromoreira/ffmpeg-libav-tutorial,C,4,"FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more",787,8101,https://avatars.githubusercontent.com/u/55913?u=42069964cd5d82b28661325d2dc55215039f25e5&v=4
 16734696,janus-gateway,meetecho/janus-gateway,C,1,Janus WebRTC Server,2220,6704,https://avatars.githubusercontent.com/u/4520545?v=4
 6376337,poco,pocoproject/poco,C,5,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",1851,6341,https://avatars.githubusercontent.com/u/201918?v=4
-5870069,librdkafka,edenhill/librdkafka,C,3,The Apache Kafka C/C++ library,2814,6197,https://avatars.githubusercontent.com/u/524990?v=4
-44781140,gpdb,greenplum-db/gpdb,C,1,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1521,5359,https://avatars.githubusercontent.com/u/14097842?v=4
+17183871,iperf,esnet/iperf,C,8,"iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool",1047,4636,https://avatars.githubusercontent.com/u/1566018?v=4
 2359378,zlib,madler/zlib,C,10,A massively spiffy yet delicately unobtrusive compression library.,1941,3797,https://avatars.githubusercontent.com/u/240717?v=4
+59213200,flatpak,flatpak/flatpak,C,6,Linux application sandboxing and distribution framework,343,3323,https://avatars.githubusercontent.com/u/19473042?v=4
 34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,674,3067,https://avatars.githubusercontent.com/u/12173937?v=4
-204459250,xv6-riscv,mit-pdos/xv6-riscv,C,7,Xv6 for RISC-V,999,2982,https://avatars.githubusercontent.com/u/12404246?v=4
-14521001,flex,westes/flex,C,7,The Fast Lexical Analyzer - scanner generator for lexing in C and C++,460,2683,https://avatars.githubusercontent.com/u/1587870?v=4
+184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,5,WebAssembly Micro Runtime (WAMR),378,2989,https://avatars.githubusercontent.com/u/54038801?v=4
 99199151,rnnoise,xiph/rnnoise,C,2,Recurrent neural network for audio noise reduction,771,2679,https://avatars.githubusercontent.com/u/8365509?v=4
-71643008,obs-ndi,Palakis/obs-ndi,C,5,NewTek NDI integration for OBS Studio,268,2258,https://avatars.githubusercontent.com/u/1812130?u=3645c7b6b17170c5284d26cd6d38cbd09b9aaec4&v=4
-122993186,ostep-code,remzi-arpacidusseau/ostep-code,C,4,Code from various chapters in OSTEP (http://www.ostep.org),981,2206,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
-151064439,ExpressLRS,ExpressLRS/ExpressLRS,C,2,STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications,393,1924,https://avatars.githubusercontent.com/u/77287864?v=4
-531976789,TrollStore,opa334/TrollStore,C,152,Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple,91,1376,https://avatars.githubusercontent.com/u/18235760?v=4
-494666336,123elf,taviso/123elf,C,10,A native port of Lotus 1-2-3 to Linux.,45,707,https://avatars.githubusercontent.com/u/123814?u=b62bec1a41456a2f68b4f22641f9bf816d4bbddf&v=4
-530536922,amx,corsix/amx,C,20,Apple AMX Instruction Set,13,346,https://avatars.githubusercontent.com/u/1670?u=ebc3d486c8016f1f1d6c749fcee7ab276dca49ff&v=4
+154525111,freeswitch,signalwire/freeswitch,C,3,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",954,1966,https://avatars.githubusercontent.com/u/34925332?v=4
+200663555,liburing,axboe/liburing,C,5,,240,1563,https://avatars.githubusercontent.com/u/2619634?v=4
+207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,3,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",633,1183,https://avatars.githubusercontent.com/u/54647343?v=4
+191266671,go-algorand,algorand/go-algorand,C,2,Algorand's official implementation in Go. ,346,1132,https://avatars.githubusercontent.com/u/23182699?v=4
+25379390,ucx,openucx/ucx,C,4,Unified Communication X  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group),303,727,https://avatars.githubusercontent.com/u/13118737?v=4
+337864647,b-parasite,rbaron/b-parasite,C,17,🌱💧 A Bluetooth Low Energy (BLE) soil moisture sensor.,57,647,https://avatars.githubusercontent.com/u/1573409?u=307ff3e3e2f066d30bd105ec49d79af5519041a1&v=4
+70934373,azure-iot-sdk-c,Azure/azure-iot-sdk-c,C,1,A C99 SDK for connecting devices to Microsoft Azure IoT services,714,516,https://avatars.githubusercontent.com/u/6844498?v=4
+453620090,MPC-BE,Aleksoid1978/MPC-BE,C,12,MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.,15,221,https://avatars.githubusercontent.com/u/11625603?u=cffd0c93f4d2663a58fa1cad4837ec89103d429c&v=4
+533092553,ColorDataProxyUACBypass,hackerhouse-opensource/ColorDataProxyUACBypass,C,9,Exploits undocumented elevated COM interface ICMLuaUtil via process spoofing to edit registry  then calls ColorDataProxy to trigger UAC bypass. Win 7 & up.,11,80,https://avatars.githubusercontent.com/u/43967630?u=56dbe415b5b9ce3f66fba7717354cd6cee4f92d2&v=4
+532032471,winapiexec,m417z/winapiexec,C,10,A small tool that allows to run WinAPI functions through command line parameters,8,68,https://avatars.githubusercontent.com/u/4129781?v=4
