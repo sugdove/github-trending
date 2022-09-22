@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,469,Linux kernel source tree,44732,138342,https://avatars.githubusercontent.com/u/1024025?v=4
-36502,git,git/git,C,96,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24029,43591,https://avatars.githubusercontent.com/u/18133?v=4
-24586308,os-tutorial,cfenollosa/os-tutorial,C,122,How to create an OS from scratch,2956,23806,https://avatars.githubusercontent.com/u/2249551?u=89653230eaad2d58b34ad328cca51f3e73144316&v=4
-102578345,lede,coolsnowwolf/lede,C,111,Lean's OpenWrt source,18001,23040,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+2325298,linux,torvalds/linux,C,538,Linux kernel source tree,44732,138350,https://avatars.githubusercontent.com/u/1024025?v=4
+569041,curl,curl/curl,C,101,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",5313,26685,https://avatars.githubusercontent.com/u/16928085?v=4
+24586308,os-tutorial,cfenollosa/os-tutorial,C,123,How to create an OS from scratch,2957,23808,https://avatars.githubusercontent.com/u/2249551?u=89653230eaad2d58b34ad328cca51f3e73144316&v=4
+14812739,libuv,libuv/libuv,C,48,Cross-platform asynchronous I/O,3224,20104,https://avatars.githubusercontent.com/u/4030929?v=4
 7634677,openssl,openssl/openssl,C,62,TLS/SSL and crypto library,8400,19373,https://avatars.githubusercontent.com/u/3279138?v=4
-18496166,mimikatz,gentilkiwi/mimikatz,C,65,A little tool to play with Windows security,3135,16016,https://avatars.githubusercontent.com/u/2307945?v=4
-84240850,timescaledb,timescale/timescaledb,C,54,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,725,13683,https://avatars.githubusercontent.com/u/8986001?v=4
-78281075,esp8266_deauther,SpacehuhnTech/esp8266_deauther,C,51,Affordable WiFi hacking platform for testing and learning,2206,10482,https://avatars.githubusercontent.com/u/64325017?v=4
-1856976,libevent,libevent/libevent,C,31,Event notification library,3116,9186,https://avatars.githubusercontent.com/u/833750?v=4
-65899476,esp-idf,espressif/esp-idf,C,47,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,5794,9144,https://avatars.githubusercontent.com/u/9460735?v=4
+80286288,Tasmota,arendst/Tasmota,C,39,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4077,18384,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+18496166,mimikatz,gentilkiwi/mimikatz,C,66,A little tool to play with Windows security,3135,16017,https://avatars.githubusercontent.com/u/2307945?v=4
+84240850,timescaledb,timescale/timescaledb,C,53,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,725,13683,https://avatars.githubusercontent.com/u/8986001?v=4
+927442,postgres,postgres/postgres,C,44,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3484,10984,https://avatars.githubusercontent.com/u/177543?v=4
+78281075,esp8266_deauther,SpacehuhnTech/esp8266_deauther,C,53,Affordable WiFi hacking platform for testing and learning,2206,10485,https://avatars.githubusercontent.com/u/64325017?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,39,Arduino core for the ESP32,5933,9338,https://avatars.githubusercontent.com/u/9460735?v=4
+1856976,libevent,libevent/libevent,C,32,Event notification library,3118,9188,https://avatars.githubusercontent.com/u/833750?v=4
+65899476,esp-idf,espressif/esp-idf,C,47,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,5795,9145,https://avatars.githubusercontent.com/u/9460735?v=4
+394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,178,This project aims to enhance the working environment on Windows,465,8120,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
 437011,zfs,openzfs/zfs,C,23,OpenZFS on Linux and FreeBSD,1508,8119,https://avatars.githubusercontent.com/u/4510897?v=4
-394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,179,This project aims to enhance the working environment on Windows,464,8117,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
-254327261,Sandboxie,sandboxie-plus/Sandboxie,C,62,Sandboxie Plus & Classic,866,8084,https://avatars.githubusercontent.com/u/63755826?v=4
-50874442,citus,citusdata/citus,C,67,Distributed PostgreSQL as an extension,505,7308,https://avatars.githubusercontent.com/u/2545424?v=4
-14735429,capstone,capstone-engine/capstone,C,19,"Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.",1347,5884,https://avatars.githubusercontent.com/u/13388937?v=4
-40504480,xv6-public,mit-pdos/xv6-public,C,34,xv6 OS,3184,5831,https://avatars.githubusercontent.com/u/12404246?v=4
-44781140,gpdb,greenplum-db/gpdb,C,25,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1531,5391,https://avatars.githubusercontent.com/u/14097842?v=4
-8180677,libimobiledevice,libimobiledevice/libimobiledevice,C,19,A cross-platform protocol library to communicate with iOS devices,1124,5188,https://avatars.githubusercontent.com/u/3584568?v=4
-469303019,ecapture,ehids/ecapture,C,146,"capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android Aarch64.",502,4755,https://avatars.githubusercontent.com/u/95527736?v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,160,Flipper Zero firmware source code,893,3141,https://avatars.githubusercontent.com/u/57576566?v=4
-128791889,haproxy,haproxy/haproxy,C,23,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),612,3127,https://avatars.githubusercontent.com/u/38220289?v=4
+254327261,Sandboxie,sandboxie-plus/Sandboxie,C,59,Sandboxie Plus & Classic,866,8085,https://avatars.githubusercontent.com/u/63755826?v=4
+40504480,xv6-public,mit-pdos/xv6-public,C,33,xv6 OS,3184,5831,https://avatars.githubusercontent.com/u/12404246?v=4
+44781140,gpdb,greenplum-db/gpdb,C,24,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1531,5391,https://avatars.githubusercontent.com/u/14097842?v=4
+469303019,ecapture,ehids/ecapture,C,138,"capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android Aarch64.",502,4755,https://avatars.githubusercontent.com/u/95527736?v=4
+157590294,Telegram-iOS,TelegramMessenger/Telegram-iOS,C,16,Telegram-iOS,1038,3835,https://avatars.githubusercontent.com/u/22377696?v=4
+34807561,nanopb,nanopb/nanopb,C,73,Protocol Buffers with small code size,680,3146,https://avatars.githubusercontent.com/u/12173937?v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,163,Flipper Zero firmware source code,894,3143,https://avatars.githubusercontent.com/u/57576566?v=4
 189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,30,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",609,3054,https://avatars.githubusercontent.com/u/62360046?v=4
 1335680,blackmagic,blackmagic-debug/blackmagic,C,17,In application debugger for ARM Cortex microcontrollers.,616,2118,https://avatars.githubusercontent.com/u/8303676?v=4
-525562770,cake,thradams/cake,C,33,Cake a C23 front end and transpiler written in C,11,308,https://avatars.githubusercontent.com/u/6605998?u=94b6f843cc87fd5efd9e2aebdf306cd38c227eed&v=4
-526863912,mpu9250,hepingood/mpu9250,C,59,mpu9250 full function driver,152,307,https://avatars.githubusercontent.com/u/45958776?u=ac211d5771c6dfbb2f3be91f1677d94c7280b66e&v=4
+286408909,prvhash,avaneev/prvhash,C,44,"PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)",13,182,https://avatars.githubusercontent.com/u/11453377?u=3b0c688e04c9ad243cb9a24ef18d5b7d168e9e30&v=4
