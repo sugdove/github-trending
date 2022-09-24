@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-45717250,tensorflow,tensorflow/tensorflow,C++,25,An Open Source Machine Learning Framework for Everyone,87202,167925,https://avatars.githubusercontent.com/u/15658638?v=4
-11171548,json,nlohmann/json,C++,16,JSON for Modern C++,5488,31861,https://avatars.githubusercontent.com/u/159488?v=4
-6934395,rocksdb,facebook/rocksdb,C++,10,"A library that provides an embeddable, persistent key-value store for fast storage.",5411,23615,https://avatars.githubusercontent.com/u/69631?v=4
-98771110,TrafficMonitor,zhongyang219/TrafficMonitor,C++,26,这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。,2403,22218,https://avatars.githubusercontent.com/u/30562462?u=18ad9b9dfa6e784088d28deb7e0dbe830afcc0b7&v=4
-81227005,faiss,facebookresearch/faiss,C++,7,A library for efficient similarity search and clustering of dense vectors.,2705,18038,https://avatars.githubusercontent.com/u/16943930?v=4
-26038648,spdlog,gabime/spdlog,C++,17,Fast C++ logging library.,3338,15681,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+9384267,electron,electron/electron,C++,17,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",13871,103790,https://avatars.githubusercontent.com/u/13409222?v=4
+6934395,rocksdb,facebook/rocksdb,C++,11,"A library that provides an embeddable, persistent key-value store for fast storage.",5411,23616,https://avatars.githubusercontent.com/u/69631?v=4
+108110,mongo,mongodb/mongo,C++,3,The MongoDB Database,5335,22505,https://avatars.githubusercontent.com/u/45120?v=4
+34777562,srs,ossrs/srs,C++,5,"SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.",4652,19199,https://avatars.githubusercontent.com/u/12165287?v=4
+19953044,flatbuffers,google/flatbuffers,C++,7,FlatBuffers: Memory Efficient Serialization Library,2906,18775,https://avatars.githubusercontent.com/u/1342004?v=4
+1062572,Catch2,catchorg/Catch2,C++,8,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2662,15569,https://avatars.githubusercontent.com/u/33321405?v=4
 149111813,MMKV,Tencent/MMKV,C++,8,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",1669,15028,https://avatars.githubusercontent.com/u/18461506?v=4
-102692863,onnx,onnx/onnx,C++,5,Open standard for machine learning interoperability,3018,13302,https://avatars.githubusercontent.com/u/31675368?v=4
-51905353,arrow,apache/arrow,C++,51,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,2539,10319,https://avatars.githubusercontent.com/u/47359?v=4
-9090933,capnproto,capnproto/capnproto,C++,9,Cap'n Proto serialization/RPC system - core tools and C++ library,783,9247,https://avatars.githubusercontent.com/u/29186932?v=4
-28449431,scylladb,scylladb/scylladb,C++,5,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",940,8401,https://avatars.githubusercontent.com/u/14364730?v=4
-108102826,carla,carla-simulator/carla,C++,6,Open-source simulator for autonomous driving research.,2511,8277,https://avatars.githubusercontent.com/u/33029185?v=4
-12756992,opencv_contrib,opencv/opencv_contrib,C++,7,Repository for OpenCV's extra modules,5472,7756,https://avatars.githubusercontent.com/u/5009934?v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,16,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2091,7651,https://avatars.githubusercontent.com/u/84565724?v=4
-1204412,TrinityCore,TrinityCore/TrinityCore,C++,3,"TrinityCore Open Source MMO Framework (master = 9.2.7.45745, 3.3.5 = 3.3.5a.12340)",5464,7537,https://avatars.githubusercontent.com/u/539602?v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,4,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1766,7503,https://avatars.githubusercontent.com/u/6154722?v=4
-64561753,jetson-inference,dusty-nv/jetson-inference,C++,3,Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.,2620,5852,https://avatars.githubusercontent.com/u/15352619?u=2931352d1f495aba1c172e0c6ae5bfeac8152b06&v=4
-146842101,bpftrace,iovisor/bpftrace,C++,5,High-level tracing language for Linux eBPF,909,5833,https://avatars.githubusercontent.com/u/12766186?v=4
-67641996,oneTBB,oneapi-src/oneTBB,C++,5,oneAPI Threading Building Blocks (oneTBB),776,3964,https://avatars.githubusercontent.com/u/60144784?v=4
-47440536,cocos-engine,cocos/cocos-engine,C++,9,"Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.",1272,3254,https://avatars.githubusercontent.com/u/6937061?v=4
-208145128,iree,iree-org/iree,C++,3,👻,319,1422,https://avatars.githubusercontent.com/u/107954215?v=4
-539250969,FilelessRemotePE,D1rkMtr/FilelessRemotePE,C++,89,Loading Fileless Remote PE from URI to memory with argument passing  and ETW patching and NTDLL unhooking and No New Thread technique,69,344,https://avatars.githubusercontent.com/u/110354855?u=1532e8a84f2928977b698ddd8dea526125a4710b&v=4
-507861208,FastDeploy,PaddlePaddle/FastDeploy,C++,5,⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit,51,298,https://avatars.githubusercontent.com/u/23534030?v=4
-539599710,JuicyPotatoNG,antonioCoco/JuicyPotatoNG,C++,68,Another Windows Local Privilege Escalation from Service Account to System ,37,216,https://avatars.githubusercontent.com/u/19797064?u=4801f17015645ef9f687dafabf2aed39992e613e&v=4
-489921311,HS_SPR_CAL,Moiezen/HS_SPR_CAL,C++,23,Hearthstone Spectral Pillager Rogue Calculator,13,64,https://avatars.githubusercontent.com/u/83269704?u=4e5fd4d408dde8c8ee1d47509582af6f60e9596c&v=4
+192025001,Qv2ray,Qv2ray/Qv2ray,C++,10,:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:,2999,14088,https://avatars.githubusercontent.com/u/60087221?v=4
+20570214,tink,google/tink,C++,24,"Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",1132,12677,https://avatars.githubusercontent.com/u/1342004?v=4
+437245741,dragonfly,dragonflydb/dragonfly,C++,30,A modern replacement for Redis and Memcached,290,12131,https://avatars.githubusercontent.com/u/104819355?v=4
+114187903,foundationdb,apple/foundationdb,C++,8,"FoundationDB - the open source, distributed, transactional key-value store",1154,11742,https://avatars.githubusercontent.com/u/10639145?v=4
+51905353,arrow,apache/arrow,C++,29,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,2539,10320,https://avatars.githubusercontent.com/u/47359?v=4
+9090933,capnproto,capnproto/capnproto,C++,8,Cap'n Proto serialization/RPC system - core tools and C++ library,783,9247,https://avatars.githubusercontent.com/u/29186932?v=4
+283410102,workflow,sogou/workflow,C++,5,C++ Parallel Computing and Asynchronous Networking Engine,1827,9223,https://avatars.githubusercontent.com/u/15903299?v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,16,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2091,7652,https://avatars.githubusercontent.com/u/84565724?v=4
+156939672,onnxruntime,microsoft/onnxruntime,C++,7,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1766,7503,https://avatars.githubusercontent.com/u/6154722?v=4
+181436799,MNN,alibaba/MNN,C++,2,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",1424,7013,https://avatars.githubusercontent.com/u/1961952?v=4
+439491516,engine-sim,ange-yaghi/engine-sim,C++,48,Combustion engine simulator that generates realistic audio.,551,5952,https://avatars.githubusercontent.com/u/20446997?u=35078d45b863771c872b3e488464a5c8343037ba&v=4
+22660515,doctest,doctest/doctest,C++,6,The fastest feature-rich C++11/14/17/20 single-header testing framework,520,4208,https://avatars.githubusercontent.com/u/70880936?v=4
+493029626,Akebi-GC,Akebi-Group/Akebi-GC,C++,12,The great software for some game that exploiting anime girls (and boys).,24,1639,https://avatars.githubusercontent.com/u/105681966?v=4
+510116998,ladybird,SerenityOS/ladybird,C++,13,Ladybird web browser,77,1219,https://avatars.githubusercontent.com/u/50811782?v=4
+135363400,navigation2,ros-planning/navigation2,C++,0,ROS2 Navigation Framework and System,739,1170,https://avatars.githubusercontent.com/u/2328631?v=4
+539250969,FilelessRemotePE,D1rkMtr/FilelessRemotePE,C++,76,Loading Fileless Remote PE from URI to memory with argument passing  and ETW patching and NTDLL unhooking and No New Thread technique,72,348,https://avatars.githubusercontent.com/u/110354855?u=1532e8a84f2928977b698ddd8dea526125a4710b&v=4
+539599710,JuicyPotatoNG,antonioCoco/JuicyPotatoNG,C++,46,Another Windows Local Privilege Escalation from Service Account to System ,37,216,https://avatars.githubusercontent.com/u/19797064?u=4801f17015645ef9f687dafabf2aed39992e613e&v=4
+489921311,HS_SPR_CAL,Moiezen/HS_SPR_CAL,C++,23,Hearthstone Spectral Pillager Rogue Calculator,13,67,https://avatars.githubusercontent.com/u/83269704?u=4e5fd4d408dde8c8ee1d47509582af6f60e9596c&v=4
