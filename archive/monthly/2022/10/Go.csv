@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,1954,"A curated list of awesome Go frameworks, libraries and software",10345,89450,https://avatars.githubusercontent.com/u/31996?u=d4ae9b70920950703cc2431bad49c0faed040403&v=4
-11180687,hugo,gohugoio/hugo,Go,1273,The world’s fastest framework for building websites.,6845,62986,https://avatars.githubusercontent.com/u/29385237?v=4
-6838921,prometheus,prometheus/prometheus,Go,563,The Prometheus monitoring system and time series database.,7535,44789,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,523,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8002,34610,https://avatars.githubusercontent.com/u/761456?v=4
-37448451,mattermost-server,mattermost/mattermost-server,Go,267,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,5738,24079,https://avatars.githubusercontent.com/u/9828093?v=4
-59239347,portainer,portainer/portainer,Go,407,Making Docker and Kubernetes management easy.,2053,23305,https://avatars.githubusercontent.com/u/22225832?v=4
-129717717,loki,grafana/loki,Go,312,"Like Prometheus, but for logs.",2236,17292,https://avatars.githubusercontent.com/u/7195757?v=4
-153099672,learngo,inancgumus/learngo,Go,1758,"❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",2079,15835,https://avatars.githubusercontent.com/u/621232?u=4825c5449290026dd31c681af1e04f2b3ed9944d&v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,3495,Open Source realtime backend in 1 file,499,14807,https://avatars.githubusercontent.com/u/101000011?v=4
-208728772,milvus,milvus-io/milvus,Go,1689,Vector database for scalable similarity search and AI applications.,1857,13955,https://avatars.githubusercontent.com/u/51735404?v=4
-161951219,wails,wailsapp/wails,Go,1338,Create beautiful applications using Go,561,12135,https://avatars.githubusercontent.com/u/39746503?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,375,Declarative continuous deployment for Kubernetes.,2978,10902,https://avatars.githubusercontent.com/u/30269780?v=4
-323965659,alist,alist-org/alist,Go,1959,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",1633,10513,https://avatars.githubusercontent.com/u/97389433?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,379,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",1674,9964,https://avatars.githubusercontent.com/u/71564206?v=4
-135321861,kratos,ory/kratos,Go,188,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",656,7678,https://avatars.githubusercontent.com/u/25334553?v=4
-49765480,lnd,lightningnetwork/lnd,Go,136,Lightning Network Daemon ⚡️,1790,6399,https://avatars.githubusercontent.com/u/13424735?v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,165,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1085,5897,https://avatars.githubusercontent.com/u/62798169?v=4
-230660669,rtsp-simple-server,aler9/rtsp-simple-server,Go,233,"ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",660,4005,https://avatars.githubusercontent.com/u/46489434?u=4911ba7a1a2ed25e761d32dd756c92d76a3b3353&v=4
-330405184,steampipe,turbot/steampipe,Go,1453,"Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. ",128,3745,https://avatars.githubusercontent.com/u/38865304?v=4
-116392590,podinfo,stefanprodan/podinfo,Go,741,Go microservice template for Kubernetes,1042,3334,https://avatars.githubusercontent.com/u/3797675?v=4
-117156031,prysm,prysmaticlabs/prysm,Go,131,Go implementation of Ethereum proof of stake,682,2836,https://avatars.githubusercontent.com/u/35349758?v=4
-105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,224,protoc plugin to generate polyglot message validators,462,2711,https://avatars.githubusercontent.com/u/54191850?v=4
-265775217,bsc,bnb-chain/bsc,Go,141,A BNB Smart Chain client based on the go-ethereum fork,834,1823,https://avatars.githubusercontent.com/u/45615063?v=4
-280658081,domain-list-community,v2fly/domain-list-community,Go,180,Community managed domain list. Generate geosite.dat for V2Ray.,358,1540,https://avatars.githubusercontent.com/u/49637375?v=4
-509091576,sing-box,SagerNet/sing-box,Go,930,The universal proxy platform,164,1271,https://avatars.githubusercontent.com/u/83217677?v=4
+11180687,hugo,gohugoio/hugo,Go,1270,The world’s fastest framework for building websites.,6846,62986,https://avatars.githubusercontent.com/u/29385237?v=4
+6838921,prometheus,prometheus/prometheus,Go,569,The Prometheus monitoring system and time series database.,7535,44795,https://avatars.githubusercontent.com/u/3380462?v=4
+29207621,caddy,caddyserver/caddy,Go,930,Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS,3402,43673,https://avatars.githubusercontent.com/u/12955528?v=4
+42408804,traefik,traefik/traefik,Go,461,The Cloud Native Application Proxy,4361,40015,https://avatars.githubusercontent.com/u/14280338?v=4
+17728164,terraform,hashicorp/terraform,Go,522,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8002,34611,https://avatars.githubusercontent.com/u/761456?v=4
+37448451,mattermost-server,mattermost/mattermost-server,Go,272,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,5738,24083,https://avatars.githubusercontent.com/u/9828093?v=4
+59239347,portainer,portainer/portainer,Go,405,Making Docker and Kubernetes management easy.,2053,23305,https://avatars.githubusercontent.com/u/22225832?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,551,A platform for building proxies to bypass network restrictions.,3073,18507,https://avatars.githubusercontent.com/u/49637375?v=4
+129717717,loki,grafana/loki,Go,310,"Like Prometheus, but for logs.",2236,17293,https://avatars.githubusercontent.com/u/7195757?v=4
+153099672,learngo,inancgumus/learngo,Go,1763,"❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",2079,15840,https://avatars.githubusercontent.com/u/621232?u=4825c5449290026dd31c681af1e04f2b3ed9944d&v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,3339,Open Source realtime backend in 1 file,501,14812,https://avatars.githubusercontent.com/u/101000011?v=4
+208728772,milvus,milvus-io/milvus,Go,1690,Vector database for scalable similarity search and AI applications.,1857,13956,https://avatars.githubusercontent.com/u/51735404?v=4
+36653430,nomad,hashicorp/nomad,Go,423,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1673,12635,https://avatars.githubusercontent.com/u/761456?v=4
+161951219,wails,wailsapp/wails,Go,1342,Create beautiful applications using Go,561,12140,https://avatars.githubusercontent.com/u/39746503?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,374,Declarative continuous deployment for Kubernetes.,2979,10904,https://avatars.githubusercontent.com/u/30269780?v=4
+323965659,alist,alist-org/alist,Go,1964,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",1635,10521,https://avatars.githubusercontent.com/u/97389433?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,379,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",1674,9966,https://avatars.githubusercontent.com/u/71564206?v=4
+135321861,kratos,ory/kratos,Go,189,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",656,7679,https://avatars.githubusercontent.com/u/25334553?v=4
+49765480,lnd,lightningnetwork/lnd,Go,135,Lightning Network Daemon ⚡️,1790,6399,https://avatars.githubusercontent.com/u/13424735?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,167,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1085,5900,https://avatars.githubusercontent.com/u/62798169?v=4
+330405184,steampipe,turbot/steampipe,Go,1453,"Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. ",128,3746,https://avatars.githubusercontent.com/u/38865304?v=4
+116392590,podinfo,stefanprodan/podinfo,Go,738,Go microservice template for Kubernetes,1042,3334,https://avatars.githubusercontent.com/u/3797675?v=4
+265775217,bsc,bnb-chain/bsc,Go,144,A BNB Smart Chain client based on the go-ethereum fork,836,1823,https://avatars.githubusercontent.com/u/45615063?v=4
+509091576,sing-box,SagerNet/sing-box,Go,931,The universal proxy platform,164,1272,https://avatars.githubusercontent.com/u/83217677?v=4
+534023067,cloudfox,BishopFox/cloudfox,Go,707,Automating situational awareness for cloud penetration tests.,71,893,https://avatars.githubusercontent.com/u/4523757?v=4
