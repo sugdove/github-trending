@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1614410,FFmpeg,FFmpeg/FFmpeg,C,144,Mirror of https://git.ffmpeg.org/ffmpeg.git,10188,32328,https://avatars.githubusercontent.com/u/729418?v=4
-47409672,hashcat,hashcat/hashcat,C,131,World's fastest and most advanced password recovery utility,2383,15867,https://avatars.githubusercontent.com/u/15949799?v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,85,Open-source keyboard firmware for Atmel AVR and Arm USB families,28830,13567,https://avatars.githubusercontent.com/u/25358678?v=4
-78281075,esp8266_deauther,SpacehuhnTech/esp8266_deauther,C,51,Affordable WiFi hacking platform for testing and learning,2246,10670,https://avatars.githubusercontent.com/u/64325017?v=4
-60667730,lvgl,lvgl/lvgl,C,67,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2157,10573,https://avatars.githubusercontent.com/u/19811762?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,176,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,686,9740,https://avatars.githubusercontent.com/u/51009775?v=4
-70127218,arduino-esp32,espressif/arduino-esp32,C,39,Arduino core for the ESP32,6042,9521,https://avatars.githubusercontent.com/u/9460735?v=4
-3199002,linux,raspberrypi/linux,C,21,Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/,4349,9320,https://avatars.githubusercontent.com/u/1294177?v=4
-1856976,libevent,libevent/libevent,C,29,Event notification library,3139,9274,https://avatars.githubusercontent.com/u/833750?v=4
+1614410,FFmpeg,FFmpeg/FFmpeg,C,141,Mirror of https://git.ffmpeg.org/ffmpeg.git,10188,32329,https://avatars.githubusercontent.com/u/729418?v=4
+80286288,Tasmota,arendst/Tasmota,C,37,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4137,18523,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+47409672,hashcat,hashcat/hashcat,C,127,World's fastest and most advanced password recovery utility,2383,15867,https://avatars.githubusercontent.com/u/15949799?v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,83,Open-source keyboard firmware for Atmel AVR and Arm USB families,28831,13567,https://avatars.githubusercontent.com/u/25358678?v=4
+78281075,esp8266_deauther,SpacehuhnTech/esp8266_deauther,C,51,Affordable WiFi hacking platform for testing and learning,2246,10671,https://avatars.githubusercontent.com/u/64325017?v=4
+60667730,lvgl,lvgl/lvgl,C,67,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2158,10574,https://avatars.githubusercontent.com/u/19811762?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,38,Arduino core for the ESP32,6043,9521,https://avatars.githubusercontent.com/u/9460735?v=4
+3199002,linux,raspberrypi/linux,C,20,Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/,4349,9320,https://avatars.githubusercontent.com/u/1294177?v=4
+65899476,esp-idf,espressif/esp-idf,C,44,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,5892,9306,https://avatars.githubusercontent.com/u/9460735?v=4
+1856976,libevent,libevent/libevent,C,31,Event notification library,3139,9276,https://avatars.githubusercontent.com/u/833750?v=4
 39242894,coturn,coturn/coturn,C,32,coturn TURN server project,1710,8348,https://avatars.githubusercontent.com/u/6572098?v=4
-50874442,citus,citusdata/citus,C,33,Distributed PostgreSQL as an extension,519,7473,https://avatars.githubusercontent.com/u/2545424?v=4
 689344,RetroArch,libretro/RetroArch,C,38,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1473,7152,https://avatars.githubusercontent.com/u/1812827?v=4
-47057247,vlmcsd,Wind4/vlmcsd,C,202,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",1896,6710,https://avatars.githubusercontent.com/u/3997851?v=4
-59676171,klipper,Klipper3d/klipper,C,38,Klipper is a 3d-printer firmware,3731,5480,https://avatars.githubusercontent.com/u/90982958?v=4
-673267,hiredis,redis/hiredis,C,15,Minimalistic C client for Redis >= 1.2,1716,5466,https://avatars.githubusercontent.com/u/1529926?v=4
-7705639,rtl_433,merbanan/rtl_433,C,17,Program to decode radio transmissions from devices on the ISM bands (and other frequencies),1060,4211,https://avatars.githubusercontent.com/u/124883?u=ef929342b768484f9109ca1270a1de69b07ff19e&v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,148,Flipper Zero firmware source code,1012,3491,https://avatars.githubusercontent.com/u/57576566?v=4
-146155284,flecs,SanderMertens/flecs,C,40,A fast entity component system (ECS) for C & C++,231,3281,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
-39760454,libjpeg-turbo,libjpeg-turbo/libjpeg-turbo,C,15,Main libjpeg-turbo repository,859,3067,https://avatars.githubusercontent.com/u/13406820?v=4
+47057247,vlmcsd,Wind4/vlmcsd,C,191,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",1896,6710,https://avatars.githubusercontent.com/u/3997851?v=4
+59676171,klipper,Klipper3d/klipper,C,37,Klipper is a 3d-printer firmware,3732,5482,https://avatars.githubusercontent.com/u/90982958?v=4
+673267,hiredis,redis/hiredis,C,14,Minimalistic C client for Redis >= 1.2,1716,5466,https://avatars.githubusercontent.com/u/1529926?v=4
+15120676,libusb,libusb/libusb,C,18,A cross-platform library to access USB devices ,1642,4013,https://avatars.githubusercontent.com/u/4439549?v=4
+97212490,sokol,floooh/sokol,C,33,minimal cross-platform standalone C headers,316,3966,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,148,Flipper Zero firmware source code,1013,3493,https://avatars.githubusercontent.com/u/57576566?v=4
+39760454,libjpeg-turbo,libjpeg-turbo/libjpeg-turbo,C,16,Main libjpeg-turbo repository,859,3068,https://avatars.githubusercontent.com/u/13406820?v=4
 217654199,msquic,microsoft/msquic,C,22,"Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",388,3058,https://avatars.githubusercontent.com/u/6154722?v=4
-122993186,ostep-code,remzi-arpacidusseau/ostep-code,C,21,Code from various chapters in OSTEP (http://www.ostep.org),1006,2303,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
+122993186,ostep-code,remzi-arpacidusseau/ostep-code,C,20,Code from various chapters in OSTEP (http://www.ostep.org),1006,2303,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
 226167620,InfiniTime,InfiniTimeOrg/InfiniTime,C,16,Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS,645,1841,https://avatars.githubusercontent.com/u/91782433?v=4
-210099248,warpd,rvaiya/warpd,C,132,A modal keyboard-driven virtual pointer,64,1743,https://avatars.githubusercontent.com/u/1900441?v=4
-200663555,liburing,axboe/liburing,C,22,,256,1674,https://avatars.githubusercontent.com/u/2619634?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,83,Port of OpenAI's Whisper model in C/C++,49,408,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+210099248,warpd,rvaiya/warpd,C,121,A modal keyboard-driven virtual pointer,65,1743,https://avatars.githubusercontent.com/u/1900441?v=4
+472575717,Shipwright,HarbourMasters/Shipwright,C,40,,278,1520,https://avatars.githubusercontent.com/u/88675208?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,79,Port of OpenAI's Whisper model in C/C++,49,408,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
