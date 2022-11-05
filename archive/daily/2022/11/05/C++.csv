@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1181927,bitcoin,bitcoin/bitcoin,C++,19,Bitcoin Core integration/staging tree,33238,66778,https://avatars.githubusercontent.com/u/528860?v=4
-44838949,swift,apple/swift,C++,12,The Swift Programming Language,9807,61018,https://avatars.githubusercontent.com/u/10639145?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,9,Protocol Buffers - Google's data interchange format,14533,56909,https://avatars.githubusercontent.com/u/26310541?v=4
-27729880,grpc,grpc/grpc,C++,10,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",9512,36151,https://avatars.githubusercontent.com/u/7802525?v=4
-89247811,openpose,CMU-Perceptual-Computing-Lab/openpose,C++,19,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",7362,25295,https://avatars.githubusercontent.com/u/12239573?v=4
-4524181,folly,facebook/folly,C++,3,An open-source C++ library developed and used at Facebook.,4879,23588,https://avatars.githubusercontent.com/u/69631?v=4
-65214191,envoy,envoyproxy/envoy,C++,14,Cloud-native high-performance edge/middle/service proxy,3981,20794,https://avatars.githubusercontent.com/u/30125649?v=4
-65711522,Paddle,PaddlePaddle/Paddle,C++,1,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,4756,19110,https://avatars.githubusercontent.com/u/23534030?v=4
-81227005,faiss,facebookresearch/faiss,C++,3,A library for efficient similarity search and clustering of dense vectors.,2735,18327,https://avatars.githubusercontent.com/u/16943930?v=4
-197275130,winget-cli,microsoft/winget-cli,C++,14,Windows Package Manager CLI (aka winget),1058,18063,https://avatars.githubusercontent.com/u/6154722?v=4
+1181927,bitcoin,bitcoin/bitcoin,C++,20,Bitcoin Core integration/staging tree,33239,66780,https://avatars.githubusercontent.com/u/528860?v=4
+44838949,swift,apple/swift,C++,15,The Swift Programming Language,9807,61021,https://avatars.githubusercontent.com/u/10639145?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,6,Protocol Buffers - Google's data interchange format,14534,56910,https://avatars.githubusercontent.com/u/26310541?v=4
+27729880,grpc,grpc/grpc,C++,7,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",9512,36152,https://avatars.githubusercontent.com/u/7802525?v=4
+89247811,openpose,CMU-Perceptual-Computing-Lab/openpose,C++,17,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",7362,25298,https://avatars.githubusercontent.com/u/12239573?v=4
+4524181,folly,facebook/folly,C++,3,An open-source C++ library developed and used at Facebook.,4879,23589,https://avatars.githubusercontent.com/u/69631?v=4
+65214191,envoy,envoyproxy/envoy,C++,14,Cloud-native high-performance edge/middle/service proxy,3981,20795,https://avatars.githubusercontent.com/u/30125649?v=4
+65711522,Paddle,PaddlePaddle/Paddle,C++,0,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,4756,19110,https://avatars.githubusercontent.com/u/23534030?v=4
+81227005,faiss,facebookresearch/faiss,C++,2,A library for efficient similarity search and clustering of dense vectors.,2735,18328,https://avatars.githubusercontent.com/u/16943930?v=4
+197275130,winget-cli,microsoft/winget-cli,C++,15,Windows Package Manager CLI (aka winget),1058,18065,https://avatars.githubusercontent.com/u/6154722?v=4
 26038648,spdlog,gabime/spdlog,C++,7,Fast C++ logging library.,3420,16045,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-7056202,fmt,fmtlib/fmt,C++,17,A modern formatting library,1902,15550,https://avatars.githubusercontent.com/u/7280830?v=4
-102692863,onnx,onnx/onnx,C++,5,Open standard for machine learning interoperability,3118,13505,https://avatars.githubusercontent.com/u/31675368?v=4
-5909706,cpp-httplib,yhirose/cpp-httplib,C++,6,A C++ header-only HTTP/HTTPS server and client library,1675,8040,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
-32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,7,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2332,8019,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,8,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2166,7962,https://avatars.githubusercontent.com/u/84565724?v=4
-23061798,seastar,scylladb/seastar,C++,4,High performance server-side application framework,1372,7005,https://avatars.githubusercontent.com/u/14364730?v=4
-309512982,redpanda,redpanda-data/redpanda,C++,21,Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!,347,5202,https://avatars.githubusercontent.com/u/49406389?v=4
-244694174,connectedhomeip,project-chip/connectedhomeip,C++,22,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",1087,4976,https://avatars.githubusercontent.com/u/61027988?v=4
+7056202,fmt,fmtlib/fmt,C++,18,A modern formatting library,1903,15554,https://avatars.githubusercontent.com/u/7280830?v=4
+102692863,onnx,onnx/onnx,C++,4,Open standard for machine learning interoperability,3118,13505,https://avatars.githubusercontent.com/u/31675368?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,7,A C++ header-only HTTP/HTTPS server and client library,1676,8041,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,8,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2332,8020,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,9,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2166,7963,https://avatars.githubusercontent.com/u/84565724?v=4
+23061798,seastar,scylladb/seastar,C++,9,High performance server-side application framework,1372,7010,https://avatars.githubusercontent.com/u/14364730?v=4
+309512982,redpanda,redpanda-data/redpanda,C++,21,Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!,347,5206,https://avatars.githubusercontent.com/u/49406389?v=4
+244694174,connectedhomeip,project-chip/connectedhomeip,C++,18,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",1089,4979,https://avatars.githubusercontent.com/u/61027988?v=4
 372536760,oceanbase,oceanbase/oceanbase,C++,2,"OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",1061,4825,https://avatars.githubusercontent.com/u/82347605?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,3,OpenVINO™ Toolkit repository,1534,3760,https://avatars.githubusercontent.com/u/55443902?v=4
-170738310,wallet-core,trustwallet/wallet-core,C++,4,"Cross-platform, cross-blockchain wallet library.",1200,1848,https://avatars.githubusercontent.com/u/32179889?v=4
-493044023,Akebi-GC,Taiga74164/Akebi-GC,C++,45,Akebi Genshin Cheat source for OS/CN 3.0,493,784,https://avatars.githubusercontent.com/u/67109235?u=634622acaa8bce4c6565608fca331af37813b3ea&v=4
-75149209,okcash,okcashpro/okcash,C++,8,OK Core integration/staging tree.,530,540,https://avatars.githubusercontent.com/u/14245677?v=4
-552676144,havenask,alibaba/havenask,C++,24,,60,271,https://avatars.githubusercontent.com/u/1961952?v=4
+153097643,openvino,openvinotoolkit/openvino,C++,4,OpenVINO™ Toolkit repository,1534,3761,https://avatars.githubusercontent.com/u/55443902?v=4
+170738310,wallet-core,trustwallet/wallet-core,C++,2,"Cross-platform, cross-blockchain wallet library.",1200,1848,https://avatars.githubusercontent.com/u/32179889?v=4
+493044023,Akebi-GC,Taiga74164/Akebi-GC,C++,41,Akebi Genshin Cheat source for OS/CN 3.0,495,787,https://avatars.githubusercontent.com/u/67109235?u=634622acaa8bce4c6565608fca331af37813b3ea&v=4
+75149209,okcash,okcashpro/okcash,C++,8,OK Core integration/staging tree.,531,541,https://avatars.githubusercontent.com/u/14245677?v=4
+552676144,havenask,alibaba/havenask,C++,27,,61,282,https://avatars.githubusercontent.com/u/1961952?v=4
