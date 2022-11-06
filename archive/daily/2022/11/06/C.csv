@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,57,Linux kernel source tree,45318,140881,https://avatars.githubusercontent.com/u/1024025?v=4
-156018,redis,redis/redis,C,10,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",21941,57468,https://avatars.githubusercontent.com/u/1529926?v=4
-5101141,jq,stedolan/jq,C,2,Command-line JSON processor,1365,23488,https://avatars.githubusercontent.com/u/79765?v=4
-37912398,nginx,nginx/nginx,C,7,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",6032,17467,https://avatars.githubusercontent.com/u/1412239?v=4
-193885464,blurhash,woltapp/blurhash,C,82,A very compact representation of a placeholder for an image.,269,11993,https://avatars.githubusercontent.com/u/26407358?v=4
-60667730,lvgl,lvgl/lvgl,C,6,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2173,10658,https://avatars.githubusercontent.com/u/19811762?v=4
-1856976,libevent,libevent/libevent,C,3,Event notification library,3147,9305,https://avatars.githubusercontent.com/u/833750?v=4
-213916896,blender,blender/blender,C,9,Official mirror of Blender,1194,6961,https://avatars.githubusercontent.com/u/52924476?v=4
-53614190,mosquitto,eclipse/mosquitto,C,3,Eclipse Mosquitto - An open source MQTT broker,2038,6735,https://avatars.githubusercontent.com/u/56974?v=4
-7037996,yara,VirusTotal/yara,C,0,The pattern matching swiss knife,1254,6124,https://avatars.githubusercontent.com/u/7701252?v=4
-187922067,WSL2-Linux-Kernel,microsoft/WSL2-Linux-Kernel,C,3,The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2),749,6089,https://avatars.githubusercontent.com/u/6154722?v=4
-468685658,ElectronBot,peng-zhihui/ElectronBot,C,4,,1410,5721,https://avatars.githubusercontent.com/u/12994887?u=6bfec84cb512892557cfed7fd7c52b0b0f41f95b&v=4
-146397768,libhv,ithewei/libhv,C,3,🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.,881,4811,https://avatars.githubusercontent.com/u/26049660?u=2252b64651629ba953139d461c0fd4658ed1706e&v=4
-334777857,ravynos,ravynsoft/ravynos,C,18,A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS),146,4477,https://avatars.githubusercontent.com/u/88578950?v=4
+2325298,linux,torvalds/linux,C,57,Linux kernel source tree,45319,140886,https://avatars.githubusercontent.com/u/1024025?v=4
+246335987,Ventoy,ventoy/Ventoy,C,27,A new bootable USB solution.,2955,41031,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
+102578345,lede,coolsnowwolf/lede,C,8,Lean's LEDE source,18235,23591,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+20159867,stb,nothings/stb,C,8,stb single-file public domain libraries for C/C++,7068,20270,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
+15337142,micropython,micropython/micropython,C,4,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,5880,15357,https://avatars.githubusercontent.com/u/6298560?v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,2,Open-source keyboard firmware for Atmel AVR and Arm USB families,29028,13662,https://avatars.githubusercontent.com/u/25358678?v=4
+45821540,openwrt,openwrt/openwrt,C,17,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,7914,13108,https://avatars.githubusercontent.com/u/2528830?v=4
+41215835,HandBrake,HandBrake/HandBrake,C,10,HandBrake's main development repository ,1027,11056,https://avatars.githubusercontent.com/u/627269?v=4
+179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,12,OpenCore bootloader,1840,10387,https://avatars.githubusercontent.com/u/39672954?v=4
+7715820,rofi,davatorium/rofi,C,3,"Rofi: A window switcher, application launcher and dmenu replacement",548,10166,https://avatars.githubusercontent.com/u/48837683?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,4,Arduino core for the ESP32,6086,9556,https://avatars.githubusercontent.com/u/9460735?v=4
+88327406,xmrig,xmrig/xmrig,C,3,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",3300,7235,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
+5383731,qemu,qemu/qemu,C,9,Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,4295,6944,https://avatars.githubusercontent.com/u/2137033?v=4
+59676171,klipper,Klipper3d/klipper,C,5,Klipper is a 3d-printer firmware,3780,5538,https://avatars.githubusercontent.com/u/90982958?v=4
+86245815,pygame,pygame/pygame,C,4,"🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",2355,5343,https://avatars.githubusercontent.com/u/20628127?v=4
+334777857,ravynos,ravynsoft/ravynos,C,16,A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS),146,4477,https://avatars.githubusercontent.com/u/88578950?v=4
 2359378,zlib,madler/zlib,C,4,A massively spiffy yet delicately unobtrusive compression library.,2006,3952,https://avatars.githubusercontent.com/u/240717?v=4
-146155284,flecs,SanderMertens/flecs,C,2,A fast entity component system (ECS) for C & C++,239,3315,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,1,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",641,3178,https://avatars.githubusercontent.com/u/62360046?v=4
-206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,1,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,1044,3055,https://avatars.githubusercontent.com/u/54647343?v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,1,Simple Unit Testing for C,791,2743,https://avatars.githubusercontent.com/u/1049138?v=4
-283280154,AI-on-the-edge-device,jomjol/AI-on-the-edge-device,C,17,,352,2644,https://avatars.githubusercontent.com/u/30766535?v=4
-58894582,melonDS,melonDS-emu/melonDS,C,4,"DS emulator, sorta",322,1848,https://avatars.githubusercontent.com/u/94202166?v=4
-121516035,sdk-nrf,nrfconnect/sdk-nrf,C,2,nRF Connect SDK main repository,872,549,https://avatars.githubusercontent.com/u/40860733?v=4
-315270604,lispe,naver/lispe,C,10,"An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.",6,250,https://avatars.githubusercontent.com/u/6589568?v=4
-365478128,goo-engine,dillongoostudios/goo-engine,C,35,Custom build of blender with some extra NPR features.,13,156,https://avatars.githubusercontent.com/u/63760226?v=4
-120317722,sdk-zephyr,nrfconnect/sdk-zephyr,C,0,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,404,137,https://avatars.githubusercontent.com/u/40860733?v=4
+45703884,u8g2,olikraus/u8g2,C,4,"U8glib library for monochrome displays, version 2 ",837,3428,https://avatars.githubusercontent.com/u/1084992?v=4
+63369078,picom,yshui/picom,C,3,A lightweight compositor for X11,442,3017,https://avatars.githubusercontent.com/u/366851?v=4
+283280154,AI-on-the-edge-device,jomjol/AI-on-the-edge-device,C,21,,352,2649,https://avatars.githubusercontent.com/u/30766535?v=4
+203759896,immortalwrt,immortalwrt/immortalwrt,C,1,An opensource OpenWrt variant for mainland China users.,808,1671,https://avatars.githubusercontent.com/u/53193414?v=4
+270692521,zmk,zmkfirmware/zmk,C,4,ZMK Firmware Repository,1246,1230,https://avatars.githubusercontent.com/u/66629601?v=4
+342120988,arduino-pico,earlephilhower/arduino-pico,C,1,"Raspberry Pi Pico Arduino core, for all RP2040 boards",172,799,https://avatars.githubusercontent.com/u/11875?u=fefb7f1675bab97530a8c6a77f07dde76662cd80&v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,11,Port of OpenAI's Whisper model in C/C++,65,545,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+365478128,goo-engine,dillongoostudios/goo-engine,C,38,Custom build of blender with some extra NPR features.,13,161,https://avatars.githubusercontent.com/u/63760226?v=4
