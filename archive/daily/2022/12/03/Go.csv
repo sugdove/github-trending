@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-56353740,minikube,kubernetes/minikube,Go,13,Run Kubernetes locally,4355,25243,https://avatars.githubusercontent.com/u/13629408?v=4
-13124802,influxdb,influxdata/influxdb,Go,10,"Scalable datastore for metrics, events, and real-time analytics",3296,24553,https://avatars.githubusercontent.com/u/5713248?v=4
-156084530,nps,ehang-io/nps,Go,36,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",4407,23850,https://avatars.githubusercontent.com/u/59558731?v=4
-285864199,go-zero,zeromicro/go-zero,Go,15,A cloud-native Go microservices framework with cli tool for productivity.,3143,21743,https://avatars.githubusercontent.com/u/74225106?v=4
+56353740,minikube,kubernetes/minikube,Go,15,Run Kubernetes locally,4356,25243,https://avatars.githubusercontent.com/u/13629408?v=4
+13124802,influxdb,influxdata/influxdb,Go,9,"Scalable datastore for metrics, events, and real-time analytics",3296,24554,https://avatars.githubusercontent.com/u/5713248?v=4
+156084530,nps,ehang-io/nps,Go,34,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",4407,23851,https://avatars.githubusercontent.com/u/59558731?v=4
+285864199,go-zero,zeromicro/go-zero,Go,16,A cloud-native Go microservices framework with cli tool for productivity.,3143,21744,https://avatars.githubusercontent.com/u/74225106?v=4
 26337322,rancher,rancher/rancher,Go,2,Complete container management platform,2697,20272,https://avatars.githubusercontent.com/u/9343010?v=4
-192632000,dapr,dapr/dapr,Go,6,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1573,19957,https://avatars.githubusercontent.com/u/51932459?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,10,gRPC to JSON proxy generator following the gRPC HTTP spec,1905,14591,https://avatars.githubusercontent.com/u/19352526?v=4
-208728772,milvus,milvus-io/milvus,Go,6,Vector database for scalable similarity search and AI applications.,1904,14385,https://avatars.githubusercontent.com/u/51735404?v=4
-118654121,skaffold,GoogleContainerTools/skaffold,Go,7,Easy and Repeatable Kubernetes Development,1495,13523,https://avatars.githubusercontent.com/u/38444003?v=4
+192632000,dapr,dapr/dapr,Go,5,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1573,19958,https://avatars.githubusercontent.com/u/51932459?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,8,gRPC to JSON proxy generator following the gRPC HTTP spec,1905,14593,https://avatars.githubusercontent.com/u/19352526?v=4
+208728772,milvus,milvus-io/milvus,Go,5,Vector database for scalable similarity search and AI applications.,1904,14385,https://avatars.githubusercontent.com/u/51735404?v=4
+118654121,skaffold,GoogleContainerTools/skaffold,Go,7,Easy and Repeatable Kubernetes Development,1495,13524,https://avatars.githubusercontent.com/u/38444003?v=4
 31558937,teleport,gravitational/teleport,Go,8,"The easiest, most secure way to access infrastructure.",1357,13158,https://avatars.githubusercontent.com/u/10781132?v=4
 36653430,nomad,hashicorp/nomad,Go,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1704,12893,https://avatars.githubusercontent.com/u/761456?v=4
-44350607,dashboard,kubernetes/dashboard,Go,6,General-purpose web UI for Kubernetes clusters,3813,11932,https://avatars.githubusercontent.com/u/13629408?v=4
+44350607,dashboard,kubernetes/dashboard,Go,7,General-purpose web UI for Kubernetes clusters,3813,11933,https://avatars.githubusercontent.com/u/13629408?v=4
 119190187,gitleaks,zricethezav/gitleaks,Go,1,Protect and discover secrets using Gitleaks 🔑,1047,11248,https://avatars.githubusercontent.com/u/15034943?u=c84716948bcb2d17eca73a313cda4925e482f075&v=4
 109162639,thanos,thanos-io/thanos,Go,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1744,11235,https://avatars.githubusercontent.com/u/49725059?v=4
-118105436,migrate,golang-migrate/migrate,Go,35,Database migrations. CLI and Golang library.,1081,10346,https://avatars.githubusercontent.com/u/35595841?v=4
-193833307,listmonk,knadh/listmonk,Go,15,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",723,8959,https://avatars.githubusercontent.com/u/547147?u=b2b2d466d5344d6a5154edf7ddf5d077774aa413&v=4
-53174289,terratest,gruntwork-io/terratest,Go,3, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,1175,6534,https://avatars.githubusercontent.com/u/17118990?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3150,6310,https://avatars.githubusercontent.com/u/13629408?v=4
+118105436,migrate,golang-migrate/migrate,Go,29,Database migrations. CLI and Golang library.,1081,10348,https://avatars.githubusercontent.com/u/35595841?v=4
+193833307,listmonk,knadh/listmonk,Go,17,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",723,8963,https://avatars.githubusercontent.com/u/547147?u=b2b2d466d5344d6a5154edf7ddf5d077774aa413&v=4
+53174289,terratest,gruntwork-io/terratest,Go,2, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,1175,6534,https://avatars.githubusercontent.com/u/17118990?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,3,Autoscaling components for Kubernetes,3151,6311,https://avatars.githubusercontent.com/u/13629408?v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2069,5844,https://avatars.githubusercontent.com/u/36015203?v=4
-54435102,benthos,benthosdev/benthos,Go,45,Fancy stream processing made operationally mundane,515,5337,https://avatars.githubusercontent.com/u/48179284?v=4
-538130130,go-coffeeshop,thangchung/go-coffeeshop,Go,411,"☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",138,1614,https://avatars.githubusercontent.com/u/422341?u=b24af4c3b730fe4554fac2408390b646294facdc&v=4
-299054922,mosint,alpkeskin/mosint,Go,24,An automated e-mail OSINT tool,232,1442,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
-272394704,security-research,google/security-research,Go,27,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,217,1383,https://avatars.githubusercontent.com/u/1342004?v=4
-202511099,ocis,owncloud/ocis,Go,2,:atom_symbol: ownCloud Infinite Scale Stack,99,670,https://avatars.githubusercontent.com/u/1645051?v=4
-228925870,opentelemetry-operator,open-telemetry/opentelemetry-operator,Go,11,Kubernetes Operator for OpenTelemetry Collector,220,567,https://avatars.githubusercontent.com/u/49998002?v=4
+54435102,benthos,benthosdev/benthos,Go,54,Fancy stream processing made operationally mundane,515,5349,https://avatars.githubusercontent.com/u/48179284?v=4
+538130130,go-coffeeshop,thangchung/go-coffeeshop,Go,392,"☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",140,1643,https://avatars.githubusercontent.com/u/422341?u=b24af4c3b730fe4554fac2408390b646294facdc&v=4
+299054922,mosint,alpkeskin/mosint,Go,18,An automated e-mail OSINT tool,232,1444,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
+272394704,security-research,google/security-research,Go,27,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,218,1392,https://avatars.githubusercontent.com/u/1342004?v=4
+202511099,ocis,owncloud/ocis,Go,2,:atom_symbol: ownCloud Infinite Scale Stack,99,671,https://avatars.githubusercontent.com/u/1645051?v=4
+228925870,opentelemetry-operator,open-telemetry/opentelemetry-operator,Go,8,Kubernetes Operator for OpenTelemetry Collector,220,567,https://avatars.githubusercontent.com/u/49998002?v=4
