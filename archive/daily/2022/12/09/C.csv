@@ -5,22 +5,22 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 1357796,emscripten,emscripten-core/emscripten,C,11,Emscripten: An LLVM-to-WebAssembly Compiler,2965,23039,https://avatars.githubusercontent.com/u/46011144?v=4
 34921116,bcc,iovisor/bcc,C,13,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3201,16104,https://avatars.githubusercontent.com/u/12766186?v=4
 927442,postgres,postgres/postgres,C,10,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3600,11445,https://avatars.githubusercontent.com/u/177543?v=4
-65899476,esp-idf,espressif/esp-idf,C,5,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6008,9551,https://avatars.githubusercontent.com/u/9460735?v=4
-50874442,citus,citusdata/citus,C,10,Distributed PostgreSQL as an extension,534,7670,https://avatars.githubusercontent.com/u/2545424?v=4
+65899476,esp-idf,espressif/esp-idf,C,5,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6008,9552,https://avatars.githubusercontent.com/u/9460735?v=4
+50874442,citus,citusdata/citus,C,7,Distributed PostgreSQL as an extension,535,7670,https://avatars.githubusercontent.com/u/2545424?v=4
 6376337,poco,pocoproject/poco,C,5,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",1891,6557,https://avatars.githubusercontent.com/u/201918?v=4
 5870069,librdkafka,edenhill/librdkafka,C,4,The Apache Kafka C/C++ library,2890,6374,https://avatars.githubusercontent.com/u/524990?v=4
-1286805,OpenBLAS,xianyi/OpenBLAS,C,1,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1249,4911,https://avatars.githubusercontent.com/u/371600?v=4
-94530674,nvtop,Syllo/nvtop,C,52,"GPUs process monitoring for AMD, Intel and NVIDIA ",201,4590,https://avatars.githubusercontent.com/u/2741868?u=76c9f7d03ce2f8b845a2cf22bd80704f808cdb60&v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,13,Flipper Zero firmware source code,1014,4266,https://avatars.githubusercontent.com/u/57576566?v=4
-29933948,fluent-bit,fluent/fluent-bit,C,8,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1167,4180,https://avatars.githubusercontent.com/u/859518?v=4
+1286805,OpenBLAS,xianyi/OpenBLAS,C,1,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1250,4911,https://avatars.githubusercontent.com/u/371600?v=4
+94530674,nvtop,Syllo/nvtop,C,52,"GPUs process monitoring for AMD, Intel and NVIDIA ",201,4591,https://avatars.githubusercontent.com/u/2741868?u=76c9f7d03ce2f8b845a2cf22bd80704f808cdb60&v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,17,Flipper Zero firmware source code,1014,4266,https://avatars.githubusercontent.com/u/57576566?v=4
+29933948,fluent-bit,fluent/fluent-bit,C,7,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1167,4180,https://avatars.githubusercontent.com/u/859518?v=4
 6687936,mbedtls,Mbed-TLS/mbedtls,C,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.",2151,3871,https://avatars.githubusercontent.com/u/97226525?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,656,Port of OpenAI's Whisper model in C/C++,227,3299,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,0,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",654,3255,https://avatars.githubusercontent.com/u/62360046?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,37,Flipper Zero Unleashed Firmware,282,2950,https://avatars.githubusercontent.com/u/115378555?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,672,Port of OpenAI's Whisper model in C/C++,227,3303,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,2,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",654,3255,https://avatars.githubusercontent.com/u/62360046?v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,37,Flipper Zero Unleashed Firmware,282,2952,https://avatars.githubusercontent.com/u/115378555?v=4
 5410234,suricata,OISF/suricata,C,0,Suricata git repository maintained by the OISF,1163,2870,https://avatars.githubusercontent.com/u/2188963?v=4
 142917961,codelabs,flutter/codelabs,C,1,Flutter codelab examples,922,1006,https://avatars.githubusercontent.com/u/14101776?v=4
-537042935,bare-metal-programming-guide,cpq/bare-metal-programming-guide,C,69,A bare metal programming guide on STM32 microcontroller,28,621,https://avatars.githubusercontent.com/u/601816?u=ae928b8cd7f020f7a8d2f4eadc249b75bd1ffb48&v=4
-558589102,mini-rv32ima,cnlohr/mini-rv32ima,C,31,A tiny C header-only risc-v emulator.,29,606,https://avatars.githubusercontent.com/u/2748168?u=3b0cf506abbed548d035827e6901e9333c541e27&v=4
+537042935,bare-metal-programming-guide,cpq/bare-metal-programming-guide,C,73,A bare metal programming guide on STM32 microcontroller,29,625,https://avatars.githubusercontent.com/u/601816?u=ae928b8cd7f020f7a8d2f4eadc249b75bd1ffb48&v=4
+558589102,mini-rv32ima,cnlohr/mini-rv32ima,C,31,A tiny C header-only risc-v emulator.,29,608,https://avatars.githubusercontent.com/u/2748168?u=3b0cf506abbed548d035827e6901e9333c541e27&v=4
 53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,1088,474,https://avatars.githubusercontent.com/u/102750714?v=4
 564757991,cerveur,infraredCoding/cerveur,C,26,A HTTP Web Server Framework Written In C (Just For Fun),30,223,https://avatars.githubusercontent.com/u/63735892?u=fc50111b35cd3e67a61f1a1728f56e9dd711bc23&v=4
 148534714,holbertonschool-low_level_programming,bdbaraban/holbertonschool-low_level_programming,C,2,Low-level programming and algorithm projects for Holberton School Year 1,373,77,https://avatars.githubusercontent.com/u/34765317?u=d816f3c4f4264466d14d18e8b755cec03b24c2ca&v=4
