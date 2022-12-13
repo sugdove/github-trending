@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,222,The Go programming language,15705,106585,https://avatars.githubusercontent.com/u/4314092?v=4
-41912791,v2ray-core,v2ray/v2ray-core,Go,81,A platform for building proxies to bypass network restrictions.,8522,41088,https://avatars.githubusercontent.com/u/14110142?v=4
-42408804,traefik,traefik/traefik,Go,133,The Cloud Native Application Proxy,4437,40761,https://avatars.githubusercontent.com/u/14280338?v=4
-17728164,terraform,hashicorp/terraform,Go,104,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8212,35492,https://avatars.githubusercontent.com/u/761456?v=4
+23096959,go,golang/go,Go,221,The Go programming language,15705,106587,https://avatars.githubusercontent.com/u/4314092?v=4
+41912791,v2ray-core,v2ray/v2ray-core,Go,81,A platform for building proxies to bypass network restrictions.,8522,41089,https://avatars.githubusercontent.com/u/14110142?v=4
+42408804,traefik,traefik/traefik,Go,135,The Cloud Native Application Proxy,4437,40763,https://avatars.githubusercontent.com/u/14280338?v=4
+17728164,terraform,hashicorp/terraform,Go,105,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8213,35494,https://avatars.githubusercontent.com/u/761456?v=4
 156084530,nps,ehang-io/nps,Go,207,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",4445,24101,https://avatars.githubusercontent.com/u/59558731?v=4
 13624859,websocket,gorilla/websocket,Go,53,"A fast, well-tested and widely used WebSocket implementation for Go.",3100,18571,https://avatars.githubusercontent.com/u/489566?v=4
-6051812,mux,gorilla/mux,Go,189,A powerful HTTP router and URL matcher for building Go web servers with 🦍,1632,17944,https://avatars.githubusercontent.com/u/489566?v=4
-75785240,authelia,authelia/authelia,Go,102,The Single Sign-On Multi-Factor portal for web apps,839,14908,https://avatars.githubusercontent.com/u/59122411?v=4
-7083242,mysql,go-sql-driver/mysql,Go,32,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2186,12895,https://avatars.githubusercontent.com/u/3002971?v=4
-44344606,chi,go-chi/chi,Go,74,"lightweight, idiomatic and composable router for building Go HTTP services",825,12807,https://avatars.githubusercontent.com/u/29575368?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,77,Declarative continuous deployment for Kubernetes.,3242,11508,https://avatars.githubusercontent.com/u/30269780?v=4
-219616873,glow,charmbracelet/glow,Go,463,"Render markdown on the CLI, with pizzazz! 💅🏻",237,11094,https://avatars.githubusercontent.com/u/57376114?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,116,Fast and customizable vulnerability scanner based on simple YAML based DSL.,1541,10898,https://avatars.githubusercontent.com/u/50994705?v=4
-359419233,kubeshark,kubeshark/kubeshark,Go,653,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",254,7209,https://avatars.githubusercontent.com/u/99263827?v=4
-11759482,godotenv,joho/godotenv,Go,35,A Go port of Ruby's dotenv library (Loads environment variables from `.env`.),322,5595,https://avatars.githubusercontent.com/u/4092?u=57ba376fe5e8346fdad11d8f4dbae07562a7ff8b&v=4
-330616364,go-clean-template,evrone/go-clean-template,Go,170,Clean Architecture template for Golang services,327,4233,https://avatars.githubusercontent.com/u/431569?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,13,Terraform provider for Azure Resource Manager,3807,3730,https://avatars.githubusercontent.com/u/761456?v=4
-278480393,karpenter,aws/karpenter,Go,62,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",406,3662,https://avatars.githubusercontent.com/u/2232217?v=4
+6051812,mux,gorilla/mux,Go,189,A powerful HTTP router and URL matcher for building Go web servers with 🦍,1632,17945,https://avatars.githubusercontent.com/u/489566?v=4
+75785240,authelia,authelia/authelia,Go,106,The Single Sign-On Multi-Factor portal for web apps,839,14908,https://avatars.githubusercontent.com/u/59122411?v=4
+7083242,mysql,go-sql-driver/mysql,Go,32,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2186,12896,https://avatars.githubusercontent.com/u/3002971?v=4
+44344606,chi,go-chi/chi,Go,74,"lightweight, idiomatic and composable router for building Go HTTP services",825,12810,https://avatars.githubusercontent.com/u/29575368?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,76,Declarative continuous deployment for Kubernetes.,3243,11509,https://avatars.githubusercontent.com/u/30269780?v=4
+219616873,glow,charmbracelet/glow,Go,472,"Render markdown on the CLI, with pizzazz! 💅🏻",237,11096,https://avatars.githubusercontent.com/u/57376114?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,105,Fast and customizable vulnerability scanner based on simple YAML based DSL.,1541,10899,https://avatars.githubusercontent.com/u/50994705?v=4
+359419233,kubeshark,kubeshark/kubeshark,Go,964,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",254,7229,https://avatars.githubusercontent.com/u/99263827?v=4
+11759482,godotenv,joho/godotenv,Go,35,A Go port of Ruby's dotenv library (Loads environment variables from `.env`.),322,5596,https://avatars.githubusercontent.com/u/4092?u=57ba376fe5e8346fdad11d8f4dbae07562a7ff8b&v=4
+330616364,go-clean-template,evrone/go-clean-template,Go,158,Clean Architecture template for Golang services,327,4233,https://avatars.githubusercontent.com/u/431569?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,13,Terraform provider for Azure Resource Manager,3807,3731,https://avatars.githubusercontent.com/u/761456?v=4
+278480393,karpenter,aws/karpenter,Go,62,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",406,3665,https://avatars.githubusercontent.com/u/2232217?v=4
 27096595,google-api-go-client,googleapis/google-api-go-client,Go,12,Auto-generated Google APIs for Go.,1025,3296,https://avatars.githubusercontent.com/u/16785467?v=4
-440752086,coder,coder/coder,Go,77,A tool that provisions remote development environments via Terraform,196,2962,https://avatars.githubusercontent.com/u/95932066?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,56,"Optimism is Ethereum, scaled.",549,2083,https://avatars.githubusercontent.com/u/58791460?v=4
-573982889,chatgpt-telegram,m1guelpf/chatgpt-telegram,Go,1116,"Run your own GPTChat Telegram bot, with a single command!",165,1731,https://avatars.githubusercontent.com/u/23558090?u=12230fdfe64167a8f9e9eb5ebead341c2740f60d&v=4
-573538566,whatsapp-gpt,danielgross/whatsapp-gpt,Go,496,,104,995,https://avatars.githubusercontent.com/u/279531?v=4
-477699398,matrix-core,the-zion/matrix-core,Go,103,,42,325,https://avatars.githubusercontent.com/u/98330157?v=4
+440752086,coder,coder/coder,Go,80,A tool that provisions remote development environments via Terraform,196,2963,https://avatars.githubusercontent.com/u/95932066?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,57,"Optimism is Ethereum, scaled.",549,2083,https://avatars.githubusercontent.com/u/58791460?v=4
+573982889,chatgpt-telegram,m1guelpf/chatgpt-telegram,Go,1080,"Run your own GPTChat Telegram bot, with a single command!",167,1736,https://avatars.githubusercontent.com/u/23558090?u=12230fdfe64167a8f9e9eb5ebead341c2740f60d&v=4
+573538566,whatsapp-gpt,danielgross/whatsapp-gpt,Go,495,,104,999,https://avatars.githubusercontent.com/u/279531?v=4
+477699398,matrix-core,the-zion/matrix-core,Go,83,,42,325,https://avatars.githubusercontent.com/u/98330157?v=4
 574148155,imersao11,devfullcycle/imersao11,Go,70,,94,96,https://avatars.githubusercontent.com/u/91744653?v=4
