@@ -1,24 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-111583593,scrcpy,Genymobile/scrcpy,C,39,Display and control your Android device,7877,74135,https://avatars.githubusercontent.com/u/3427627?v=4
-10744183,netdata,netdata/netdata,C,12,"Real-time performance monitoring, done right! https://www.netdata.cloud",5415,61450,https://avatars.githubusercontent.com/u/43390781?v=4
-156018,redis,redis/redis,C,15,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22048,57901,https://avatars.githubusercontent.com/u/1529926?v=4
-36502,git,git/git,C,19,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24413,44556,https://avatars.githubusercontent.com/u/18133?v=4
-34921116,bcc,iovisor/bcc,C,12,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3210,16162,https://avatars.githubusercontent.com/u/12766186?v=4
-184981,memcached,memcached/memcached,C,2,memcached development tree,3142,12313,https://avatars.githubusercontent.com/u/41836?v=4
+111583593,scrcpy,Genymobile/scrcpy,C,36,Display and control your Android device,7878,74139,https://avatars.githubusercontent.com/u/3427627?v=4
+10744183,netdata,netdata/netdata,C,9,"Real-time performance monitoring, done right! https://www.netdata.cloud",5415,61451,https://avatars.githubusercontent.com/u/43390781?v=4
+156018,redis,redis/redis,C,17,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22049,57902,https://avatars.githubusercontent.com/u/1529926?v=4
+36502,git,git/git,C,23,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24413,44556,https://avatars.githubusercontent.com/u/18133?v=4
+5101141,jq,stedolan/jq,C,6,Command-line JSON processor,1378,23802,https://avatars.githubusercontent.com/u/79765?v=4
+34921116,bcc,iovisor/bcc,C,12,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3211,16165,https://avatars.githubusercontent.com/u/12766186?v=4
+184981,memcached,memcached/memcached,C,2,memcached development tree,3142,12314,https://avatars.githubusercontent.com/u/41836?v=4
 437011,zfs,openzfs/zfs,C,2,OpenZFS on Linux and FreeBSD,1547,8536,https://avatars.githubusercontent.com/u/4510897?v=4
-689344,RetroArch,libretro/RetroArch,C,13,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1504,7343,https://avatars.githubusercontent.com/u/1812827?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,4,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4410,7005,https://avatars.githubusercontent.com/u/19595895?v=4
+689344,RetroArch,libretro/RetroArch,C,12,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1504,7346,https://avatars.githubusercontent.com/u/1812827?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,3,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4410,7005,https://avatars.githubusercontent.com/u/19595895?v=4
 59676171,klipper,Klipper3d/klipper,C,4,Klipper is a 3d-printer firmware,3931,5788,https://avatars.githubusercontent.com/u/90982958?v=4
+6667084,ponyc,ponylang/ponyc,C,74,":horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language",407,5263,https://avatars.githubusercontent.com/u/12997238?v=4
 127023441,cuda-samples,NVIDIA/cuda-samples,C,2,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1052,2838,https://avatars.githubusercontent.com/u/1728152?v=4
-26537135,u-boot,u-boot/u-boot,C,0,"""Das U-Boot"" Source Tree",2672,2516,https://avatars.githubusercontent.com/u/9681997?v=4
-39042157,spdk,spdk/spdk,C,2,Storage Performance Development Kit,916,2265,https://avatars.githubusercontent.com/u/13323228?v=4
-343191804,sqlean,nalgeon/sqlean,C,50,The ultimate set of SQLite extensions,66,1946,https://avatars.githubusercontent.com/u/2946182?u=a87a11db89e10b726342b9ea340c89c2210bd118&v=4
-67372977,pg_cron,citusdata/pg_cron,C,6,Run periodic jobs in PostgreSQL,142,1834,https://avatars.githubusercontent.com/u/2545424?v=4
+26537135,u-boot,u-boot/u-boot,C,1,"""Das U-Boot"" Source Tree",2672,2516,https://avatars.githubusercontent.com/u/9681997?v=4
+39042157,spdk,spdk/spdk,C,1,Storage Performance Development Kit,916,2265,https://avatars.githubusercontent.com/u/13323228?v=4
+343191804,sqlean,nalgeon/sqlean,C,47,The ultimate set of SQLite extensions,66,1957,https://avatars.githubusercontent.com/u/2946182?u=a87a11db89e10b726342b9ea340c89c2210bd118&v=4
+67372977,pg_cron,citusdata/pg_cron,C,6,Run periodic jobs in PostgreSQL,142,1835,https://avatars.githubusercontent.com/u/2545424?v=4
 84732118,log.c,rxi/log.c,C,1,A simple logging library implemented in C99,389,1741,https://avatars.githubusercontent.com/u/3920290?u=6ebea271c6b3f69964669217fee8dd88c5f0d173&v=4
 16648618,secp256k1,bitcoin-core/secp256k1,C,2,Optimized C library for EC operations on curve secp256k1,892,1594,https://avatars.githubusercontent.com/u/13464320?v=4
-152338895,libbpf,libbpf/libbpf,C,5,Automated upstream mirror for libbpf stand-alone build.,293,1218,https://avatars.githubusercontent.com/u/44008517?v=4
+152338895,libbpf,libbpf/libbpf,C,6,Automated upstream mirror for libbpf stand-alone build.,293,1218,https://avatars.githubusercontent.com/u/44008517?v=4
 53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,1092,475,https://avatars.githubusercontent.com/u/102750714?v=4
-522085221,CustomProcessingUnit,pietroborrello/CustomProcessingUnit,C,8,The first dynamic analysis framework for CPU microcode,16,273,https://avatars.githubusercontent.com/u/18199462?v=4
+522085221,CustomProcessingUnit,pietroborrello/CustomProcessingUnit,C,10,The first dynamic analysis framework for CPU microcode,16,273,https://avatars.githubusercontent.com/u/18199462?v=4
 507678095,alx-low_level_programming,BrightDaniel/alx-low_level_programming,C,3,,129,67,https://avatars.githubusercontent.com/u/107191784?u=229dfc59cdcb981873f3d0cabd4f8c5758caf03e&v=4
-148520835,holbertonschool-low_level_programming,kai-dg/holbertonschool-low_level_programming,C,0,Holberton Curriculum for learning C. Learning the basic fundamentals.,223,51,https://avatars.githubusercontent.com/u/39069737?u=24e56322b566f8371ee09e84c9db58ae0fd4b60c&v=4
+148520835,holbertonschool-low_level_programming,kai-dg/holbertonschool-low_level_programming,C,1,Holberton Curriculum for learning C. Learning the basic fundamentals.,223,51,https://avatars.githubusercontent.com/u/39069737?u=24e56322b566f8371ee09e84c9db58ae0fd4b60c&v=4
 576970674,printer-cracktro,blasty/printer-cracktro,C,0,,7,28,https://avatars.githubusercontent.com/u/101374?u=a7e25a91bea4f2414e412195be4310364b5a7151&v=4
