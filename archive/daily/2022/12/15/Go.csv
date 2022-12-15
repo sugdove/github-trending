@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,62,"A curated list of awesome Go frameworks, libraries and software",10568,92862,https://avatars.githubusercontent.com/u/31996?u=756903faadf6bec341f0ef59a9181ebbe334d69e&v=4
-26337322,rancher,rancher/rancher,Go,3,Complete container management platform,2710,20332,https://avatars.githubusercontent.com/u/9343010?v=4
-8966356,packer,hashicorp/packer,Go,6,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3273,14116,https://avatars.githubusercontent.com/u/761456?v=4
-198683574,dolt,dolthub/dolt,Go,39,Dolt – Git for Data,393,13756,https://avatars.githubusercontent.com/u/42156961?v=4
-46089560,containerd,containerd/containerd,Go,7,An open and reliable container runtime,2603,12737,https://avatars.githubusercontent.com/u/14037953?v=4
-119190187,gitleaks,zricethezav/gitleaks,Go,4,Protect and discover secrets using Gitleaks 🔑,1057,11295,https://avatars.githubusercontent.com/u/15034943?u=c84716948bcb2d17eca73a313cda4925e482f075&v=4
-367284699,lima,lima-vm/lima,Go,6,"Linux virtual machines, typically on macOS, for running containerd",404,10136,https://avatars.githubusercontent.com/u/88128539?v=4
-403020531,colima,abiosoft/colima,Go,21,Container runtimes on macOS (and Linux) with minimal setup,193,8227,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-359419233,kubeshark,kubeshark/kubeshark,Go,139,"The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",258,7370,https://avatars.githubusercontent.com/u/99263827?v=4
-140680839,git-bug,MichaelMure/git-bug,Go,54,"Distributed, offline-first bug tracker embedded in git, with bridges",231,7299,https://avatars.githubusercontent.com/u/294669?u=68632a70dd599298a95e9476d439f5320d07e216&v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3174,6346,https://avatars.githubusercontent.com/u/13629408?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,7,A Kubernetes controller and tool for one-way encrypted Secrets,537,5726,https://avatars.githubusercontent.com/u/34656521?v=4
-52193726,sqlboiler,volatiletech/sqlboiler,Go,9,Generate a Go ORM tailored to your database schema.,469,5416,https://avatars.githubusercontent.com/u/22513357?v=4
-267054247,grype,anchore/grype,Go,6,A vulnerability scanner for container images and filesystems,335,4906,https://avatars.githubusercontent.com/u/16208487?v=4
-230660669,rtsp-simple-server,aler9/rtsp-simple-server,Go,21,"ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",711,4577,https://avatars.githubusercontent.com/u/46489434?u=4911ba7a1a2ed25e761d32dd756c92d76a3b3353&v=4
-278480393,karpenter,aws/karpenter,Go,11,"Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.",410,3683,https://avatars.githubusercontent.com/u/2232217?v=4
-262126497,syft,anchore/syft,Go,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,305,3472,https://avatars.githubusercontent.com/u/16208487?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,11,Kubernetes controller for GitHub Actions self-hosted runners,621,2520,https://avatars.githubusercontent.com/u/44036562?v=4
-474521466,helmfile,helmfile/helmfile,Go,13,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot",101,1356,https://avatars.githubusercontent.com/u/83191469?v=4
-139544571,goutil,gookit/goutil,Go,10,"💪 Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等",121,1071,https://avatars.githubusercontent.com/u/40689636?v=4
-329229346,openwechat,eatmoreapple/openwechat,Go,91,golang版微信SDK,188,994,https://avatars.githubusercontent.com/u/73388495?u=e2ff3d01b19159382977007850625e424e9c2d5b&v=4
-241148033,mongodb-kubernetes-operator,mongodb/mongodb-kubernetes-operator,Go,0,MongoDB Community Kubernetes Operator,346,770,https://avatars.githubusercontent.com/u/45120?v=4
-574975994,wechat-chatGPT,gtoxlili/wechat-chatGPT,Go,13,实现微信公众号被动返回接口的ChatGPT,60,190,https://avatars.githubusercontent.com/u/39382699?u=100b2248625e24b20a22ab2f7b4b2f3676c68486&v=4
-410897288,nitro,OffchainLabs/nitro,Go,0,Nitro goes vroom and fixes everything,87,190,https://avatars.githubusercontent.com/u/43838009?v=4
+6247705,testify,stretchr/testify,Go,5,A toolkit with common assertions and mocks that plays nicely with the standard library,1373,18387,https://avatars.githubusercontent.com/u/1841476?v=4
+72477752,pulumi,pulumi/pulumi,Go,13,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",816,14525,https://avatars.githubusercontent.com/u/21992475?v=4
+66841911,excelize,qax-os/excelize,Go,7,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1375,13672,https://avatars.githubusercontent.com/u/29733149?v=4
+12418999,gopherjs,gopherjs/gopherjs,Go,16,A compiler from Go to JavaScript for running Go code in a browser,544,11667,https://avatars.githubusercontent.com/u/6654647?v=4
+54808920,vuls,future-architect/vuls,Go,2,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",1081,9680,https://avatars.githubusercontent.com/u/14890632?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,6,Terraform AWS provider,7510,8036,https://avatars.githubusercontent.com/u/761456?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,3,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",748,7522,https://avatars.githubusercontent.com/u/43720803?v=4
+43225113,yq,mikefarah/yq,Go,7,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",409,6996,https://avatars.githubusercontent.com/u/1151925?v=4
+94779471,kube-bench,aquasecurity/kube-bench,Go,6,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1027,5439,https://avatars.githubusercontent.com/u/12783832?v=4
+16607984,go-sqlmock,DATA-DOG/go-sqlmock,Go,4,Sql mock driver for golang to test database interactions,371,4868,https://avatars.githubusercontent.com/u/6613360?v=4
+166304026,sliver,BishopFox/sliver,Go,14,Adversary Emulation Framework,670,4786,https://avatars.githubusercontent.com/u/4523757?v=4
+31333618,decimal,shopspring/decimal,Go,6,Arbitrary-precision fixed-point decimal numbers in go,508,4598,https://avatars.githubusercontent.com/u/11196412?v=4
+242329748,trojan,Jrohy/trojan,Go,4,"trojan多用户管理部署程序, 支持web页面管理",1258,4031,https://avatars.githubusercontent.com/u/12463263?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,761,3359,https://avatars.githubusercontent.com/u/49998002?v=4
+32550033,dockertest,ory/dockertest,Go,12,Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.,214,3117,https://avatars.githubusercontent.com/u/25334553?v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,9,Generate Go client and server boilerplate from OpenAPI 3 specifications,513,2756,https://avatars.githubusercontent.com/u/47459865?v=4
+54503347,image-spec,opencontainers/image-spec,Go,2,OCI Image Format,525,2503,https://avatars.githubusercontent.com/u/12563465?v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,10,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,363,2012,https://avatars.githubusercontent.com/u/68335991?v=4
+527578222,helm-dashboard,komodorio/helm-dashboard,Go,18,The missing UI for Helm - visualize your releases,78,1706,https://avatars.githubusercontent.com/u/60484489?v=4
+133725375,wireguard-go,WireGuard/wireguard-go,Go,2,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,325,1692,https://avatars.githubusercontent.com/u/13991055?v=4
+329229346,openwechat,eatmoreapple/openwechat,Go,91,golang版微信SDK,190,996,https://avatars.githubusercontent.com/u/73388495?u=e2ff3d01b19159382977007850625e424e9c2d5b&v=4
+313607161,DevSecOps,hahwul/DevSecOps,Go,67,🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎,201,852,https://avatars.githubusercontent.com/u/13212227?u=e4ca40c1aa41990f72475bebee84c860b631a30c&v=4
+565629124,osv-scanner,google/osv-scanner,Go,422,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,36,728,https://avatars.githubusercontent.com/u/1342004?v=4
+575295397,aiac,gofireflyio/aiac,Go,59,Artificial Intelligence Infrastructure-as-Code Generator.,13,246,https://avatars.githubusercontent.com/u/100200663?v=4
+575234714,wechatgpt,houko/wechatgpt,Go,15,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,11,57,https://avatars.githubusercontent.com/u/12625278?u=325ef18b20f3ee89802ee0bb38226edf20376f23&v=4
