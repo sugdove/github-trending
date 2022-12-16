@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6247705,testify,stretchr/testify,Go,7,A toolkit with common assertions and mocks that plays nicely with the standard library,1373,18397,https://avatars.githubusercontent.com/u/1841476?v=4
-72477752,pulumi,pulumi/pulumi,Go,12,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",817,14541,https://avatars.githubusercontent.com/u/21992475?v=4
-66841911,excelize,qax-os/excelize,Go,9,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1375,13681,https://avatars.githubusercontent.com/u/29733149?v=4
-12418999,gopherjs,gopherjs/gopherjs,Go,20,A compiler from Go to JavaScript for running Go code in a browser,544,11672,https://avatars.githubusercontent.com/u/6654647?v=4
-54808920,vuls,future-architect/vuls,Go,2,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",1081,9686,https://avatars.githubusercontent.com/u/14890632?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,6,Terraform AWS provider,7517,8039,https://avatars.githubusercontent.com/u/761456?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,5,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",748,7529,https://avatars.githubusercontent.com/u/43720803?v=4
-43225113,yq,mikefarah/yq,Go,6,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",409,7009,https://avatars.githubusercontent.com/u/1151925?v=4
-94779471,kube-bench,aquasecurity/kube-bench,Go,6,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1030,5443,https://avatars.githubusercontent.com/u/12783832?v=4
-16607984,go-sqlmock,DATA-DOG/go-sqlmock,Go,2,Sql mock driver for golang to test database interactions,371,4874,https://avatars.githubusercontent.com/u/6613360?v=4
-166304026,sliver,BishopFox/sliver,Go,11,Adversary Emulation Framework,671,4793,https://avatars.githubusercontent.com/u/4523757?v=4
-31333618,decimal,shopspring/decimal,Go,5,Arbitrary-precision fixed-point decimal numbers in go,511,4606,https://avatars.githubusercontent.com/u/11196412?v=4
-242329748,trojan,Jrohy/trojan,Go,5,"trojan多用户管理部署程序, 支持web页面管理",1258,4034,https://avatars.githubusercontent.com/u/12463263?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,761,3364,https://avatars.githubusercontent.com/u/49998002?v=4
-32550033,dockertest,ory/dockertest,Go,11,Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.,215,3125,https://avatars.githubusercontent.com/u/25334553?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,9,Generate Go client and server boilerplate from OpenAPI 3 specifications,513,2766,https://avatars.githubusercontent.com/u/47459865?v=4
-54503347,image-spec,opencontainers/image-spec,Go,2,OCI Image Format,525,2505,https://avatars.githubusercontent.com/u/12563465?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,10,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,364,2014,https://avatars.githubusercontent.com/u/68335991?v=4
-527578222,helm-dashboard,komodorio/helm-dashboard,Go,23,The missing UI for Helm - visualize your releases,80,1734,https://avatars.githubusercontent.com/u/60484489?v=4
-133725375,wireguard-go,WireGuard/wireguard-go,Go,1,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,325,1699,https://avatars.githubusercontent.com/u/13991055?v=4
-329229346,openwechat,eatmoreapple/openwechat,Go,25,golang版微信SDK,193,1012,https://avatars.githubusercontent.com/u/73388495?u=e2ff3d01b19159382977007850625e424e9c2d5b&v=4
-565629124,osv-scanner,google/osv-scanner,Go,405,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,61,1005,https://avatars.githubusercontent.com/u/1342004?v=4
-313607161,DevSecOps,hahwul/DevSecOps,Go,55,🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎,204,875,https://avatars.githubusercontent.com/u/13212227?u=e4ca40c1aa41990f72475bebee84c860b631a30c&v=4
-575295397,aiac,gofireflyio/aiac,Go,69,Artificial Intelligence Infrastructure-as-Code Generator.,14,283,https://avatars.githubusercontent.com/u/100200663?v=4
-575234714,wechatgpt,houko/wechatgpt,Go,15,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,12,70,https://avatars.githubusercontent.com/u/12625278?u=325ef18b20f3ee89802ee0bb38226edf20376f23&v=4
+7691631,moby,moby/moby,Go,7,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18404,64705,https://avatars.githubusercontent.com/u/27259197?v=4
+15045751,compose,docker/compose,Go,15,Define and run multi-container applications with Docker,4659,28033,https://avatars.githubusercontent.com/u/5429470?v=4
+14125254,consul,hashicorp/consul,Go,10,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4202,25786,https://avatars.githubusercontent.com/u/761456?v=4
+192632000,dapr,dapr/dapr,Go,10,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1583,20045,https://avatars.githubusercontent.com/u/51932459?v=4
+109145553,podman,containers/podman,Go,20,Podman: A tool for managing OCI containers and pods.,1732,16226,https://avatars.githubusercontent.com/u/5874934?v=4
+66573241,fabric,hyperledger/fabric,Go,4,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,8335,14248,https://avatars.githubusercontent.com/u/7657900?v=4
+48109239,cilium,cilium/cilium,Go,20,"eBPF-based Networking, Security, and Observability",1936,13784,https://avatars.githubusercontent.com/u/21054566?v=4
+36071697,hydra,ory/hydra,Go,5,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",1308,13533,https://avatars.githubusercontent.com/u/25334553?v=4
+12418999,gopherjs,gopherjs/gopherjs,Go,20,A compiler from Go to JavaScript for running Go code in a browser,544,11674,https://avatars.githubusercontent.com/u/6654647?v=4
+273871859,headscale,juanfont/headscale,Go,23,"An open source, self-hosted implementation of the Tailscale control server",549,9700,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+403020531,colima,abiosoft/colima,Go,23,Container runtimes on macOS (and Linux) with minimal setup,195,8256,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
+93928882,swag,swaggo/swag,Go,4,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,941,7302,https://avatars.githubusercontent.com/u/29616670?v=4
+66509131,client-go,kubernetes/client-go,Go,8,Go client for Kubernetes.,2613,7137,https://avatars.githubusercontent.com/u/13629408?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,10,Autoscaling components for Kubernetes,3176,6357,https://avatars.githubusercontent.com/u/13629408?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2082,5881,https://avatars.githubusercontent.com/u/36015203?v=4
+230660669,rtsp-simple-server,aler9/rtsp-simple-server,Go,60,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams",715,4601,https://avatars.githubusercontent.com/u/46489434?u=4911ba7a1a2ed25e761d32dd756c92d76a3b3353&v=4
+23586998,mockery,vektra/mockery,Go,7,A mock code autogenerator for Golang,322,4153,https://avatars.githubusercontent.com/u/5193687?v=4
+261871717,wild-workouts-go-ddd-example,ThreeDotsLabs/wild-workouts-go-ddd-example,Go,20,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",331,3463,https://avatars.githubusercontent.com/u/16671995?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,761,3366,https://avatars.githubusercontent.com/u/49998002?v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,9,Generate Go client and server boilerplate from OpenAPI 3 specifications,513,2768,https://avatars.githubusercontent.com/u/47459865?v=4
+527578222,helm-dashboard,komodorio/helm-dashboard,Go,23,The missing UI for Helm - visualize your releases,80,1736,https://avatars.githubusercontent.com/u/60484489?v=4
+565629124,osv-scanner,google/osv-scanner,Go,405,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,68,1048,https://avatars.githubusercontent.com/u/1342004?v=4
+313607161,DevSecOps,hahwul/DevSecOps,Go,55,🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎,206,884,https://avatars.githubusercontent.com/u/13212227?u=e4ca40c1aa41990f72475bebee84c860b631a30c&v=4
+575295397,aiac,gofireflyio/aiac,Go,69,Artificial Intelligence Infrastructure-as-Code Generator.,14,285,https://avatars.githubusercontent.com/u/100200663?v=4
+572747293,Nuru,AvicennaJr/Nuru,Go,14,A Swahili Programming Language built from the ground up,7,102,https://avatars.githubusercontent.com/u/87450618?u=8388fab002bc5d91ee37b521a0a2f8ecd76d15c6&v=4
