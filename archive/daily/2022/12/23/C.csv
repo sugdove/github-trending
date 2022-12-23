@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,52,Linux kernel source tree,45986,143365,https://avatars.githubusercontent.com/u/1024025?v=4
-156018,redis,redis/redis,C,7,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22055,57967,https://avatars.githubusercontent.com/u/1529926?v=4
-196353673,TDengine,taosdata/TDengine,C,12,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4574,20290,https://avatars.githubusercontent.com/u/48876650?v=4
-29759715,zstd,facebook/zstd,C,69,Zstandard - Fast real-time compression algorithm,1815,19168,https://avatars.githubusercontent.com/u/69631?v=4
-34921116,bcc,iovisor/bcc,C,7,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3220,16225,https://avatars.githubusercontent.com/u/12766186?v=4
-105627846,reactos,reactos/reactos,C,4,A free Windows-compatible Operating System,1457,11782,https://avatars.githubusercontent.com/u/1056157?v=4
-927442,postgres,postgres/postgres,C,6,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3619,11511,https://avatars.githubusercontent.com/u/177543?v=4
-32873313,systemd,systemd/systemd,C,6,The systemd System and Service Manager ,3165,10502,https://avatars.githubusercontent.com/u/1918868?v=4
-65899476,esp-idf,espressif/esp-idf,C,3,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6032,9614,https://avatars.githubusercontent.com/u/9460735?v=4
-105944401,yugabyte-db,yugabyte/yugabyte-db,C,1,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.,868,7340,https://avatars.githubusercontent.com/u/17074854?v=4
-3791835,darktable,darktable-org/darktable,C,22,darktable is an open source photography workflow application and raw developer,971,7241,https://avatars.githubusercontent.com/u/1561544?v=4
-5383731,qemu,qemu/qemu,C,8,Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,4387,7181,https://avatars.githubusercontent.com/u/2137033?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,3,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4426,7032,https://avatars.githubusercontent.com/u/19595895?v=4
-14735429,capstone,capstone-engine/capstone,C,5,"Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.",1384,6064,https://avatars.githubusercontent.com/u/13388937?v=4
-31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,5,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4592,5723,https://avatars.githubusercontent.com/u/6154722?v=4
-168906122,endlessh,skeeto/endlessh,C,4,SSH tarpit that slowly sends an endless banner,241,5704,https://avatars.githubusercontent.com/u/29988?u=fab8eb18b01946381fe17155b8dbfe5c3abbbfc3&v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,33,Flipper Zero firmware source code,1079,4532,https://avatars.githubusercontent.com/u/57576566?v=4
+2325298,linux,torvalds/linux,C,71,Linux kernel source tree,45986,143378,https://avatars.githubusercontent.com/u/1024025?v=4
+1357796,emscripten,emscripten-core/emscripten,C,6,Emscripten: An LLVM-to-WebAssembly Compiler,2972,23088,https://avatars.githubusercontent.com/u/46011144?v=4
+196353673,TDengine,taosdata/TDengine,C,9,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4575,20290,https://avatars.githubusercontent.com/u/48876650?v=4
+80286288,Tasmota,arendst/Tasmota,C,9,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4223,18920,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,7,Open-source keyboard firmware for Atmel AVR and Arm USB families,29811,13976,https://avatars.githubusercontent.com/u/25358678?v=4
+3791835,darktable,darktable-org/darktable,C,18,darktable is an open source photography workflow application and raw developer,971,7242,https://avatars.githubusercontent.com/u/1561544?v=4
+59676171,klipper,Klipper3d/klipper,C,5,Klipper is a 3d-printer firmware,3958,5827,https://avatars.githubusercontent.com/u/90982958?v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,33,Flipper Zero firmware source code,1080,4534,https://avatars.githubusercontent.com/u/57576566?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,34,Port of OpenAI's Whisper model in C/C++,291,4391,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+131710328,hekate,CTCaer/hekate,C,6,hekate - A GUI based Nintendo Switch Bootloader,438,4288,https://avatars.githubusercontent.com/u/3665130?v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,59,Flipper Zero Unleashed Firmware,318,3556,https://avatars.githubusercontent.com/u/115378555?v=4
+52379184,checkedc,microsoft/checkedc,C,48,"Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code.",193,3072,https://avatars.githubusercontent.com/u/6154722?v=4
 120541397,retro,openai/retro,C,7,Retro Games in Gym,418,2806,https://avatars.githubusercontent.com/u/14957082?v=4
-119086992,esp-homekit-devices,RavenSystem/esp-homekit-devices,C,3,Project to add native Apple HomeKit support to any device with an ESP8266 chip,320,2078,https://avatars.githubusercontent.com/u/8655274?u=bed2d80986e8ff83d2a4039b37b5bc39a0c29464&v=4
+203759896,immortalwrt,immortalwrt/immortalwrt,C,4,An opensource OpenWrt variant for mainland China users.,860,1844,https://avatars.githubusercontent.com/u/53193414?v=4
 228103273,nuttx,apache/nuttx,C,3,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",641,1189,https://avatars.githubusercontent.com/u/47359?v=4
-16745233,libva,intel/libva,C,4,Libva is an implementation for VA-API (Video Acceleration API),264,489,https://avatars.githubusercontent.com/u/17888862?v=4
-369374514,SkyEmu,skylersaleh/SkyEmu,C,4,"Game Boy, Game Boy Color, and Game Boy Advanced Emulator",11,306,https://avatars.githubusercontent.com/u/7118296?u=883425ba57bc6d81822db36225544d7ff75b3d0c&v=4
-579563736,NTSC-CRT,LMP88959/NTSC-CRT,C,57,NTSC encoding/decoding in C89 using only integers and fixed point math. Can be used as an image filter for games or real-time applications.,5,168,https://avatars.githubusercontent.com/u/109979235?u=a4aaaa18bbf7e6cb75ebb011b18ddf2946e01bd6&v=4
-468245058,42-School-Exam-Rank-02,pasqualerossi/42-School-Exam-Rank-02,C,5,First 42 School Exam,35,126,https://avatars.githubusercontent.com/u/58959408?u=d40a22b8c74440e2fd40199e3f6f084924cac04f&v=4
-565219943,Pico3D,bernhardstrobl/Pico3D,C,7,Pico3D Engine source code for the PicoSystem,7,63,https://avatars.githubusercontent.com/u/52598728?u=9e11e771d8b4c3362270feec8aa553d8207c73c2&v=4
+142917961,codelabs,flutter/codelabs,C,6,Flutter codelab examples,934,1027,https://avatars.githubusercontent.com/u/14101776?v=4
+342120988,arduino-pico,earlephilhower/arduino-pico,C,1,"Raspberry Pi Pico Arduino core, for all RP2040 boards",191,900,https://avatars.githubusercontent.com/u/11875?u=fefb7f1675bab97530a8c6a77f07dde76662cd80&v=4
+121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,906,571,https://avatars.githubusercontent.com/u/40860733?v=4
+579563736,NTSC-CRT,LMP88959/NTSC-CRT,C,47,NTSC encoding/decoding in C89 using only integers and fixed point math. Can be used as an image filter for games or real-time applications.,5,169,https://avatars.githubusercontent.com/u/109979235?u=a4aaaa18bbf7e6cb75ebb011b18ddf2946e01bd6&v=4
+120317722,sdk-zephyr,nrfconnect/sdk-zephyr,C,0,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,420,141,https://avatars.githubusercontent.com/u/40860733?v=4
+578962451,gbinterceptor,Staacks/gbinterceptor,C,15,Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy.,2,130,https://avatars.githubusercontent.com/u/15871715?u=2e461d975c923bb20715e8601384e68e0310107f&v=4
+538556964,yarp,Shopify/yarp,C,44,Yet Another Ruby Parser,2,108,https://avatars.githubusercontent.com/u/8085?v=4
+580667327,ChatARKit,trzy/ChatARKit,C,26,Using ChatGPT to create AR experiences with natural language.,2,96,https://avatars.githubusercontent.com/u/1285573?v=4
+580378653,CVE-2022-2602-Kernel-Exploit,kiks7/CVE-2022-2602-Kernel-Exploit,C,12,,15,31,https://avatars.githubusercontent.com/u/41572858?v=4
+569492685,angryorchard,realoriginal/angryorchard,C,8,A kernel vulnerability used to achieve arbitrary read-write on Windows prior to July 2022,12,27,https://avatars.githubusercontent.com/u/118862626?v=4
