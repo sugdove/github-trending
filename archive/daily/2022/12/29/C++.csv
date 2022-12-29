@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23405758,leveldb,google/leveldb,C++,10,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,7002,31506,https://avatars.githubusercontent.com/u/1342004?v=4
-74660642,taichi,taichi-dev/taichi,C++,11,Productive & portable high-performance programming in Python.,2143,21981,https://avatars.githubusercontent.com/u/33354891?v=4
-66088979,modern-cpp-tutorial,changkun/modern-cpp-tutorial,C++,18,📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/,2619,19536,https://avatars.githubusercontent.com/u/5498964?u=87ee45485df99fe40f92e4d6f83c0060c2ea502d&v=4
-26038648,spdlog,gabime/spdlog,C++,13,Fast C++ logging library.,3505,16538,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-1217614,xbmc,xbmc/xbmc,C++,11,"Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",6057,14989,https://avatars.githubusercontent.com/u/199122?v=4
-102343794,incubator-brpc,apache/incubator-brpc,C++,4,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3579,14213,https://avatars.githubusercontent.com/u/47359?v=4
-2200856,Marlin,MarlinFirmware/Marlin,C++,17,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,17565,14199,https://avatars.githubusercontent.com/u/10418365?v=4
+65600975,pytorch,pytorch/pytorch,C++,29,Tensors and Dynamic neural networks in Python with strong GPU acceleration,17066,61275,https://avatars.githubusercontent.com/u/21003710?v=4
+22887094,tesseract,tesseract-ocr/tesseract,C++,38,Tesseract Open Source OCR Engine (main repository),8298,48079,https://avatars.githubusercontent.com/u/8401422?v=4
+11171548,json,nlohmann/json,C++,19,JSON for Modern C++,5717,33093,https://avatars.githubusercontent.com/u/159488?v=4
+39840932,googletest,google/googletest,C++,12,GoogleTest - Google Testing and Mocking Framework,8996,28670,https://avatars.githubusercontent.com/u/1342004?v=4
+196813750,CPlusPlusThings,Light-City/CPlusPlusThings,C++,15,C++那些事,6540,26485,https://avatars.githubusercontent.com/u/25699850?u=ae1ceddf2cd1d69488bc3132d29b5ca3bb57ee26&v=4
+4524181,folly,facebook/folly,C++,8,An open-source C++ library developed and used at Facebook.,4939,23952,https://avatars.githubusercontent.com/u/69631?v=4
+96246170,apollo,ApolloAuto/apollo,C++,8,An open autonomous driving platform,8975,22061,https://avatars.githubusercontent.com/u/28768304?v=4
+11892946,RedisDesktopManager,RedisInsight/RedisDesktopManager,C++,9,:wrench: Cross-platform Developer GUI for Redis,3222,21284,https://avatars.githubusercontent.com/u/87389211?v=4
+19953044,flatbuffers,google/flatbuffers,C++,6,FlatBuffers: Memory Efficient Serialization Library,2980,19596,https://avatars.githubusercontent.com/u/1342004?v=4
+65711522,Paddle,PaddlePaddle/Paddle,C++,4,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,4845,19355,https://avatars.githubusercontent.com/u/23534030?v=4
+149111813,MMKV,Tencent/MMKV,C++,2,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",1704,15336,https://avatars.githubusercontent.com/u/18461506?v=4
+2200856,Marlin,MarlinFirmware/Marlin,C++,13,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,17564,14199,https://avatars.githubusercontent.com/u/10418365?v=4
 3925242,bgfx,bkaradzic/bgfx,C++,4,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.",1749,12522,https://avatars.githubusercontent.com/u/814772?v=4
-6520784,rpcs3,RPCS3/rpcs3,C++,9,PS3 emulator/debugger,1719,12024,https://avatars.githubusercontent.com/u/8070735?v=4
-38581626,pybind11,pybind/pybind11,C++,4,Seamless operability between C++11 and Python,1741,12018,https://avatars.githubusercontent.com/u/17565521?v=4
-2310495,ceph,ceph/ceph,C++,5,"Ceph is a distributed object, block, and file storage platform ",5238,11371,https://avatars.githubusercontent.com/u/1015767?v=4
-299510783,mold,rui314/mold,C++,15,mold: A Modern Linker 🦠,344,9826,https://avatars.githubusercontent.com/u/47400?v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,7,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2264,8437,https://avatars.githubusercontent.com/u/84565724?v=4
-5909706,cpp-httplib,yhirose/cpp-httplib,C++,6,A C++ header-only HTTP/HTTPS server and client library,1738,8314,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,3,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",1868,7996,https://avatars.githubusercontent.com/u/6154722?v=4
-7512484,ardupilot,ArduPilot/ardupilot,C++,5,"ArduPlane, ArduCopter, ArduRover, ArduSub source",13693,7927,https://avatars.githubusercontent.com/u/17919847?v=4
-15122806,benchmark,google/benchmark,C++,5,A microbenchmark support library,1396,7103,https://avatars.githubusercontent.com/u/1342004?v=4
-223904726,tensorrtx,wang-xinyu/tensorrtx,C++,6,Implementation of popular deep learning networks with TensorRT network definition API,1435,4966,https://avatars.githubusercontent.com/u/15235574?u=84daba0a96cf9b34a9738ecc839193d6f4f89e6f&v=4
-410989014,codon,exaloop/codon,C++,184,"A high-performance, zero-overhead, extensible Python compiler using LLVM",143,4873,https://avatars.githubusercontent.com/u/89494599?v=4
-243394576,pixie,pixie-io/pixie,C++,5,Instant Kubernetes-Native Application Observability,306,4122,https://avatars.githubusercontent.com/u/82631609?v=4
-527719753,Cemu,cemu-project/Cemu,C++,9,Cemu is a Wii U emulator,235,3960,https://avatars.githubusercontent.com/u/40145098?v=4
-26494018,winmerge,WinMerge/winmerge,C++,3,"WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",556,3715,https://avatars.githubusercontent.com/u/32286726?v=4
-331360188,leetcode,neetcode-gh/leetcode,C++,29,Leetcode solutions,1209,2257,https://avatars.githubusercontent.com/u/77742485?u=1b03d88f14b671c63c2b69ebe02a01b66978ae05&v=4
-205404938,fheroes2,ihhub/fheroes2,C++,11,fheroes2 is a recreation of Heroes of Might and Magic II game engine.,241,1835,https://avatars.githubusercontent.com/u/19829520?v=4
-511797274,BambuStudio,bambulab/BambuStudio,C++,2,PC Software for BambuLab's 3D printers,53,286,https://avatars.githubusercontent.com/u/96461528?v=4
+153866232,Hazel,TheCherno/Hazel,C++,2,Hazel Engine,1268,8718,https://avatars.githubusercontent.com/u/1475290?u=46b4ea80ac254ec3354b9bb8060e80ca62ea6716&v=4
+181436799,MNN,alibaba/MNN,C++,2,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",1471,7249,https://avatars.githubusercontent.com/u/1961952?v=4
+138368259,neutralinojs,neutralinojs/neutralinojs,C++,3,Portable and lightweight cross-platform desktop application development framework,290,6286,https://avatars.githubusercontent.com/u/36976817?v=4
+31197250,glog,google/glog,C++,4,C++ implementation of the Google logging module,1920,5854,https://avatars.githubusercontent.com/u/1342004?v=4
+410989014,codon,exaloop/codon,C++,114,"A high-performance, zero-overhead, extensible Python compiler using LLVM",144,4884,https://avatars.githubusercontent.com/u/89494599?v=4
+324829379,organicmaps,organicmaps/organicmaps,C++,26,"🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team!",376,4317,https://avatars.githubusercontent.com/u/76659619?v=4
+527719753,Cemu,cemu-project/Cemu,C++,8,Cemu is a Wii U emulator,235,3960,https://avatars.githubusercontent.com/u/40145098?v=4
+1815807,ammo.js,kripken/ammo.js,C++,3,Direct port of the Bullet physics engine to JavaScript using Emscripten,485,3427,https://avatars.githubusercontent.com/u/173661?u=4f553536b1cece11ff423e9baea8a81cde80777d&v=4
+61980658,azerothcore-wotlk,azerothcore/azerothcore-wotlk,C++,4,Complete Open Source and Modular solution for MMO,1433,2606,https://avatars.githubusercontent.com/u/20147732?v=4
+331360188,leetcode,neetcode-gh/leetcode,C++,30,Leetcode solutions,1213,2259,https://avatars.githubusercontent.com/u/77742485?u=1b03d88f14b671c63c2b69ebe02a01b66978ae05&v=4
+354138793,FasterTransformer,NVIDIA/FasterTransformer,C++,5,"Transformer related optimization, including BERT, GPT",310,1708,https://avatars.githubusercontent.com/u/1728152?v=4
+519401968,portal_calendar,wuspy/portal_calendar,C++,21,A Portal themed e-ink calendar based on the ESP32 platform,6,213,https://avatars.githubusercontent.com/u/10302670?u=51211715d174ae4cab20d7dc72485391ebbde6f0&v=4
