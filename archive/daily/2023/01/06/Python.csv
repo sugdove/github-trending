@@ -1,17 +1,17 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-264818686,yolov5,ultralytics/yolov5,Python,31,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite,12439,34229,https://avatars.githubusercontent.com/u/26833451?v=4
-527591471,stable-diffusion-webui,AUTOMATIC1111/stable-diffusion-webui,Python,165,Stable Diffusion web UI,5131,27532,https://avatars.githubusercontent.com/u/20920490?u=8bdc7c9401f507e51b55e558baa8184d4ed30c7d&v=4
-3544424,httpie,httpie/httpie,Python,95,"🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",3729,25607,https://avatars.githubusercontent.com/u/24454777?v=4
+264818686,yolov5,ultralytics/yolov5,Python,32,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite,12439,34229,https://avatars.githubusercontent.com/u/26833451?v=4
+527591471,stable-diffusion-webui,AUTOMATIC1111/stable-diffusion-webui,Python,162,Stable Diffusion web UI,5131,27537,https://avatars.githubusercontent.com/u/20920490?u=8bdc7c9401f507e51b55e558baa8184d4ed30c7d&v=4
+3544424,httpie,httpie/httpie,Python,92,"🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",3729,25609,https://avatars.githubusercontent.com/u/24454777?v=4
 71932349,ray,ray-project/ray,Python,25,Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.,4101,23541,https://avatars.githubusercontent.com/u/22125274?v=4
 206660580,detectron2,facebookresearch/detectron2,Python,9,"Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",6335,23262,https://avatars.githubusercontent.com/u/16943930?v=4
-102692863,onnx,onnx/onnx,Python,14,Open standard for machine learning interoperability,3251,13895,https://avatars.githubusercontent.com/u/31675368?v=4
-288108533,minGPT,karpathy/minGPT,Python,238,A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training,1143,10059,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
+102692863,onnx,onnx/onnx,Python,15,Open standard for machine learning interoperability,3251,13896,https://avatars.githubusercontent.com/u/31675368?v=4
+288108533,minGPT,karpathy/minGPT,Python,234,A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training,1144,10065,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
 103071520,great_expectations,great-expectations/great_expectations,Python,8,Always know what to expect from your data.,1175,7816,https://avatars.githubusercontent.com/u/31670619?v=4
+422274596,ColossalAI,hpcaitech/ColossalAI,Python,184,Colossal-AI: A Unified Deep Learning System for Big Model Era,714,7684,https://avatars.githubusercontent.com/u/88699314?v=4
 21273155,robotframework,robotframework/robotframework,Python,6,Generic automation framework for acceptance testing and RPA,2060,7676,https://avatars.githubusercontent.com/u/574284?v=4
-422274596,ColossalAI,hpcaitech/ColossalAI,Python,175,Colossal-AI: A Unified Deep Learning System for Big Model Era,714,7676,https://avatars.githubusercontent.com/u/88699314?v=4
 122299416,optuna,optuna/optuna,Python,10,A hyperparameter optimization framework,790,7398,https://avatars.githubusercontent.com/u/57251745?v=4
-131619646,dagster,dagster-io/dagster,Python,10,"An orchestration platform for the development, production, and observation of data assets.",783,6170,https://avatars.githubusercontent.com/u/40032576?v=4
-43098215,deepchem,deepchem/deepchem,Python,9,"Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",1432,4051,https://avatars.githubusercontent.com/u/17170641?v=4
+131619646,dagster,dagster-io/dagster,Python,9,"An orchestration platform for the development, production, and observation of data assets.",783,6170,https://avatars.githubusercontent.com/u/40032576?v=4
+43098215,deepchem,deepchem/deepchem,Python,9,"Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",1433,4051,https://avatars.githubusercontent.com/u/17170641?v=4
 17714713,pre-commit-hooks,pre-commit/pre-commit-hooks,Python,5,Some out-of-the-box hooks for pre-commit,571,3600,https://avatars.githubusercontent.com/u/6943086?v=4
 539389184,fast-stable-diffusion,TheLastBen/fast-stable-diffusion,Python,24,"fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",478,3477,https://avatars.githubusercontent.com/u/110583491?u=71504a155c5e6e76547c196e041910b2087470ad&v=4
 4127088,azure-sdk-for-python,Azure/azure-sdk-for-python,Python,3,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. ,2154,3433,https://avatars.githubusercontent.com/u/6844498?v=4
@@ -19,8 +19,8 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 270910423,FlareSolverr,FlareSolverr/FlareSolverr,Python,7,Proxy server to bypass Cloudflare protection,172,1777,https://avatars.githubusercontent.com/u/75936191?v=4
 495846831,fansMedalHelper,XiaoMiku01/fansMedalHelper,Python,6,新版B站粉丝牌助手 全自动升级粉丝牌,467,691,https://avatars.githubusercontent.com/u/54094119?u=7031bc58a9b0d4ff9693f5c940a6fec9519a68c5&v=4
 551689337,deforum-for-automatic1111-webui,deforum-art/deforum-for-automatic1111-webui,Python,4,Deforum extension script for AUTOMATIC1111's Stable Diffusion webui,58,496,https://avatars.githubusercontent.com/u/114763196?v=4
-583488732,ConvNeXt-V2,facebookresearch/ConvNeXt-V2,Python,46,Code release for ConvNeXt V2 model,18,458,https://avatars.githubusercontent.com/u/16943930?v=4
+583488732,ConvNeXt-V2,facebookresearch/ConvNeXt-V2,Python,45,Code release for ConvNeXt V2 model,18,458,https://avatars.githubusercontent.com/u/16943930?v=4
 575635282,homeassistant-roborock,humbertogontijo/homeassistant-roborock,Python,11,,17,196,https://avatars.githubusercontent.com/u/96875138?v=4
-576483053,intents,home-assistant/intents,Python,12,Intents to be used with Home Assistant,178,166,https://avatars.githubusercontent.com/u/13844975?v=4
-516036894,ghidra_tools,tenable/ghidra_tools,Python,23,Ghidra-related tools and scripts open-sourced by Tenable.,10,139,https://avatars.githubusercontent.com/u/2379954?v=4
+576483053,intents,home-assistant/intents,Python,10,Intents to be used with Home Assistant,179,166,https://avatars.githubusercontent.com/u/13844975?v=4
+516036894,ghidra_tools,tenable/ghidra_tools,Python,22,Ghidra-related tools and scripts open-sourced by Tenable.,10,139,https://avatars.githubusercontent.com/u/2379954?v=4
 577235881,custom_bilibili_nft,XiaoMiku01/custom_bilibili_nft,Python,7,自定义 B站 NFT 空间背景和头像,27,77,https://avatars.githubusercontent.com/u/54094119?u=7031bc58a9b0d4ff9693f5c940a6fec9519a68c5&v=4

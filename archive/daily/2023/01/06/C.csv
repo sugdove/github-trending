@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,56,Linux kernel source tree,46158,143992,https://avatars.githubusercontent.com/u/1024025?v=4
-156018,redis,redis/redis,C,11,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22110,58117,https://avatars.githubusercontent.com/u/1529926?v=4
+2325298,linux,torvalds/linux,C,55,Linux kernel source tree,46158,143994,https://avatars.githubusercontent.com/u/1024025?v=4
+156018,redis,redis/redis,C,12,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22110,58118,https://avatars.githubusercontent.com/u/1529926?v=4
 1903522,php-src,php/php-src,C,6,The PHP Interpreter,7393,34803,https://avatars.githubusercontent.com/u/25158?v=4
 3774328,wrk,wg/wrk,C,11,Modern HTTP benchmarking tool,2778,33611,https://avatars.githubusercontent.com/u/94529?v=4
 5101141,jq,stedolan/jq,C,11,Command-line JSON processor,1383,23946,https://avatars.githubusercontent.com/u/79765?v=4
 11715753,masscan,robertdavidgraham/masscan,C,6,"TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",2846,20385,https://avatars.githubusercontent.com/u/3814757?v=4
-29759715,zstd,facebook/zstd,C,4,Zstandard - Fast real-time compression algorithm,1823,19260,https://avatars.githubusercontent.com/u/69631?v=4
+29759715,zstd,facebook/zstd,C,5,Zstandard - Fast real-time compression algorithm,1823,19261,https://avatars.githubusercontent.com/u/69631?v=4
 927442,postgres,postgres/postgres,C,3,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3633,11585,https://avatars.githubusercontent.com/u/177543?v=4
-32873313,systemd,systemd/systemd,C,5,The systemd System and Service Manager ,3177,10548,https://avatars.githubusercontent.com/u/1918868?v=4
-272457606,cosmopolitan,jart/cosmopolitan,C,17,build-once run-anywhere c library,331,10198,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+32873313,systemd,systemd/systemd,C,5,The systemd System and Service Manager ,3177,10547,https://avatars.githubusercontent.com/u/1918868?v=4
+272457606,cosmopolitan,jart/cosmopolitan,C,19,build-once run-anywhere c library,331,10200,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
 181894913,gb-studio,chrismaltby/gb-studio,C,29,A quick and easy to use drag and drop retro game creator for your favourite handheld video game system,386,6748,https://avatars.githubusercontent.com/u/16776042?u=f864c54158cf721c0815808fdd39ed117c080def&v=4
 5870069,librdkafka,confluentinc/librdkafka,C,19,The Apache Kafka C/C++ library,2910,6446,https://avatars.githubusercontent.com/u/9439498?v=4
 212152900,wasm3,wasm3/wasm3,C,15,"🚀 The fastest WebAssembly interpreter, and the most universal runtime",366,5708,https://avatars.githubusercontent.com/u/58013131?v=4
 184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,6,WebAssembly Micro Runtime (WAMR),430,3368,https://avatars.githubusercontent.com/u/54038801?v=4
 1613176,edk2,tianocore/edk2,C,4,EDK II,1961,3354,https://avatars.githubusercontent.com/u/352162?v=4
-561183031,blink,jart/blink,C,183,tiniest x86-64-linux emulator,101,3286,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+561183031,blink,jart/blink,C,183,tiniest x86-64-linux emulator,101,3293,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
 34807561,nanopb,nanopb/nanopb,C,0,Protocol Buffers with small code size,693,3280,https://avatars.githubusercontent.com/u/12173937?v=4
 206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,5,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,1080,3195,https://avatars.githubusercontent.com/u/54647343?v=4
-395684015,SketchyBar,FelixKratz/SketchyBar,C,70,A highly customizable macOS status bar replacement,33,1702,https://avatars.githubusercontent.com/u/22680421?u=5bb6fea6f702578f0c024bfedf696558672e2add&v=4
-356689400,Sensor-Watch,joeycastillo/Sensor-Watch,C,6,,87,682,https://avatars.githubusercontent.com/u/1765152?v=4
+395684015,SketchyBar,FelixKratz/SketchyBar,C,70,A highly customizable macOS status bar replacement,33,1703,https://avatars.githubusercontent.com/u/22680421?u=5bb6fea6f702578f0c024bfedf696558672e2add&v=4
+356689400,Sensor-Watch,joeycastillo/Sensor-Watch,C,5,,87,682,https://avatars.githubusercontent.com/u/1765152?v=4
 38320020,tpm2-tss,tpm2-software/tpm2-tss,C,2,OSS implementation of the TCG TPM2 Software Stack (TSS2),299,561,https://avatars.githubusercontent.com/u/34488697?v=4
-584477080,BugChecker,vitoplantamura/BugChecker,C,111,SoftICE-like kernel debugger for Windows 11,36,275,https://avatars.githubusercontent.com/u/37000260?v=4
+584477080,BugChecker,vitoplantamura/BugChecker,C,108,SoftICE-like kernel debugger for Windows 11,36,276,https://avatars.githubusercontent.com/u/37000260?v=4
 468245058,42-School-Exam-Rank-02,pasqualerossi/42-School-Exam-Rank-02,C,0,First 42 School Exam,38,141,https://avatars.githubusercontent.com/u/58959408?u=d40a22b8c74440e2fd40199e3f6f084924cac04f&v=4
-583704527,evil-php,guolifu/evil-php,C,28,"If you're not afraid of bugs, you can enjoy it. evil-php",7,121,https://avatars.githubusercontent.com/u/26667224?u=e9e5a2d3be34fe81393b547beb465abef9b0995e&v=4
+583704527,evil-php,guolifu/evil-php,C,31,"If you're not afraid of bugs, you can enjoy it. evil-php",7,124,https://avatars.githubusercontent.com/u/26667224?u=e9e5a2d3be34fe81393b547beb465abef9b0995e&v=4
 457346431,CobaltWhispers,NVISOsecurity/CobaltWhispers,C,23,"CobaltWhispers is an aggressor script that utilizes a collection of Beacon Object Files (BOF) for Cobalt Strike to perform process injection, persistence and more, leveraging direct syscalls (SysWhispers2) to bypass EDR/AV",16,91,https://avatars.githubusercontent.com/u/5310436?v=4
