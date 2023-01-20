@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-36502,git,git/git,C,22,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24568,44942,https://avatars.githubusercontent.com/u/18133?v=4
-14812739,libuv,libuv/libuv,C,10,Cross-platform asynchronous I/O,3298,20742,https://avatars.githubusercontent.com/u/4030929?v=4
-7634677,openssl,openssl/openssl,C,8,TLS/SSL and crypto library,8780,20632,https://avatars.githubusercontent.com/u/3279138?v=4
-29759715,zstd,facebook/zstd,C,8,Zstandard - Fast real-time compression algorithm,1836,19348,https://avatars.githubusercontent.com/u/69631?v=4
-84240850,timescaledb,timescale/timescaledb,C,4,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,757,14370,https://avatars.githubusercontent.com/u/8986001?v=4
-105627846,reactos,reactos/reactos,C,1,A free Windows-compatible Operating System,1484,11892,https://avatars.githubusercontent.com/u/1056157?v=4
-60667730,lvgl,lvgl/lvgl,C,8,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2276,11129,https://avatars.githubusercontent.com/u/19811762?v=4
-689344,RetroArch,libretro/RetroArch,C,3,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1522,7474,https://avatars.githubusercontent.com/u/1812827?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,6,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4502,7131,https://avatars.githubusercontent.com/u/19595895?v=4
-53614190,mosquitto,eclipse/mosquitto,C,2,Eclipse Mosquitto - An open source MQTT broker,2093,6950,https://avatars.githubusercontent.com/u/56974?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,26,Port of OpenAI's Whisper model in C/C++,361,5167,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,46,Flipper Zero Unleashed Firmware,430,4881,https://avatars.githubusercontent.com/u/115378555?v=4
-40418146,firejail,netblue30/firejail,C,6,Linux namespaces and seccomp-bpf sandbox,502,4652,https://avatars.githubusercontent.com/u/13711990?v=4
-8270972,mbed-os,ARMmbed/mbed-os,C,2,Arm Mbed OS is a platform operating system designed for the internet of things,2873,4269,https://avatars.githubusercontent.com/u/8916057?v=4
+36502,git,git/git,C,20,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24567,44944,https://avatars.githubusercontent.com/u/18133?v=4
+36836475,tmux,tmux/tmux,C,12,tmux source code,1842,27455,https://avatars.githubusercontent.com/u/12054114?v=4
+5101141,jq,stedolan/jq,C,12,Command-line JSON processor,1391,24040,https://avatars.githubusercontent.com/u/79765?v=4
+7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,8782,20635,https://avatars.githubusercontent.com/u/3279138?v=4
+80286288,Tasmota,arendst/Tasmota,C,4,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4258,19085,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+15337142,micropython,micropython/micropython,C,10,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,6091,15792,https://avatars.githubusercontent.com/u/6298560?v=4
+105627846,reactos,reactos/reactos,C,3,A free Windows-compatible Operating System,1484,11894,https://avatars.githubusercontent.com/u/1056157?v=4
+65899476,esp-idf,espressif/esp-idf,C,7,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6111,9773,https://avatars.githubusercontent.com/u/9460735?v=4
+1979797,FreeRDP,FreeRDP/FreeRDP,C,1,FreeRDP is a free remote desktop protocol library and clients,20549,7807,https://avatars.githubusercontent.com/u/663376?v=4
+5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,2919,6480,https://avatars.githubusercontent.com/u/9439498?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,25,Port of OpenAI's Whisper model in C/C++,361,5170,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,45,Flipper Zero Unleashed Firmware,431,4889,https://avatars.githubusercontent.com/u/115378555?v=4
 29933948,fluent-bit,fluent/fluent-bit,C,1,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1191,4262,https://avatars.githubusercontent.com/u/859518?v=4
-1613176,edk2,tianocore/edk2,C,4,EDK II,1976,3388,https://avatars.githubusercontent.com/u/352162?v=4
-6860771,tinyusb,hathach/tinyusb,C,4,An open source  cross-platform USB stack for embedded system,695,3381,https://avatars.githubusercontent.com/u/249515?u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4
-34807561,nanopb,nanopb/nanopb,C,4,Protocol Buffers with small code size,696,3304,https://avatars.githubusercontent.com/u/12173937?v=4
-76599439,frr,FRRouting/frr,C,2,The FRRouting Protocol Suite,992,2427,https://avatars.githubusercontent.com/u/24592672?v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,5,,504,1980,https://avatars.githubusercontent.com/u/1294177?v=4
-646423,pgbouncer,pgbouncer/pgbouncer,C,3,lightweight connection pooler for PostgreSQL,355,1877,https://avatars.githubusercontent.com/u/11858179?v=4
-275837352,YAOF,QiuSimons/YAOF,C,1,OpenWrt for Nanopi R2C/R2S/R4S/X86,536,1806,https://avatars.githubusercontent.com/u/45143996?u=3fe5456fa4bd200fcc533dd8deba042d71aa986b&v=4
-191266671,go-algorand,algorand/go-algorand,C,0,Algorand's official implementation in Go. ,380,1196,https://avatars.githubusercontent.com/u/23182699?v=4
-80611216,open5gs,open5gs/open5gs,C,2,"Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-16)",477,1049,https://avatars.githubusercontent.com/u/44808635?v=4
-568919373,caretta,groundcover-com/caretta,C,47,"Instant K8s service dependency map, right to your Grafana.",25,684,https://avatars.githubusercontent.com/u/86922185?v=4
+176278485,sqlite,sqlite/sqlite,C,4,Official Git mirror of the SQLite source tree,611,3471,https://avatars.githubusercontent.com/u/48680494?u=4ab40856ccfa4616130de822486cc01350b34e09&v=4
+34807561,nanopb,nanopb/nanopb,C,4,Protocol Buffers with small code size,696,3305,https://avatars.githubusercontent.com/u/12173937?v=4
+117119718,sqlitestudio,pawelsalawa/sqlitestudio,C,6,"A free, open source, multi-platform SQLite database manager.",474,3195,https://avatars.githubusercontent.com/u/481846?u=4e111a0d737ecb260a37e39205a1a1e4830cd68a&v=4
+331380723,pico-sdk,raspberrypi/pico-sdk,C,6,,504,1982,https://avatars.githubusercontent.com/u/1294177?v=4
+160875594,SUDO_KILLER,TH3xACE/SUDO_KILLER,C,51,A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.,220,1767,https://avatars.githubusercontent.com/u/44925796?u=ecceb24bf130dcb3738797e25c78ebd78178cb76&v=4
+1924458,slurm,SchedMD/slurm,C,3,Slurm: A Highly Scalable Workload Manager,531,1667,https://avatars.githubusercontent.com/u/740245?v=4
+14313288,pgbackrest,pgbackrest/pgbackrest,C,3,Reliable PostgreSQL Backup & Restore,157,1493,https://avatars.githubusercontent.com/u/18493692?v=4
+276293034,age,apache/age,C,4,Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.,161,1423,https://avatars.githubusercontent.com/u/47359?v=4
+266877886,rsync,WayneD/rsync,C,10,An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.,210,1211,https://avatars.githubusercontent.com/u/178713?v=4
+568919373,caretta,groundcover-com/caretta,C,35,"Instant K8s service dependency map, right to your Grafana.",25,689,https://avatars.githubusercontent.com/u/86922185?v=4
+121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,916,590,https://avatars.githubusercontent.com/u/40860733?v=4
+588963633,Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main,hesterdx2/Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main,C,1,Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main,30,62,https://avatars.githubusercontent.com/u/122688143?v=4
