@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-36502,git,git/git,C,16,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24570,44954,https://avatars.githubusercontent.com/u/18133?v=4
-36836475,tmux,tmux/tmux,C,12,tmux source code,1843,27463,https://avatars.githubusercontent.com/u/12054114?v=4
-5101141,jq,stedolan/jq,C,6,Command-line JSON processor,1391,24044,https://avatars.githubusercontent.com/u/79765?v=4
-7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,8783,20639,https://avatars.githubusercontent.com/u/3279138?v=4
-80286288,Tasmota,arendst/Tasmota,C,6,"Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4261,19092,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-15337142,micropython,micropython/micropython,C,3,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,6092,15794,https://avatars.githubusercontent.com/u/6298560?v=4
-105627846,reactos,reactos/reactos,C,12,A free Windows-compatible Operating System,1485,11903,https://avatars.githubusercontent.com/u/1056157?v=4
-65899476,esp-idf,espressif/esp-idf,C,5,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6113,9777,https://avatars.githubusercontent.com/u/9460735?v=4
-1979797,FreeRDP,FreeRDP/FreeRDP,C,3,FreeRDP is a free remote desktop protocol library and clients,20572,7809,https://avatars.githubusercontent.com/u/663376?v=4
-5870069,librdkafka,confluentinc/librdkafka,C,1,The Apache Kafka C/C++ library,2920,6480,https://avatars.githubusercontent.com/u/9439498?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,22,Port of OpenAI's Whisper model in C/C++,368,5200,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,55,Flipper Zero Unleashed Firmware,435,4925,https://avatars.githubusercontent.com/u/115378555?v=4
-29933948,fluent-bit,fluent/fluent-bit,C,1,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1191,4263,https://avatars.githubusercontent.com/u/859518?v=4
-176278485,sqlite,sqlite/sqlite,C,3,Official Git mirror of the SQLite source tree,612,3474,https://avatars.githubusercontent.com/u/48680494?u=4ab40856ccfa4616130de822486cc01350b34e09&v=4
+13233158,obs-studio,obsproject/obs-studio,C,33,OBS Studio - Free and open source software for live streaming and screen recording,6574,44971,https://avatars.githubusercontent.com/u/7725691?v=4
+36502,git,git/git,C,16,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24570,44955,https://avatars.githubusercontent.com/u/18133?v=4
+5101141,jq,stedolan/jq,C,6,Command-line JSON processor,1391,24045,https://avatars.githubusercontent.com/u/79765?v=4
+14812739,libuv,libuv/libuv,C,5,Cross-platform asynchronous I/O,3300,20746,https://avatars.githubusercontent.com/u/4030929?v=4
+7634677,openssl,openssl/openssl,C,4,TLS/SSL and crypto library,8783,20639,https://avatars.githubusercontent.com/u/3279138?v=4
+29759715,zstd,facebook/zstd,C,2,Zstandard - Fast real-time compression algorithm,1838,19350,https://avatars.githubusercontent.com/u/69631?v=4
+24993138,brotli,google/brotli,C,5,Brotli compression format,1159,11798,https://avatars.githubusercontent.com/u/1342004?v=4
+32873313,systemd,systemd/systemd,C,5,The systemd System and Service Manager ,3197,10618,https://avatars.githubusercontent.com/u/1918868?v=4
+35780977,ImageMagick,ImageMagick/ImageMagick,C,5,🧙‍♂️ ImageMagick 7,1117,8341,https://avatars.githubusercontent.com/u/12486768?v=4
+1979797,FreeRDP,FreeRDP/FreeRDP,C,3,FreeRDP is a free remote desktop protocol library and clients,20573,7810,https://avatars.githubusercontent.com/u/663376?v=4
+190845267,sm64,n64decomp/sm64,C,2,"A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",1149,6553,https://avatars.githubusercontent.com/u/47247020?v=4
+537699,CMake,Kitware/CMake,C,16,Mirror of CMake upstream repository,2380,5429,https://avatars.githubusercontent.com/u/87549?v=4
+38617,sqlcipher,sqlcipher/sqlcipher,C,3,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1192,5323,https://avatars.githubusercontent.com/u/649049?v=4
+15257213,HP-Socket,ldcsaa/HP-Socket,C,2,High Performance TCP/UDP/HTTP Communication Component,1700,5038,https://avatars.githubusercontent.com/u/5990337?u=29cad56edc50d8b800d0e136c7be2e5f164fccd6&v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,55,Flipper Zero Unleashed Firmware,435,4929,https://avatars.githubusercontent.com/u/115378555?v=4
+97212490,sokol,floooh/sokol,C,5,minimal cross-platform standalone C headers,344,4175,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
 34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,696,3306,https://avatars.githubusercontent.com/u/12173937?v=4
-117119718,sqlitestudio,pawelsalawa/sqlitestudio,C,3,"A free, open source, multi-platform SQLite database manager.",474,3197,https://avatars.githubusercontent.com/u/481846?u=4e111a0d737ecb260a37e39205a1a1e4830cd68a&v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,4,,504,1984,https://avatars.githubusercontent.com/u/1294177?v=4
-160875594,SUDO_KILLER,TH3xACE/SUDO_KILLER,C,17,A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.,220,1777,https://avatars.githubusercontent.com/u/44925796?u=ecceb24bf130dcb3738797e25c78ebd78178cb76&v=4
-1924458,slurm,SchedMD/slurm,C,3,Slurm: A Highly Scalable Workload Manager,531,1669,https://avatars.githubusercontent.com/u/740245?v=4
-14313288,pgbackrest,pgbackrest/pgbackrest,C,0,Reliable PostgreSQL Backup & Restore,157,1493,https://avatars.githubusercontent.com/u/18493692?v=4
+206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,10,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,1095,3237,https://avatars.githubusercontent.com/u/54647343?v=4
+2928164,patchelf,NixOS/patchelf,C,3,A small utility to modify the dynamic linker and RPATH of ELF executables,395,2542,https://avatars.githubusercontent.com/u/487568?v=4
+42936049,winevdm,otya128/winevdm,C,5,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",119,1853,https://avatars.githubusercontent.com/u/4075988?u=d668dcd75d304fd016a116822b93ff9db361025d&v=4
+160875594,SUDO_KILLER,TH3xACE/SUDO_KILLER,C,12,A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.,220,1779,https://avatars.githubusercontent.com/u/44925796?u=ecceb24bf130dcb3738797e25c78ebd78178cb76&v=4
 276293034,age,apache/age,C,4,Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.,162,1426,https://avatars.githubusercontent.com/u/47359?v=4
-266877886,rsync,WayneD/rsync,C,3,An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.,210,1212,https://avatars.githubusercontent.com/u/178713?v=4
-568919373,caretta,groundcover-com/caretta,C,24,"Instant K8s service dependency map, right to your Grafana.",26,707,https://avatars.githubusercontent.com/u/86922185?v=4
-121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,915,590,https://avatars.githubusercontent.com/u/40860733?v=4
-588963633,Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main,hesterdx2/Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main,C,1,Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main,30,63,https://avatars.githubusercontent.com/u/122688143?v=4
+583665827,protoview,antirez/protoview,C,4,Flipper Zero app to display known and unknown signals,9,262,https://avatars.githubusercontent.com/u/65632?v=4
+117596757,IPC-Workshops,Seneca-144100/IPC-Workshops,C,0,,248,58,https://avatars.githubusercontent.com/u/5384142?v=4
+588910277,CreateRemoteThreadPlus,lem0nSec/CreateRemoteThreadPlus,C,14,CreateRemoteThread: how to pass multiple parameters to the remote thread function without shellcode.,7,43,https://avatars.githubusercontent.com/u/98479572?u=3cd2a13c64e88782ffc933d23310572083d3680f&v=4
