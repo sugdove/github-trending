@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,72,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8306,35891,https://avatars.githubusercontent.com/u/761456?v=4
-14125254,consul,hashicorp/consul,Go,35,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4218,25924,https://avatars.githubusercontent.com/u/761456?v=4
+17728164,terraform,hashicorp/terraform,Go,71,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8309,35892,https://avatars.githubusercontent.com/u/761456?v=4
+14125254,consul,hashicorp/consul,Go,34,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4218,25924,https://avatars.githubusercontent.com/u/761456?v=4
 43723161,helm,helm/helm,Go,36,The Kubernetes Package Manager,6514,23484,https://avatars.githubusercontent.com/u/15859888?v=4
-48003886,go-patterns,tmrts/go-patterns,Go,119,"Curated list of Go design patterns, recipes and idioms",1972,21226,https://avatars.githubusercontent.com/u/5067495?v=4
-54400687,k6,grafana/k6,Go,63,"A modern load testing tool, using Go and JavaScript - https://k6.io",1010,19180,https://avatars.githubusercontent.com/u/7195757?v=4
-180687624,trivy,aquasecurity/trivy,Go,181,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1539,15868,https://avatars.githubusercontent.com/u/12783832?v=4
-72477752,pulumi,pulumi/pulumi,Go,93,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",838,14866,https://avatars.githubusercontent.com/u/21992475?v=4
-8966356,packer,hashicorp/packer,Go,18,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3285,14175,https://avatars.githubusercontent.com/u/761456?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,68,Declarative continuous deployment for Kubernetes.,3376,11841,https://avatars.githubusercontent.com/u/30269780?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,153,A blazing fast cross platform/shell prompt renderer,1802,9532,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,23,Terraform AWS provider,7644,8131,https://avatars.githubusercontent.com/u/761456?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,172,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",778,7831,https://avatars.githubusercontent.com/u/43720803?v=4
-392596825,ddosify,ddosify/ddosify,Go,230,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀",244,5639,https://avatars.githubusercontent.com/u/75415501?v=4
-139727567,Reloader,stakater/Reloader,Go,35,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",336,4681,https://avatars.githubusercontent.com/u/15930712?v=4
-206649463,ebpf,cilium/ebpf,Go,173,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",434,3950,https://avatars.githubusercontent.com/u/21054566?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,15,Terraform provider for Azure Resource Manager,3851,3791,https://avatars.githubusercontent.com/u/761456?v=4
-385634291,mimir,grafana/mimir,Go,20,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",233,2764,https://avatars.githubusercontent.com/u/7195757?v=4
+48003886,go-patterns,tmrts/go-patterns,Go,117,"Curated list of Go design patterns, recipes and idioms",1972,21228,https://avatars.githubusercontent.com/u/5067495?v=4
+54400687,k6,grafana/k6,Go,64,"A modern load testing tool, using Go and JavaScript - https://k6.io",1010,19181,https://avatars.githubusercontent.com/u/7195757?v=4
+180687624,trivy,aquasecurity/trivy,Go,184,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1539,15872,https://avatars.githubusercontent.com/u/12783832?v=4
+72477752,pulumi,pulumi/pulumi,Go,90,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",838,14869,https://avatars.githubusercontent.com/u/21992475?v=4
+8966356,packer,hashicorp/packer,Go,18,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3285,14176,https://avatars.githubusercontent.com/u/761456?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,67,Declarative continuous deployment for Kubernetes.,3377,11844,https://avatars.githubusercontent.com/u/30269780?v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,156,A blazing fast cross platform/shell prompt renderer,1805,9537,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,25,Terraform AWS provider,7646,8133,https://avatars.githubusercontent.com/u/761456?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,174,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",778,7833,https://avatars.githubusercontent.com/u/43720803?v=4
+392596825,ddosify,ddosify/ddosify,Go,242,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀",244,5653,https://avatars.githubusercontent.com/u/75415501?v=4
+139727567,Reloader,stakater/Reloader,Go,35,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",336,4682,https://avatars.githubusercontent.com/u/15930712?v=4
+206649463,ebpf,cilium/ebpf,Go,178,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",435,3952,https://avatars.githubusercontent.com/u/21054566?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,16,Terraform provider for Azure Resource Manager,3851,3792,https://avatars.githubusercontent.com/u/761456?v=4
+385634291,mimir,grafana/mimir,Go,21,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",233,2765,https://avatars.githubusercontent.com/u/7195757?v=4
 57912964,enhancements,kubernetes/enhancements,Go,14,Enhancements tracking repo for Kubernetes,1248,2660,https://avatars.githubusercontent.com/u/13629408?v=4
-54503347,image-spec,opencontainers/image-spec,Go,11,OCI Image Format,543,2562,https://avatars.githubusercontent.com/u/12563465?v=4
-299054922,mosint,alpkeskin/mosint,Go,285,An automated e-mail OSINT tool,335,2492,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
-238797860,optimism,ethereum-optimism/optimism,Go,91,"Optimism is Ethereum, scaled.",654,2476,https://avatars.githubusercontent.com/u/58791460?v=4
-188836864,erigon,ledgerwatch/erigon,Go,23,Ethereum implementation on the efficiency frontier,613,2119,https://avatars.githubusercontent.com/u/29105044?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,9,Datadog Agent ,983,1968,https://avatars.githubusercontent.com/u/365230?v=4
-22855240,azure-sdk-for-go,Azure/azure-sdk-for-go,Go,6,This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:,723,1202,https://avatars.githubusercontent.com/u/6844498?v=4
-575295397,aiac,gofireflyio/aiac,Go,285,Artificial Intelligence Infrastructure-as-Code Generator.,67,963,https://avatars.githubusercontent.com/u/100200663?v=4
+54503347,image-spec,opencontainers/image-spec,Go,13,OCI Image Format,543,2564,https://avatars.githubusercontent.com/u/12563465?v=4
+299054922,mosint,alpkeskin/mosint,Go,286,An automated e-mail OSINT tool,335,2491,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
+238797860,optimism,ethereum-optimism/optimism,Go,90,"Optimism is Ethereum, scaled.",655,2479,https://avatars.githubusercontent.com/u/58791460?v=4
+188836864,erigon,ledgerwatch/erigon,Go,23,Ethereum implementation on the efficiency frontier,612,2119,https://avatars.githubusercontent.com/u/29105044?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,10,Datadog Agent ,983,1969,https://avatars.githubusercontent.com/u/365230?v=4
+22855240,azure-sdk-for-go,Azure/azure-sdk-for-go,Go,7,This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:,723,1203,https://avatars.githubusercontent.com/u/6844498?v=4
+575295397,aiac,gofireflyio/aiac,Go,285,Artificial Intelligence Infrastructure-as-Code Generator.,67,966,https://avatars.githubusercontent.com/u/100200663?v=4
