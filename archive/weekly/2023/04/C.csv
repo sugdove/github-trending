@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 36502,git,git/git,C,102,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24586,44990,https://avatars.githubusercontent.com/u/18133?v=4
-36836475,tmux,tmux/tmux,C,76,tmux source code,1845,27503,https://avatars.githubusercontent.com/u/12054114?v=4
-5101141,jq,stedolan/jq,C,71,Command-line JSON processor,1390,24087,https://avatars.githubusercontent.com/u/79765?v=4
+36836475,tmux,tmux/tmux,C,76,tmux source code,1845,27505,https://avatars.githubusercontent.com/u/12054114?v=4
+5101141,jq,stedolan/jq,C,74,Command-line JSON processor,1390,24090,https://avatars.githubusercontent.com/u/79765?v=4
 7634677,openssl,openssl/openssl,C,53,TLS/SSL and crypto library,8806,20663,https://avatars.githubusercontent.com/u/3279138?v=4
-84240850,timescaledb,timescale/timescaledb,C,40,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,758,14392,https://avatars.githubusercontent.com/u/8986001?v=4
-105627846,reactos,reactos/reactos,C,50,A free Windows-compatible Operating System,1489,11926,https://avatars.githubusercontent.com/u/1056157?v=4
-13836499,raylib,raysan5/raylib,C,64,A simple and easy-to-use library to enjoy videogames programming,1393,11517,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-65899476,esp-idf,espressif/esp-idf,C,49,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6126,9801,https://avatars.githubusercontent.com/u/9460735?v=4
-1979797,FreeRDP,FreeRDP/FreeRDP,C,29,FreeRDP is a free remote desktop protocol library and clients,20696,7818,https://avatars.githubusercontent.com/u/663376?v=4
-37060852,betaflight,betaflight/betaflight,C,37,Open Source Flight Controller Firmware,2447,6454,https://avatars.githubusercontent.com/u/19597933?v=4
-59676171,klipper,Klipper3d/klipper,C,79,Klipper is a 3d-printer firmware,4117,6042,https://avatars.githubusercontent.com/u/90982958?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,435,Port of OpenAI's Whisper model in C/C++,396,5536,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-40556106,wazuh,wazuh/wazuh,C,25,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,945,5479,https://avatars.githubusercontent.com/u/13752566?v=4
+84240850,timescaledb,timescale/timescaledb,C,40,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,758,14394,https://avatars.githubusercontent.com/u/8986001?v=4
+105627846,reactos,reactos/reactos,C,53,A free Windows-compatible Operating System,1488,11926,https://avatars.githubusercontent.com/u/1056157?v=4
+13836499,raylib,raysan5/raylib,C,62,A simple and easy-to-use library to enjoy videogames programming,1393,11517,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
+65899476,esp-idf,espressif/esp-idf,C,47,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6127,9801,https://avatars.githubusercontent.com/u/9460735?v=4
+1979797,FreeRDP,FreeRDP/FreeRDP,C,25,FreeRDP is a free remote desktop protocol library and clients,20698,7818,https://avatars.githubusercontent.com/u/663376?v=4
+37060852,betaflight,betaflight/betaflight,C,36,Open Source Flight Controller Firmware,2447,6454,https://avatars.githubusercontent.com/u/19597933?v=4
+59676171,klipper,Klipper3d/klipper,C,80,Klipper is a 3d-printer firmware,4119,6043,https://avatars.githubusercontent.com/u/90982958?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,413,Port of OpenAI's Whisper model in C/C++,397,5544,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+40556106,wazuh,wazuh/wazuh,C,24,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,945,5479,https://avatars.githubusercontent.com/u/13752566?v=4
 400501136,mujoco,deepmind/mujoco,C,27,Multi-Joint dynamics with Contact. A general purpose physics simulator.,472,5223,https://avatars.githubusercontent.com/u/8596759?v=4
-3565909,firmware,raspberrypi/firmware,C,6,"This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.",1666,4740,https://avatars.githubusercontent.com/u/1294177?v=4
+3565909,firmware,raspberrypi/firmware,C,6,"This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.",1666,4741,https://avatars.githubusercontent.com/u/1294177?v=4
 97212490,sokol,floooh/sokol,C,23,minimal cross-platform standalone C headers,347,4189,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,17,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",674,3361,https://avatars.githubusercontent.com/u/62360046?v=4
+189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,18,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",674,3362,https://avatars.githubusercontent.com/u/62360046?v=4
 34807561,nanopb,nanopb/nanopb,C,17,Protocol Buffers with small code size,697,3312,https://avatars.githubusercontent.com/u/12173937?v=4
 31374735,fwupd,fwupd/fwupd,C,30,A system daemon to allow session software to update firmware,333,2028,https://avatars.githubusercontent.com/u/54377141?v=4
-646423,pgbouncer,pgbouncer/pgbouncer,C,7,lightweight connection pooler for PostgreSQL,355,1879,https://avatars.githubusercontent.com/u/11858179?v=4
-472575717,Shipwright,HarbourMasters/Shipwright,C,17,,298,1680,https://avatars.githubusercontent.com/u/88675208?v=4
+646423,pgbouncer,pgbouncer/pgbouncer,C,8,lightweight connection pooler for PostgreSQL,355,1879,https://avatars.githubusercontent.com/u/11858179?v=4
+472575717,Shipwright,HarbourMasters/Shipwright,C,15,,298,1680,https://avatars.githubusercontent.com/u/88675208?v=4
 191266671,go-algorand,algorand/go-algorand,C,6,Algorand's official implementation in Go. ,385,1200,https://avatars.githubusercontent.com/u/23182699?v=4
-576303915,KernelSU,tiann/KernelSU,C,102,A Kernel based root solution for Android GKI,135,920,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
-529594820,ZSWatch,jakkra/ZSWatch,C,279,"ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.",19,762,https://avatars.githubusercontent.com/u/4318648?u=30a059b1505529c6be90ef9bc50f8d4d74330ec3&v=4
-568919373,caretta,groundcover-com/caretta,C,198,"Instant K8s service dependency map, right to your Grafana.",26,749,https://avatars.githubusercontent.com/u/86922185?v=4
+576303915,KernelSU,tiann/KernelSU,C,103,A Kernel based root solution for Android GKI,135,922,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
+529594820,ZSWatch,jakkra/ZSWatch,C,280,"ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.",19,765,https://avatars.githubusercontent.com/u/4318648?u=30a059b1505529c6be90ef9bc50f8d4d74330ec3&v=4
+568919373,caretta,groundcover-com/caretta,C,178,"Instant K8s service dependency map, right to your Grafana.",26,750,https://avatars.githubusercontent.com/u/86922185?v=4
