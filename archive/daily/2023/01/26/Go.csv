@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,23,The Go programming language,15830,107818,https://avatars.githubusercontent.com/u/4314092?v=4
-17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8309,35909,https://avatars.githubusercontent.com/u/761456?v=4
-31288958,vault,hashicorp/vault,Go,8,"A tool for secrets management, encryption as a service, and privileged access management",3670,26848,https://avatars.githubusercontent.com/u/761456?v=4
-37448451,mattermost-server,mattermost/mattermost-server,Go,9,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.,5907,24657,https://avatars.githubusercontent.com/u/9828093?v=4
-6051812,mux,gorilla/mux,Go,5,A powerful HTTP router and URL matcher for building Go web servers with 🦍,1686,18043,https://avatars.githubusercontent.com/u/489566?v=4
+12574344,cobra,spf13/cobra,Go,10,A Commander for modern Go CLI interactions,2600,30433,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+13124802,influxdb,influxdata/influxdb,Go,3,"Scalable datastore for metrics, events, and real-time analytics",3314,24798,https://avatars.githubusercontent.com/u/5713248?v=4
+13628513,logrus,sirupsen/logrus,Go,6,"Structured, pluggable logging for Go.",2210,22021,https://avatars.githubusercontent.com/u/97400?v=4
+21233191,kubo,ipfs/kubo,Go,6,An IPFS implementation in Go,2891,14661,https://avatars.githubusercontent.com/u/10536621?v=4
 8966356,packer,hashicorp/packer,Go,6,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3286,14185,https://avatars.githubusercontent.com/u/761456?v=4
-118654121,skaffold,GoogleContainerTools/skaffold,Go,2,Easy and Repeatable Kubernetes Development,1510,13658,https://avatars.githubusercontent.com/u/38444003?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,14,Declarative continuous deployment for Kubernetes.,3384,11864,https://avatars.githubusercontent.com/u/30269780?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,22,A blazing fast cross platform/shell prompt renderer,1820,9571,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
-121086193,gqlgen,99designs/gqlgen,Go,2,go generate based graphql server library,1003,8563,https://avatars.githubusercontent.com/u/17182?v=4
-157245200,chezmoi,twpayne/chezmoi,Go,15,"Manage your dotfiles across multiple diverse machines, securely.",400,8385,https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4
-222824662,dagger,dagger/dagger,Go,8,A programmable CI/CD engine that runs your pipelines in containers,373,7521,https://avatars.githubusercontent.com/u/78824383?v=4
-9120526,pgx,jackc/pgx,Go,8,PostgreSQL driver and toolkit for Go,620,6577,https://avatars.githubusercontent.com/u/94130?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2134,5988,https://avatars.githubusercontent.com/u/36015203?v=4
-392596825,ddosify,ddosify/ddosify,Go,61,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀",247,5763,https://avatars.githubusercontent.com/u/75415501?v=4
+36653430,nomad,hashicorp/nomad,Go,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1717,13138,https://avatars.githubusercontent.com/u/761456?v=4
+7083242,mysql,go-sql-driver/mysql,Go,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2198,13003,https://avatars.githubusercontent.com/u/3002971?v=4
+33258973,telegraf,influxdata/telegraf,Go,2,The plugin-driven server agent for collecting & reporting metrics.,5174,12440,https://avatars.githubusercontent.com/u/5713248?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,16,Declarative continuous deployment for Kubernetes.,3386,11863,https://avatars.githubusercontent.com/u/30269780?v=4
+16554739,beats,elastic/beats,Go,2,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4650,11489,https://avatars.githubusercontent.com/u/6764390?v=4
+367284699,lima,lima-vm/lima,Go,10,"Linux virtual machines, typically on macOS, for running containerd",417,10522,https://avatars.githubusercontent.com/u/88128539?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,5,Automatically provision and manage TLS certificates in Kubernetes,1804,9882,https://avatars.githubusercontent.com/u/39950598?v=4
+193833307,listmonk,knadh/listmonk,Go,10,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",756,9316,https://avatars.githubusercontent.com/u/547147?u=b2b2d466d5344d6a5154edf7ddf5d077774aa413&v=4
+40539602,aws-vault,99designs/aws-vault,Go,6,A vault for securely storing and accessing AWS credentials in development environments,726,7153,https://avatars.githubusercontent.com/u/17182?v=4
+9120526,pgx,jackc/pgx,Go,7,PostgreSQL driver and toolkit for Go,620,6579,https://avatars.githubusercontent.com/u/94130?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,5,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1150,6398,https://avatars.githubusercontent.com/u/62798169?v=4
+166304026,sliver,BishopFox/sliver,Go,13,Adversary Emulation Framework,704,5065,https://avatars.githubusercontent.com/u/4523757?v=4
 63882194,calico,projectcalico/calico,Go,5,Cloud native networking and network security,981,4231,https://avatars.githubusercontent.com/u/12304728?v=4
+52555254,goose,pressly/goose,Go,9,A database migration tool. Supports SQL migrations and Go functions. ,379,3375,https://avatars.githubusercontent.com/u/18835?v=4
+440752086,coder,coder/coder,Go,14,A tool that provisions remote development environments via Terraform,236,3325,https://avatars.githubusercontent.com/u/95932066?v=4
 19608522,google-cloud-go,googleapis/google-cloud-go,Go,3,Google Cloud Client Libraries for Go.,1117,3169,https://avatars.githubusercontent.com/u/16785467?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,28,Generate Go client and server boilerplate from OpenAPI 3 specifications,536,3012,https://avatars.githubusercontent.com/u/47459865?v=4
-57912964,enhancements,kubernetes/enhancements,Go,6,Enhancements tracking repo for Kubernetes,1250,2667,https://avatars.githubusercontent.com/u/13629408?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,8,"Optimism is Ethereum, scaled.",665,2493,https://avatars.githubusercontent.com/u/58791460?v=4
-222612062,hubble,cilium/hubble,Go,8,"Hubble - Network, Service & Security Observability for Kubernetes using eBPF",185,2445,https://avatars.githubusercontent.com/u/21054566?v=4
-93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,1,Terraform Google Cloud Platform provider,1503,1907,https://avatars.githubusercontent.com/u/761456?v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,6,Progressive Delivery for Kubernetes,558,1881,https://avatars.githubusercontent.com/u/30269780?v=4
-268015482,kubeconform,yannh/kubeconform,Go,3,"A FAST Kubernetes manifests validator, with support for Custom Resources!",72,929,https://avatars.githubusercontent.com/u/210669?u=a870c037636e5adcbcbcde6a9babaf7b3d4ab207&v=4
-589864627,EasierConnect,lyc8503/EasierConnect,Go,43,Sangfor EasyConnect protocol reimplementation in Go,25,325,https://avatars.githubusercontent.com/u/36782264?u=1e436a57ddecf64f00c4629083f70e21329a5083&v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,30,Generate Go client and server boilerplate from OpenAPI 3 specifications,536,3021,https://avatars.githubusercontent.com/u/47459865?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,4,Progressive Delivery for Kubernetes,558,1881,https://avatars.githubusercontent.com/u/30269780?v=4
+94029207,kin-openapi,getkin/kin-openapi,Go,4,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",320,1730,https://avatars.githubusercontent.com/u/40365715?v=4
+589864627,EasierConnect,lyc8503/EasierConnect,Go,41,Sangfor EasyConnect protocol reimplementation in Go,25,329,https://avatars.githubusercontent.com/u/36782264?u=1e436a57ddecf64f00c4629083f70e21329a5083&v=4
