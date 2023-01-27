@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-10744183,netdata,netdata/netdata,C,9,"Real-time performance monitoring, done right! https://www.netdata.cloud",5432,61757,https://avatars.githubusercontent.com/u/43390781?v=4
-156018,redis,redis/redis,C,13,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22149,58291,https://avatars.githubusercontent.com/u/1529926?v=4
-1903522,php-src,php/php-src,C,9,The PHP Interpreter,7412,34912,https://avatars.githubusercontent.com/u/25158?v=4
-569041,curl,curl/curl,C,7,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",5550,28281,https://avatars.githubusercontent.com/u/16928085?v=4
-179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,5,OpenCore bootloader,1919,10832,https://avatars.githubusercontent.com/u/39672954?v=4
-7710647,libsodium,jedisct1/libsodium,C,6,"A modern, portable, easy to use crypto library.",1642,10715,https://avatars.githubusercontent.com/u/124872?v=4
-254327261,Sandboxie,sandboxie-plus/Sandboxie,C,8,Sandboxie Plus & Classic,943,8862,https://avatars.githubusercontent.com/u/63755826?v=4
-50874442,citus,citusdata/citus,C,7,Distributed PostgreSQL as an extension,543,7847,https://avatars.githubusercontent.com/u/2545424?v=4
-5383731,qemu,qemu/qemu,C,2,Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,4440,7314,https://avatars.githubusercontent.com/u/2137033?v=4
-5213091,bspwm,baskerville/bspwm,C,3,A tiling window manager based on binary space partitioning,420,6747,https://avatars.githubusercontent.com/u/159419?v=4
-5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,2931,6483,https://avatars.githubusercontent.com/u/9439498?v=4
-31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,1,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4621,5795,https://avatars.githubusercontent.com/u/6154722?v=4
-673267,hiredis,redis/hiredis,C,1,Minimalistic C client for Redis >= 1.2,1733,5579,https://avatars.githubusercontent.com/u/1529926?v=4
-1660127,xrdp,neutrinolabs/xrdp,C,3,xrdp: an open source RDP server,2462,4307,https://avatars.githubusercontent.com/u/2615587?v=4
-29933948,fluent-bit,fluent/fluent-bit,C,2,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1196,4274,https://avatars.githubusercontent.com/u/859518?v=4
-77920383,TIC-80,nesbox/TIC-80,C,1,"TIC-80 is a fantasy computer for making, playing and sharing tiny games.",362,3822,https://avatars.githubusercontent.com/u/1101448?u=0eca70a6c88f2c8fbfa2cb2fa4e1f19fa1a630e7&v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,3,Simple Unit Testing for C,803,2835,https://avatars.githubusercontent.com/u/1049138?v=4
-76599439,frr,FRRouting/frr,C,2,The FRRouting Protocol Suite,993,2439,https://avatars.githubusercontent.com/u/24592672?v=4
-50272879,pjproject,pjsip/pjproject,C,1,PJSIP project,600,1376,https://avatars.githubusercontent.com/u/6085234?v=4
-142917961,codelabs,flutter/codelabs,C,2,Flutter codelab examples,997,1114,https://avatars.githubusercontent.com/u/14101776?v=4
-209527239,vkd3d-proton,HansKristian-Work/vkd3d-proton,C,0,Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.,121,1076,https://avatars.githubusercontent.com/u/17786731?u=f941d8304f616573c785892bb907639338515203&v=4
-213170770,hoverboard-firmware-hack-FOC,EFeru/hoverboard-firmware-hack-FOC,C,1,With Field Oriented Control (FOC),484,641,https://avatars.githubusercontent.com/u/24780745?u=025a35ddeb82ddaff361a41acbf8322415e88e5a&v=4
-588617710,fenster,zserge/fenster,C,14,The most minimal cross-platform GUI library,12,321,https://avatars.githubusercontent.com/u/1911760?u=d54bceb88fc5adc736476c5625bc96eed3725de0&v=4
-468245058,42-School-Exam-Rank-02,pasqualerossi/42-School-Exam-Rank-02,C,3,First 42 School Exam,42,163,https://avatars.githubusercontent.com/u/58959408?u=d40a22b8c74440e2fd40199e3f6f084924cac04f&v=4
-542363540,DCMB,GetRektBoy724/DCMB,C,1,Dont Call Me Back - Dynamic kernel callback resolver.,26,120,https://avatars.githubusercontent.com/u/41237415?u=e27b6222390941e557f5e5925a840de6905495a6&v=4
+2325298,linux,torvalds/linux,C,76,Linux kernel source tree,46471,145250,https://avatars.githubusercontent.com/u/1024025?v=4
+14812739,libuv,libuv/libuv,C,8,Cross-platform asynchronous I/O,3298,20780,https://avatars.githubusercontent.com/u/4030929?v=4
+37912398,nginx,nginx/nginx,C,5,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",6144,17879,https://avatars.githubusercontent.com/u/1412239?v=4
+45821540,openwrt,openwrt/openwrt,C,9,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,8237,13754,https://avatars.githubusercontent.com/u/2528830?v=4
+927442,postgres,postgres/postgres,C,9,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3653,11704,https://avatars.githubusercontent.com/u/177543?v=4
+60667730,lvgl,lvgl/lvgl,C,13,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2286,11166,https://avatars.githubusercontent.com/u/19811762?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,7,Arduino core for the ESP32,6352,10020,https://avatars.githubusercontent.com/u/9460735?v=4
+254327261,Sandboxie,sandboxie-plus/Sandboxie,C,7,Sandboxie Plus & Classic,943,8862,https://avatars.githubusercontent.com/u/63755826?v=4
+4151993,openvpn,OpenVPN/openvpn,C,3,OpenVPN  is  an open source VPN daemon,2613,8008,https://avatars.githubusercontent.com/u/1569141?v=4
+22711503,gcc,gcc-mirror/gcc,C,3,,3840,7241,https://avatars.githubusercontent.com/u/8382043?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,7,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4514,7164,https://avatars.githubusercontent.com/u/19595895?v=4
+53614190,mosquitto,eclipse/mosquitto,C,1,Eclipse Mosquitto - An open source MQTT broker,2097,6965,https://avatars.githubusercontent.com/u/56974?v=4
+5870069,librdkafka,confluentinc/librdkafka,C,1,The Apache Kafka C/C++ library,2930,6483,https://avatars.githubusercontent.com/u/9439498?v=4
+68082730,IronOS,Ralim/IronOS,C,5,Open Source Soldering Iron firmware for Miniware and Pinecil,589,5222,https://avatars.githubusercontent.com/u/5425387?v=4
+1286805,OpenBLAS,xianyi/OpenBLAS,C,2,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1258,4969,https://avatars.githubusercontent.com/u/371600?v=4
+27275442,tpotce,telekom-security/tpotce,C,3,🍯 T-Pot - The All In One Honeypot Platform 🐝,776,4304,https://avatars.githubusercontent.com/u/30164233?v=4
+83160811,littlefs,littlefs-project/littlefs,C,3,A little fail-safe filesystem designed for microcontrollers,622,3733,https://avatars.githubusercontent.com/u/60944974?v=4
+146155284,flecs,SanderMertens/flecs,C,5,A fast entity component system (ECS) for C & C++,272,3519,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
+5410234,suricata,OISF/suricata,C,3,Suricata git repository maintained by the OISF,1179,2944,https://avatars.githubusercontent.com/u/2188963?v=4
+26537135,u-boot,u-boot/u-boot,C,3,"""Das U-Boot"" Source Tree",2720,2580,https://avatars.githubusercontent.com/u/9681997?v=4
+4065980,libopencm3,libopencm3/libopencm3,C,0,Open source ARM Cortex-M microcontroller library,950,2560,https://avatars.githubusercontent.com/u/1656279?v=4
+543276238,libsql,libsql/libsql,C,20,"libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",52,2032,https://avatars.githubusercontent.com/u/114694406?v=4
+576303915,KernelSU,tiann/KernelSU,C,28,A Kernel based root solution for Android GKI,146,968,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
+203557027,CSAPP-Labs,Sorosliu1029/CSAPP-Labs,C,2,💣 CMU-15213 CS:APP3e labs,88,301,https://avatars.githubusercontent.com/u/8862646?u=c349de2aab6b76b5108dc6992eee2140a53cdb85&v=4
+120317722,sdk-zephyr,nrfconnect/sdk-zephyr,C,0,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,428,149,https://avatars.githubusercontent.com/u/40860733?v=4
