@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,75,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8317,35915,https://avatars.githubusercontent.com/u/761456?v=4
-212613049,cli,cli/cli,Go,106,GitHub’s official command line tool,4618,31131,https://avatars.githubusercontent.com/u/59704711?v=4
+17728164,terraform,hashicorp/terraform,Go,74,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8318,35916,https://avatars.githubusercontent.com/u/761456?v=4
+212613049,cli,cli/cli,Go,105,GitHub’s official command line tool,4618,31131,https://avatars.githubusercontent.com/u/59704711?v=4
 135516270,k3s,k3s-io/k3s,Go,61,Lightweight Kubernetes,1956,22096,https://avatars.githubusercontent.com/u/49319725?v=4
-48003886,go-patterns,tmrts/go-patterns,Go,99,"Curated list of Go design patterns, recipes and idioms",1975,21255,https://avatars.githubusercontent.com/u/5067495?v=4
+48003886,go-patterns,tmrts/go-patterns,Go,100,"Curated list of Go design patterns, recipes and idioms",1975,21256,https://avatars.githubusercontent.com/u/5067495?v=4
 109145553,podman,containers/podman,Go,64,Podman: A tool for managing OCI containers and pods.,1788,16601,https://avatars.githubusercontent.com/u/5874934?v=4
 72477752,pulumi,pulumi/pulumi,Go,72,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",841,14899,https://avatars.githubusercontent.com/u/21992475?v=4
-39038086,watchtower,containrrr/watchtower,Go,55,A process for automating Docker container base image updates. ,691,12715,https://avatars.githubusercontent.com/u/49166261?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,63,Declarative continuous deployment for Kubernetes.,3390,11871,https://avatars.githubusercontent.com/u/30269780?v=4
-533087958,d2,terrastruct/d2,Go,328,D2 is a modern diagram scripting language that turns text to diagrams.,176,10344,https://avatars.githubusercontent.com/u/80369600?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,172,A blazing fast cross platform/shell prompt renderer,1822,9605,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
+39038086,watchtower,containrrr/watchtower,Go,56,A process for automating Docker container base image updates. ,691,12717,https://avatars.githubusercontent.com/u/49166261?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,63,Declarative continuous deployment for Kubernetes.,3390,11872,https://avatars.githubusercontent.com/u/30269780?v=4
+533087958,d2,terrastruct/d2,Go,336,D2 is a modern diagram scripting language that turns text to diagrams.,176,10357,https://avatars.githubusercontent.com/u/80369600?v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,176,A blazing fast cross platform/shell prompt renderer,1822,9606,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,25,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2142,5994,https://avatars.githubusercontent.com/u/36015203?v=4
-16907502,color,fatih/color,Go,40,Color package for Go (golang),573,5977,https://avatars.githubusercontent.com/u/438920?v=4
-392596825,ddosify,ddosify/ddosify,Go,362,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀",253,5896,https://avatars.githubusercontent.com/u/75415501?v=4
+16907502,color,fatih/color,Go,39,Color package for Go (golang),573,5978,https://avatars.githubusercontent.com/u/438920?v=4
+392596825,ddosify,ddosify/ddosify,Go,363,"High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀",253,5898,https://avatars.githubusercontent.com/u/75415501?v=4
 120519269,atlantis,runatlantis/atlantis,Go,42,Terraform Pull Request Automation,836,5751,https://avatars.githubusercontent.com/u/32311288?v=4
 166304026,sliver,BishopFox/sliver,Go,80,Adversary Emulation Framework,706,5075,https://avatars.githubusercontent.com/u/4523757?v=4
-330616364,go-clean-template,evrone/go-clean-template,Go,199,Clean Architecture template for Golang services,363,4609,https://avatars.githubusercontent.com/u/431569?v=4
-278480393,karpenter,aws/karpenter,Go,35,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",451,3859,https://avatars.githubusercontent.com/u/2232217?v=4
-116392590,podinfo,stefanprodan/podinfo,Go,13,Go microservice template for Kubernetes,1125,3555,https://avatars.githubusercontent.com/u/3797675?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,154,Generate Go client and server boilerplate from OpenAPI 3 specifications,538,3078,https://avatars.githubusercontent.com/u/47459865?v=4
-385634291,mimir,grafana/mimir,Go,26,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",237,2782,https://avatars.githubusercontent.com/u/7195757?v=4
-54503347,image-spec,opencontainers/image-spec,Go,15,OCI Image Format,544,2568,https://avatars.githubusercontent.com/u/12563465?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,102,"Optimism is Ethereum, scaled.",673,2522,https://avatars.githubusercontent.com/u/58791460?v=4
-155368246,cloud-on-k8s,elastic/cloud-on-k8s,Go,6,Elastic Cloud on Kubernetes,574,2075,https://avatars.githubusercontent.com/u/6764390?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,8,Datadog Agent ,986,1972,https://avatars.githubusercontent.com/u/365230?v=4
-575295397,aiac,gofireflyio/aiac,Go,271,Artificial Intelligence Infrastructure-as-Code Generator.,73,1106,https://avatars.githubusercontent.com/u/100200663?v=4
+330616364,go-clean-template,evrone/go-clean-template,Go,218,Clean Architecture template for Golang services,363,4627,https://avatars.githubusercontent.com/u/431569?v=4
+278480393,karpenter,aws/karpenter,Go,36,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",451,3861,https://avatars.githubusercontent.com/u/2232217?v=4
+116392590,podinfo,stefanprodan/podinfo,Go,13,Go microservice template for Kubernetes,1125,3554,https://avatars.githubusercontent.com/u/3797675?v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,155,Generate Go client and server boilerplate from OpenAPI 3 specifications,538,3078,https://avatars.githubusercontent.com/u/47459865?v=4
+385634291,mimir,grafana/mimir,Go,24,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",237,2782,https://avatars.githubusercontent.com/u/7195757?v=4
+54503347,image-spec,opencontainers/image-spec,Go,14,OCI Image Format,544,2568,https://avatars.githubusercontent.com/u/12563465?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,100,"Optimism is Ethereum, scaled.",675,2523,https://avatars.githubusercontent.com/u/58791460?v=4
+155368246,cloud-on-k8s,elastic/cloud-on-k8s,Go,8,Elastic Cloud on Kubernetes,574,2077,https://avatars.githubusercontent.com/u/6764390?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,7,Datadog Agent ,986,1972,https://avatars.githubusercontent.com/u/365230?v=4
+575295397,aiac,gofireflyio/aiac,Go,272,Artificial Intelligence Infrastructure-as-Code Generator.,73,1109,https://avatars.githubusercontent.com/u/100200663?v=4
