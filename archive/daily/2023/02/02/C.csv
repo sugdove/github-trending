@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-10744183,netdata,netdata/netdata,C,11,"Real-time performance monitoring, done right! https://www.netdata.cloud",5436,61804,https://avatars.githubusercontent.com/u/43390781?v=4
-156018,redis,redis/redis,C,7,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22167,58356,https://avatars.githubusercontent.com/u/1529926?v=4
-569041,curl,curl/curl,C,11,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",5568,28333,https://avatars.githubusercontent.com/u/16928085?v=4
-102578345,lede,coolsnowwolf/lede,C,15,Lean's LEDE source,18613,24671,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
-1357796,emscripten,emscripten-core/emscripten,C,5,Emscripten: An LLVM-to-WebAssembly Compiler,2983,23245,https://avatars.githubusercontent.com/u/46011144?v=4
-7634677,openssl,openssl/openssl,C,18,TLS/SSL and crypto library,8834,20744,https://avatars.githubusercontent.com/u/3279138?v=4
-29759715,zstd,facebook/zstd,C,11,Zstandard - Fast real-time compression algorithm,1843,19410,https://avatars.githubusercontent.com/u/69631?v=4
-37912398,nginx,nginx/nginx,C,7,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",6158,17917,https://avatars.githubusercontent.com/u/1412239?v=4
-34921116,bcc,iovisor/bcc,C,10,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3275,16486,https://avatars.githubusercontent.com/u/12766186?v=4
-24993138,brotli,google/brotli,C,3,Brotli compression format,1166,11828,https://avatars.githubusercontent.com/u/1342004?v=4
-65899476,esp-idf,espressif/esp-idf,C,8,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6141,9849,https://avatars.githubusercontent.com/u/9460735?v=4
+10744183,netdata,netdata/netdata,C,8,"Real-time performance monitoring, done right! https://www.netdata.cloud",5437,61805,https://avatars.githubusercontent.com/u/43390781?v=4
+156018,redis,redis/redis,C,8,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22168,58356,https://avatars.githubusercontent.com/u/1529926?v=4
+569041,curl,curl/curl,C,10,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",5568,28333,https://avatars.githubusercontent.com/u/16928085?v=4
+102578345,lede,coolsnowwolf/lede,C,16,Lean's LEDE source,18612,24675,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+1357796,emscripten,emscripten-core/emscripten,C,4,Emscripten: An LLVM-to-WebAssembly Compiler,2983,23245,https://avatars.githubusercontent.com/u/46011144?v=4
+7634677,openssl,openssl/openssl,C,26,TLS/SSL and crypto library,8836,20756,https://avatars.githubusercontent.com/u/3279138?v=4
+29759715,zstd,facebook/zstd,C,10,Zstandard - Fast real-time compression algorithm,1843,19412,https://avatars.githubusercontent.com/u/69631?v=4
+37912398,nginx,nginx/nginx,C,6,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",6159,17917,https://avatars.githubusercontent.com/u/1412239?v=4
+34921116,bcc,iovisor/bcc,C,11,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3275,16488,https://avatars.githubusercontent.com/u/12766186?v=4
+24993138,brotli,google/brotli,C,5,Brotli compression format,1166,11830,https://avatars.githubusercontent.com/u/1342004?v=4
+65899476,esp-idf,espressif/esp-idf,C,9,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6141,9850,https://avatars.githubusercontent.com/u/9460735?v=4
 1856976,libevent,libevent/libevent,C,4,Event notification library,3177,9502,https://avatars.githubusercontent.com/u/833750?v=4
-54280778,cJSON,DaveGamble/cJSON,C,10,Ultralightweight JSON parser in ANSI C,2829,8393,https://avatars.githubusercontent.com/u/118247?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,67,Port of OpenAI's Whisper model in C/C++,430,5801,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-68082730,IronOS,Ralim/IronOS,C,19,Open Source Soldering Iron firmware for Miniware and Pinecil,592,5265,https://avatars.githubusercontent.com/u/5425387?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,4,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.",2193,3975,https://avatars.githubusercontent.com/u/97226525?v=4
-114948816,h3,uber/h3,C,1,Hexagonal hierarchical geospatial indexing system,393,3895,https://avatars.githubusercontent.com/u/538264?v=4
+54280778,cJSON,DaveGamble/cJSON,C,7,Ultralightweight JSON parser in ANSI C,2829,8393,https://avatars.githubusercontent.com/u/118247?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,86,Port of OpenAI's Whisper model in C/C++,431,5822,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+68082730,IronOS,Ralim/IronOS,C,20,Open Source Soldering Iron firmware for Miniware and Pinecil,592,5267,https://avatars.githubusercontent.com/u/5425387?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.",2193,3975,https://avatars.githubusercontent.com/u/97226525?v=4
+114948816,h3,uber/h3,C,0,Hexagonal hierarchical geospatial indexing system,394,3895,https://avatars.githubusercontent.com/u/538264?v=4
 206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,3,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,1104,3267,https://avatars.githubusercontent.com/u/54647343?v=4
 122993186,ostep-code,remzi-arpacidusseau/ostep-code,C,1,Code from various chapters in OSTEP (http://www.ostep.org),1070,2427,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
-523544748,zelda3,snesrev/zelda3,C,356,,164,2124,https://avatars.githubusercontent.com/u/111028570?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,0,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",710,1470,https://avatars.githubusercontent.com/u/54647343?v=4
-50272879,pjproject,pjsip/pjproject,C,5,PJSIP project,603,1389,https://avatars.githubusercontent.com/u/6085234?v=4
-91191972,contiki-ng,contiki-ng/contiki-ng,C,7,Contiki-NG: The OS for Next Generation IoT Devices,614,1056,https://avatars.githubusercontent.com/u/33067801?v=4
-403314395,1337-Piscine-42,48d31kh413k/1337-Piscine-42,C,2,June Piscine 2021 from 1337 Benguerir 42 Network.,135,325,https://avatars.githubusercontent.com/u/65833007?u=9be65d007cd7391e8ba5e099e47644a3aa9d918e&v=4
-593164783,RToolZ,OmriBaso/RToolZ,C,27,"A Stealthy Lsass Dumper - can abuse ProcExp152.sys driver to dump PPL Lsass, no dbghelp.lib calls.",25,157,https://avatars.githubusercontent.com/u/50461376?u=108a1c53ac91c21f97d85d4bf215fb9b9dbfdf0f&v=4
+523544748,zelda3,snesrev/zelda3,C,445,,171,2282,https://avatars.githubusercontent.com/u/111028570?v=4
+207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,1,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",710,1471,https://avatars.githubusercontent.com/u/54647343?v=4
+50272879,pjproject,pjsip/pjproject,C,3,PJSIP project,603,1389,https://avatars.githubusercontent.com/u/6085234?v=4
+91191972,contiki-ng,contiki-ng/contiki-ng,C,4,Contiki-NG: The OS for Next Generation IoT Devices,614,1056,https://avatars.githubusercontent.com/u/33067801?v=4
+403314395,1337-Piscine-42,48d31kh413k/1337-Piscine-42,C,3,June Piscine 2021 from 1337 Benguerir 42 Network.,136,326,https://avatars.githubusercontent.com/u/65833007?u=9be65d007cd7391e8ba5e099e47644a3aa9d918e&v=4
+593164783,RToolZ,OmriBaso/RToolZ,C,26,"A Stealthy Lsass Dumper - can abuse ProcExp152.sys driver to dump PPL Lsass, no dbghelp.lib calls.",27,159,https://avatars.githubusercontent.com/u/50461376?u=108a1c53ac91c21f97d85d4bf215fb9b9dbfdf0f&v=4
