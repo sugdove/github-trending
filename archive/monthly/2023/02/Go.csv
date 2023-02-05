@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,846,Production-Grade Container Scheduling and Management,35058,95617,https://avatars.githubusercontent.com/u/13629408?v=4
-61137153,esbuild,evanw/esbuild,Go,312,An extremely fast bundler for the web,962,34513,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
-134017286,lazygit,jesseduffield/lazygit,Go,750,simple terminal UI for git commands,1339,32538,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-212613049,cli,cli/cli,Go,435,GitHub’s official command line tool,4656,31221,https://avatars.githubusercontent.com/u/59704711?v=4
-14125254,consul,hashicorp/consul,Go,179,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4228,26005,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,275,The Kubernetes Package Manager,6539,23667,https://avatars.githubusercontent.com/u/15859888?v=4
-323965659,alist,alist-org/alist,Go,3760,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",2616,18603,https://avatars.githubusercontent.com/u/97389433?v=4
-180687624,trivy,aquasecurity/trivy,Go,530,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1559,16005,https://avatars.githubusercontent.com/u/12783832?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,288,Declarative continuous deployment for Kubernetes.,3432,11965,https://avatars.githubusercontent.com/u/30269780?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,339,Find credentials all over the place,1250,10344,https://avatars.githubusercontent.com/u/79229934?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,517,A blazing fast cross platform/shell prompt renderer,1839,9716,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,843,Production-Grade Container Scheduling and Management,35058,95618,https://avatars.githubusercontent.com/u/13629408?v=4
+61137153,esbuild,evanw/esbuild,Go,311,An extremely fast bundler for the web,962,34513,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
+134017286,lazygit,jesseduffield/lazygit,Go,751,simple terminal UI for git commands,1339,32540,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+212613049,cli,cli/cli,Go,436,GitHub’s official command line tool,4656,31222,https://avatars.githubusercontent.com/u/59704711?v=4
+14125254,consul,hashicorp/consul,Go,181,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4228,26006,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,276,The Kubernetes Package Manager,6539,23668,https://avatars.githubusercontent.com/u/15859888?v=4
+323965659,alist,alist-org/alist,Go,3775,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",2620,18622,https://avatars.githubusercontent.com/u/97389433?v=4
+180687624,trivy,aquasecurity/trivy,Go,527,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1559,16007,https://avatars.githubusercontent.com/u/12783832?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,288,Declarative continuous deployment for Kubernetes.,3433,11966,https://avatars.githubusercontent.com/u/30269780?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,337,Find credentials all over the place,1250,10345,https://avatars.githubusercontent.com/u/79229934?v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,520,A blazing fast cross platform/shell prompt renderer,1840,9720,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
 157245200,chezmoi,twpayne/chezmoi,Go,290,"Manage your dotfiles across multiple diverse machines, securely.",407,8483,https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4
 150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,312,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",787,7896,https://avatars.githubusercontent.com/u/43720803?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,122,Code Intelligence Platform,887,7322,https://avatars.githubusercontent.com/u/3979584?v=4
-147886080,crossplane,crossplane/crossplane,Go,184,Cloud Native Control Planes,673,6566,https://avatars.githubusercontent.com/u/45158470?v=4
-584556174,conc,sourcegraph/conc,Go,4475,Better structured concurrency for go,160,5481,https://avatars.githubusercontent.com/u/3979584?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,120,Code Intelligence Platform,888,7322,https://avatars.githubusercontent.com/u/3979584?v=4
+147886080,crossplane,crossplane/crossplane,Go,183,Cloud Native Control Planes,673,6566,https://avatars.githubusercontent.com/u/45158470?v=4
+584556174,conc,sourcegraph/conc,Go,4427,Better structured concurrency for go,160,5486,https://avatars.githubusercontent.com/u/3979584?v=4
 206649463,ebpf,cilium/ebpf,Go,301,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",441,4020,https://avatars.githubusercontent.com/u/21054566?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,175,Kubernetes controller for GitHub Actions self-hosted runners,685,2762,https://avatars.githubusercontent.com/u/44036562?v=4
-57912964,enhancements,kubernetes/enhancements,Go,116,Enhancements tracking repo for Kubernetes,1260,2680,https://avatars.githubusercontent.com/u/13629408?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,422,"Optimism is Ethereum, scaled.",701,2560,https://avatars.githubusercontent.com/u/58791460?v=4
-573538566,whatsapp-gpt,danielgross/whatsapp-gpt,Go,1180,,375,2340,https://avatars.githubusercontent.com/u/279531?v=4
-188836864,erigon,ledgerwatch/erigon,Go,97,Ethereum implementation on the efficiency frontier,621,2150,https://avatars.githubusercontent.com/u/29105044?v=4
-582059828,IPTV,youshandefeiyang/IPTV,Go,882,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,246,1416,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
-575295397,aiac,gofireflyio/aiac,Go,790,Artificial Intelligence Infrastructure-as-Code Generator.,92,1389,https://avatars.githubusercontent.com/u/100200663?v=4
+236736020,actions-runner-controller,actions/actions-runner-controller,Go,174,Kubernetes controller for GitHub Actions self-hosted runners,685,2762,https://avatars.githubusercontent.com/u/44036562?v=4
+57912964,enhancements,kubernetes/enhancements,Go,117,Enhancements tracking repo for Kubernetes,1260,2681,https://avatars.githubusercontent.com/u/13629408?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,423,"Optimism is Ethereum, scaled.",701,2561,https://avatars.githubusercontent.com/u/58791460?v=4
+573538566,whatsapp-gpt,danielgross/whatsapp-gpt,Go,1183,,376,2343,https://avatars.githubusercontent.com/u/279531?v=4
+188836864,erigon,ledgerwatch/erigon,Go,98,Ethereum implementation on the efficiency frontier,621,2151,https://avatars.githubusercontent.com/u/29105044?v=4
+582059828,IPTV,youshandefeiyang/IPTV,Go,887,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,247,1422,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
+575295397,aiac,gofireflyio/aiac,Go,790,Artificial Intelligence Infrastructure-as-Code Generator.,92,1391,https://avatars.githubusercontent.com/u/100200663?v=4
 226368338,evcc,evcc-io/evcc,Go,192,Sonne tanken ☀️🚘,241,1150,https://avatars.githubusercontent.com/u/81383504?v=4
