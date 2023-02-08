@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8352,36056,https://avatars.githubusercontent.com/u/761456?v=4
-74175805,istio,istio/istio,Go,9,"Connect, secure, control, and observe services.",6969,32336,https://avatars.githubusercontent.com/u/23534644?v=4
-13855476,gorm,go-gorm/gorm,Go,12,"The fantastic ORM library for Golang, aims to be developer friendly",3459,31343,https://avatars.githubusercontent.com/u/15127678?v=4
-323965659,alist,alist-org/alist,Go,145,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",2664,18976,https://avatars.githubusercontent.com/u/97389433?v=4
-11008207,vitess,vitessio/vitess,Go,10,Vitess is a database clustering system for horizontal scaling of MySQL.,1897,15500,https://avatars.githubusercontent.com/u/33043890?v=4
-208728772,milvus,milvus-io/milvus,Go,17,Vector database for scalable similarity search and AI applications.,1945,14893,https://avatars.githubusercontent.com/u/51735404?v=4
-7083242,mysql,go-sql-driver/mysql,Go,7,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2207,13041,https://avatars.githubusercontent.com/u/3002971?v=4
-33258973,telegraf,influxdata/telegraf,Go,6,The plugin-driven server agent for collecting & reporting metrics.,5208,12503,https://avatars.githubusercontent.com/u/5713248?v=4
-44350607,dashboard,kubernetes/dashboard,Go,8,General-purpose web UI for Kubernetes clusters,3867,12178,https://avatars.githubusercontent.com/u/13629408?v=4
-156681830,ffuf,ffuf/ffuf,Go,13,Fast web fuzzer written in Go,968,8644,https://avatars.githubusercontent.com/u/42502069?v=4
-121086193,gqlgen,99designs/gqlgen,Go,6,go generate based graphql server library,1008,8616,https://avatars.githubusercontent.com/u/17182?v=4
-40916314,dex,dexidp/dex,Go,9,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1467,7804,https://avatars.githubusercontent.com/u/42422344?v=4
-48714685,opa,open-policy-agent/opa,Go,10,"An open source, general-purpose policy engine.",1071,7652,https://avatars.githubusercontent.com/u/16468693?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,7,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,832,6538,https://avatars.githubusercontent.com/u/17118990?v=4
-320818962,100-go-mistakes,teivah/100-go-mistakes,Go,31,📖 100 Go Mistakes and How to Avoid Them,251,4285,https://avatars.githubusercontent.com/u/934784?u=d8cce9f2b06dc87e242d78d809bc1f1367db5b66&v=4
-262126497,syft,anchore/syft,Go,29,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,340,3712,https://avatars.githubusercontent.com/u/16208487?v=4
-236055696,tempo,grafana/tempo,Go,8,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",331,2737,https://avatars.githubusercontent.com/u/7195757?v=4
-124157517,cluster-api,kubernetes-sigs/cluster-api,Go,3,"Home for Cluster API, a subproject of sig-cluster-lifecycle",1069,2717,https://avatars.githubusercontent.com/u/36015203?v=4
-177210627,buildx,docker/buildx,Go,7,Docker CLI plugin for extended build capabilities with BuildKit,346,2399,https://avatars.githubusercontent.com/u/5429470?v=4
+17728164,terraform,hashicorp/terraform,Go,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8352,36060,https://avatars.githubusercontent.com/u/761456?v=4
+74175805,istio,istio/istio,Go,9,"Connect, secure, control, and observe services.",6969,32337,https://avatars.githubusercontent.com/u/23534644?v=4
+13855476,gorm,go-gorm/gorm,Go,11,"The fantastic ORM library for Golang, aims to be developer friendly",3459,31342,https://avatars.githubusercontent.com/u/15127678?v=4
+323965659,alist,alist-org/alist,Go,143,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",2666,19000,https://avatars.githubusercontent.com/u/97389433?v=4
+11008207,vitess,vitessio/vitess,Go,10,Vitess is a database clustering system for horizontal scaling of MySQL.,1897,15501,https://avatars.githubusercontent.com/u/33043890?v=4
+208728772,milvus,milvus-io/milvus,Go,17,Vector database for scalable similarity search and AI applications.,1946,14894,https://avatars.githubusercontent.com/u/51735404?v=4
+7083242,mysql,go-sql-driver/mysql,Go,9,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2207,13043,https://avatars.githubusercontent.com/u/3002971?v=4
+33258973,telegraf,influxdata/telegraf,Go,8,The plugin-driven server agent for collecting & reporting metrics.,5208,12505,https://avatars.githubusercontent.com/u/5713248?v=4
+44350607,dashboard,kubernetes/dashboard,Go,10,General-purpose web UI for Kubernetes clusters,3868,12181,https://avatars.githubusercontent.com/u/13629408?v=4
+156681830,ffuf,ffuf/ffuf,Go,12,Fast web fuzzer written in Go,968,8644,https://avatars.githubusercontent.com/u/42502069?v=4
+121086193,gqlgen,99designs/gqlgen,Go,5,go generate based graphql server library,1008,8616,https://avatars.githubusercontent.com/u/17182?v=4
+40916314,dex,dexidp/dex,Go,9,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1467,7806,https://avatars.githubusercontent.com/u/42422344?v=4
+48714685,opa,open-policy-agent/opa,Go,8,"An open source, general-purpose policy engine.",1071,7652,https://avatars.githubusercontent.com/u/16468693?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,8,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,832,6539,https://avatars.githubusercontent.com/u/17118990?v=4
+320818962,100-go-mistakes,teivah/100-go-mistakes,Go,32,📖 100 Go Mistakes and How to Avoid Them,251,4289,https://avatars.githubusercontent.com/u/934784?u=d8cce9f2b06dc87e242d78d809bc1f1367db5b66&v=4
+262126497,syft,anchore/syft,Go,32,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,340,3715,https://avatars.githubusercontent.com/u/16208487?v=4
+236055696,tempo,grafana/tempo,Go,7,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",331,2738,https://avatars.githubusercontent.com/u/7195757?v=4
+124157517,cluster-api,kubernetes-sigs/cluster-api,Go,1,"Home for Cluster API, a subproject of sig-cluster-lifecycle",1069,2717,https://avatars.githubusercontent.com/u/36015203?v=4
+177210627,buildx,docker/buildx,Go,6,Docker CLI plugin for extended build capabilities with BuildKit,346,2399,https://avatars.githubusercontent.com/u/5429470?v=4
 125253663,go-containerregistry,google/go-containerregistry,Go,0,Go library and CLIs for working with container registries,411,2191,https://avatars.githubusercontent.com/u/1342004?v=4
-582059828,IPTV,youshandefeiyang/IPTV,Go,106,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,287,1630,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
-329229346,openwechat,eatmoreapple/openwechat,Go,69,golang微信SDK,281,1511,https://avatars.githubusercontent.com/u/73388495?u=e2ff3d01b19159382977007850625e424e9c2d5b&v=4
+582059828,IPTV,youshandefeiyang/IPTV,Go,106,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,291,1656,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
+329229346,openwechat,eatmoreapple/openwechat,Go,73,golang微信SDK,287,1528,https://avatars.githubusercontent.com/u/73388495?u=e2ff3d01b19159382977007850625e424e9c2d5b&v=4
 391663444,helmify,arttor/helmify,Go,20,Creates Helm chart from Kubernetes yaml,57,529,https://avatars.githubusercontent.com/u/18706293?u=6919b20b8054b982b265643f62b647cbcbe4ba64&v=4
-575234714,wechatgpt,houko/wechatgpt,Go,33,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,67,252,https://avatars.githubusercontent.com/u/12625278?u=325ef18b20f3ee89802ee0bb38226edf20376f23&v=4
-575237853,wechatbot,djun/wechatbot,Go,33,为个人微信接入ChatGPT,346,154,https://avatars.githubusercontent.com/u/727447?v=4
+575234714,wechatgpt,houko/wechatgpt,Go,47,wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）,70,271,https://avatars.githubusercontent.com/u/12625278?u=325ef18b20f3ee89802ee0bb38226edf20376f23&v=4
+575237853,wechatbot,djun/wechatbot,Go,35,为个人微信接入ChatGPT,354,161,https://avatars.githubusercontent.com/u/727447?v=4
