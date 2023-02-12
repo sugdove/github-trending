@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-212613049,cli,cli/cli,Go,438,GitHub’s official command line tool,4669,31325,https://avatars.githubusercontent.com/u/59704711?v=4
-14125254,consul,hashicorp/consul,Go,189,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4235,26043,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,318,The Kubernetes Package Manager,6550,23721,https://avatars.githubusercontent.com/u/15859888?v=4
-135516270,k3s,k3s-io/k3s,Go,352,Lightweight Kubernetes,1976,22276,https://avatars.githubusercontent.com/u/49319725?v=4
-323965659,alist,alist-org/alist,Go,3384,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",2738,19450,https://avatars.githubusercontent.com/u/97389433?v=4
-129717717,loki,grafana/loki,Go,276,"Like Prometheus, but for logs.",2535,18272,https://avatars.githubusercontent.com/u/7195757?v=4
-180687624,trivy,aquasecurity/trivy,Go,592,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1574,16189,https://avatars.githubusercontent.com/u/12783832?v=4
-11008207,vitess,vitessio/vitess,Go,231,Vitess is a database clustering system for horizontal scaling of MySQL.,1896,15561,https://avatars.githubusercontent.com/u/33043890?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,323,Declarative continuous deployment for Kubernetes.,3460,12053,https://avatars.githubusercontent.com/u/30269780?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,501,A blazing fast cross platform/shell prompt renderer,1857,9785,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,627,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,2076,8114,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,323,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",792,7938,https://avatars.githubusercontent.com/u/43720803?v=4
-147886080,crossplane,crossplane/crossplane,Go,171,Cloud Native Control Planes,679,6596,https://avatars.githubusercontent.com/u/45158470?v=4
-52481933,navidrome,navidrome/navidrome,Go,344,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,521,5897,https://avatars.githubusercontent.com/u/26692192?v=4
+212613049,cli,cli/cli,Go,438,GitHub’s official command line tool,4669,31326,https://avatars.githubusercontent.com/u/59704711?v=4
+14125254,consul,hashicorp/consul,Go,192,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4235,26045,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,318,The Kubernetes Package Manager,6551,23721,https://avatars.githubusercontent.com/u/15859888?v=4
+135516270,k3s,k3s-io/k3s,Go,349,Lightweight Kubernetes,1976,22277,https://avatars.githubusercontent.com/u/49319725?v=4
+323965659,alist,alist-org/alist,Go,3384,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",2739,19451,https://avatars.githubusercontent.com/u/97389433?v=4
+129717717,loki,grafana/loki,Go,279,"Like Prometheus, but for logs.",2535,18273,https://avatars.githubusercontent.com/u/7195757?v=4
+180687624,trivy,aquasecurity/trivy,Go,572,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1574,16193,https://avatars.githubusercontent.com/u/12783832?v=4
+11008207,vitess,vitessio/vitess,Go,232,Vitess is a database clustering system for horizontal scaling of MySQL.,1896,15562,https://avatars.githubusercontent.com/u/33043890?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,330,Declarative continuous deployment for Kubernetes.,3460,12053,https://avatars.githubusercontent.com/u/30269780?v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,500,A blazing fast cross platform/shell prompt renderer,1858,9785,https://avatars.githubusercontent.com/u/2492783?u=3c88d3cecfa73604d1a36dac33ce3b67f4919f7f&v=4
+291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,600,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,2077,8114,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,322,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",794,7938,https://avatars.githubusercontent.com/u/43720803?v=4
+147886080,crossplane,crossplane/crossplane,Go,177,Cloud Native Control Planes,679,6596,https://avatars.githubusercontent.com/u/45158470?v=4
+52481933,navidrome,navidrome/navidrome,Go,344,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,521,5898,https://avatars.githubusercontent.com/u/26692192?v=4
 206649463,ebpf,cilium/ebpf,Go,315,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",443,4051,https://avatars.githubusercontent.com/u/21054566?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,68,Terraform provider for Azure Resource Manager,3881,3831,https://avatars.githubusercontent.com/u/761456?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,292,Generate Go client and server boilerplate from OpenAPI 3 specifications,550,3178,https://avatars.githubusercontent.com/u/47459865?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,377,"Optimism is Ethereum, scaled.",712,2614,https://avatars.githubusercontent.com/u/58791460?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,71,Terraform provider for Azure Resource Manager,3881,3832,https://avatars.githubusercontent.com/u/761456?v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,291,Generate Go client and server boilerplate from OpenAPI 3 specifications,550,3179,https://avatars.githubusercontent.com/u/47459865?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,386,"Optimism is Ethereum, scaled.",712,2616,https://avatars.githubusercontent.com/u/58791460?v=4
 188836864,erigon,ledgerwatch/erigon,Go,101,Ethereum implementation on the efficiency frontier,632,2175,https://avatars.githubusercontent.com/u/29105044?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,45,Datadog Agent ,990,1997,https://avatars.githubusercontent.com/u/365230?v=4
-582059828,IPTV,youshandefeiyang/IPTV,Go,1277,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,339,1944,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,45,Datadog Agent ,991,1997,https://avatars.githubusercontent.com/u/365230?v=4
+582059828,IPTV,youshandefeiyang/IPTV,Go,1254,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,339,1944,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
 329229346,openwechat,eatmoreapple/openwechat,Go,615,golang微信SDK,353,1834,https://avatars.githubusercontent.com/u/73388495?u=e2ff3d01b19159382977007850625e424e9c2d5b&v=4
-575295397,aiac,gofireflyio/aiac,Go,867,Artificial Intelligence Infrastructure-as-Code Generator.,105,1504,https://avatars.githubusercontent.com/u/100200663?v=4
-288482469,go-gpt3,sashabaranov/go-gpt3,Go,300,OpenAI GPT-3 and DALL·E API wrapper for Go,94,576,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-576072728,chatgpt-dingtalk,eryajf/chatgpt-dingtalk,Go,177,ChatGPT机器人在钉钉群聊中交互,80,429,https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4
+575295397,aiac,gofireflyio/aiac,Go,869,Artificial Intelligence Infrastructure-as-Code Generator.,105,1506,https://avatars.githubusercontent.com/u/100200663?v=4
+288482469,go-gpt3,sashabaranov/go-gpt3,Go,300,OpenAI GPT-3 and DALL·E API wrapper for Go,94,577,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+576072728,chatgpt-dingtalk,eryajf/chatgpt-dingtalk,Go,159,ChatGPT机器人在钉钉群聊中交互,80,429,https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4
