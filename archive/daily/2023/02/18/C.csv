@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,58,Linux kernel source tree,46740,146323,https://avatars.githubusercontent.com/u/1024025?v=4
-1614410,FFmpeg,FFmpeg/FFmpeg,C,21,Mirror of https://git.ffmpeg.org/ffmpeg.git,10587,34132,https://avatars.githubusercontent.com/u/729418?v=4
-569041,curl,curl/curl,C,26,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",5595,28497,https://avatars.githubusercontent.com/u/16928085?v=4
-1357796,emscripten,emscripten-core/emscripten,C,6,Emscripten: An LLVM-to-WebAssembly Compiler,3001,23314,https://avatars.githubusercontent.com/u/46011144?v=4
-7634677,openssl,openssl/openssl,C,17,TLS/SSL and crypto library,8883,20940,https://avatars.githubusercontent.com/u/3279138?v=4
-28515839,kcp,skywind3000/kcp,C,92,:zap: KCP - A Fast and Reliable ARQ Protocol,2313,12443,https://avatars.githubusercontent.com/u/3035071?u=082cfef5e6dbd57bf6ee4c481e163d103014a1f3&v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,144,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,930,12415,https://avatars.githubusercontent.com/u/51009775?v=4
-927442,postgres,postgres/postgres,C,11,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3703,11815,https://avatars.githubusercontent.com/u/177543?v=4
-394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,19,This project aims to enhance the working environment on Windows,608,11664,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
-60667730,lvgl,lvgl/lvgl,C,14,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2309,11374,https://avatars.githubusercontent.com/u/19811762?v=4
-65899476,esp-idf,espressif/esp-idf,C,9,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6199,9974,https://avatars.githubusercontent.com/u/9460735?v=4
-1856976,libevent,libevent/libevent,C,5,Event notification library,3181,9532,https://avatars.githubusercontent.com/u/833750?v=4
-13310527,jemalloc,jemalloc/jemalloc,C,4,,1288,7780,https://avatars.githubusercontent.com/u/5606968?v=4
-40556106,wazuh,wazuh/wazuh,C,5,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,965,5599,https://avatars.githubusercontent.com/u/13752566?v=4
-58132544,RediSearch,RediSearch/RediSearch,C,1,"A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. ",434,4111,https://avatars.githubusercontent.com/u/46899501?v=4
-8046269,libwebsockets,warmcat/libwebsockets,C,2,canonical libwebsockets.org networking library,1362,3772,https://avatars.githubusercontent.com/u/1497695?v=4
-34807561,nanopb,nanopb/nanopb,C,2,Protocol Buffers with small code size,707,3358,https://avatars.githubusercontent.com/u/12173937?v=4
-5128084,clamav,Cisco-Talos/clamav,C,10,ClamAV - Documentation is here: https://docs.clamav.net,582,2678,https://avatars.githubusercontent.com/u/28057349?v=4
-82754556,TFT_eSPI,Bodmer/TFT_eSPI,C,4,"Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",793,2423,https://avatars.githubusercontent.com/u/15824805?u=b1e96717565629413242cedba5b5ecd3fc546f3b&v=4
-200663555,liburing,axboe/liburing,C,6,,280,1896,https://avatars.githubusercontent.com/u/2619634?v=4
-370338875,minigame-unity-webgl-transform,wechat-miniprogram/minigame-unity-webgl-transform,C,8,,257,1518,https://avatars.githubusercontent.com/u/40269642?v=4
-228103273,nuttx,apache/nuttx,C,4,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",665,1260,https://avatars.githubusercontent.com/u/47359?v=4
-589481157,palera1n-c,palera1n/palera1n-c,C,18,palera1n written in C,27,226,https://avatars.githubusercontent.com/u/114239186?v=4
-600859480,shellcode-plain-sight,LloydLabs/shellcode-plain-sight,C,8,Hiding shellcode in plain sight within a large memory region. Inspired by technique used by Raspberry Robin's Roshtyak,11,83,https://avatars.githubusercontent.com/u/21321186?u=7e03068aa968ad63dd4e261d25d80e6e23402cea&v=4
-600089941,CH552-USB-Knob,wagiminator/CH552-USB-Knob,C,5,Rotary Encoder with NeoPixels and USB Interface,4,68,https://avatars.githubusercontent.com/u/62595727?u=049c2fa849e626b2749af55a5fb24e5f30bf1638&v=4
+2325298,linux,torvalds/linux,C,51,Linux kernel source tree,46739,146329,https://avatars.githubusercontent.com/u/1024025?v=4
+10744183,netdata,netdata/netdata,C,23,"Real-time performance monitoring, done right! https://www.netdata.cloud",5453,62035,https://avatars.githubusercontent.com/u/43390781?v=4
+36502,git,git/git,C,15,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,24683,45270,https://avatars.githubusercontent.com/u/18133?v=4
+1614410,FFmpeg,FFmpeg/FFmpeg,C,22,Mirror of https://git.ffmpeg.org/ffmpeg.git,10587,34135,https://avatars.githubusercontent.com/u/729418?v=4
+10446890,ijkplayer,bilibili/ijkplayer,C,3,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",7940,31133,https://avatars.githubusercontent.com/u/12002442?v=4
+18666758,darknet,pjreddie/darknet,C,4,Convolutional Neural Networks,21011,23832,https://avatars.githubusercontent.com/u/302108?v=4
+28515839,kcp,skywind3000/kcp,C,95,:zap: KCP - A Fast and Reliable ARQ Protocol,2314,12451,https://avatars.githubusercontent.com/u/3035071?u=082cfef5e6dbd57bf6ee4c481e163d103014a1f3&v=4
+214011414,WindTerm,kingToolbox/WindTerm,C,50,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,931,12424,https://avatars.githubusercontent.com/u/51009775?v=4
+105627846,reactos,reactos/reactos,C,8,A free Windows-compatible Operating System,1500,12031,https://avatars.githubusercontent.com/u/1056157?v=4
+927442,postgres,postgres/postgres,C,8,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3705,11816,https://avatars.githubusercontent.com/u/177543?v=4
+1856976,libevent,libevent/libevent,C,6,Event notification library,3181,9531,https://avatars.githubusercontent.com/u/833750?v=4
+11178512,fastdfs,happyfish100/fastdfs,C,2,"FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs",1943,8414,https://avatars.githubusercontent.com/u/4941117?v=4
+75811015,xLua,Tencent/xLua,C,5,"xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",2343,8223,https://avatars.githubusercontent.com/u/18461506?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,4,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",4571,7277,https://avatars.githubusercontent.com/u/19595895?v=4
+31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,1,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4650,5838,https://avatars.githubusercontent.com/u/6154722?v=4
+157590294,Telegram-iOS,TelegramMessenger/Telegram-iOS,C,15,Telegram-iOS,1174,4230,https://avatars.githubusercontent.com/u/22377696?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,1,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.",2204,4006,https://avatars.githubusercontent.com/u/97226525?v=4
+45703884,u8g2,olikraus/u8g2,C,4,"U8glib library for monochrome displays, version 2 ",884,3682,https://avatars.githubusercontent.com/u/1084992?v=4
+184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,4,WebAssembly Micro Runtime (WAMR),445,3501,https://avatars.githubusercontent.com/u/54038801?v=4
+5128084,clamav,Cisco-Talos/clamav,C,9,ClamAV - Documentation is here: https://docs.clamav.net,582,2678,https://avatars.githubusercontent.com/u/28057349?v=4
+82754556,TFT_eSPI,Bodmer/TFT_eSPI,C,5,"Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",793,2424,https://avatars.githubusercontent.com/u/15824805?u=b1e96717565629413242cedba5b5ecd3fc546f3b&v=4
+16648618,secp256k1,bitcoin-core/secp256k1,C,2,Optimized C library for EC operations on curve secp256k1,905,1650,https://avatars.githubusercontent.com/u/13464320?v=4
+506164578,FidelityFX-FSR2,GPUOpen-Effects/FidelityFX-FSR2,C,21,FidelityFX Super Resolution 2,124,1403,https://avatars.githubusercontent.com/u/15731950?v=4
+238444399,C-low_level_programming,mecomonteshbtn/C-low_level_programming,C,0,Repository about Low Level Programming in C language,287,98,https://avatars.githubusercontent.com/u/60401292?u=62de503159bb62c356fccfff0352122fee05cc3d&v=4
+148534714,holbertonschool-low_level_programming,bdbaraban/holbertonschool-low_level_programming,C,2,Low-level programming and algorithm projects for Holberton School Year 1,433,94,https://avatars.githubusercontent.com/u/34765317?u=d816f3c4f4264466d14d18e8b755cec03b24c2ca&v=4
