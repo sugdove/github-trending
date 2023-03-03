@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,24,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8404,36352,https://avatars.githubusercontent.com/u/761456?v=4
-74175805,istio,istio/istio,Go,8,"Connect, secure, control, and observe services.",7013,32513,https://avatars.githubusercontent.com/u/23534644?v=4
-12574344,cobra,spf13/cobra,Go,8,A Commander for modern Go CLI interactions,2625,30900,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-15045751,compose,docker/compose,Go,12,Define and run multi-container applications with Docker,4771,28735,https://avatars.githubusercontent.com/u/5429470?v=4
-54400687,k6,grafana/k6,Go,14,"A modern load testing tool, using Go and JavaScript - https://k6.io",1029,19647,https://avatars.githubusercontent.com/u/7195757?v=4
-6247705,testify,stretchr/testify,Go,17,A toolkit with common assertions and mocks that plays nicely with the standard library,1423,19080,https://avatars.githubusercontent.com/u/1841476?v=4
-129717717,loki,grafana/loki,Go,12,"Like Prometheus, but for logs.",2578,18444,https://avatars.githubusercontent.com/u/7195757?v=4
-27729907,grpc-go,grpc/grpc-go,Go,8,The Go language implementation of gRPC. HTTP/2 based RPC,3916,17662,https://avatars.githubusercontent.com/u/7802525?v=4
-5179099,go-redis,redis/go-redis,Go,18,Type-safe Redis client for Golang,2006,16649,https://avatars.githubusercontent.com/u/1529926?v=4
-46089560,containerd,containerd/containerd,Go,12,An open and reliable container runtime,2733,13311,https://avatars.githubusercontent.com/u/14037953?v=4
-6443435,nats-server,nats-io/nats-server,Go,3,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1194,12356,https://avatars.githubusercontent.com/u/10203055?v=4
-80087836,badger,dgraph-io/badger,Go,17,Fast key-value DB in Go.,1045,11928,https://avatars.githubusercontent.com/u/13958706?v=4
-28366058,distribution,distribution/distribution,Go,6,"The toolkit to pack, ship, store, and deliver container content",2231,7305,https://avatars.githubusercontent.com/u/78096003?v=4
-215654064,temporal,temporalio/temporal,Go,14,Temporal service,528,6596,https://avatars.githubusercontent.com/u/56493103?v=4
-318476701,nerdctl,containerd/nerdctl,Go,11,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",419,5654,https://avatars.githubusercontent.com/u/14037953?v=4
-76686583,kubevirt,kubevirt/kubevirt,Go,7,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,941,3911,https://avatars.githubusercontent.com/u/18700703?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,9,OpenTelemetry Go API and SDK,809,3646,https://avatars.githubusercontent.com/u/49998002?v=4
-39468142,compress,klauspost/compress,Go,10,Optimized Go Compression Packages,247,3526,https://avatars.githubusercontent.com/u/5663952?u=c220e508b2bb3b5b1e91452a9e51bf9dd4ed27a1&v=4
-238797860,optimism,ethereum-optimism/optimism,Go,45,"Optimism is Ethereum, scaled.",1369,3419,https://avatars.githubusercontent.com/u/58791460?v=4
-396856161,spicedb,authzed/spicedb,Go,13,"Open Source, Google Zanzibar-inspired fine-grained permissions database",172,3290,https://avatars.githubusercontent.com/u/73313589?v=4
-154894457,gatekeeper,open-policy-agent/gatekeeper,Go,8,Gatekeeper - Policy Controller for Kubernetes,649,2950,https://avatars.githubusercontent.com/u/16468693?v=4
-385634291,mimir,grafana/mimir,Go,39,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",271,2917,https://avatars.githubusercontent.com/u/7195757?v=4
-54503347,image-spec,opencontainers/image-spec,Go,2,OCI Image Format,559,2651,https://avatars.githubusercontent.com/u/12563465?v=4
-16345015,pushgateway,prometheus/pushgateway,Go,3,Push acceptor for ephemeral and batch jobs.,410,2505,https://avatars.githubusercontent.com/u/3380462?v=4
-210268863,codeforces-go,EndlessCheng/codeforces-go,Go,22,Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈,230,1691,https://avatars.githubusercontent.com/u/7086966?u=ac53cc01d8798356e5702e8291cb7ddb838ee823&v=4
+17728164,terraform,hashicorp/terraform,Go,23,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8404,36354,https://avatars.githubusercontent.com/u/761456?v=4
+15045751,compose,docker/compose,Go,13,Define and run multi-container applications with Docker,4771,28737,https://avatars.githubusercontent.com/u/5429470?v=4
+6247705,testify,stretchr/testify,Go,9,A toolkit with common assertions and mocks that plays nicely with the standard library,1424,19081,https://avatars.githubusercontent.com/u/1841476?v=4
+48109239,cilium,cilium/cilium,Go,12,"eBPF-based Networking, Security, and Observability",2070,14513,https://avatars.githubusercontent.com/u/21054566?v=4
+8966356,packer,hashicorp/packer,Go,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3291,14270,https://avatars.githubusercontent.com/u/761456?v=4
+36653430,nomad,hashicorp/nomad,Go,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1740,13263,https://avatars.githubusercontent.com/u/761456?v=4
+33258973,telegraf,influxdata/telegraf,Go,7,The plugin-driven server agent for collecting & reporting metrics.,5239,12616,https://avatars.githubusercontent.com/u/5713248?v=4
+16554739,beats,elastic/beats,Go,1,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4695,11534,https://avatars.githubusercontent.com/u/6764390?v=4
+93928882,swag,swaggo/swag,Go,10,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1003,7753,https://avatars.githubusercontent.com/u/29616670?v=4
+244694886,nightingale,ccfos/nightingale,Go,5,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",1001,5894,https://avatars.githubusercontent.com/u/96813578?v=4
+203927039,go-gin-api,xinliangnote/go-gin-api,Go,10,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,865,4327,https://avatars.githubusercontent.com/u/52913645?u=efbe9eecfd02f19af5ca7dbf809196e52308bfae&v=4
+440752086,coder,coder/coder,Go,9,A tool that provisions remote development environments via Terraform,266,3694,https://avatars.githubusercontent.com/u/95932066?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,4,OpenTelemetry Go API and SDK,809,3647,https://avatars.githubusercontent.com/u/49998002?v=4
+84610043,aws-load-balancer-controller,kubernetes-sigs/aws-load-balancer-controller,Go,4,A Kubernetes controller for Elastic Load Balancers,1191,3259,https://avatars.githubusercontent.com/u/36015203?v=4
+154894457,gatekeeper,open-policy-agent/gatekeeper,Go,9,Gatekeeper - Policy Controller for Kubernetes,649,2951,https://avatars.githubusercontent.com/u/16468693?v=4
+385634291,mimir,grafana/mimir,Go,73,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",271,2925,https://avatars.githubusercontent.com/u/7195757?v=4
+94831761,fabric-samples,hyperledger/fabric-samples,Go,3,Samples for Hyperledger Fabric,3080,2433,https://avatars.githubusercontent.com/u/7657900?v=4
+594749373,REALITY,XTLS/REALITY,Go,102,THE NEXT FUTURE,43,1043,https://avatars.githubusercontent.com/u/71564206?v=4
+288482469,go-gpt3,sashabaranov/go-gpt3,Go,97,"OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go",158,1017,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+518708142,kwok,kubernetes-sigs/kwok,Go,47,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.,65,753,https://avatars.githubusercontent.com/u/36015203?v=4
+576072728,chatgpt-dingtalk,eryajf/chatgpt-dingtalk,Go,29,ChatGPT机器人在钉钉群聊中交互,144,732,https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4
+585235597,weaver,ServiceWeaver/weaver,Go,321,Programming framework for writing and deploying cloud applications.,16,701,https://avatars.githubusercontent.com/u/121959995?v=4
+599976443,chatgpt-web,869413421/chatgpt-web,Go,331,基于ChatGPT3.5 API实现的私有化web程序,115,562,https://avatars.githubusercontent.com/u/34049702?u=983a6b6ce711a720031bd720cca735a1c082b134&v=4
+598539671,feishu-chatGpt,Leizhenpeng/feishu-chatGpt,Go,24,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,73,199,https://avatars.githubusercontent.com/u/50035229?u=e01453b5da5dc70096f1ad19777f51710f67fe62&v=4
+602806555,chatgpt-for-chatbot-feishu,go-zoox/chatgpt-for-chatbot-feishu,Go,20,快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理,19,160,https://avatars.githubusercontent.com/u/98270636?v=4
