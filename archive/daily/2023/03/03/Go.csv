@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8404,36357,https://avatars.githubusercontent.com/u/761456?v=4
+17728164,terraform,hashicorp/terraform,Go,15,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8405,36358,https://avatars.githubusercontent.com/u/761456?v=4
 15045751,compose,docker/compose,Go,17,Define and run multi-container applications with Docker,4769,28743,https://avatars.githubusercontent.com/u/5429470?v=4
-6247705,testify,stretchr/testify,Go,7,A toolkit with common assertions and mocks that plays nicely with the standard library,1424,19084,https://avatars.githubusercontent.com/u/1841476?v=4
+6247705,testify,stretchr/testify,Go,9,A toolkit with common assertions and mocks that plays nicely with the standard library,1424,19086,https://avatars.githubusercontent.com/u/1841476?v=4
 48109239,cilium,cilium/cilium,Go,16,"eBPF-based Networking, Security, and Observability",2073,14524,https://avatars.githubusercontent.com/u/21054566?v=4
-8966356,packer,hashicorp/packer,Go,2,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3291,14271,https://avatars.githubusercontent.com/u/761456?v=4
-36653430,nomad,hashicorp/nomad,Go,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1740,13266,https://avatars.githubusercontent.com/u/761456?v=4
-33258973,telegraf,influxdata/telegraf,Go,4,The plugin-driven server agent for collecting & reporting metrics.,5239,12616,https://avatars.githubusercontent.com/u/5713248?v=4
-16554739,beats,elastic/beats,Go,3,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4695,11537,https://avatars.githubusercontent.com/u/6764390?v=4
+8966356,packer,hashicorp/packer,Go,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3291,14272,https://avatars.githubusercontent.com/u/761456?v=4
+36653430,nomad,hashicorp/nomad,Go,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1740,13267,https://avatars.githubusercontent.com/u/761456?v=4
+33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5239,12617,https://avatars.githubusercontent.com/u/5713248?v=4
+16554739,beats,elastic/beats,Go,3,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4694,11537,https://avatars.githubusercontent.com/u/6764390?v=4
 93928882,swag,swaggo/swag,Go,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1003,7756,https://avatars.githubusercontent.com/u/29616670?v=4
 244694886,nightingale,ccfos/nightingale,Go,5,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",1001,5896,https://avatars.githubusercontent.com/u/96813578?v=4
 203927039,go-gin-api,xinliangnote/go-gin-api,Go,16,基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。,866,4334,https://avatars.githubusercontent.com/u/52913645?u=efbe9eecfd02f19af5ca7dbf809196e52308bfae&v=4
-440752086,coder,coder/coder,Go,12,A tool that provisions remote development environments via Terraform,266,3703,https://avatars.githubusercontent.com/u/95932066?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,4,OpenTelemetry Go API and SDK,808,3649,https://avatars.githubusercontent.com/u/49998002?v=4
+440752086,coder,coder/coder,Go,13,A tool that provisions remote development environments via Terraform,266,3704,https://avatars.githubusercontent.com/u/95932066?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,3,OpenTelemetry Go API and SDK,808,3649,https://avatars.githubusercontent.com/u/49998002?v=4
 84610043,aws-load-balancer-controller,kubernetes-sigs/aws-load-balancer-controller,Go,3,A Kubernetes controller for Elastic Load Balancers,1191,3259,https://avatars.githubusercontent.com/u/36015203?v=4
 154894457,gatekeeper,open-policy-agent/gatekeeper,Go,6,Gatekeeper - Policy Controller for Kubernetes,649,2953,https://avatars.githubusercontent.com/u/16468693?v=4
-385634291,mimir,grafana/mimir,Go,45,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",272,2929,https://avatars.githubusercontent.com/u/7195757?v=4
+385634291,mimir,grafana/mimir,Go,41,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",272,2929,https://avatars.githubusercontent.com/u/7195757?v=4
 94831761,fabric-samples,hyperledger/fabric-samples,Go,3,Samples for Hyperledger Fabric,3080,2434,https://avatars.githubusercontent.com/u/7657900?v=4
-594749373,REALITY,XTLS/REALITY,Go,106,THE NEXT FUTURE,43,1055,https://avatars.githubusercontent.com/u/71564206?v=4
-288482469,go-gpt3,sashabaranov/go-gpt3,Go,108,"OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go",158,1054,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-585235597,weaver,ServiceWeaver/weaver,Go,351,Programming framework for writing and deploying cloud applications.,21,880,https://avatars.githubusercontent.com/u/121959995?v=4
-518708142,kwok,kubernetes-sigs/kwok,Go,40,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.,66,768,https://avatars.githubusercontent.com/u/36015203?v=4
+594749373,REALITY,XTLS/REALITY,Go,105,THE NEXT FUTURE,43,1055,https://avatars.githubusercontent.com/u/71564206?v=4
+288482469,go-gpt3,sashabaranov/go-gpt3,Go,109,"OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go",158,1055,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+585235597,weaver,ServiceWeaver/weaver,Go,349,Programming framework for writing and deploying cloud applications.,21,896,https://avatars.githubusercontent.com/u/121959995?v=4
+518708142,kwok,kubernetes-sigs/kwok,Go,41,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.,66,770,https://avatars.githubusercontent.com/u/36015203?v=4
 576072728,chatgpt-dingtalk,eryajf/chatgpt-dingtalk,Go,22,ChatGPT机器人在钉钉群聊中交互,144,733,https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4
-599976443,chatgpt-web,869413421/chatgpt-web,Go,322,基于ChatGPT3.5 API实现的私有化web程序,126,630,https://avatars.githubusercontent.com/u/34049702?u=983a6b6ce711a720031bd720cca735a1c082b134&v=4
+599976443,chatgpt-web,869413421/chatgpt-web,Go,317,基于ChatGPT3.5 API实现的私有化web程序,127,633,https://avatars.githubusercontent.com/u/34049702?u=983a6b6ce711a720031bd720cca735a1c082b134&v=4
 598539671,feishu-chatGpt,Leizhenpeng/feishu-chatGpt,Go,27,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,73,204,https://avatars.githubusercontent.com/u/50035229?u=e01453b5da5dc70096f1ad19777f51710f67fe62&v=4
 602806555,chatgpt-for-chatbot-feishu,go-zoox/chatgpt-for-chatbot-feishu,Go,10,快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理,19,160,https://avatars.githubusercontent.com/u/98270636?v=4
