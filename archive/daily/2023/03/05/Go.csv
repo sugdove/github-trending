@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 133251103,dive,wagoodman/dive,Go,14,A tool for exploring each layer in a docker image,1450,35941,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
-192632000,dapr,dapr/dapr,Go,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1632,20623,https://avatars.githubusercontent.com/u/51932459?v=4
-129717717,loki,grafana/loki,Go,4,"Like Prometheus, but for logs.",2584,18458,https://avatars.githubusercontent.com/u/7195757?v=4
-27729907,grpc-go,grpc/grpc-go,Go,8,The Go language implementation of gRPC. HTTP/2 based RPC,3917,17671,https://avatars.githubusercontent.com/u/7802525?v=4
-48109239,cilium,cilium/cilium,Go,7,"eBPF-based Networking, Security, and Observability",2073,14533,https://avatars.githubusercontent.com/u/21054566?v=4
+192632000,dapr,dapr/dapr,Go,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1632,20624,https://avatars.githubusercontent.com/u/51932459?v=4
+129717717,loki,grafana/loki,Go,3,"Like Prometheus, but for logs.",2584,18459,https://avatars.githubusercontent.com/u/7195757?v=4
+27729907,grpc-go,grpc/grpc-go,Go,12,The Go language implementation of gRPC. HTTP/2 based RPC,3919,17677,https://avatars.githubusercontent.com/u/7802525?v=4
+48109239,cilium,cilium/cilium,Go,6,"eBPF-based Networking, Security, and Observability",2071,14534,https://avatars.githubusercontent.com/u/21054566?v=4
 87617508,casbin,casbin/casbin,Go,8,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1520,13912,https://avatars.githubusercontent.com/u/27810343?v=4
-36653430,nomad,hashicorp/nomad,Go,2,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1742,13269,https://avatars.githubusercontent.com/u/761456?v=4
-109162639,thanos,thanos-io/thanos,Go,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1815,11502,https://avatars.githubusercontent.com/u/49725059?v=4
-281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,15,cqhttp的golang实现，轻量、原生跨平台.,1240,7196,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
-9120526,pgx,jackc/pgx,Go,13,PostgreSQL driver and toolkit for Go,635,6778,https://avatars.githubusercontent.com/u/94130?v=4
-80134675,buildah,containers/buildah,Go,3,A tool that facilitates building OCI images.,684,6050,https://avatars.githubusercontent.com/u/5874934?v=4
+36653430,nomad,hashicorp/nomad,Go,3,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1742,13270,https://avatars.githubusercontent.com/u/761456?v=4
+109162639,thanos,thanos-io/thanos,Go,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1815,11504,https://avatars.githubusercontent.com/u/49725059?v=4
+281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,16,cqhttp的golang实现，轻量、原生跨平台.,1240,7199,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
+9120526,pgx,jackc/pgx,Go,11,PostgreSQL driver and toolkit for Go,635,6778,https://avatars.githubusercontent.com/u/94130?v=4
+80134675,buildah,containers/buildah,Go,3,A tool that facilitates building OCI images.,684,6049,https://avatars.githubusercontent.com/u/5874934?v=4
 11452538,alertmanager,prometheus/alertmanager,Go,1,Prometheus Alertmanager,1943,5531,https://avatars.githubusercontent.com/u/3380462?v=4
-94702367,pdfcpu,pdfcpu/pdfcpu,Go,26,A PDF processor written in Go.,330,4562,https://avatars.githubusercontent.com/u/53127365?v=4
-154894457,gatekeeper,open-policy-agent/gatekeeper,Go,3,Gatekeeper - Policy Controller for Kubernetes,649,2957,https://avatars.githubusercontent.com/u/16468693?v=4
+94702367,pdfcpu,pdfcpu/pdfcpu,Go,27,A PDF processor written in Go.,330,4565,https://avatars.githubusercontent.com/u/53127365?v=4
+154894457,gatekeeper,open-policy-agent/gatekeeper,Go,2,Gatekeeper - Policy Controller for Kubernetes,650,2957,https://avatars.githubusercontent.com/u/16468693?v=4
 385634291,mimir,grafana/mimir,Go,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",272,2931,https://avatars.githubusercontent.com/u/7195757?v=4
-585235597,weaver,ServiceWeaver/weaver,Go,267,Programming framework for writing and deploying cloud applications.,34,1256,https://avatars.githubusercontent.com/u/121959995?v=4
-288482469,go-openai,sashabaranov/go-openai,Go,79,"OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go",171,1175,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-518708142,kwok,kubernetes-sigs/kwok,Go,19,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.,68,791,https://avatars.githubusercontent.com/u/36015203?v=4
-599976443,chatgpt-web,869413421/chatgpt-web,Go,102,基于ChatGPT3.5 API实现的私有化web程序,150,778,https://avatars.githubusercontent.com/u/34049702?u=983a6b6ce711a720031bd720cca735a1c082b134&v=4
-576072728,chatgpt-dingtalk,eryajf/chatgpt-dingtalk,Go,13,ChatGPT机器人在钉钉群聊中交互,145,748,https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4
-575237853,wechatbot,djun/wechatbot,Go,5,为个人微信接入ChatGPT,676,523,https://avatars.githubusercontent.com/u/727447?v=4
-602959740,GoWxDump,SpenserCai/GoWxDump,Go,18,SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等),37,339,https://avatars.githubusercontent.com/u/25168945?u=b339e042b92fd25e3d63e7a08ae8ff6096ce96ef&v=4
-574347022,chat-gpt-ppt,williamfzc/chat-gpt-ppt,Go,22,"Use ChatGPT to generate PPT automatically, all in one single file.",32,239,https://avatars.githubusercontent.com/u/13421694?u=b8d1258e827b3ebbcb9452303f5d5ec2fd935624&v=4
-606223247,openai-go,rakyll/openai-go,Go,25,Go client libraries for OpenAI,10,226,https://avatars.githubusercontent.com/u/108380?u=54ccb20bf82956db1894ff94988743da95631fa1&v=4
-598539671,feishu-chatGpt,Leizhenpeng/feishu-chatGpt,Go,15,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,76,222,https://avatars.githubusercontent.com/u/50035229?u=e01453b5da5dc70096f1ad19777f51710f67fe62&v=4
+585235597,weaver,ServiceWeaver/weaver,Go,268,Programming framework for writing and deploying cloud applications.,37,1296,https://avatars.githubusercontent.com/u/121959995?v=4
+288482469,go-openai,sashabaranov/go-openai,Go,75,"OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go",172,1181,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+599976443,chatgpt-web,869413421/chatgpt-web,Go,106,基于ChatGPT3.5 API实现的私有化web程序,152,794,https://avatars.githubusercontent.com/u/34049702?u=983a6b6ce711a720031bd720cca735a1c082b134&v=4
+518708142,kwok,kubernetes-sigs/kwok,Go,16,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.,68,792,https://avatars.githubusercontent.com/u/36015203?v=4
+576072728,chatgpt-dingtalk,eryajf/chatgpt-dingtalk,Go,14,ChatGPT机器人在钉钉群聊中交互,145,750,https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4
+575237853,wechatbot,djun/wechatbot,Go,5,为个人微信接入ChatGPT,677,524,https://avatars.githubusercontent.com/u/727447?v=4
+602959740,GoWxDump,SpenserCai/GoWxDump,Go,18,SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等),37,344,https://avatars.githubusercontent.com/u/25168945?u=b339e042b92fd25e3d63e7a08ae8ff6096ce96ef&v=4
+574347022,chat-gpt-ppt,williamfzc/chat-gpt-ppt,Go,27,"Use ChatGPT to generate PPT automatically, all in one single file.",32,244,https://avatars.githubusercontent.com/u/13421694?u=b8d1258e827b3ebbcb9452303f5d5ec2fd935624&v=4
+606223247,openai-go,rakyll/openai-go,Go,20,Go client libraries for OpenAI,10,226,https://avatars.githubusercontent.com/u/108380?u=54ccb20bf82956db1894ff94988743da95631fa1&v=4
+598539671,feishu-chatGpt,Leizhenpeng/feishu-chatGpt,Go,14,Feishu ChatGpt 在飞书上与ChatGPT随时对话~,77,224,https://avatars.githubusercontent.com/u/50035229?u=e01453b5da5dc70096f1ad19777f51710f67fe62&v=4
