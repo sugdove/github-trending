@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 13624859,websocket,gorilla/websocket,Go,12,"A fast, well-tested and widely used WebSocket implementation for Go.",3244,18888,https://avatars.githubusercontent.com/u/489566?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,14,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1936,16788,https://avatars.githubusercontent.com/u/11985425?v=4
-5179099,go-redis,redis/go-redis,Go,15,Type-safe Redis client for Golang,2015,16739,https://avatars.githubusercontent.com/u/1529926?v=4
-72477752,pulumi,pulumi/pulumi,Go,21,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",862,15318,https://avatars.githubusercontent.com/u/21992475?v=4
-208728772,milvus,milvus-io/milvus,Go,18,Vector database for scalable similarity search and AI applications.,1959,15283,https://avatars.githubusercontent.com/u/51735404?v=4
-434218673,zincsearch,zinclabs/zincsearch,Go,89,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",622,14356,https://avatars.githubusercontent.com/u/95867656?v=4
+5179099,go-redis,redis/go-redis,Go,14,Type-safe Redis client for Golang,2015,16738,https://avatars.githubusercontent.com/u/1529926?v=4
+72477752,pulumi,pulumi/pulumi,Go,21,"Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",862,15319,https://avatars.githubusercontent.com/u/21992475?v=4
+208728772,milvus,milvus-io/milvus,Go,17,Vector database for scalable similarity search and AI applications.,1959,15283,https://avatars.githubusercontent.com/u/51735404?v=4
+434218673,zincsearch,zinclabs/zincsearch,Go,94,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",622,14358,https://avatars.githubusercontent.com/u/95867656?v=4
 44350607,dashboard,kubernetes/dashboard,Go,7,General-purpose web UI for Kubernetes clusters,3897,12320,https://avatars.githubusercontent.com/u/13629408?v=4
-75135036,go,json-iterator/go,Go,19,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",962,11929,https://avatars.githubusercontent.com/u/24260074?v=4
+75135036,go,json-iterator/go,Go,19,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",962,11930,https://avatars.githubusercontent.com/u/24260074?v=4
 118105436,migrate,golang-migrate/migrate,Go,9,Database migrations. CLI and Golang library.,1129,10979,https://avatars.githubusercontent.com/u/35595841?v=4
 11206255,sarama,Shopify/sarama,Go,5,Sarama is a Go library for Apache Kafka.,1629,9748,https://avatars.githubusercontent.com/u/8085?v=4
 184490584,terraformer,GoogleCloudPlatform/terraformer,Go,7,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1360,9718,https://avatars.githubusercontent.com/u/2810941?v=4
 18906266,gopsutil,shirou/gopsutil,Go,7,psutil for golang,1434,8794,https://avatars.githubusercontent.com/u/177213?u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4
 9524057,node_exporter,prometheus/node_exporter,Go,10,Exporter for machine metrics,2039,8578,https://avatars.githubusercontent.com/u/3380462?v=4
-43225113,yq,mikefarah/yq,Go,12,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",438,8117,https://avatars.githubusercontent.com/u/1151925?v=4
+43225113,yq,mikefarah/yq,Go,14,"yq is a portable command-line YAML, JSON, XML, CSV and properties processor",438,8117,https://avatars.githubusercontent.com/u/1151925?v=4
 93928882,swag,swaggo/swag,Go,10,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1007,7800,https://avatars.githubusercontent.com/u/29616670?v=4
-66509131,client-go,kubernetes/client-go,Go,7,Go client for Kubernetes.,2677,7413,https://avatars.githubusercontent.com/u/13629408?v=4
-244694886,nightingale,ccfos/nightingale,Go,7,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",1004,5922,https://avatars.githubusercontent.com/u/96813578?v=4
-206213815,chaos-mesh,chaos-mesh/chaos-mesh,Go,4,A Chaos Engineering Platform for Kubernetes.,697,5551,https://avatars.githubusercontent.com/u/59082378?v=4
-92132038,metrics-server,kubernetes-sigs/metrics-server,Go,3,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,1550,4555,https://avatars.githubusercontent.com/u/36015203?v=4
+66509131,client-go,kubernetes/client-go,Go,4,Go client for Kubernetes.,2677,7413,https://avatars.githubusercontent.com/u/13629408?v=4
+244694886,nightingale,ccfos/nightingale,Go,8,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",1004,5922,https://avatars.githubusercontent.com/u/96813578?v=4
+206213815,chaos-mesh,chaos-mesh/chaos-mesh,Go,3,A Chaos Engineering Platform for Kubernetes.,697,5551,https://avatars.githubusercontent.com/u/59082378?v=4
+92132038,metrics-server,kubernetes-sigs/metrics-server,Go,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,1550,4555,https://avatars.githubusercontent.com/u/36015203?v=4
 5425992,nats.go,nats-io/nats.go,Go,2,"Golang client for NATS, the cloud native messaging system.",588,4411,https://avatars.githubusercontent.com/u/10203055?v=4
-509091576,sing-box,SagerNet/sing-box,Go,34,The universal proxy platform,326,2571,https://avatars.githubusercontent.com/u/83217677?v=4
+509091576,sing-box,SagerNet/sing-box,Go,25,The universal proxy platform,326,2572,https://avatars.githubusercontent.com/u/83217677?v=4
 474521466,helmfile,helmfile/helmfile,Go,11,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",124,1720,https://avatars.githubusercontent.com/u/83191469?v=4
 196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,2,Contrib repository for the OpenTelemetry Collector,1309,1533,https://avatars.githubusercontent.com/u/49998002?v=4
-559577091,steam-deck-utilities,CryoByte33/steam-deck-utilities,Go,11,A utility to improve performance and help manage storage on Steam Deck.,42,1418,https://avatars.githubusercontent.com/u/11524686?u=eb222d0f53475770c5d864f9bcfb999d5b182cf8&v=4
-587597112,cloudlens,one2nc/cloudlens,Go,15,k9s like CLI for AWS,10,170,https://avatars.githubusercontent.com/u/57675001?v=4
+559577091,steam-deck-utilities,CryoByte33/steam-deck-utilities,Go,10,A utility to improve performance and help manage storage on Steam Deck.,42,1418,https://avatars.githubusercontent.com/u/11524686?u=eb222d0f53475770c5d864f9bcfb999d5b182cf8&v=4
+587597112,cloudlens,one2nc/cloudlens,Go,16,k9s like CLI for AWS,10,170,https://avatars.githubusercontent.com/u/57675001?v=4
