@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-151834062,advanced-java,doocs/advanced-java,Java,40,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,18142,69067,https://avatars.githubusercontent.com/u/43716716?v=4
-1148753,spring-framework,spring-projects/spring-framework,Java,13,Spring Framework,35707,51048,https://avatars.githubusercontent.com/u/317776?v=4
-4710920,dubbo,apache/dubbo,Java,12,"Apache Dubbo is a high-performance, java based, open source RPC framework.",25703,38536,https://avatars.githubusercontent.com/u/47359?v=4
-7587038,canal,alibaba/canal,Java,21,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,7150,25226,https://avatars.githubusercontent.com/u/1961952?v=4
-6766558,Hystrix,Netflix/Hystrix,Java,4,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",4683,23252,https://avatars.githubusercontent.com/u/913567?v=4
+151834062,advanced-java,doocs/advanced-java,Java,33,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,18143,69069,https://avatars.githubusercontent.com/u/43716716?v=4
+1148753,spring-framework,spring-projects/spring-framework,Java,11,Spring Framework,35711,51050,https://avatars.githubusercontent.com/u/317776?v=4
+4710920,dubbo,apache/dubbo,Java,11,"Apache Dubbo is a high-performance, java based, open source RPC framework.",25704,38539,https://avatars.githubusercontent.com/u/47359?v=4
+7587038,canal,alibaba/canal,Java,20,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,7151,25226,https://avatars.githubusercontent.com/u/1961952?v=4
+6766558,Hystrix,Netflix/Hystrix,Java,5,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",4683,23252,https://avatars.githubusercontent.com/u/913567?v=4
 49876476,shardingsphere,apache/shardingsphere,Java,6,"Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more",6222,18077,https://avatars.githubusercontent.com/u/47359?v=4
-65987043,mybatis-plus,baomidou/mybatis-plus,Java,10,An powerful enhanced toolkit of MyBatis for simplify development,3853,14162,https://avatars.githubusercontent.com/u/19258107?v=4
-118497841,jib,GoogleContainerTools/jib,Java,3,🏗 Build container images for your Java applications.,1359,12597,https://avatars.githubusercontent.com/u/38444003?v=4
-62117812,pulsar,apache/pulsar,Java,7,Apache Pulsar - distributed pub-sub messaging system,3232,12401,https://avatars.githubusercontent.com/u/47359?v=4
-19257422,questdb,questdb/questdb,Java,8,An open source time-series database for fast ingest and SQL queries,639,10243,https://avatars.githubusercontent.com/u/52297642?v=4
-1222504,sonarqube,SonarSource/sonarqube,Java,9,Continuous Inspection,1794,7590,https://avatars.githubusercontent.com/u/545988?v=4
+65987043,mybatis-plus,baomidou/mybatis-plus,Java,11,An powerful enhanced toolkit of MyBatis for simplify development,3853,14163,https://avatars.githubusercontent.com/u/19258107?v=4
+118497841,jib,GoogleContainerTools/jib,Java,4,🏗 Build container images for your Java applications.,1361,12598,https://avatars.githubusercontent.com/u/38444003?v=4
+62117812,pulsar,apache/pulsar,Java,13,Apache Pulsar - distributed pub-sub messaging system,3232,12404,https://avatars.githubusercontent.com/u/47359?v=4
+19257422,questdb,questdb/questdb,Java,4,An open source time-series database for fast ingest and SQL queries,639,10243,https://avatars.githubusercontent.com/u/52297642?v=4
+1222504,sonarqube,SonarSource/sonarqube,Java,7,Continuous Inspection,1794,7590,https://avatars.githubusercontent.com/u/545988?v=4
 10873724,jsonschema2pojo,joelittlejohn/jsonschema2pojo,Java,0,"Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc",1601,5941,https://avatars.githubusercontent.com/u/686384?u=f98aea7ba86121be72d848a59ad116f496c7a6d9&v=4
-206905065,springcloud-learning,macrozheng/springcloud-learning,Java,1,一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。,2605,5678,https://avatars.githubusercontent.com/u/15903809?u=c76ae8e89e30a5aeeaf667fbcb749efa73fa28b3&v=4
-2544305,wiremock,wiremock/wiremock,Java,4,A tool for mocking HTTP services,1315,5420,https://avatars.githubusercontent.com/u/21368587?v=4
-247659028,PowerJob,PowerJob/PowerJob,Java,9,Enterprise job scheduling middleware with distributed computing ability.,888,5099,https://avatars.githubusercontent.com/u/69085084?v=4
-58194180,strimzi-kafka-operator,strimzi/strimzi-kafka-operator,Java,1,Apache Kafka® running on Kubernetes,1073,3709,https://avatars.githubusercontent.com/u/34767428?v=4
-27911088,nifi,apache/nifi,Java,3,Apache NiFi,2422,3667,https://avatars.githubusercontent.com/u/47359?v=4
-90675730,java,kubernetes-client/java,Java,1,Official Java client library for kubernetes,1360,2794,https://avatars.githubusercontent.com/u/26615988?v=4
-482425877,fastjson2,alibaba/fastjson2,Java,5,FASTJSON2 is a Java JSON  library with excellent performance.,277,2513,https://avatars.githubusercontent.com/u/1961952?v=4
-196475719,springdoc-openapi,springdoc/springdoc-openapi,Java,2,Library for OpenAPI 3 with spring-boot,372,2424,https://avatars.githubusercontent.com/u/52804136?v=4
+206905065,springcloud-learning,macrozheng/springcloud-learning,Java,0,一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。,2605,5678,https://avatars.githubusercontent.com/u/15903809?u=c76ae8e89e30a5aeeaf667fbcb749efa73fa28b3&v=4
+2544305,wiremock,wiremock/wiremock,Java,3,A tool for mocking HTTP services,1315,5420,https://avatars.githubusercontent.com/u/21368587?v=4
+247659028,PowerJob,PowerJob/PowerJob,Java,7,Enterprise job scheduling middleware with distributed computing ability.,889,5100,https://avatars.githubusercontent.com/u/69085084?v=4
+58194180,strimzi-kafka-operator,strimzi/strimzi-kafka-operator,Java,2,Apache Kafka® running on Kubernetes,1073,3710,https://avatars.githubusercontent.com/u/34767428?v=4
+27911088,nifi,apache/nifi,Java,4,Apache NiFi,2422,3667,https://avatars.githubusercontent.com/u/47359?v=4
+90675730,java,kubernetes-client/java,Java,3,Official Java client library for kubernetes,1360,2794,https://avatars.githubusercontent.com/u/26615988?v=4
+482425877,fastjson2,alibaba/fastjson2,Java,4,FASTJSON2 is a Java JSON  library with excellent performance.,277,2513,https://avatars.githubusercontent.com/u/1961952?v=4
+196475719,springdoc-openapi,springdoc/springdoc-openapi,Java,3,Library for OpenAPI 3 with spring-boot,372,2424,https://avatars.githubusercontent.com/u/52804136?v=4
 210933087,opentelemetry-java-instrumentation,open-telemetry/opentelemetry-java-instrumentation,Java,4,OpenTelemetry auto-instrumentation and instrumentation libraries for Java,539,1228,https://avatars.githubusercontent.com/u/49998002?v=4
-387801795,AndroidIDE,AndroidIDEOfficial/AndroidIDE,Java,4,AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.,126,793,https://avatars.githubusercontent.com/u/113872686?v=4
-612251817,pinduoduo_backdoor_unpacker,davinci1012/pinduoduo_backdoor_unpacker,Java,168,Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo,270,593,https://avatars.githubusercontent.com/u/127511527?v=4
-607687340,L-T-Edutech-Activities,akshatjain1199/L-T-Edutech-Activities,Java,3,All L & T Edutech Activities Day Wise,11,10,https://avatars.githubusercontent.com/u/57901311?v=4
+387801795,AndroidIDE,AndroidIDEOfficial/AndroidIDE,Java,3,AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.,125,794,https://avatars.githubusercontent.com/u/113872686?v=4
+612251817,pinduoduo_backdoor_unpacker,davinci1012/pinduoduo_backdoor_unpacker,Java,171,Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo,272,606,https://avatars.githubusercontent.com/u/127511527?v=4
+607687340,L-T-Edutech-Activities,akshatjain1199/L-T-Edutech-Activities,Java,4,All L & T Edutech Activities Day Wise,11,11,https://avatars.githubusercontent.com/u/57901311?v=4
 603219916,lab7,ucsd-cse15l-w23/lab7,Java,0,,527,0,https://avatars.githubusercontent.com/u/118083725?v=4
