@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-65600975,pytorch,pytorch/pytorch,C++,43,Tensors and Dynamic neural networks in Python with strong GPU acceleration,17686,63737,https://avatars.githubusercontent.com/u/21003710?v=4
-22067521,imgui,ocornut/imgui,C++,41,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,8112,46020,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
-27729880,grpc,grpc/grpc,C++,16,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",9816,37312,https://avatars.githubusercontent.com/u/7802525?v=4
-39840932,googletest,google/googletest,C++,13,GoogleTest - Google Testing and Mocking Framework,9165,29218,https://avatars.githubusercontent.com/u/1342004?v=4
-6934395,rocksdb,facebook/rocksdb,C++,9,"A library that provides an embeddable, persistent key-value store for fast storage.",5645,24709,https://avatars.githubusercontent.com/u/69631?v=4
-191820100,mediapipe,google/mediapipe,C++,25,"Cross-platform, customizable ML solutions for live and streaming media.",4377,20899,https://avatars.githubusercontent.com/u/1342004?v=4
-81227005,faiss,facebookresearch/faiss,C++,13,A library for efficient similarity search and clustering of dense vectors.,2832,19675,https://avatars.githubusercontent.com/u/16943930?v=4
-26038648,spdlog,gabime/spdlog,C++,14,Fast C++ logging library.,3627,17217,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-95879426,ncnn,Tencent/ncnn,C++,13,ncnn is a high-performance neural network inference framework optimized for the mobile platform,3765,16625,https://avatars.githubusercontent.com/u/18461506?v=4
+65600975,pytorch,pytorch/pytorch,C++,53,Tensors and Dynamic neural networks in Python with strong GPU acceleration,17690,63745,https://avatars.githubusercontent.com/u/21003710?v=4
+22067521,imgui,ocornut/imgui,C++,43,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,8114,46025,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
+27729880,grpc,grpc/grpc,C++,16,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",9816,37315,https://avatars.githubusercontent.com/u/7802525?v=4
+39840932,googletest,google/googletest,C++,13,GoogleTest - Google Testing and Mocking Framework,9166,29218,https://avatars.githubusercontent.com/u/1342004?v=4
+6934395,rocksdb,facebook/rocksdb,C++,8,"A library that provides an embeddable, persistent key-value store for fast storage.",5645,24710,https://avatars.githubusercontent.com/u/69631?v=4
+191820100,mediapipe,google/mediapipe,C++,23,"Cross-platform, customizable ML solutions for live and streaming media.",4378,20903,https://avatars.githubusercontent.com/u/1342004?v=4
+81227005,faiss,facebookresearch/faiss,C++,14,A library for efficient similarity search and clustering of dense vectors.,2832,19677,https://avatars.githubusercontent.com/u/16943930?v=4
+26038648,spdlog,gabime/spdlog,C++,16,Fast C++ logging library.,3627,17220,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+95879426,ncnn,Tencent/ncnn,C++,11,ncnn is a high-performance neural network inference framework optimized for the mobile platform,3765,16626,https://avatars.githubusercontent.com/u/18461506?v=4
 7056202,fmt,fmtlib/fmt,C++,4,A modern formatting library,1984,16348,https://avatars.githubusercontent.com/u/7280830?v=4
-102343794,brpc,apache/brpc,C++,5,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3637,14656,https://avatars.githubusercontent.com/u/47359?v=4
-51905353,arrow,apache/arrow,C++,5,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,2783,11304,https://avatars.githubusercontent.com/u/47359?v=4
-310611,thrift,apache/thrift,C++,6,Apache Thrift,3921,9601,https://avatars.githubusercontent.com/u/47359?v=4
-28449431,scylladb,scylladb/scylladb,C++,23,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",993,9405,https://avatars.githubusercontent.com/u/14364730?v=4
-4454793,MuseScore,musescore/MuseScore,C++,5,"MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",2151,9296,https://avatars.githubusercontent.com/u/380563?v=4
-8162615,pcl,PointCloudLibrary/pcl,C++,7,Point Cloud Library (PCL),4419,8263,https://avatars.githubusercontent.com/u/2059451?v=4
-75413130,Open3D,isl-org/Open3D,C++,16,Open3D: A Modern Library for 3D Data Processing,1906,8248,https://avatars.githubusercontent.com/u/23507030?v=4
-410989014,codon,exaloop/codon,C++,439,"A high-performance, zero-overhead, extensible Python compiler using LLVM",253,7292,https://avatars.githubusercontent.com/u/89494599?v=4
-23496542,triton,openai/triton,C++,32,Development repository for the Triton language and compiler,528,5734,https://avatars.githubusercontent.com/u/14957082?v=4
-58168143,USD,PixarAnimationStudios/USD,C++,6,Universal Scene Description,963,4146,https://avatars.githubusercontent.com/u/1672744?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,2,OpenVINO™ Toolkit repository,1630,4104,https://avatars.githubusercontent.com/u/55443902?v=4
-507861208,FastDeploy,PaddlePaddle/FastDeploy,C++,6,"⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.",271,1706,https://avatars.githubusercontent.com/u/23534030?v=4
-354476107,jellyfin-media-player,jellyfin/jellyfin-media-player,C++,10,Jellyfin Desktop Client based on Plex Media Player,171,1612,https://avatars.githubusercontent.com/u/45698031?v=4
-586310592,Whisper,Const-me/Whisper,C++,188,High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model,48,659,https://avatars.githubusercontent.com/u/925112?v=4
-141517321,SSD-Centerloss,BOBrown/SSD-Centerloss,C++,6,A implementation of centerloss in multi_box_loss,25,72,https://avatars.githubusercontent.com/u/18318394?u=6d2f47959adf750781a4592eac2e400cd7241d2d&v=4
+102343794,brpc,apache/brpc,C++,7,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3637,14657,https://avatars.githubusercontent.com/u/47359?v=4
+51905353,arrow,apache/arrow,C++,7,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,2784,11306,https://avatars.githubusercontent.com/u/47359?v=4
+310611,thrift,apache/thrift,C++,7,Apache Thrift,3921,9602,https://avatars.githubusercontent.com/u/47359?v=4
+28449431,scylladb,scylladb/scylladb,C++,26,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",993,9406,https://avatars.githubusercontent.com/u/14364730?v=4
+4454793,MuseScore,musescore/MuseScore,C++,5,"MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",2152,9298,https://avatars.githubusercontent.com/u/380563?v=4
+8162615,pcl,PointCloudLibrary/pcl,C++,7,Point Cloud Library (PCL),4418,8264,https://avatars.githubusercontent.com/u/2059451?v=4
+75413130,Open3D,isl-org/Open3D,C++,18,Open3D: A Modern Library for 3D Data Processing,1906,8251,https://avatars.githubusercontent.com/u/23507030?v=4
+410989014,codon,exaloop/codon,C++,437,"A high-performance, zero-overhead, extensible Python compiler using LLVM",255,7442,https://avatars.githubusercontent.com/u/89494599?v=4
+23496542,triton,openai/triton,C++,31,Development repository for the Triton language and compiler,529,5737,https://avatars.githubusercontent.com/u/14957082?v=4
+58168143,USD,PixarAnimationStudios/USD,C++,3,Universal Scene Description,964,4146,https://avatars.githubusercontent.com/u/1672744?v=4
+153097643,openvino,openvinotoolkit/openvino,C++,1,OpenVINO™ Toolkit repository,1630,4104,https://avatars.githubusercontent.com/u/55443902?v=4
+507861208,FastDeploy,PaddlePaddle/FastDeploy,C++,5,"⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.",271,1706,https://avatars.githubusercontent.com/u/23534030?v=4
+354476107,jellyfin-media-player,jellyfin/jellyfin-media-player,C++,10,Jellyfin Desktop Client based on Plex Media Player,171,1614,https://avatars.githubusercontent.com/u/45698031?v=4
+586310592,Whisper,Const-me/Whisper,C++,188,High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model,52,684,https://avatars.githubusercontent.com/u/925112?v=4
+141517321,SSD-Centerloss,BOBrown/SSD-Centerloss,C++,5,A implementation of centerloss in multi_box_loss,25,73,https://avatars.githubusercontent.com/u/18318394?u=6d2f47959adf750781a4592eac2e400cd7241d2d&v=4
