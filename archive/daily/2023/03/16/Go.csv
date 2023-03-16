@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-15452919,go-ethereum,ethereum/go-ethereum,Go,13,Official Go implementation of the Ethereum protocol,16181,41509,https://avatars.githubusercontent.com/u/6250754?v=4
-17728164,terraform,hashicorp/terraform,Go,21,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8451,36547,https://avatars.githubusercontent.com/u/761456?v=4
-14125254,consul,hashicorp/consul,Go,5,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4247,26166,https://avatars.githubusercontent.com/u/761456?v=4
-180687624,trivy,aquasecurity/trivy,Go,23,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1609,16593,https://avatars.githubusercontent.com/u/12783832?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,9,gRPC to JSON proxy generator following the gRPC HTTP spec,1951,15092,https://avatars.githubusercontent.com/u/19352526?v=4
-86733463,kubectx,ahmetb/kubectx,Go,14,Faster way to switch between clusters and namespaces in kubectl,1092,14908,https://avatars.githubusercontent.com/u/159209?u=7484858b12e4c4a7fe1351d1f0b406076805deb2&v=4
-31558937,teleport,gravitational/teleport,Go,15,"The easiest, most secure way to access infrastructure.",1440,13961,https://avatars.githubusercontent.com/u/10781132?v=4
-7877397,sqlx,jmoiron/sqlx,Go,8,general purpose extensions to golang's database/sql,1006,13418,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,13,Find credentials all over the place,1275,10642,https://avatars.githubusercontent.com/u/79229934?v=4
-113106184,linkerd2,linkerd/linkerd2,Go,4,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",1133,9419,https://avatars.githubusercontent.com/u/25301026?v=4
-27051771,protobuf,golang/protobuf,Go,2,Go support for Google's protocol buffers,1583,8972,https://avatars.githubusercontent.com/u/4314092?v=4
-27576132,aws-sdk-go,aws/aws-sdk-go,Go,5,AWS SDK for the Go programming language.,2030,8220,https://avatars.githubusercontent.com/u/2232217?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3485,7855,https://avatars.githubusercontent.com/u/66682517?v=4
-28366058,distribution,distribution/distribution,Go,10,"The toolkit to pack, ship, store, and deliver container content",2239,7357,https://avatars.githubusercontent.com/u/78096003?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2231,6165,https://avatars.githubusercontent.com/u/36015203?v=4
-106867604,cloudflared,cloudflare/cloudflared,Go,23,Cloudflare Tunnel client (formerly Argo Tunnel),531,5242,https://avatars.githubusercontent.com/u/314135?v=4
-440752086,coder,coder/coder,Go,25,A tool that provisions remote development environments via Terraform,279,3822,https://avatars.githubusercontent.com/u/95932066?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,3,OpenTelemetry Go API and SDK,818,3693,https://avatars.githubusercontent.com/u/49998002?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,2,OpenTelemetry Collector,1032,2788,https://avatars.githubusercontent.com/u/49998002?v=4
-125253663,go-containerregistry,google/go-containerregistry,Go,37,Go library and CLIs for working with container registries,423,2281,https://avatars.githubusercontent.com/u/1342004?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,4,Datadog Agent ,1028,2067,https://avatars.githubusercontent.com/u/365230?v=4
-611249232,pgrok,pgrok/pgrok,Go,108,Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding,37,1695,https://avatars.githubusercontent.com/u/127133939?v=4
-594749373,REALITY,XTLS/REALITY,Go,24,THE NEXT FUTURE,64,1268,https://avatars.githubusercontent.com/u/71564206?v=4
-598539671,feishu-chatgpt,Leizhenpeng/feishu-chatgpt,Go,35,🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀,147,633,https://avatars.githubusercontent.com/u/50035229?u=e01453b5da5dc70096f1ad19777f51710f67fe62&v=4
-609542180,CodeGPT,appleboy/CodeGPT,Go,29,A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.,3,155,https://avatars.githubusercontent.com/u/21979?u=ad742a0b34a5461d12aa79cc441e5f6ca0453122&v=4
+6838921,prometheus,prometheus/prometheus,Go,14,The Prometheus monitoring system and time series database.,7965,47197,https://avatars.githubusercontent.com/u/3380462?v=4
+31288958,vault,hashicorp/vault,Go,16,"A tool for secrets management, encryption as a service, and privileged access management",3724,27163,https://avatars.githubusercontent.com/u/761456?v=4
+50613991,harbor,goharbor/harbor,Go,18,"An open source trusted cloud native registry project that stores, signs, and scans content.",4297,19593,https://avatars.githubusercontent.com/u/40275816?v=4
+27729907,grpc-go,grpc/grpc-go,Go,4,The Go language implementation of gRPC. HTTP/2 based RPC,3932,17738,https://avatars.githubusercontent.com/u/7802525?v=4
+109145553,podman,containers/podman,Go,16,Podman: A tool for managing OCI containers and pods.,1868,17170,https://avatars.githubusercontent.com/u/5874934?v=4
+48109239,cilium,cilium/cilium,Go,17,"eBPF-based Networking, Security, and Observability",2099,14671,https://avatars.githubusercontent.com/u/21054566?v=4
+8966356,packer,hashicorp/packer,Go,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3295,14302,https://avatars.githubusercontent.com/u/761456?v=4
+44344606,chi,go-chi/chi,Go,61,"lightweight, idiomatic and composable router for building Go HTTP services",868,13616,https://avatars.githubusercontent.com/u/29575368?v=4
+33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5257,12663,https://avatars.githubusercontent.com/u/5713248?v=4
+6443435,nats-server,nats-io/nats-server,Go,8,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1204,12449,https://avatars.githubusercontent.com/u/10203055?v=4
+13021798,git-lfs,git-lfs/git-lfs,Go,6,Git extension for versioning large files,2110,11184,https://avatars.githubusercontent.com/u/20246716?v=4
+91054480,zerolog,rs/zerolog,Go,13,Zero Allocation JSON Logger,455,7793,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+193160679,sqlc,kyleconroy/sqlc,Go,13,Generate type-safe code from SQL,518,7725,https://avatars.githubusercontent.com/u/34893?u=2a72510548627c1bcb6fe6913429d876dcfa2f91&v=4
+325724738,pyroscope,grafana/pyroscope,Go,93,Continuous Profiling Platform. Debug performance issues down to a single line of code,414,7354,https://avatars.githubusercontent.com/u/7195757?v=4
+9120526,pgx,jackc/pgx,Go,5,PostgreSQL driver and toolkit for Go,637,6839,https://avatars.githubusercontent.com/u/94130?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,13,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2231,6166,https://avatars.githubusercontent.com/u/36015203?v=4
+170411418,keda,kedacore/keda,Go,6, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,754,6076,https://avatars.githubusercontent.com/u/49917779?v=4
+221849341,asynq,hibiken/asynq,Go,8,"Simple, reliable, and efficient distributed task queue in Go",399,5580,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
+230660669,rtsp-simple-server,aler9/rtsp-simple-server,Go,23,"ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX",828,5534,https://avatars.githubusercontent.com/u/46489434?u=4911ba7a1a2ed25e761d32dd756c92d76a3b3353&v=4
+306366900,casdoor,casdoor/casdoor,Go,25,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS",650,5517,https://avatars.githubusercontent.com/u/72992104?v=4
+125253663,go-containerregistry,google/go-containerregistry,Go,37,Go library and CLIs for working with container registries,423,2284,https://avatars.githubusercontent.com/u/1342004?v=4
+188836864,erigon,ledgerwatch/erigon,Go,3,Ethereum implementation on the efficiency frontier,659,2239,https://avatars.githubusercontent.com/u/29105044?v=4
+288482469,go-openai,sashabaranov/go-openai,Go,89,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",263,1935,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+612336887,nordvpn-linux,NordSecurity/nordvpn-linux,Go,19,NordVPN Linux client,9,120,https://avatars.githubusercontent.com/u/73163337?v=4
+612452553,gpt-go,hanyuancheung/gpt-go,Go,9,OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs.,7,79,https://avatars.githubusercontent.com/u/48237831?u=efa0437e75230a9b3a0dec2a97d1c637fdd5c209&v=4
