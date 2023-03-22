@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 569041,curl,curl/curl,C,49,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",5628,28890,https://avatars.githubusercontent.com/u/16928085?v=4
 1357796,emscripten,emscripten-core/emscripten,C,10,Emscripten: An LLVM-to-WebAssembly Compiler,3038,23488,https://avatars.githubusercontent.com/u/46011144?v=4
-2810292,rufus,pbatard/rufus,C,14,The Reliable USB Formatting Utility,2224,22151,https://avatars.githubusercontent.com/u/1206968?u=ed1be5451352656cffecc840d661bb793c3bad05&v=4
-13836499,raylib,raysan5/raylib,C,143,A simple and easy-to-use library to enjoy videogames programming,1466,12223,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-3299208,vlc,videolan/vlc,C,6,"VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",3365,10584,https://avatars.githubusercontent.com/u/1389585?v=4
-65899476,esp-idf,espressif/esp-idf,C,14,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6299,10188,https://avatars.githubusercontent.com/u/9460735?v=4
+2810292,rufus,pbatard/rufus,C,18,The Reliable USB Formatting Utility,2224,22151,https://avatars.githubusercontent.com/u/1206968?u=ed1be5451352656cffecc840d661bb793c3bad05&v=4
+13836499,raylib,raysan5/raylib,C,127,A simple and easy-to-use library to enjoy videogames programming,1467,12224,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
+3299208,vlc,videolan/vlc,C,7,"VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",3365,10584,https://avatars.githubusercontent.com/u/1389585?v=4
+65899476,esp-idf,espressif/esp-idf,C,13,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6299,10189,https://avatars.githubusercontent.com/u/9460735?v=4
 6376337,poco,pocoproject/poco,C,3,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",1935,6861,https://avatars.githubusercontent.com/u/201918?v=4
 49995295,how2heap,shellphish/how2heap,C,8,A repository for learning various heap exploitation techniques.,1080,6007,https://avatars.githubusercontent.com/u/12656269?v=4
 31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,5,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4691,5894,https://avatars.githubusercontent.com/u/6154722?v=4
 284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,10,Flipper Zero firmware source code,1649,5876,https://avatars.githubusercontent.com/u/57576566?v=4
-146397768,libhv,ithewei/libhv,C,6,🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.,949,5240,https://avatars.githubusercontent.com/u/26049660?u=2252b64651629ba953139d461c0fd4658ed1706e&v=4
+146397768,libhv,ithewei/libhv,C,4,🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.,949,5240,https://avatars.githubusercontent.com/u/26049660?u=2252b64651629ba953139d461c0fd4658ed1706e&v=4
 58132544,RediSearch,RediSearch/RediSearch,C,6,"A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. ",438,4205,https://avatars.githubusercontent.com/u/46899501?v=4
 128791889,haproxy,haproxy/haproxy,C,3,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),662,3553,https://avatars.githubusercontent.com/u/38220289?v=4
-127023441,cuda-samples,NVIDIA/cuda-samples,C,13,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1194,3207,https://avatars.githubusercontent.com/u/1728152?v=4
+127023441,cuda-samples,NVIDIA/cuda-samples,C,8,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1194,3207,https://avatars.githubusercontent.com/u/1728152?v=4
 473137633,tetragon,cilium/tetragon,C,2,eBPF-based Security Observability and Runtime Enforcement,181,2157,https://avatars.githubusercontent.com/u/21054566?v=4
 370679811,sigma-file-manager,aleksey-hoffman/sigma-file-manager,C,13,"""Sigma File Manager"" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.",67,1876,https://avatars.githubusercontent.com/u/61761672?u=3f1fde2999a69eafaf3600bdb46b2c7428b4f5af&v=4
 331381105,pico-examples,raspberrypi/pico-examples,C,3,,571,1840,https://avatars.githubusercontent.com/u/1294177?v=4
-576303915,KernelSU,tiann/KernelSU,C,9,A Kernel based root solution for Android,296,1810,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
-16648618,secp256k1,bitcoin-core/secp256k1,C,2,Optimized C library for EC operations on curve secp256k1,923,1702,https://avatars.githubusercontent.com/u/13464320?v=4
+576303915,KernelSU,tiann/KernelSU,C,5,A Kernel based root solution for Android,296,1810,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
+16648618,secp256k1,bitcoin-core/secp256k1,C,3,Optimized C library for EC operations on curve secp256k1,923,1702,https://avatars.githubusercontent.com/u/13464320?v=4
 14313288,pgbackrest,pgbackrest/pgbackrest,C,5,Reliable PostgreSQL Backup & Restore,161,1586,https://avatars.githubusercontent.com/u/18493692?v=4
 228103273,nuttx,apache/nuttx,C,2,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",689,1311,https://avatars.githubusercontent.com/u/47359?v=4
 505613691,Onion,OnionUI/Onion,C,18,OS overhaul for Miyoo Mini ,37,938,https://avatars.githubusercontent.com/u/109221246?v=4
 148534714,holbertonschool-low_level_programming,bdbaraban/holbertonschool-low_level_programming,C,1,Low-level programming and algorithm projects for Holberton School Year 1,494,118,https://avatars.githubusercontent.com/u/34765317?u=d816f3c4f4264466d14d18e8b755cec03b24c2ca&v=4
-440006950,Yaksha,YakshaLang/Yaksha,C,8,Yaksha Programming Language (WIP),3,92,https://avatars.githubusercontent.com/u/96683464?v=4
+440006950,Yaksha,YakshaLang/Yaksha,C,7,Yaksha Programming Language (WIP),3,93,https://avatars.githubusercontent.com/u/96683464?v=4
 525560618,mdinfo,GaryOderNichts/mdinfo,C,6,Quick and simple tool to display info about IOSU's memory devices,3,30,https://avatars.githubusercontent.com/u/12049776?u=8aa7c5286bc7af5b159445f1ed0234ee383b4128&v=4
