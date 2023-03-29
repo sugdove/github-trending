@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,117,Linux kernel source tree,47316,148757,https://avatars.githubusercontent.com/u/1024025?v=4
-246335987,Ventoy,ventoy/Ventoy,C,133,A new bootable USB solution.,3309,47195,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
-1357796,emscripten,emscripten-core/emscripten,C,5,Emscripten: An LLVM-to-WebAssembly Compiler,3045,23521,https://avatars.githubusercontent.com/u/46011144?v=4
-7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,9015,21286,https://avatars.githubusercontent.com/u/3279138?v=4
-84240850,timescaledb,timescale/timescaledb,C,12,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,782,14732,https://avatars.githubusercontent.com/u/8986001?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,420,Port of OpenAI's Whisper model in C/C++,1080,13687,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-36749153,react-native-code-push,microsoft/react-native-code-push,C,1,React Native module for CodePush,1371,8421,https://avatars.githubusercontent.com/u/6154722?v=4
-50874442,citus,citusdata/citus,C,6,Distributed PostgreSQL as an extension,554,8140,https://avatars.githubusercontent.com/u/2545424?v=4
-105944401,yugabyte-db,yugabyte/yugabyte-db,C,6,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.,904,7644,https://avatars.githubusercontent.com/u/17074854?v=4
-88327406,xmrig,xmrig/xmrig,C,9,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",3377,7471,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
-5870069,librdkafka,confluentinc/librdkafka,C,4,The Apache Kafka C/C++ library,2971,6595,https://avatars.githubusercontent.com/u/9439498?v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,18,Flipper Zero firmware source code,1692,6130,https://avatars.githubusercontent.com/u/57576566?v=4
-490465859,Flipper,UberGuidoZ/Flipper,C,24,Playground (and dump) of stuff I make or modify for the Flipper Zero,1373,5703,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
+2325298,linux,torvalds/linux,C,121,Linux kernel source tree,47316,148766,https://avatars.githubusercontent.com/u/1024025?v=4
+246335987,Ventoy,ventoy/Ventoy,C,222,A new bootable USB solution.,3310,47218,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
+7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,9015,21285,https://avatars.githubusercontent.com/u/3279138?v=4
+184909163,yabai,koekeishiya/yabai,C,31,A tiling window manager for macOS based on binary space partitioning,528,15562,https://avatars.githubusercontent.com/u/6175959?u=e07b472bc4fa5500439c2c099a4736bcfd636769&v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,410,Port of OpenAI's Whisper model in C/C++,1084,13709,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+5254557,skynet,cloudwu/skynet,C,6,A lightweight online game framework,3968,11859,https://avatars.githubusercontent.com/u/729648?v=4
+9524997,glfw,glfw/glfw,C,13,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",4204,10399,https://avatars.githubusercontent.com/u/3905364?v=4
+88327406,xmrig,xmrig/xmrig,C,7,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",3377,7472,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
+7037996,yara,VirusTotal/yara,C,7,The pattern matching swiss knife,1312,6537,https://avatars.githubusercontent.com/u/7701252?v=4
+59676171,klipper,Klipper3d/klipper,C,7,Klipper is a 3d-printer firmware,4399,6406,https://avatars.githubusercontent.com/u/90982958?v=4
+40556106,wazuh,wazuh/wazuh,C,7,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,999,5788,https://avatars.githubusercontent.com/u/13752566?v=4
+490465859,Flipper,UberGuidoZ/Flipper,C,32,Playground (and dump) of stuff I make or modify for the Flipper Zero,1374,5706,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
+673267,hiredis,redis/hiredis,C,1,Minimalistic C client for Redis >= 1.2,1746,5662,https://avatars.githubusercontent.com/u/1529926?v=4
 29933948,fluent-bit,fluent/fluent-bit,C,11,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1254,4430,https://avatars.githubusercontent.com/u/859518?v=4
-146155284,flecs,SanderMertens/flecs,C,42,A fast entity component system (ECS) for C & C++,293,3789,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,4,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",705,3542,https://avatars.githubusercontent.com/u/62360046?v=4
-32148604,inav,iNavFlight/inav,C,4,INAV: Navigation-enabled flight control software,1229,2340,https://avatars.githubusercontent.com/u/15979895?v=4
-576303915,KernelSU,tiann/KernelSU,C,21,A Kernel based root solution for Android,304,1894,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
-33237663,monero-gui,monero-project/monero-gui,C,7,"Monero: the secure, private, untraceable cryptocurrency",751,1382,https://avatars.githubusercontent.com/u/7450663?v=4
-589514195,audioFlux,libAudioFlux/audioFlux,C,191,"A library for audio and music analysis, feature extraction.",38,1202,https://avatars.githubusercontent.com/u/105165315?v=4
-618535801,Chaos-Rootkit,ZeroMemoryEx/Chaos-Rootkit,C,8,x64 ring0 Rootkit with Process Hiding and Privilege Escalation Capabilities,30,179,https://avatars.githubusercontent.com/u/60795188?u=fced03c66f5d1a3e2b8e0614661e63c1d6c226cf&v=4
-619158867,AM0N-Eye,momika233/AM0N-Eye,C,18,,71,148,https://avatars.githubusercontent.com/u/56291820?u=0e0aa33057f10e55f6ec399b11e4998522411444&v=4
-617734467,Chinese-Vicuna,Facico/Chinese-Vicuna,C,16,Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca,17,127,https://avatars.githubusercontent.com/u/56598258?u=c1dc8bbfcfe1afc9e1f7b695d9a9adff96546d61&v=4
-618678211,DumpHash,Avienma/DumpHash,C,6,一款dump hash工具配合后渗透的利用,10,65,https://avatars.githubusercontent.com/u/83112602?u=59cd267aba87ba200e398eae77715c3664b992a7&v=4
-619001935,AMON-Eye,S3N4T0R-0X0/AMON-Eye,PowerShell,3,,8,31,https://avatars.githubusercontent.com/u/121706460?u=6a6748521c443266ac2ffe7a9e234b75ee3a0c4d&v=4
+15120676,libusb,libusb/libusb,C,1,A cross-platform library to access USB devices ,1701,4275,https://avatars.githubusercontent.com/u/4439549?v=4
+27359183,GmSSL,guanzhi/GmSSL,C,4,支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱,1409,3844,https://avatars.githubusercontent.com/u/1787781?u=c71c577b7da3afe39a461344fdca316d82f91735&v=4
+146155284,flecs,SanderMertens/flecs,C,53,A fast entity component system (ECS) for C & C++,293,3792,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
+5410234,suricata,OISF/suricata,C,5,Suricata git repository maintained by the OISF,1222,3058,https://avatars.githubusercontent.com/u/2188963?v=4
+39042157,spdk,spdk/spdk,C,2,Storage Performance Development Kit,966,2351,https://avatars.githubusercontent.com/u/13323228?v=4
+50272879,pjproject,pjsip/pjproject,C,3,PJSIP project,614,1456,https://avatars.githubusercontent.com/u/6085234?v=4
+228103273,nuttx,apache/nuttx,C,1,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",694,1318,https://avatars.githubusercontent.com/u/47359?v=4
+589514195,audioFlux,libAudioFlux/audioFlux,C,260,"A library for audio and music analysis, feature extraction.",38,1225,https://avatars.githubusercontent.com/u/105165315?v=4
+505613691,Onion,OnionUI/Onion,C,8,OS overhaul for Miyoo Mini ,45,987,https://avatars.githubusercontent.com/u/109221246?v=4
+121516035,sdk-nrf,nrfconnect/sdk-nrf,C,1,nRF Connect SDK main repository,963,622,https://avatars.githubusercontent.com/u/40860733?v=4
+619158867,AM0N-Eye,momika233/AM0N-Eye,C,15,,71,150,https://avatars.githubusercontent.com/u/56291820?u=0e0aa33057f10e55f6ec399b11e4998522411444&v=4
