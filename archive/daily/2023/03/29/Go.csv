@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,23,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8479,36717,https://avatars.githubusercontent.com/u/761456?v=4
-31288958,vault,hashicorp/vault,Go,10,"A tool for secrets management, encryption as a service, and privileged access management",3744,27239,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,11,The Kubernetes Package Manager,6613,24023,https://avatars.githubusercontent.com/u/15859888?v=4
-20653934,cadvisor,google/cadvisor,Go,9,Analyzes resource usage and performance characteristics of running containers.,2209,14774,https://avatars.githubusercontent.com/u/1342004?v=4
-30711774,validator,go-playground/validator,Go,10,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1160,12779,https://avatars.githubusercontent.com/u/14768796?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,20,Declarative continuous deployment for Kubernetes.,3642,12540,https://avatars.githubusercontent.com/u/30269780?v=4
-75135036,go,json-iterator/go,Go,7,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",970,12050,https://avatars.githubusercontent.com/u/24260074?v=4
-367284699,lima,lima-vm/lima,Go,25,"Linux virtual machines, typically on macOS, for running containerd",442,11102,https://avatars.githubusercontent.com/u/88128539?v=4
-36960321,runc,opencontainers/runc,Go,11,CLI tool for spawning and running containers according to the OCI specification,1925,10142,https://avatars.githubusercontent.com/u/12563465?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,5,Automatically provision and manage TLS certificates in Kubernetes,1846,10134,https://avatars.githubusercontent.com/u/39950598?v=4
-79921099,chromedp,chromedp/chromedp,Go,3,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",707,8852,https://avatars.githubusercontent.com/u/33149672?v=4
-93928882,swag,swaggo/swag,Go,9,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1013,7906,https://avatars.githubusercontent.com/u/29616670?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,6,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3503,7898,https://avatars.githubusercontent.com/u/66682517?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,33,Code Intelligence Platform,918,7556,https://avatars.githubusercontent.com/u/3979584?v=4
-63625434,gosec,securego/gosec,Go,14,Golang security checker,530,6675,https://avatars.githubusercontent.com/u/23195997?v=4
-542931741,answer,answerdev/answer,Go,41,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",362,6608,https://avatars.githubusercontent.com/u/114210575?v=4
-170411418,keda,kedacore/keda,Go,2, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,764,6125,https://avatars.githubusercontent.com/u/49917779?v=4
-221849341,asynq,hibiken/asynq,Go,8,"Simple, reliable, and efficient distributed task queue in Go",407,5693,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
-92132038,metrics-server,kubernetes-sigs/metrics-server,Go,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,1571,4600,https://avatars.githubusercontent.com/u/36015203?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,5,Terraform provider for Azure Resource Manager,3966,3905,https://avatars.githubusercontent.com/u/761456?v=4
-288482469,go-openai,sashabaranov/go-openai,Go,109,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",392,3231,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-463027648,afrog,zan8in/afrog,Go,17,A Vulnerability Scanning Tools For Penetration Testing,205,1361,https://avatars.githubusercontent.com/u/4088460?u=5bf62831907dc85b2050698b72ad38851b5aeee2&v=4
-617275793,rakshasa,Mob2003/rakshasa,Go,51,基于go编写的跨平台、稳定、隐秘的多级代理内网穿透工具,52,410,https://avatars.githubusercontent.com/u/128351726?v=4
-426316612,zkevm-node,0xPolygonHermez/zkevm-node,Go,6,Go implementation of a node that operates the Polygon zkEVM Network,64,200,https://avatars.githubusercontent.com/u/108818688?v=4
-619123466,VecTextSearch,szpnygo/VecTextSearch,Go,18,一个99%由ChatGPT开发的项目。A project that is 99% developed by ChatGPT.,9,59,https://avatars.githubusercontent.com/u/3326788?u=1410b7d6b24962bf10d803ed5726640336785719&v=4
+17728164,terraform,hashicorp/terraform,Go,26,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8480,36718,https://avatars.githubusercontent.com/u/761456?v=4
+31288958,vault,hashicorp/vault,Go,10,"A tool for secrets management, encryption as a service, and privileged access management",3745,27240,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,10,The Kubernetes Package Manager,6613,24024,https://avatars.githubusercontent.com/u/15859888?v=4
+20653934,cadvisor,google/cadvisor,Go,9,Analyzes resource usage and performance characteristics of running containers.,2209,14776,https://avatars.githubusercontent.com/u/1342004?v=4
+30711774,validator,go-playground/validator,Go,10,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1160,12781,https://avatars.githubusercontent.com/u/14768796?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,18,Declarative continuous deployment for Kubernetes.,3642,12544,https://avatars.githubusercontent.com/u/30269780?v=4
+75135036,go,json-iterator/go,Go,7,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",970,12051,https://avatars.githubusercontent.com/u/24260074?v=4
+367284699,lima,lima-vm/lima,Go,30,"Linux virtual machines, typically on macOS, for running containerd",442,11107,https://avatars.githubusercontent.com/u/88128539?v=4
+36960321,runc,opencontainers/runc,Go,14,CLI tool for spawning and running containers according to the OCI specification,1926,10145,https://avatars.githubusercontent.com/u/12563465?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,6,Automatically provision and manage TLS certificates in Kubernetes,1846,10137,https://avatars.githubusercontent.com/u/39950598?v=4
+79921099,chromedp,chromedp/chromedp,Go,4,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",707,8854,https://avatars.githubusercontent.com/u/33149672?v=4
+93928882,swag,swaggo/swag,Go,9,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1012,7906,https://avatars.githubusercontent.com/u/29616670?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,5,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3504,7899,https://avatars.githubusercontent.com/u/66682517?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,28,Code Intelligence Platform,918,7558,https://avatars.githubusercontent.com/u/3979584?v=4
+63625434,gosec,securego/gosec,Go,15,Golang security checker,530,6677,https://avatars.githubusercontent.com/u/23195997?v=4
+542931741,answer,answerdev/answer,Go,19,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",362,6611,https://avatars.githubusercontent.com/u/114210575?v=4
+170411418,keda,kedacore/keda,Go,2, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,764,6126,https://avatars.githubusercontent.com/u/49917779?v=4
+221849341,asynq,hibiken/asynq,Go,8,"Simple, reliable, and efficient distributed task queue in Go",407,5695,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
+92132038,metrics-server,kubernetes-sigs/metrics-server,Go,2,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,1571,4602,https://avatars.githubusercontent.com/u/36015203?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,5,Terraform provider for Azure Resource Manager,3966,3906,https://avatars.githubusercontent.com/u/761456?v=4
+288482469,go-openai,sashabaranov/go-openai,Go,109,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",393,3238,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+463027648,afrog,zan8in/afrog,Go,20,A Vulnerability Scanning Tools For Penetration Testing,205,1364,https://avatars.githubusercontent.com/u/4088460?u=5bf62831907dc85b2050698b72ad38851b5aeee2&v=4
+617275793,rakshasa,Mob2003/rakshasa,Go,51,基于go编写的跨平台、稳定、隐秘的多级代理内网穿透工具,52,414,https://avatars.githubusercontent.com/u/128351726?v=4
+426316612,zkevm-node,0xPolygonHermez/zkevm-node,Go,6,Go implementation of a node that operates the Polygon zkEVM Network,64,202,https://avatars.githubusercontent.com/u/108818688?v=4
+619123466,VecTextSearch,szpnygo/VecTextSearch,Go,15,一个99%由ChatGPT开发的项目。A project that is 99% developed by ChatGPT.,9,60,https://avatars.githubusercontent.com/u/3326788?u=1410b7d6b24962bf10d803ed5726640336785719&v=4
