@@ -1,6 +1,6 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-612354784,llama.cpp,ggerganov/llama.cpp,C,688,Port of Facebook's LLaMA model in C/C++,2639,19102,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-45821540,openwrt,openwrt/openwrt,C,13,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,8495,14553,https://avatars.githubusercontent.com/u/2528830?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C,688,Port of Facebook's LLaMA model in C/C++,2641,19111,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+45821540,openwrt,openwrt/openwrt,C,13,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,8495,14552,https://avatars.githubusercontent.com/u/2528830?v=4
 60667730,lvgl,lvgl/lvgl,C,7,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2389,11678,https://avatars.githubusercontent.com/u/19811762?v=4
 179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,9,OpenCore bootloader,1971,11199,https://avatars.githubusercontent.com/u/39672954?v=4
 1856976,libevent,libevent/libevent,C,4,Event notification library,3219,9706,https://avatars.githubusercontent.com/u/833750?v=4
@@ -8,19 +8,19 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 7408108,rt-thread,RT-Thread/rt-thread,C,14,RT-Thread is an open source IoT real-time operating system (RTOS).,4364,8194,https://avatars.githubusercontent.com/u/1783729?v=4
 50874442,citus,citusdata/citus,C,13,Distributed PostgreSQL as an extension,556,8176,https://avatars.githubusercontent.com/u/2545424?v=4
 5383731,qemu,qemu/qemu,C,5,Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,4555,7603,https://avatars.githubusercontent.com/u/2137033?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,103,Flipper Zero Unleashed Firmware,603,6584,https://avatars.githubusercontent.com/u/115378555?v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,103,Flipper Zero Unleashed Firmware,604,6586,https://avatars.githubusercontent.com/u/115378555?v=4
 38617,sqlcipher,sqlcipher/sqlcipher,C,5,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1209,5419,https://avatars.githubusercontent.com/u/649049?v=4
 330008801,SDL,libsdl-org/SDL,C,21,Simple Directmedia Layer,1028,5349,https://avatars.githubusercontent.com/u/77683370?v=4
-146155284,flecs,SanderMertens/flecs,C,30,A fast entity component system (ECS) for C & C++,304,4027,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
+146155284,flecs,SanderMertens/flecs,C,30,A fast entity component system (ECS) for C & C++,304,4029,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
 34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,721,3432,https://avatars.githubusercontent.com/u/12173937?v=4
 76599439,frr,FRRouting/frr,C,1,The FRRouting Protocol Suite,1030,2525,https://avatars.githubusercontent.com/u/24592672?v=4
 15991457,openssh-portable,openssh/openssh-portable,C,5,Portable OpenSSH,1548,2283,https://avatars.githubusercontent.com/u/2387206?v=4
 103446460,crun,containers/crun,C,2,A fast and lightweight fully featured OCI runtime and C library for running containers,237,2126,https://avatars.githubusercontent.com/u/5874934?v=4
-359952601,pgvector,pgvector/pgvector,C,37,Open-source vector similarity search for Postgres,67,2047,https://avatars.githubusercontent.com/u/98363230?v=4
+359952601,pgvector,pgvector/pgvector,C,37,Open-source vector similarity search for Postgres,67,2048,https://avatars.githubusercontent.com/u/98363230?v=4
 67372977,pg_cron,citusdata/pg_cron,C,12,Run periodic jobs in PostgreSQL,158,1998,https://avatars.githubusercontent.com/u/2545424?v=4
 276293034,age,apache/age,C,12,Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.,200,1604,https://avatars.githubusercontent.com/u/47359?v=4
-621725724,trurl,curl/trurl,C,293,trurl is a command line tool for URL parsing and manipulation.,29,923,https://avatars.githubusercontent.com/u/16928085?v=4
-617734467,Chinese-Vicuna,Facico/Chinese-Vicuna,C,73,Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca,53,438,https://avatars.githubusercontent.com/u/56598258?u=c1dc8bbfcfe1afc9e1f7b695d9a9adff96546d61&v=4
+621725724,trurl,curl/trurl,C,293,trurl is a command line tool for URL parsing and manipulation.,28,938,https://avatars.githubusercontent.com/u/16928085?v=4
+617734467,Chinese-Vicuna,Facico/Chinese-Vicuna,C,73,Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca,54,443,https://avatars.githubusercontent.com/u/56598258?u=c1dc8bbfcfe1afc9e1f7b695d9a9adff96546d61&v=4
 507678095,alx-low_level_programming,BrightDaniel/alx-low_level_programming,C,2,,330,185,https://avatars.githubusercontent.com/u/107191784?u=849bdde5f5c137feec9c28f71624404aab9a2266&v=4
 70957737,_putchar.c,holbertonschool/_putchar.c,C,1,,393,58,https://avatars.githubusercontent.com/u/13408012?v=4
 617183089,sem4,saha-indranil/sem4,C,2,4th Sem,19,13,https://avatars.githubusercontent.com/u/91204567?u=0fbaeeeb87a85cfc7126cb7e8cc6c1e9d49a1d4e&v=4
