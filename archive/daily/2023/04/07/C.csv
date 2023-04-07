@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,59,Linux kernel source tree,47440,149244,https://avatars.githubusercontent.com/u/1024025?v=4
-102578345,lede,coolsnowwolf/lede,C,24,Lean's LEDE source,18853,25484,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
-20159867,stb,nothings/stb,C,54,stb single-file public domain libraries for C/C++,7458,21612,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C,510,Port of Facebook's LLaMA model in C/C++,2859,20302,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-29759715,zstd,facebook/zstd,C,20,Zstandard - Fast real-time compression algorithm,1873,19938,https://avatars.githubusercontent.com/u/69631?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,153,Port of OpenAI's Whisper model in C/C++,1228,14837,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-927442,postgres,postgres/postgres,C,7,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3833,12134,https://avatars.githubusercontent.com/u/177543?v=4
-60667730,lvgl,lvgl/lvgl,C,7,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2392,11703,https://avatars.githubusercontent.com/u/19811762?v=4
-32873313,systemd,systemd/systemd,C,7,The systemd System and Service Manager ,3302,10893,https://avatars.githubusercontent.com/u/1918868?v=4
-3319040,DOOM,id-Software/DOOM,C,9,DOOM Open Source Release,1764,10163,https://avatars.githubusercontent.com/u/1395534?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,56,Flipper Zero Unleashed Firmware,614,6700,https://avatars.githubusercontent.com/u/115378555?v=4
-190845267,sm64,n64decomp/sm64,C,2,"A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",1195,6671,https://avatars.githubusercontent.com/u/47247020?v=4
-59676171,klipper,Klipper3d/klipper,C,9,Klipper is a 3d-printer firmware,4433,6460,https://avatars.githubusercontent.com/u/90982958?v=4
-41107037,unicorn,unicorn-engine/unicorn,C,11,"Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",1195,6215,https://avatars.githubusercontent.com/u/13391512?v=4
-29933948,fluent-bit,fluent/fluent-bit,C,1,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1265,4449,https://avatars.githubusercontent.com/u/859518?v=4
-146155284,flecs,SanderMertens/flecs,C,33,A fast entity component system (ECS) for C & C++,308,4110,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
-151870364,openwrt-passwall,xiaorouji/openwrt-passwall,C,9,A commonly used proxy toolchain for Openwrt LuCI Application.,2027,4068,https://avatars.githubusercontent.com/u/60100640?u=b4b2674d6efb6d8563dad477602163cb1dac4190&v=4
-83160811,littlefs,littlefs-project/littlefs,C,2,A little fail-safe filesystem designed for microcontrollers,655,3861,https://avatars.githubusercontent.com/u/60944974?v=4
-206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,7,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,1166,3479,https://avatars.githubusercontent.com/u/54647343?v=4
-543276238,libsql,libsql/libsql,C,37,"libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",62,2516,https://avatars.githubusercontent.com/u/114694406?v=4
-576303915,KernelSU,tiann/KernelSU,C,24,A Kernel based root solution for Android,326,2033,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
-24107001,ompi,open-mpi/ompi,C,1,Open MPI main development repository,761,1685,https://avatars.githubusercontent.com/u/2165682?v=4
-621725724,trurl,curl/trurl,C,321,trurl is a command line tool for URL parsing and manipulation.,55,1672,https://avatars.githubusercontent.com/u/16928085?v=4
-50272879,pjproject,pjsip/pjproject,C,3,PJSIP project,619,1471,https://avatars.githubusercontent.com/u/6085234?v=4
-617734467,Chinese-Vicuna,Facico/Chinese-Vicuna,C,117,Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca,84,730,https://avatars.githubusercontent.com/u/56598258?u=c1dc8bbfcfe1afc9e1f7b695d9a9adff96546d61&v=4
+2325298,linux,torvalds/linux,C,59,Linux kernel source tree,47445,149250,https://avatars.githubusercontent.com/u/1024025?v=4
+569041,curl,curl/curl,C,25,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",5677,29157,https://avatars.githubusercontent.com/u/16928085?v=4
+102578345,lede,coolsnowwolf/lede,C,24,Lean's LEDE source,18853,25489,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+1357796,emscripten,emscripten-core/emscripten,C,4,Emscripten: An LLVM-to-WebAssembly Compiler,3052,23573,https://avatars.githubusercontent.com/u/46011144?v=4
+20159867,stb,nothings/stb,C,54,stb single-file public domain libraries for C/C++,7460,21617,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
+7634677,openssl,openssl/openssl,C,13,TLS/SSL and crypto library,9045,21387,https://avatars.githubusercontent.com/u/3279138?v=4
+14812739,libuv,libuv/libuv,C,9,Cross-platform asynchronous I/O,3337,21198,https://avatars.githubusercontent.com/u/4030929?v=4
+196353673,TDengine,taosdata/TDengine,C,13,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4636,21119,https://avatars.githubusercontent.com/u/48876650?v=4
+45821540,openwrt,openwrt/openwrt,C,10,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,8511,14577,https://avatars.githubusercontent.com/u/2528830?v=4
+65899476,esp-idf,espressif/esp-idf,C,4,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6355,10298,https://avatars.githubusercontent.com/u/9460735?v=4
+1856976,libevent,libevent/libevent,C,4,Event notification library,3218,9712,https://avatars.githubusercontent.com/u/833750?v=4
+54280778,cJSON,DaveGamble/cJSON,C,10,Ultralightweight JSON parser in ANSI C,2908,8665,https://avatars.githubusercontent.com/u/118247?v=4
+22711503,gcc,gcc-mirror/gcc,C,8,,3999,7532,https://avatars.githubusercontent.com/u/8382043?v=4
+53614190,mosquitto,eclipse/mosquitto,C,6,Eclipse Mosquitto - An open source MQTT broker,2138,7187,https://avatars.githubusercontent.com/u/56974?v=4
+293316071,quickjs,bellard/quickjs,C,9,Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.,598,5850,https://avatars.githubusercontent.com/u/6490144?v=4
+17183871,iperf,esnet/iperf,C,14,"iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool",1115,5236,https://avatars.githubusercontent.com/u/1566018?v=4
+97212490,sokol,floooh/sokol,C,7,minimal cross-platform standalone C headers,353,4371,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
+189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,7,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",716,3566,https://avatars.githubusercontent.com/u/62360046?v=4
+34807561,nanopb,nanopb/nanopb,C,2,Protocol Buffers with small code size,723,3443,https://avatars.githubusercontent.com/u/12173937?v=4
+154525111,freeswitch,signalwire/freeswitch,C,1,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",1087,2267,https://avatars.githubusercontent.com/u/34925332?v=4
+576303915,KernelSU,tiann/KernelSU,C,24,A Kernel based root solution for Android,326,2036,https://avatars.githubusercontent.com/u/4233744?u=b77ba695239c04c10b7d539f9fe3ae2220d4b963&v=4
+621725724,trurl,curl/trurl,C,210,trurl is a command line tool for URL parsing and manipulation.,56,1699,https://avatars.githubusercontent.com/u/16928085?v=4
+270692521,zmk,zmkfirmware/zmk,C,1,ZMK Firmware Repository,1610,1515,https://avatars.githubusercontent.com/u/66629601?v=4
+208364128,XNNPACK,google/XNNPACK,C,4,"High-efficiency floating-point neural network inference operators for mobile, server, and Web",257,1384,https://avatars.githubusercontent.com/u/1342004?v=4
+190275430,hidapi,libusb/hidapi,C,1,A Simple cross-platform library for communicating with HID devices,318,1132,https://avatars.githubusercontent.com/u/4439549?v=4
