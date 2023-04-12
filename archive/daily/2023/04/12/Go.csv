@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,44,The Go programming language,16205,110159,https://avatars.githubusercontent.com/u/4314092?v=4
-48378947,frp,fatedier/frp,Go,56,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,11337,66299,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-11225014,etcd,etcd-io/etcd,Go,19,Distributed reliable key-value store for the most critical data of a distributed system,9178,43132,https://avatars.githubusercontent.com/u/41972792?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,18,Official Go implementation of the Ethereum protocol,16360,41817,https://avatars.githubusercontent.com/u/6250754?v=4
-6247705,testify,stretchr/testify,Go,7,A toolkit with common assertions and mocks that plays nicely with the standard library,1439,19384,https://avatars.githubusercontent.com/u/1841476?v=4
+23096959,go,golang/go,Go,44,The Go programming language,16206,110165,https://avatars.githubusercontent.com/u/4314092?v=4
+48378947,frp,fatedier/frp,Go,56,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,11338,66310,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+11225014,etcd,etcd-io/etcd,Go,19,Distributed reliable key-value store for the most critical data of a distributed system,9177,43133,https://avatars.githubusercontent.com/u/41972792?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,18,Official Go implementation of the Ethereum protocol,16361,41819,https://avatars.githubusercontent.com/u/6250754?v=4
+6247705,testify,stretchr/testify,Go,7,A toolkit with common assertions and mocks that plays nicely with the standard library,1439,19386,https://avatars.githubusercontent.com/u/1841476?v=4
 44498957,fasthttp,valyala/fasthttp,Go,12,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,1619,19380,https://avatars.githubusercontent.com/u/283442?u=8146e09c6497196364b9505b3d1fcaf316f994d0&v=4
-208728772,milvus,milvus-io/milvus,Go,63,"A cloud-native vector database, storage for next generation AI applications",2026,16569,https://avatars.githubusercontent.com/u/51735404?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,8,gRPC to JSON proxy generator following the gRPC HTTP spec,1973,15267,https://avatars.githubusercontent.com/u/19352526?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,30,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",2114,13188,https://avatars.githubusercontent.com/u/71564206?v=4
-30711774,validator,go-playground/validator,Go,9,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1167,12891,https://avatars.githubusercontent.com/u/14768796?v=4
-157245200,chezmoi,twpayne/chezmoi,Go,22,"Manage your dotfiles across multiple diverse machines, securely.",420,8999,https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4
-93928882,swag,swaggo/swag,Go,13,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1019,8004,https://avatars.githubusercontent.com/u/29616670?v=4
-9120526,pgx,jackc/pgx,Go,9,PostgreSQL driver and toolkit for Go,653,6976,https://avatars.githubusercontent.com/u/94130?v=4
-326228917,katana,projectdiscovery/katana,Go,8,A next-generation crawling and spidering framework.,295,6027,https://avatars.githubusercontent.com/u/50994705?v=4
-330616364,go-clean-template,evrone/go-clean-template,Go,3,Clean Architecture template for Golang services,412,5024,https://avatars.githubusercontent.com/u/431569?v=4
-55072677,weaviate,weaviate/weaviate,Go,85,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",276,4777,https://avatars.githubusercontent.com/u/37794290?v=4
-7823926,client_golang,prometheus/client_golang,Go,3,Prometheus instrumentation library for Go applications,1067,4520,https://avatars.githubusercontent.com/u/3380462?v=4
-192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,7,,3303,4165,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,4,OpenTelemetry Go API and SDK,846,3768,https://avatars.githubusercontent.com/u/49998002?v=4
-178079595,opencost,opencost/opencost,Go,4,Cross-cloud cost allocation models for Kubernetes workloads,391,3578,https://avatars.githubusercontent.com/u/105945214?v=4
-105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,4,protoc plugin to generate polyglot message validators,537,3125,https://avatars.githubusercontent.com/u/54191850?v=4
-18413405,cast,spf13/cast,Go,3,safe and easy casting from one type to another in Go ,270,2865,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-594749373,REALITY,XTLS/REALITY,Go,19,THE NEXT FUTURE,89,1538,https://avatars.githubusercontent.com/u/71564206?v=4
-609542180,CodeGPT,appleboy/CodeGPT,Go,14,"A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.",16,387,https://avatars.githubusercontent.com/u/21979?u=ad742a0b34a5461d12aa79cc441e5f6ca0453122&v=4
+208728772,milvus,milvus-io/milvus,Go,63,"A cloud-native vector database, storage for next generation AI applications",2026,16578,https://avatars.githubusercontent.com/u/51735404?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,8,gRPC to JSON proxy generator following the gRPC HTTP spec,1975,15268,https://avatars.githubusercontent.com/u/19352526?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,30,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",2114,13196,https://avatars.githubusercontent.com/u/71564206?v=4
+30711774,validator,go-playground/validator,Go,9,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1167,12892,https://avatars.githubusercontent.com/u/14768796?v=4
+157245200,chezmoi,twpayne/chezmoi,Go,22,"Manage your dotfiles across multiple diverse machines, securely.",422,9002,https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4
+93928882,swag,swaggo/swag,Go,13,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1019,8005,https://avatars.githubusercontent.com/u/29616670?v=4
+9120526,pgx,jackc/pgx,Go,9,PostgreSQL driver and toolkit for Go,653,6985,https://avatars.githubusercontent.com/u/94130?v=4
+326228917,katana,projectdiscovery/katana,Go,8,A next-generation crawling and spidering framework.,295,6029,https://avatars.githubusercontent.com/u/50994705?v=4
+330616364,go-clean-template,evrone/go-clean-template,Go,3,Clean Architecture template for Golang services,412,5027,https://avatars.githubusercontent.com/u/431569?v=4
+55072677,weaviate,weaviate/weaviate,Go,85,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",276,4784,https://avatars.githubusercontent.com/u/37794290?v=4
+7823926,client_golang,prometheus/client_golang,Go,3,Prometheus instrumentation library for Go applications,1067,4523,https://avatars.githubusercontent.com/u/3380462?v=4
+192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,7,,3304,4166,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,4,OpenTelemetry Go API and SDK,847,3772,https://avatars.githubusercontent.com/u/49998002?v=4
+178079595,opencost,opencost/opencost,Go,4,Cross-cloud cost allocation models for Kubernetes workloads,391,3579,https://avatars.githubusercontent.com/u/105945214?v=4
+105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,4,protoc plugin to generate polyglot message validators,537,3126,https://avatars.githubusercontent.com/u/54191850?v=4
+18413405,cast,spf13/cast,Go,3,safe and easy casting from one type to another in Go ,270,2867,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+594749373,REALITY,XTLS/REALITY,Go,19,THE NEXT FUTURE,90,1540,https://avatars.githubusercontent.com/u/71564206?v=4
+609542180,CodeGPT,appleboy/CodeGPT,Go,14,"A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.",17,390,https://avatars.githubusercontent.com/u/21979?u=ad742a0b34a5461d12aa79cc441e5f6ca0453122&v=4
 615684995,chat,swuecho/chat,Go,8,"gpt chat web app for teams, sass or self hosting, support openai, claude model",16,82,https://avatars.githubusercontent.com/u/666683?v=4
