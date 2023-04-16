@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 100060912,terminal,microsoft/terminal,C++,16,"The new Windows Terminal and the original Windows console host, all in the same place!",7733,88376,https://avatars.githubusercontent.com/u/6154722?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,10,Protocol Buffers - Google's data interchange format,14952,58974,https://avatars.githubusercontent.com/u/26310541?v=4
-27729880,grpc,grpc/grpc,C++,6,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",9911,37603,https://avatars.githubusercontent.com/u/7802525?v=4
-23405758,leveldb,google/leveldb,C++,3,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,7242,32419,https://avatars.githubusercontent.com/u/1342004?v=4
-39840932,googletest,google/googletest,C++,11,GoogleTest - Google Testing and Mocking Framework,9243,29426,https://avatars.githubusercontent.com/u/1342004?v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,17,ClickHouse® is a free analytics DBMS for big data,5607,28135,https://avatars.githubusercontent.com/u/54801242?v=4
-6934395,rocksdb,facebook/rocksdb,C++,6,"A library that provides an embeddable, persistent key-value store for fast storage.",5701,24976,https://avatars.githubusercontent.com/u/69631?v=4
-16587283,xgboost,dmlc/xgboost,C++,2,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8570,24002,https://avatars.githubusercontent.com/u/11508361?v=4
-24420506,v8,v8/v8,C++,5,The official mirror of the V8 Git repository,3826,21051,https://avatars.githubusercontent.com/u/113781?v=4
-19953044,flatbuffers,google/flatbuffers,C++,6,FlatBuffers: Memory Efficient Serialization Library,3059,20204,https://avatars.githubusercontent.com/u/1342004?v=4
-197275130,winget-cli,microsoft/winget-cli,C++,7,Windows Package Manager CLI (aka winget),1248,19897,https://avatars.githubusercontent.com/u/6154722?v=4
-28449431,scylladb,scylladb/scylladb,C++,15,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",1008,9732,https://avatars.githubusercontent.com/u/14364730?v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,8,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2472,9322,https://avatars.githubusercontent.com/u/84565724?v=4
-46374199,librealsense,IntelRealSense/librealsense,C++,1,Intel® RealSense™ SDK,4690,6712,https://avatars.githubusercontent.com/u/14095512?v=4
-31197250,glog,google/glog,C++,0,C++ implementation of the Google logging module,1943,6041,https://avatars.githubusercontent.com/u/1342004?v=4
-372536760,oceanbase,oceanbase/oceanbase,C++,9,"OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",1193,5517,https://avatars.githubusercontent.com/u/82347605?v=4
-297535677,libpag,Tencent/libpag,C++,8,The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.,317,3028,https://avatars.githubusercontent.com/u/18461506?v=4
-388946490,velox,facebookincubator/velox,C++,1,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,568,2290,https://avatars.githubusercontent.com/u/19538647?v=4
-208145128,iree,openxla/iree,C++,3,A retargetable MLIR-based machine learning compiler and runtime toolkit.,398,1787,https://avatars.githubusercontent.com/u/107584881?v=4
-227091502,perfetto,google/perfetto,C++,2,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",243,1683,https://avatars.githubusercontent.com/u/1342004?v=4
-506984830,OpenDTU,tbnobody/OpenDTU,C++,3,Software for ESP32 to talk to Hoymiles Inverters,235,862,https://avatars.githubusercontent.com/u/1753222?u=90d970a618fd5f1020a7da8e71768be4d646e08a&v=4
-102971729,ros2_control,ros-controls/ros2_control,C++,1,Generic and simple controls framework for ROS2,197,251,https://avatars.githubusercontent.com/u/4827547?v=4
-621979274,dxvk-remix,NVIDIAGameWorks/dxvk-remix,C++,29,,8,123,https://avatars.githubusercontent.com/u/7717624?v=4
-627110598,AntiOreans-CodeDevirtualizer,st4ckh0und/AntiOreans-CodeDevirtualizer,C++,25,A proof-of-concept devirtualization engine for Themida.,15,106,https://avatars.githubusercontent.com/u/11381503?u=3d2874f174181758b0a5f50c42c2e8efc10ce6ac&v=4
-581544833,xVMP,GANGE666/xVMP,C++,10,,16,85,https://avatars.githubusercontent.com/u/30214099?u=e847105e45229acdd03977ab76bc83afa081d1e8&v=4
+22067521,imgui,ocornut/imgui,C++,28,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,8319,46787,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
+168008797,calculator,microsoft/calculator,C++,6,Windows Calculator: A simple yet powerful calculator that ships with Windows,4891,26981,https://avatars.githubusercontent.com/u/6154722?v=4
+19374812,tdesktop,telegramdesktop/tdesktop,C++,8,Telegram Desktop messaging app,4453,21551,https://avatars.githubusercontent.com/u/6113871?v=4
+52729242,keepassxc,keepassxreboot/keepassxc,C++,12,KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.,1208,15492,https://avatars.githubusercontent.com/u/22534815?v=4
+2200856,Marlin,MarlinFirmware/Marlin,C++,7,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,18180,14694,https://avatars.githubusercontent.com/u/10418365?v=4
+5736080,FreeCAD,FreeCAD/FreeCAD,C++,12,"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",3177,13754,https://avatars.githubusercontent.com/u/2306237?v=4
+6520784,rpcs3,RPCS3/rpcs3,C++,5,PS3 emulator/debugger,1743,12475,https://avatars.githubusercontent.com/u/8070735?v=4
+76990209,WLED,Aircoookie/WLED,C++,3,Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!,2279,11370,https://avatars.githubusercontent.com/u/21045690?u=b6ef8107e15c7fc6c160235afba9c3813117a768&v=4
+11577304,dolphin,dolphin-emu/dolphin,C++,3,"Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",2195,9795,https://avatars.githubusercontent.com/u/5050316?v=4
+32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,5,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2497,8752,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
+19866730,citra,citra-emu/citra,C++,2,A Nintendo 3DS Emulator,1586,8395,https://avatars.githubusercontent.com/u/7605670?v=4
+15379620,pcsx2,PCSX2/pcsx2,C++,1,PCSX2 - The Playstation 2 Emulator,1321,8300,https://avatars.githubusercontent.com/u/6278711?v=4
+143324737,devilutionX,diasurgical/devilutionX,C++,2,Diablo build for modern operating systems,674,6364,https://avatars.githubusercontent.com/u/40645014?v=4
+128479644,esphome,esphome/esphome,C++,2,ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.,2242,6087,https://avatars.githubusercontent.com/u/45919759?v=4
+52882701,PrusaSlicer,prusa3d/PrusaSlicer,C++,8,"G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",1606,6032,https://avatars.githubusercontent.com/u/14859759?v=4
+1049088,openscad,openscad/openscad,C++,3,OpenSCAD - The Programmers Solid 3D CAD Modeller  ,1084,5510,https://avatars.githubusercontent.com/u/466370?v=4
+1764646,wxWidgets,wxWidgets/wxWidgets,C++,3,Cross-Platform C++ GUI Library,1575,5002,https://avatars.githubusercontent.com/u/791023?v=4
+144071425,Waybar,Alexays/Waybar,C++,6,Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:,476,3466,https://avatars.githubusercontent.com/u/13947260?u=8da5ea8627d2c2418d6cb08221e9febb3a95f997&v=4
+95712614,obs-StreamFX,Xaymar/obs-StreamFX,C++,3,"StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.",367,3348,https://avatars.githubusercontent.com/u/437395?u=b52c1655c25cec5093f4b6ac219d49a7487c69cb&v=4
+395341383,JoltPhysics,jrouwe/JoltPhysics,C++,20,"A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",191,2960,https://avatars.githubusercontent.com/u/1621693?u=14b293a7095d074e6653d7ad73269a5e785e1399&v=4
+436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,5,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,1679,2026,https://avatars.githubusercontent.com/u/29489915?u=fcf37f59ad74d0389bcb06a49c324a4cab771e4e&v=4
+77624593,chatterino2,Chatterino/chatterino2,C++,2,Chat client for https://twitch.tv,400,1661,https://avatars.githubusercontent.com/u/39381366?v=4
+241597051,basic-algo-lecture,encrypted-def/basic-algo-lecture,C++,4,바킹독의 실전 알고리즘 강의 자료,390,1420,https://avatars.githubusercontent.com/u/20028331?u=014c77945798c484cd23b963fa5937aef93ede65&v=4
+626423094,ZeroThreadKernel,zer0condition/ZeroThreadKernel,C++,11,Recursive and arbitrary code execution at kernel-level without a system thread creation,13,48,https://avatars.githubusercontent.com/u/70964202?u=4b10c808d35f8a6597dc4b0882ba560e97615cda&v=4
