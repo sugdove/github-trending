@@ -1,26 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,21,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7382,68121,https://avatars.githubusercontent.com/u/7894478?v=4
-6838921,prometheus,prometheus/prometheus,Go,13,The Prometheus monitoring system and time series database.,8087,47838,https://avatars.githubusercontent.com/u/3380462?v=4
-136815833,clash,Dreamacro/clash,Go,59,A rule-based tunnel in Go.,5309,40775,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
-17728164,terraform,hashicorp/terraform,Go,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8556,37003,https://avatars.githubusercontent.com/u/761456?v=4
-323965659,alist,alist-org/alist,Go,73,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",3431,24639,https://avatars.githubusercontent.com/u/97389433?v=4
-75135036,go,json-iterator/go,Go,3,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",983,12155,https://avatars.githubusercontent.com/u/24260074?v=4
-222172014,nebula,slackhq/nebula,Go,10,"A scalable overlay networking tool with a focus on performance, simplicity and security",821,11639,https://avatars.githubusercontent.com/u/6911160?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,13,Find credentials all over the place,1300,10971,https://avatars.githubusercontent.com/u/79229934?v=4
-403020531,colima,abiosoft/colima,Go,10,Container runtimes on macOS (and Linux) with minimal setup,258,10970,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-54230994,coredns,coredns/coredns,Go,5,CoreDNS is a DNS server that chains plugins,1899,10571,https://avatars.githubusercontent.com/u/21110084?v=4
-106704041,air,cosmtrek/air,Go,22,☁️ Live reload for Go apps,620,9949,https://avatars.githubusercontent.com/u/8832222?v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,4,Customization of kubernetes YAML configurations,2077,9567,https://avatars.githubusercontent.com/u/36015203?v=4
-113106184,linkerd2,linkerd/linkerd2,Go,6,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",1163,9526,https://avatars.githubusercontent.com/u/25301026?v=4
-10270722,go-github,google/go-github,Go,6,Go library for accessing the GitHub v3 API,1938,9324,https://avatars.githubusercontent.com/u/1342004?v=4
-222824662,dagger,dagger/dagger,Go,20,A programmable CI/CD engine that runs your pipelines in containers,413,8161,https://avatars.githubusercontent.com/u/78824383?v=4
-273132277,HackBrowserData,moonD4rk/HackBrowserData,Go,22,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,1217,7424,https://avatars.githubusercontent.com/u/24284231?u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,4,Autoscaling components for Kubernetes,3398,6758,https://avatars.githubusercontent.com/u/13629408?v=4
-120650407,operator-sdk,operator-framework/operator-sdk,Go,5,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",1661,6466,https://avatars.githubusercontent.com/u/38202270?v=4
-255437195,wgcf,ViRb3/wgcf,Go,20,"🚤 Cross-platform, unofficial CLI for Cloudflare Warp",371,3160,https://avatars.githubusercontent.com/u/2650170?u=a60e51d22e2e0f807812d68f012b4bbc3e2dd785&v=4
-222612062,hubble,cilium/hubble,Go,5,"Hubble - Network, Service & Security Observability for Kubernetes using eBPF",191,2634,https://avatars.githubusercontent.com/u/21054566?v=4
-553120474,DevOps,Pradumnasaraf/DevOps,Go,59,This repo contains all my learning related to DevOps,319,1409,https://avatars.githubusercontent.com/u/51878265?u=2430926c31b274d51585a3a3b13735e3454bccce&v=4
-414333257,whatsmeow,tulir/whatsmeow,Go,4,Go library for the WhatsApp web multidevice API,202,975,https://avatars.githubusercontent.com/u/4224639?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,16,":robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",17,340,https://avatars.githubusercontent.com/u/128192713?v=4
-610065886,RealiTLScanner,XTLS/RealiTLScanner,Go,26,A TLS server scanner for Reality,18,283,https://avatars.githubusercontent.com/u/71564206?v=4
-628118928,fclx,devfullcycle/fclx,Go,9,,71,121,https://avatars.githubusercontent.com/u/91744653?v=4
+136815833,clash,Dreamacro/clash,Go,59,A rule-based tunnel in Go.,5313,40783,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
+212613049,cli,cli/cli,Go,12,GitHub’s official command line tool,4967,32077,https://avatars.githubusercontent.com/u/59704711?v=4
+323965659,alist,alist-org/alist,Go,73,"🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",3433,24646,https://avatars.githubusercontent.com/u/97389433?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,23,A platform for building proxies to bypass network restrictions.,3563,22160,https://avatars.githubusercontent.com/u/49637375?v=4
+62091339,kops,kubernetes/kops,Go,6,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",4568,14896,https://avatars.githubusercontent.com/u/13629408?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,32,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",2168,13559,https://avatars.githubusercontent.com/u/71564206?v=4
+32575637,gost,ginuerzh/gost,Go,37,GO Simple Tunnel - a simple tunnel written in golang,2124,12354,https://avatars.githubusercontent.com/u/2801795?u=fd46d2697427ab8934bab8336f227980ef23d44e&v=4
+291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,28,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~,2322,9767,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
+222824662,dagger,dagger/dagger,Go,20,A programmable CI/CD engine that runs your pipelines in containers,413,8164,https://avatars.githubusercontent.com/u/78824383?v=4
+247714750,zitadel,zitadel/zitadel,Go,8,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,176,3225,https://avatars.githubusercontent.com/u/70011121?v=4
+582059828,IPTV,youshandefeiyang/IPTV,Go,20,肥羊的4K/8K超高清IPTV直播源&&直播代码仓库,559,2942,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,66,现代化、开源的 Linux 服务器运维管理面板。,254,2812,https://avatars.githubusercontent.com/u/109613420?v=4
+332607310,ScareCrow,optiv/ScareCrow,Go,13,ScareCrow - Payload creation framework designed around EDR bypass.,393,2289,https://avatars.githubusercontent.com/u/12102497?v=4
+133725375,wireguard-go,WireGuard/wireguard-go,Go,4,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,382,1936,https://avatars.githubusercontent.com/u/13991055?v=4
+286530881,ZeroBot-Plugin,FloatTech/ZeroBot-Plugin,Go,4,基于 ZeroBot 的 OneBot 插件,1094,1872,https://avatars.githubusercontent.com/u/85833883?v=4
+594749373,REALITY,XTLS/REALITY,Go,9,THE NEXT FUTURE,95,1642,https://avatars.githubusercontent.com/u/71564206?v=4
+553120474,DevOps,Pradumnasaraf/DevOps,Go,59,This repo contains all my learning related to DevOps,319,1422,https://avatars.githubusercontent.com/u/51878265?u=2430926c31b274d51585a3a3b13735e3454bccce&v=4
+531313322,tdl,iyear/tdl,Go,11,"📥 Telegram Downloader, but more than a downloader",163,1344,https://avatars.githubusercontent.com/u/61452000?u=86edf8408911ba781d3056da33f8fbd0b1659347&v=4
+309820286,fleet,fleetdm/fleet,Go,12,"Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)",221,1265,https://avatars.githubusercontent.com/u/70264713?v=4
+486038209,XrayR,XrayR-project/XrayR,Go,4,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",366,851,https://avatars.githubusercontent.com/u/80372356?v=4
+615869301,LocalAI,go-skynet/LocalAI,Go,16,":robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",17,381,https://avatars.githubusercontent.com/u/128192713?v=4
+614635646,fleek,ublue-os/fleek,Go,12,Own your $HOME,6,320,https://avatars.githubusercontent.com/u/120078124?v=4
+610065886,RealiTLScanner,XTLS/RealiTLScanner,Go,26,A TLS server scanner for Reality,18,285,https://avatars.githubusercontent.com/u/71564206?v=4
+615684995,chat,swuecho/chat,Go,42,"chat web app for teams, sass with user management and ratelimit, support openai, claude model or custom model",31,188,https://avatars.githubusercontent.com/u/666683?v=4
