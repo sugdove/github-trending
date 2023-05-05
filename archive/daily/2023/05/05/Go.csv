@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
+7691631,moby,moby/moby,Go,15,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18657,65855,https://avatars.githubusercontent.com/u/27259197?v=4
 29261473,minio,minio/minio,Go,14,High Performance Object Storage for AI,4652,38785,https://avatars.githubusercontent.com/u/695951?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,119,simple terminal UI for git commands,1400,34663,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-26337322,rancher,rancher/rancher,Go,10,Complete container management platform,2795,20994,https://avatars.githubusercontent.com/u/9343010?v=4
-167596393,k9s,derailed/k9s,Go,8,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1324,20663,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
-13624859,websocket,gorilla/websocket,Go,2,"A fast, well-tested and widely used WebSocket implementation for Go.",3316,19082,https://avatars.githubusercontent.com/u/489566?v=4
-129717717,loki,grafana/loki,Go,9,"Like Prometheus, but for logs.",2723,18994,https://avatars.githubusercontent.com/u/7195757?v=4
-52034309,zap,uber-go/zap,Go,20,"Blazing fast, structured, leveled logging in Go.",1322,18629,https://avatars.githubusercontent.com/u/19262598?v=4
-48109239,cilium,cilium/cilium,Go,6,"eBPF-based Networking, Security, and Observability",2177,15240,https://avatars.githubusercontent.com/u/21054566?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,4,Workflow engine for Kubernetes,2793,12870,https://avatars.githubusercontent.com/u/30269780?v=4
-6443435,nats-server,nats-io/nats-server,Go,5,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1227,12730,https://avatars.githubusercontent.com/u/10203055?v=4
-134012064,webrtc,pion/webrtc,Go,10,Pure Go implementation of the WebRTC API,1420,11117,https://avatars.githubusercontent.com/u/38192892?v=4
-420503947,ntfy,binwiederhier/ntfy,Go,48,Send push notifications to your phone or desktop using PUT/POST,347,10349,https://avatars.githubusercontent.com/u/664597?u=d20c51ed3d20cab19d2deffc58d028136229ab01&v=4
-11206255,sarama,Shopify/sarama,Go,5,Sarama is a Go library for Apache Kafka.,1649,9934,https://avatars.githubusercontent.com/u/8085?v=4
-359419233,kubeshark,kubeshark/kubeshark,Go,7,"The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes",337,8963,https://avatars.githubusercontent.com/u/99263827?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,3,Terraform AWS provider,7967,8486,https://avatars.githubusercontent.com/u/761456?v=4
-91054480,zerolog,rs/zerolog,Go,5,Zero Allocation JSON Logger,471,8099,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,2,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3557,7983,https://avatars.githubusercontent.com/u/66682517?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2279,6294,https://avatars.githubusercontent.com/u/36015203?v=4
-267713284,httpx,projectdiscovery/httpx,Go,25,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,632,5019,https://avatars.githubusercontent.com/u/50994705?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,1,Terraform provider for Azure Resource Manager,4044,3972,https://avatars.githubusercontent.com/u/761456?v=4
-178079595,opencost,opencost/opencost,Go,2,Cross-cloud cost allocation models for Kubernetes workloads,404,3705,https://avatars.githubusercontent.com/u/105945214?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,4,Google Cloud Client Libraries for Go.,1171,3274,https://avatars.githubusercontent.com/u/16785467?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,4,OpenTelemetry Collector,1092,2940,https://avatars.githubusercontent.com/u/49998002?v=4
-136494223,controller-runtime,kubernetes-sigs/controller-runtime,Go,1,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),983,1952,https://avatars.githubusercontent.com/u/36015203?v=4
-623415010,randomizer,imusmanmalik/randomizer,Go,2,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,54,68,https://avatars.githubusercontent.com/u/2871909?v=4
+72495579,gitea,go-gitea/gitea,Go,20,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",4602,36290,https://avatars.githubusercontent.com/u/12724356?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,119,simple terminal UI for git commands,1400,34676,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+41986369,tidb,pingcap/tidb,Go,13,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",5468,33985,https://avatars.githubusercontent.com/u/11855343?v=4
+74175805,istio,istio/istio,Go,6,"Connect, secure, control, and observe services.",7091,32906,https://avatars.githubusercontent.com/u/23534644?v=4
+285864199,go-zero,zeromicro/go-zero,Go,27,A cloud-native Go microservices framework with cli tool for productivity.,3406,24028,https://avatars.githubusercontent.com/u/74225106?v=4
+50613991,harbor,goharbor/harbor,Go,14,"An open source trusted cloud native registry project that stores, signs, and scans content.",4340,19965,https://avatars.githubusercontent.com/u/40275816?v=4
+21827146,seaweedfs,seaweedfs/seaweedfs,Go,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1962,17218,https://avatars.githubusercontent.com/u/11985425?v=4
+180687624,trivy,aquasecurity/trivy,Go,13,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1680,17208,https://avatars.githubusercontent.com/u/12783832?v=4
+370977430,Open-IM-Server,OpenIMSDK/Open-IM-Server,Go,12,即时通讯IM,1868,10809,https://avatars.githubusercontent.com/u/84842645?v=4
+37334619,mock,golang/mock,Go,6,GoMock is a mocking framework for the Go programming language.,607,8830,https://avatars.githubusercontent.com/u/4314092?v=4
+244694886,nightingale,ccfos/nightingale,Go,4,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",1070,6345,https://avatars.githubusercontent.com/u/96813578?v=4
+197914161,sftpgo,drakkan/sftpgo,Go,16,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",545,6056,https://avatars.githubusercontent.com/u/553263?v=4
+23267883,semaphore,ansible-semaphore/semaphore,Go,18,Modern UI for Ansible,739,5990,https://avatars.githubusercontent.com/u/10135719?v=4
+86367047,go-elasticsearch,elastic/go-elasticsearch,Go,5,The official Go client for Elasticsearch,558,4908,https://avatars.githubusercontent.com/u/6764390?v=4
+262126497,syft,anchore/syft,Go,5,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,378,4102,https://avatars.githubusercontent.com/u/16208487?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,2,OpenTelemetry Go API and SDK,856,3846,https://avatars.githubusercontent.com/u/49998002?v=4
+106928408,ReverseProxy,ilanyu/ReverseProxy,Go,6,ReverseProxy in golang,957,3559,https://avatars.githubusercontent.com/u/9317609?v=4
+105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,0,Protobuf validation - v2 coming soon.,544,3193,https://avatars.githubusercontent.com/u/54191850?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,3,AWS SDK for the Go programming language. ,520,1963,https://avatars.githubusercontent.com/u/2232217?v=4
+518708142,kwok,kubernetes-sigs/kwok,Go,20,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.,108,1316,https://avatars.githubusercontent.com/u/36015203?v=4
+519188364,mailpit,axllent/mailpit,Go,6,An email and SMTP testing tool with API for developers,20,974,https://avatars.githubusercontent.com/u/1463435?v=4
+630707714,spot,umputun/spot,Go,13,A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.,7,116,https://avatars.githubusercontent.com/u/535880?v=4
+623415010,randomizer,imusmanmalik/randomizer,Go,2,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,54,70,https://avatars.githubusercontent.com/u/2871909?v=4
