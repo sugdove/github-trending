@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,15,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18657,65859,https://avatars.githubusercontent.com/u/27259197?v=4
-29261473,minio,minio/minio,Go,20,High Performance Object Storage for AI,4655,38800,https://avatars.githubusercontent.com/u/695951?v=4
-72495579,gitea,go-gitea/gitea,Go,20,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",4603,36418,https://avatars.githubusercontent.com/u/12724356?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,101,simple terminal UI for git commands,1401,34710,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-41986369,tidb,pingcap/tidb,Go,13,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",5470,33989,https://avatars.githubusercontent.com/u/11855343?v=4
-74175805,istio,istio/istio,Go,6,"Connect, secure, control, and observe services.",7091,32907,https://avatars.githubusercontent.com/u/23534644?v=4
-285864199,go-zero,zeromicro/go-zero,Go,27,A cloud-native Go microservices framework with cli tool for productivity.,3407,24037,https://avatars.githubusercontent.com/u/74225106?v=4
+23096959,go,golang/go,Go,49,The Go programming language,16470,111022,https://avatars.githubusercontent.com/u/4314092?v=4
+21540759,awesome-go,avelino/awesome-go,Go,57,"A curated list of awesome Go frameworks, libraries and software",10919,100962,https://avatars.githubusercontent.com/u/31996?u=3c743477f78e6bf8b48096c089ffe930a1099648&v=4
+136815833,clash,Dreamacro/clash,Go,67,A rule-based tunnel in Go.,5385,41440,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
+72495579,gitea,go-gitea/gitea,Go,20,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",4603,36437,https://avatars.githubusercontent.com/u/12724356?v=4
+12574344,cobra,spf13/cobra,Go,22,A Commander for modern Go CLI interactions,2678,31726,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+56353740,minikube,kubernetes/minikube,Go,6,Run Kubernetes locally,4578,26374,https://avatars.githubusercontent.com/u/13629408?v=4
+285864199,go-zero,zeromicro/go-zero,Go,27,A cloud-native Go microservices framework with cli tool for productivity.,3407,24038,https://avatars.githubusercontent.com/u/74225106?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,34,Open Source realtime backend in 1 file,913,22899,https://avatars.githubusercontent.com/u/101000011?v=4
 50613991,harbor,goharbor/harbor,Go,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",4340,19975,https://avatars.githubusercontent.com/u/40275816?v=4
+6247705,testify,stretchr/testify,Go,5,A toolkit with common assertions and mocks that plays nicely with the standard library,1444,19580,https://avatars.githubusercontent.com/u/1841476?v=4
+13624859,websocket,gorilla/websocket,Go,7,"A fast, well-tested and widely used WebSocket implementation for Go.",3318,19087,https://avatars.githubusercontent.com/u/489566?v=4
+109145553,podman,containers/podman,Go,9,Podman: A tool for managing OCI containers and pods.,1939,17769,https://avatars.githubusercontent.com/u/5874934?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1962,17229,https://avatars.githubusercontent.com/u/11985425?v=4
-180687624,trivy,aquasecurity/trivy,Go,13,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1681,17216,https://avatars.githubusercontent.com/u/12783832?v=4
-370977430,Open-IM-Server,OpenIMSDK/Open-IM-Server,Go,12,即时通讯IM,1870,10819,https://avatars.githubusercontent.com/u/84842645?v=4
-37334619,mock,golang/mock,Go,6,GoMock is a mocking framework for the Go programming language.,607,8834,https://avatars.githubusercontent.com/u/4314092?v=4
-244694886,nightingale,ccfos/nightingale,Go,4,"An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",1072,6356,https://avatars.githubusercontent.com/u/96813578?v=4
-197914161,sftpgo,drakkan/sftpgo,Go,15,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",545,6070,https://avatars.githubusercontent.com/u/553263?v=4
-23267883,semaphore,ansible-semaphore/semaphore,Go,16,Modern UI for Ansible,739,6005,https://avatars.githubusercontent.com/u/10135719?v=4
-86367047,go-elasticsearch,elastic/go-elasticsearch,Go,6,The official Go client for Elasticsearch,558,4917,https://avatars.githubusercontent.com/u/6764390?v=4
-262126497,syft,anchore/syft,Go,3,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,378,4109,https://avatars.githubusercontent.com/u/16208487?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,2,OpenTelemetry Go API and SDK,856,3850,https://avatars.githubusercontent.com/u/49998002?v=4
-106928408,ReverseProxy,ilanyu/ReverseProxy,Go,6,ReverseProxy in golang,957,3563,https://avatars.githubusercontent.com/u/9317609?v=4
-105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,0,Protobuf validation - v2 coming soon.,544,3196,https://avatars.githubusercontent.com/u/54191850?v=4
-96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,3,AWS SDK for the Go programming language. ,520,1967,https://avatars.githubusercontent.com/u/2232217?v=4
-518708142,kwok,kubernetes-sigs/kwok,Go,20,Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.,108,1337,https://avatars.githubusercontent.com/u/36015203?v=4
-519188364,mailpit,axllent/mailpit,Go,6,An email and SMTP testing tool with API for developers,20,984,https://avatars.githubusercontent.com/u/1463435?v=4
-630707714,spot,umputun/spot,Go,13,A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.,7,132,https://avatars.githubusercontent.com/u/535880?v=4
-623415010,randomizer,imusmanmalik/randomizer,Go,2,GoLang library for generating cryptographically secure random numbers using the crypto/rand package,54,71,https://avatars.githubusercontent.com/u/2871909?v=4
+87617508,casbin,casbin/casbin,Go,7,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1555,14415,https://avatars.githubusercontent.com/u/27810343?v=4
+65434192,gjson,tidwall/gjson,Go,1,Get JSON values quickly - JSON parser for Go,774,12127,https://avatars.githubusercontent.com/u/1156077?u=73564c05a3110cfbd4bca3c1422401b078baf72d&v=4
+134012064,webrtc,pion/webrtc,Go,12,Pure Go implementation of the WebRTC API,1420,11120,https://avatars.githubusercontent.com/u/38192892?v=4
+247032621,go-admin,go-admin-team/go-admin,Go,8,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,1955,9011,https://avatars.githubusercontent.com/u/70429007?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,1,Terraform AWS provider,7969,8490,https://avatars.githubusercontent.com/u/761456?v=4
+66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2725,7616,https://avatars.githubusercontent.com/u/13629408?v=4
+197914161,sftpgo,drakkan/sftpgo,Go,15,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",545,6075,https://avatars.githubusercontent.com/u/553263?v=4
+306366900,casdoor,casdoor/casdoor,Go,10,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT",709,5902,https://avatars.githubusercontent.com/u/72992104?v=4
+11452538,alertmanager,prometheus/alertmanager,Go,4,Prometheus Alertmanager,1991,5662,https://avatars.githubusercontent.com/u/3380462?v=4
+134539560,eksctl,weaveworks/eksctl,Go,2,The official CLI for Amazon EKS,1285,4419,https://avatars.githubusercontent.com/u/9976052?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,4,Progressive Delivery for Kubernetes,603,2040,https://avatars.githubusercontent.com/u/30269780?v=4
+636229991,libbrc20-indexer,unisat-wallet/libbrc20-indexer,Go,8,UniSat Indexer (brc-20) library,15,37,https://avatars.githubusercontent.com/u/125119198?v=4
