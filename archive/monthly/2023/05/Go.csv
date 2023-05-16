@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,1218,The Go programming language,16512,111298,https://avatars.githubusercontent.com/u/4314092?v=4
-14712850,syncthing,syncthing/syncthing,Go,1336,Open Source Continuous File Synchronization,3763,51889,https://avatars.githubusercontent.com/u/7628018?v=4
-6838921,prometheus,prometheus/prometheus,Go,617,The Prometheus monitoring system and time series database.,8142,48160,https://avatars.githubusercontent.com/u/3380462?v=4
-16752620,gogs,gogs/gogs,Go,281,Gogs is a painless self-hosted Git service,4723,42197,https://avatars.githubusercontent.com/u/6656686?v=4
-138547797,mkcert,FiloSottile/mkcert,Go,490,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2112,40881,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
-134017286,lazygit,jesseduffield/lazygit,Go,984,simple terminal UI for git commands,1406,34960,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-119160553,photoprism,photoprism/photoprism,Go,487,AI-Powered Photos App for the Decentralized Web 🌈💎✨,1475,25978,https://avatars.githubusercontent.com/u/32436079?v=4
-122734569,lux,iawia002/lux,Go,435,👾 Fast and simple video download library and CLI tool written in Go,2462,20993,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-129717717,loki,grafana/loki,Go,280,"Like Prometheus, but for logs.",2737,19073,https://avatars.githubusercontent.com/u/7195757?v=4
-208728772,milvus,milvus-io/milvus,Go,1814,"A cloud-native vector database, storage for next generation AI applications",2150,18521,https://avatars.githubusercontent.com/u/51735404?v=4
+23096959,go,golang/go,Go,1206,The Go programming language,16512,111298,https://avatars.githubusercontent.com/u/4314092?v=4
+14712850,syncthing,syncthing/syncthing,Go,1392,Open Source Continuous File Synchronization,3763,51899,https://avatars.githubusercontent.com/u/7628018?v=4
+6838921,prometheus,prometheus/prometheus,Go,632,The Prometheus monitoring system and time series database.,8142,48161,https://avatars.githubusercontent.com/u/3380462?v=4
+16752620,gogs,gogs/gogs,Go,282,Gogs is a painless self-hosted Git service,4723,42197,https://avatars.githubusercontent.com/u/6656686?v=4
+138547797,mkcert,FiloSottile/mkcert,Go,480,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2113,40885,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+134017286,lazygit,jesseduffield/lazygit,Go,992,simple terminal UI for git commands,1406,34961,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+119160553,photoprism,photoprism/photoprism,Go,499,AI-Powered Photos App for the Decentralized Web 🌈💎✨,1475,25979,https://avatars.githubusercontent.com/u/32436079?v=4
+122734569,lux,iawia002/lux,Go,447,👾 Fast and simple video download library and CLI tool written in Go,2463,20995,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+129717717,loki,grafana/loki,Go,282,"Like Prometheus, but for logs.",2737,19075,https://avatars.githubusercontent.com/u/7195757?v=4
+208728772,milvus,milvus-io/milvus,Go,1829,"A cloud-native vector database, storage for next generation AI applications",2150,18522,https://avatars.githubusercontent.com/u/51735404?v=4
 48109239,cilium,cilium/cilium,Go,409,"eBPF-based Networking, Security, and Observability",2193,15340,https://avatars.githubusercontent.com/u/21054566?v=4
-273871859,headscale,juanfont/headscale,Go,875,"An open source, self-hosted implementation of the Tailscale control server",809,13100,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-120896210,argo-cd,argoproj/argo-cd,Go,327,Declarative continuous deployment for Kubernetes.,3837,13034,https://avatars.githubusercontent.com/u/30269780?v=4
-109162639,thanos,thanos-io/thanos,Go,114,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1861,11712,https://avatars.githubusercontent.com/u/49725059?v=4
-106704041,air,cosmtrek/air,Go,507,☁️ Live reload for Go apps,630,10316,https://avatars.githubusercontent.com/u/8832222?v=4
-410430370,CasaOS,IceWhaleTech/CasaOS,Go,795,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",655,10167,https://avatars.githubusercontent.com/u/91336243?v=4
-422821402,FerretDB,FerretDB/FerretDB,Go,990,A truly Open Source MongoDB alternative,256,6823,https://avatars.githubusercontent.com/u/95204649?v=4
-55072677,weaviate,weaviate/weaviate,Go,953,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",324,5873,https://avatars.githubusercontent.com/u/37794290?v=4
-333303663,bytebase,bytebase/bytebase,Go,320,Database CI/CD for DevOps teams. https://www.bytebase.com,372,5621,https://avatars.githubusercontent.com/u/74386897?v=4
-290437899,ddns-go,jeessy2/ddns-go,Go,623,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain),739,5141,https://avatars.githubusercontent.com/u/6205259?u=0668f056159f7ab885b1749c10400aa50893da5b&v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,1881,现代化、开源的 Linux 服务器运维管理面板。,329,4134,https://avatars.githubusercontent.com/u/109613420?v=4
-509091576,sing-box,SagerNet/sing-box,Go,425,The universal proxy platform,422,3471,https://avatars.githubusercontent.com/u/83217677?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,166,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,485,2685,https://avatars.githubusercontent.com/u/68335991?v=4
-526081371,go2rtc,AlexxIT/go2rtc,Go,239,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",82,1152,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
-414333257,whatsmeow,tulir/whatsmeow,Go,81,Go library for the WhatsApp web multidevice API,215,1026,https://avatars.githubusercontent.com/u/4224639?v=4
+273871859,headscale,juanfont/headscale,Go,862,"An open source, self-hosted implementation of the Tailscale control server",810,13101,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+120896210,argo-cd,argoproj/argo-cd,Go,327,Declarative continuous deployment for Kubernetes.,3838,13034,https://avatars.githubusercontent.com/u/30269780?v=4
+109162639,thanos,thanos-io/thanos,Go,115,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1861,11712,https://avatars.githubusercontent.com/u/49725059?v=4
+106704041,air,cosmtrek/air,Go,509,☁️ Live reload for Go apps,630,10317,https://avatars.githubusercontent.com/u/8832222?v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,812,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",655,10167,https://avatars.githubusercontent.com/u/91336243?v=4
+422821402,FerretDB,FerretDB/FerretDB,Go,935,A truly Open Source MongoDB alternative,256,6825,https://avatars.githubusercontent.com/u/95204649?v=4
+55072677,weaviate,weaviate/weaviate,Go,938,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",324,5875,https://avatars.githubusercontent.com/u/37794290?v=4
+333303663,bytebase,bytebase/bytebase,Go,335,Database CI/CD for DevOps teams. https://www.bytebase.com,372,5621,https://avatars.githubusercontent.com/u/74386897?v=4
+290437899,ddns-go,jeessy2/ddns-go,Go,617,简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain),739,5141,https://avatars.githubusercontent.com/u/6205259?u=0668f056159f7ab885b1749c10400aa50893da5b&v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,1922,现代化、开源的 Linux 服务器运维管理面板。,330,4136,https://avatars.githubusercontent.com/u/109613420?v=4
+509091576,sing-box,SagerNet/sing-box,Go,431,The universal proxy platform,422,3472,https://avatars.githubusercontent.com/u/83217677?v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,165,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,485,2685,https://avatars.githubusercontent.com/u/68335991?v=4
+526081371,go2rtc,AlexxIT/go2rtc,Go,244,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",82,1153,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
+414333257,whatsmeow,tulir/whatsmeow,Go,82,Go library for the WhatsApp web multidevice API,216,1026,https://avatars.githubusercontent.com/u/4224639?v=4
