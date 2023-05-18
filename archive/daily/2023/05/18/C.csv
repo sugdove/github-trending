@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,199,Linux kernel source tree,47958,151705,https://avatars.githubusercontent.com/u/1024025?v=4
-10744183,netdata,netdata/netdata,C,26,"Real-time performance monitoring, done right! https://www.netdata.cloud",5528,63120,https://avatars.githubusercontent.com/u/43390781?v=4
-156018,redis,redis/redis,C,21,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22541,59890,https://avatars.githubusercontent.com/u/1529926?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C,137,Port of Facebook's LLaMA model in C/C++,3938,27544,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-11715753,masscan,robertdavidgraham/masscan,C,6,"TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",2917,21020,https://avatars.githubusercontent.com/u/3814757?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,77,Port of OpenAI's Whisper model in C/C++,1557,18334,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+2325298,linux,torvalds/linux,C,199,Linux kernel source tree,47961,151714,https://avatars.githubusercontent.com/u/1024025?v=4
+10744183,netdata,netdata/netdata,C,26,"Real-time performance monitoring, done right! https://www.netdata.cloud",5528,63124,https://avatars.githubusercontent.com/u/43390781?v=4
+156018,redis,redis/redis,C,21,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22542,59893,https://avatars.githubusercontent.com/u/1529926?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C,137,Port of Facebook's LLaMA model in C/C++,3939,27563,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+11715753,masscan,robertdavidgraham/masscan,C,6,"TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",2919,21021,https://avatars.githubusercontent.com/u/3814757?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,77,Port of OpenAI's Whisper model in C/C++,1558,18342,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
 70127218,arduino-esp32,espressif/arduino-esp32,C,10,Arduino core for the ESP32,6812,10725,https://avatars.githubusercontent.com/u/9460735?v=4
-53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,2164,7329,https://avatars.githubusercontent.com/u/56974?v=4
-47057247,vlmcsd,Wind4/vlmcsd,C,8,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",2018,7269,https://avatars.githubusercontent.com/u/3997851?v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,19,Flipper Zero firmware source code,1970,7100,https://avatars.githubusercontent.com/u/57576566?v=4
-490465859,Flipper,UberGuidoZ/Flipper,C,40,Playground (and dump) of stuff I make or modify for the Flipper Zero,1882,7040,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
-5805256,lua,lua/lua,C,4,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1414,6921,https://avatars.githubusercontent.com/u/2319114?v=4
-1613176,edk2,tianocore/edk2,C,8,EDK II,2067,3620,https://avatars.githubusercontent.com/u/352162?v=4
+53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,2164,7330,https://avatars.githubusercontent.com/u/56974?v=4
+47057247,vlmcsd,Wind4/vlmcsd,C,8,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",2018,7268,https://avatars.githubusercontent.com/u/3997851?v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,19,Flipper Zero firmware source code,1970,7102,https://avatars.githubusercontent.com/u/57576566?v=4
+490465859,Flipper,UberGuidoZ/Flipper,C,40,Playground (and dump) of stuff I make or modify for the Flipper Zero,1901,7047,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
+5805256,lua,lua/lua,C,4,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1414,6922,https://avatars.githubusercontent.com/u/2319114?v=4
+1613176,edk2,tianocore/edk2,C,8,EDK II,2068,3620,https://avatars.githubusercontent.com/u/352162?v=4
 217654199,msquic,microsoft/msquic,C,3,"Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",429,3350,https://avatars.githubusercontent.com/u/6154722?v=4
 5128084,clamav,Cisco-Talos/clamav,C,3,ClamAV - Documentation is here: https://docs.clamav.net,597,2953,https://avatars.githubusercontent.com/u/28057349?v=4
-617734467,Chinese-Vicuna,Facico/Chinese-Vicuna,C,29,Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca,310,2871,https://avatars.githubusercontent.com/u/56598258?u=c1dc8bbfcfe1afc9e1f7b695d9a9adff96546d61&v=4
-26537135,u-boot,u-boot/u-boot,C,4,"""Das U-Boot"" Source Tree",2879,2859,https://avatars.githubusercontent.com/u/9681997?v=4
-15991457,openssh-portable,openssh/openssh-portable,C,0,Portable OpenSSH,1566,2354,https://avatars.githubusercontent.com/u/2387206?v=4
+617734467,Chinese-Vicuna,Facico/Chinese-Vicuna,C,29,Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca,312,2884,https://avatars.githubusercontent.com/u/56598258?u=c1dc8bbfcfe1afc9e1f7b695d9a9adff96546d61&v=4
+26537135,u-boot,u-boot/u-boot,C,4,"""Das U-Boot"" Source Tree",2879,2860,https://avatars.githubusercontent.com/u/9681997?v=4
+15991457,openssh-portable,openssh/openssh-portable,C,0,Portable OpenSSH,1566,2355,https://avatars.githubusercontent.com/u/2387206?v=4
 23368445,libwebp,webmproject/libwebp,C,3,Mirror only. Please do not send pull requests.,441,1684,https://avatars.githubusercontent.com/u/6402850?v=4
 228103273,nuttx,apache/nuttx,C,0,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",720,1388,https://avatars.githubusercontent.com/u/47359?v=4
-621844557,willow,toverainc/willow,C,211,"Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",75,1182,https://avatars.githubusercontent.com/u/84786158?v=4
+621844557,willow,toverainc/willow,C,211,"Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",95,1208,https://avatars.githubusercontent.com/u/84786158?v=4
 191218735,libavif,AOMediaCodec/libavif,C,3,libavif - Library for encoding and decoding .avif files,158,1100,https://avatars.githubusercontent.com/u/16354493?v=4
-482953099,egos-2000,yhzhang0128/egos-2000,C,82,A minimal operating system (2K LOC) on QEMU and a RISC-V board,42,381,https://avatars.githubusercontent.com/u/6253953?u=f2a0d71d7f5db46769ec2d22d96224b51042e86a&v=4
-627479972,Ragnar,cococry/Ragnar,C,13,Minimal X Window Manager,7,176,https://avatars.githubusercontent.com/u/98212066?u=df248561b9563eeeb498f31ac3d94a748d47878f&v=4
-566688128,pixl.js,solosky/pixl.js,C,8,An emulator for Amiibo!,36,164,https://avatars.githubusercontent.com/u/480111?v=4
+482953099,egos-2000,yhzhang0128/egos-2000,C,82,A minimal operating system (2K LOC) on QEMU and a RISC-V board,44,421,https://avatars.githubusercontent.com/u/6253953?u=f2a0d71d7f5db46769ec2d22d96224b51042e86a&v=4
+627479972,Ragnar,cococry/Ragnar,C,13,Minimal X Window Manager,7,177,https://avatars.githubusercontent.com/u/98212066?u=df248561b9563eeeb498f31ac3d94a748d47878f&v=4
+566688128,pixl.js,solosky/pixl.js,C,8,An emulator for Amiibo!,36,165,https://avatars.githubusercontent.com/u/480111?v=4
