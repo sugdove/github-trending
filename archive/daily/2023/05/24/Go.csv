@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 31288958,vault,hashicorp/vault,Go,9,"A tool for secrets management, encryption as a service, and privileged access management",3818,27733,https://avatars.githubusercontent.com/u/761456?v=4
 6247705,testify,stretchr/testify,Go,23,A toolkit with common assertions and mocks that plays nicely with the standard library,1452,19722,https://avatars.githubusercontent.com/u/1841476?v=4
-52034309,zap,uber-go/zap,Go,17,"Blazing fast, structured, leveled logging in Go.",1327,18751,https://avatars.githubusercontent.com/u/19262598?v=4
-87617508,casbin,casbin/casbin,Go,45,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1570,14669,https://avatars.githubusercontent.com/u/27810343?v=4
+52034309,zap,uber-go/zap,Go,17,"Blazing fast, structured, leveled logging in Go.",1327,18753,https://avatars.githubusercontent.com/u/19262598?v=4
+87617508,casbin,casbin/casbin,Go,45,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1571,14682,https://avatars.githubusercontent.com/u/27810343?v=4
 120896210,argo-cd,argoproj/argo-cd,Go,13,Declarative continuous deployment for Kubernetes.,3861,13126,https://avatars.githubusercontent.com/u/30269780?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,56,Protect and discover secrets using Gitleaks 🔑,1200,12848,https://avatars.githubusercontent.com/u/90395851?v=4
-109162639,thanos,thanos-io/thanos,Go,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1867,11755,https://avatars.githubusercontent.com/u/49725059?v=4
-43225113,yq,mikefarah/yq,Go,9,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",455,8642,https://avatars.githubusercontent.com/u/1151925?v=4
-222824662,dagger,dagger/dagger,Go,12,A programmable CI/CD engine that runs your pipelines in containers,428,8308,https://avatars.githubusercontent.com/u/78824383?v=4
-91054480,zerolog,rs/zerolog,Go,30,Zero Allocation JSON Logger,477,8224,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
-40916314,dex,dexidp/dex,Go,9,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1512,8131,https://avatars.githubusercontent.com/u/42422344?v=4
-28366058,distribution,distribution/distribution,Go,6,"The toolkit to pack, ship, store, and deliver container content",2279,7544,https://avatars.githubusercontent.com/u/78096003?v=4
-147886080,crossplane,crossplane/crossplane,Go,4,Cloud Native Control Planes,732,7038,https://avatars.githubusercontent.com/u/45158470?v=4
-312629343,fscan,shadow1ng/fscan,Go,14,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1035,5884,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-11452538,alertmanager,prometheus/alertmanager,Go,3,Prometheus Alertmanager,1998,5699,https://avatars.githubusercontent.com/u/3380462?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,56,Protect and discover secrets using Gitleaks 🔑,1201,12854,https://avatars.githubusercontent.com/u/90395851?v=4
+109162639,thanos,thanos-io/thanos,Go,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1867,11757,https://avatars.githubusercontent.com/u/49725059?v=4
+43225113,yq,mikefarah/yq,Go,9,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",455,8643,https://avatars.githubusercontent.com/u/1151925?v=4
+222824662,dagger,dagger/dagger,Go,12,A programmable CI/CD engine that runs your pipelines in containers,428,8310,https://avatars.githubusercontent.com/u/78824383?v=4
+91054480,zerolog,rs/zerolog,Go,30,Zero Allocation JSON Logger,477,8225,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+40916314,dex,dexidp/dex,Go,9,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1512,8132,https://avatars.githubusercontent.com/u/42422344?v=4
+28366058,distribution,distribution/distribution,Go,6,"The toolkit to pack, ship, store, and deliver container content",2279,7545,https://avatars.githubusercontent.com/u/78096003?v=4
+147886080,crossplane,crossplane/crossplane,Go,4,Cloud Native Control Planes,732,7039,https://avatars.githubusercontent.com/u/45158470?v=4
+312629343,fscan,shadow1ng/fscan,Go,14,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1035,5886,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+11452538,alertmanager,prometheus/alertmanager,Go,3,Prometheus Alertmanager,1999,5699,https://avatars.githubusercontent.com/u/3380462?v=4
 58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,3,Add-on agent to generate and expose cluster-level metrics.,1726,4543,https://avatars.githubusercontent.com/u/13629408?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,3,Terraform provider for Azure Resource Manager,4080,4005,https://avatars.githubusercontent.com/u/761456?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,3,Terraform provider for Azure Resource Manager,4080,4004,https://avatars.githubusercontent.com/u/761456?v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,872,3909,https://avatars.githubusercontent.com/u/49998002?v=4
 96570421,go-cmp,google/go-cmp,Go,16,Package for comparing Go values in tests,209,3524,https://avatars.githubusercontent.com/u/1342004?v=4
-105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,1,Protobuf validation - v2 now in beta for Golang.,546,3233,https://avatars.githubusercontent.com/u/54191850?v=4
+105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,1,Protobuf validation - v2 now in beta for Golang.,546,3234,https://avatars.githubusercontent.com/u/54191850?v=4
 175592968,volcano,volcano-sh/volcano,Go,3,A Cloud Native Batch System (Project under CNCF),705,3018,https://avatars.githubusercontent.com/u/47214749?v=4
 313628863,external-secrets,external-secrets/external-secrets,Go,5,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,488,2715,https://avatars.githubusercontent.com/u/68335991?v=4
-491101744,nexttrace,sjlleo/nexttrace,Go,169,An open source visual route tracking CLI tool,111,1772,https://avatars.githubusercontent.com/u/13616352?u=69f23f62f43cd477ea08a0ef0607921fbb82ab55&v=4
-79188507,logr,go-logr/logr,Go,3,A simple logging interface for Go,72,1001,https://avatars.githubusercontent.com/u/25166571?v=4
+491101744,nexttrace,sjlleo/nexttrace,Go,169,An open source visual route tracking CLI tool,112,1778,https://avatars.githubusercontent.com/u/13616352?u=69f23f62f43cd477ea08a0ef0607921fbb82ab55&v=4
+79188507,logr,go-logr/logr,Go,3,A simple logging interface for Go,72,1002,https://avatars.githubusercontent.com/u/25166571?v=4
 634086144,DetectDee,piaolin/DetectDee,Go,23,"DetectDee: Hunt down social media accounts by username, email or phone across social networks.",50,434,https://avatars.githubusercontent.com/u/30925316?u=3b89ab3316e15118075ab40bad276bb0ad0fb54e&v=4
