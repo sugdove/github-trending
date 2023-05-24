@@ -1,9 +1,9 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,74,"A curated list of awesome Go frameworks, libraries and software",10977,101932,https://avatars.githubusercontent.com/u/31996?u=3c743477f78e6bf8b48096c089ffe930a1099648&v=4
+21540759,awesome-go,avelino/awesome-go,Go,74,"A curated list of awesome Go frameworks, libraries and software",10977,101933,https://avatars.githubusercontent.com/u/31996?u=3c743477f78e6bf8b48096c089ffe930a1099648&v=4
 17728164,terraform,hashicorp/terraform,Go,10,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8633,37356,https://avatars.githubusercontent.com/u/761456?v=4
-74175805,istio,istio/istio,Go,10,"Connect, secure, control, and observe services.",7121,33014,https://avatars.githubusercontent.com/u/23534644?v=4
+74175805,istio,istio/istio,Go,10,"Connect, secure, control, and observe services.",7121,33015,https://avatars.githubusercontent.com/u/23534644?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,10,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1974,17346,https://avatars.githubusercontent.com/u/11985425?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,8,Ingress-NGINX Controller for Kubernetes,7812,14962,https://avatars.githubusercontent.com/u/13629408?v=4
+72891330,ingress-nginx,kubernetes/ingress-nginx,Go,8,Ingress-NGINX Controller for Kubernetes,7812,14963,https://avatars.githubusercontent.com/u/13629408?v=4
 62091339,kops,kubernetes/kops,Go,2,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",4588,14962,https://avatars.githubusercontent.com/u/13629408?v=4
 87617508,casbin,casbin/casbin,Go,39,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1568,14606,https://avatars.githubusercontent.com/u/27810343?v=4
 46089560,containerd,containerd/containerd,Go,10,An open and reliable container runtime,2881,14004,https://avatars.githubusercontent.com/u/14037953?v=4
@@ -15,12 +15,12 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 170411418,keda,kedacore/keda,Go,11, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,801,6366,https://avatars.githubusercontent.com/u/49917779?v=4
 92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,4,A Kubernetes controller and tool for one-way encrypted Secrets,587,6196,https://avatars.githubusercontent.com/u/34656521?v=4
 166304026,sliver,BishopFox/sliver,Go,7,Adversary Emulation Framework,809,5809,https://avatars.githubusercontent.com/u/4523757?v=4
-276822250,kubevela,kubevela/kubevela,Go,6,The Modern Application Platform.,764,5255,https://avatars.githubusercontent.com/u/74584788?v=4
-299832860,livekit,livekit/livekit,Go,5,End-to-end stack for WebRTC. SFU media server and SDKs.,399,4988,https://avatars.githubusercontent.com/u/69438833?v=4
+276822250,kubevela,kubevela/kubevela,Go,6,The Modern Application Platform.,766,5255,https://avatars.githubusercontent.com/u/74584788?v=4
+299832860,livekit,livekit/livekit,Go,5,End-to-end stack for WebRTC. SFU media server and SDKs.,399,4989,https://avatars.githubusercontent.com/u/69438833?v=4
 74891203,aws-nuke,rebuy-de/aws-nuke,Go,2,Nuke a whole AWS account and delete all its resources.,618,4503,https://avatars.githubusercontent.com/u/1541072?v=4
 440752086,coder,coder/coder,Go,17,A tool that provisions remote development environments via Terraform,345,4414,https://avatars.githubusercontent.com/u/95932066?v=4
 175592968,volcano,volcano-sh/volcano,Go,5,A Cloud Native Batch System (Project under CNCF),705,3016,https://avatars.githubusercontent.com/u/47214749?v=4
-468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,44,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",100,1325,https://avatars.githubusercontent.com/u/100373852?v=4
-606125384,junodb,paypal/junodb,Go,158,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",64,969,https://avatars.githubusercontent.com/u/476675?v=4
-566485695,vault-secrets-operator,hashicorp/vault-secrets-operator,Go,2,The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.,29,217,https://avatars.githubusercontent.com/u/761456?v=4
+468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,44,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",100,1326,https://avatars.githubusercontent.com/u/100373852?v=4
+606125384,junodb,paypal/junodb,Go,158,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",64,970,https://avatars.githubusercontent.com/u/476675?v=4
+566485695,vault-secrets-operator,hashicorp/vault-secrets-operator,Go,2,The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.,29,218,https://avatars.githubusercontent.com/u/761456?v=4
 642453909,explain-source-code-by-chatgpt,cuishuang/explain-source-code-by-chatgpt,Go,13,👂🏻 chatgpt讲解Go核心源码中每个文件，变量，结构体，方法的作用,6,166,https://avatars.githubusercontent.com/u/15921519?u=50092b3793a7f6b1c240de9b38e6baa7fe15ccd0&v=4
