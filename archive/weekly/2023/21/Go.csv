@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,462,"A curated list of awesome Go frameworks, libraries and software",10977,101958,https://avatars.githubusercontent.com/u/31996?u=3c743477f78e6bf8b48096c089ffe930a1099648&v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,262,Production-Grade Container Scheduling and Management,36194,98588,https://avatars.githubusercontent.com/u/13629408?v=4
-7691631,moby,moby/moby,Go,73,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18687,65957,https://avatars.githubusercontent.com/u/27259197?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,126,Official Go implementation of the Ethereum protocol,16637,42354,https://avatars.githubusercontent.com/u/6250754?v=4
-234231371,fiber,gofiber/fiber,Go,143,⚡️ Express inspired web framework written in Go,1319,26395,https://avatars.githubusercontent.com/u/59947262?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,237,Open Source realtime backend in 1 file,938,23412,https://avatars.githubusercontent.com/u/101000011?v=4
-13628513,logrus,sirupsen/logrus,Go,44,"Structured, pluggable logging for Go.",2236,22677,https://avatars.githubusercontent.com/u/97400?v=4
-192632000,dapr,dapr/dapr,Go,99,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1660,21217,https://avatars.githubusercontent.com/u/51932459?v=4
-6247705,testify,stretchr/testify,Go,76,A toolkit with common assertions and mocks that plays nicely with the standard library,1452,19713,https://avatars.githubusercontent.com/u/1841476?v=4
-180687624,trivy,aquasecurity/trivy,Go,97,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1719,17467,https://avatars.githubusercontent.com/u/12783832?v=4
-7083242,mysql,go-sql-driver/mysql,Go,29,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2244,13314,https://avatars.githubusercontent.com/u/3002971?v=4
+21540759,awesome-go,avelino/awesome-go,Go,462,"A curated list of awesome Go frameworks, libraries and software",10978,101969,https://avatars.githubusercontent.com/u/31996?u=3c743477f78e6bf8b48096c089ffe930a1099648&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,262,Production-Grade Container Scheduling and Management,36197,98600,https://avatars.githubusercontent.com/u/13629408?v=4
+7691631,moby,moby/moby,Go,73,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18688,65956,https://avatars.githubusercontent.com/u/27259197?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,126,Official Go implementation of the Ethereum protocol,16640,42353,https://avatars.githubusercontent.com/u/6250754?v=4
+234231371,fiber,gofiber/fiber,Go,143,⚡️ Express inspired web framework written in Go,1318,26402,https://avatars.githubusercontent.com/u/59947262?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,237,Open Source realtime backend in 1 file,938,23416,https://avatars.githubusercontent.com/u/101000011?v=4
+13628513,logrus,sirupsen/logrus,Go,44,"Structured, pluggable logging for Go.",2236,22680,https://avatars.githubusercontent.com/u/97400?v=4
+192632000,dapr,dapr/dapr,Go,99,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1663,21223,https://avatars.githubusercontent.com/u/51932459?v=4
+6247705,testify,stretchr/testify,Go,76,A toolkit with common assertions and mocks that plays nicely with the standard library,1452,19719,https://avatars.githubusercontent.com/u/1841476?v=4
+180687624,trivy,aquasecurity/trivy,Go,97,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1720,17469,https://avatars.githubusercontent.com/u/12783832?v=4
+7083242,mysql,go-sql-driver/mysql,Go,29,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2244,13316,https://avatars.githubusercontent.com/u/3002971?v=4
 6443435,nats-server,nats-io/nats-server,Go,32,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1238,12817,https://avatars.githubusercontent.com/u/10203055?v=4
 193833307,listmonk,knadh/listmonk,Go,73,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",856,10051,https://avatars.githubusercontent.com/u/547147?u=b2b2d466d5344d6a5154edf7ddf5d077774aa413&v=4
-93928882,swag,swaggo/swag,Go,44,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1041,8212,https://avatars.githubusercontent.com/u/29616670?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,25,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2291,6342,https://avatars.githubusercontent.com/u/36015203?v=4
-23267883,semaphore,ansible-semaphore/semaphore,Go,81,Modern UI for Ansible,750,6163,https://avatars.githubusercontent.com/u/10135719?v=4
-150713223,kubeedge,kubeedge/kubeedge,Go,24,Kubernetes Native Edge Computing Framework (project under CNCF),1538,5833,https://avatars.githubusercontent.com/u/41812520?v=4
-371564104,easegress,megaease/easegress,Go,106,A Cloud Native traffic orchestration system,464,5402,https://avatars.githubusercontent.com/u/29247155?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,1221,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",521,4690,https://avatars.githubusercontent.com/u/128192713?v=4
-201546443,assets,trustwallet/assets,Go,22,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",19818,3876,https://avatars.githubusercontent.com/u/32179889?v=4
+93928882,swag,swaggo/swag,Go,44,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1041,8211,https://avatars.githubusercontent.com/u/29616670?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,25,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2291,6343,https://avatars.githubusercontent.com/u/36015203?v=4
+23267883,semaphore,ansible-semaphore/semaphore,Go,81,Modern UI for Ansible,750,6164,https://avatars.githubusercontent.com/u/10135719?v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,24,Kubernetes Native Edge Computing Framework (project under CNCF),1538,5834,https://avatars.githubusercontent.com/u/41812520?v=4
+371564104,easegress,megaease/easegress,Go,106,A Cloud Native traffic orchestration system,464,5403,https://avatars.githubusercontent.com/u/29247155?v=4
+615869301,LocalAI,go-skynet/LocalAI,Go,1221,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",521,4700,https://avatars.githubusercontent.com/u/128192713?v=4
+201546443,assets,trustwallet/assets,Go,22,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",19825,3877,https://avatars.githubusercontent.com/u/32179889?v=4
 407831273,rueidis,redis/rueidis,Go,135,"A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.",79,1478,https://avatars.githubusercontent.com/u/1529926?v=4
-611985985,ChatGPT-Proxy-V4,acheong08/ChatGPT-Proxy-V4,Go,29,Simple Cloudflare bypass for ChatGPT,250,969,https://avatars.githubusercontent.com/u/36258159?u=37b97d1f98960fc58536e99be308ff64e05cc7d9&v=4
-634086144,DetectDee,piaolin/DetectDee,Go,110,"DetectDee: Hunt down social media accounts by username, email or phone across social networks.",50,425,https://avatars.githubusercontent.com/u/30925316?u=3b89ab3316e15118075ab40bad276bb0ad0fb54e&v=4
-640171638,Trojan-killer,XTLS/Trojan-killer,Go,50,Detect TLS in TLS.,148,357,https://avatars.githubusercontent.com/u/71564206?v=4
+611985985,ChatGPT-Proxy-V4,acheong08/ChatGPT-Proxy-V4,Go,29,Simple Cloudflare bypass for ChatGPT,251,970,https://avatars.githubusercontent.com/u/36258159?u=37b97d1f98960fc58536e99be308ff64e05cc7d9&v=4
+634086144,DetectDee,piaolin/DetectDee,Go,110,"DetectDee: Hunt down social media accounts by username, email or phone across social networks.",50,429,https://avatars.githubusercontent.com/u/30925316?u=3b89ab3316e15118075ab40bad276bb0ad0fb54e&v=4
+640171638,Trojan-killer,XTLS/Trojan-killer,Go,50,Detect TLS in TLS.,148,358,https://avatars.githubusercontent.com/u/71564206?v=4
 635990360,SatIntel,ANG13T/SatIntel,Go,48,"SatIntel is an OSINT tool for Satellites 🛰. Extract satellite telemetry, receive orbital predictions, and parse TLEs 🔭",16,256,https://avatars.githubusercontent.com/u/51937266?u=67030db4f54047e39eb207a30ff939aa2ace6fbd&v=4
