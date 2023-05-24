@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,71,"A curated list of awesome Go frameworks, libraries and software",10978,101969,https://avatars.githubusercontent.com/u/31996?u=3c743477f78e6bf8b48096c089ffe930a1099648&v=4
-17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8634,37364,https://avatars.githubusercontent.com/u/761456?v=4
-74175805,istio,istio/istio,Go,8,"Connect, secure, control, and observe services.",7123,33016,https://avatars.githubusercontent.com/u/23534644?v=4
-21827146,seaweedfs,seaweedfs/seaweedfs,Go,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1974,17354,https://avatars.githubusercontent.com/u/11985425?v=4
-62091339,kops,kubernetes/kops,Go,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",4588,14966,https://avatars.githubusercontent.com/u/13629408?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,7,Ingress-NGINX Controller for Kubernetes,7813,14962,https://avatars.githubusercontent.com/u/13629408?v=4
-87617508,casbin,casbin/casbin,Go,41,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1569,14624,https://avatars.githubusercontent.com/u/27810343?v=4
-46089560,containerd,containerd/containerd,Go,11,An open and reliable container runtime,2883,14008,https://avatars.githubusercontent.com/u/14037953?v=4
-136505169,tinygo,tinygo-org/tinygo,Go,13,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",744,12824,https://avatars.githubusercontent.com/u/45223613?v=4
+31288958,vault,hashicorp/vault,Go,9,"A tool for secrets management, encryption as a service, and privileged access management",3819,27732,https://avatars.githubusercontent.com/u/761456?v=4
+6247705,testify,stretchr/testify,Go,23,A toolkit with common assertions and mocks that plays nicely with the standard library,1452,19720,https://avatars.githubusercontent.com/u/1841476?v=4
+52034309,zap,uber-go/zap,Go,17,"Blazing fast, structured, leveled logging in Go.",1326,18747,https://avatars.githubusercontent.com/u/19262598?v=4
+87617508,casbin,casbin/casbin,Go,41,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1569,14637,https://avatars.githubusercontent.com/u/27810343?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,13,Declarative continuous deployment for Kubernetes.,3860,13123,https://avatars.githubusercontent.com/u/30269780?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,56,Protect and discover secrets using Gitleaks 🔑,1200,12837,https://avatars.githubusercontent.com/u/90395851?v=4
 109162639,thanos,thanos-io/thanos,Go,5,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1867,11753,https://avatars.githubusercontent.com/u/49725059?v=4
-36960321,runc,opencontainers/runc,Go,9,CLI tool for spawning and running containers according to the OCI specification,1959,10372,https://avatars.githubusercontent.com/u/12563465?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,11,Automatically provision and manage TLS certificates in Kubernetes,1872,10355,https://avatars.githubusercontent.com/u/39950598?v=4
-326228917,katana,projectdiscovery/katana,Go,15,A next-generation crawling and spidering framework.,325,6524,https://avatars.githubusercontent.com/u/50994705?v=4
-170411418,keda,kedacore/keda,Go,9, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,802,6371,https://avatars.githubusercontent.com/u/49917779?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,8,A Kubernetes controller and tool for one-way encrypted Secrets,587,6200,https://avatars.githubusercontent.com/u/34656521?v=4
-166304026,sliver,BishopFox/sliver,Go,9,Adversary Emulation Framework,810,5812,https://avatars.githubusercontent.com/u/4523757?v=4
-276822250,kubevela,kubevela/kubevela,Go,5,The Modern Application Platform.,781,5259,https://avatars.githubusercontent.com/u/74584788?v=4
-299832860,livekit,livekit/livekit,Go,8,End-to-end stack for WebRTC. SFU media server and SDKs.,399,4996,https://avatars.githubusercontent.com/u/69438833?v=4
-74891203,aws-nuke,rebuy-de/aws-nuke,Go,4,Nuke a whole AWS account and delete all its resources.,618,4505,https://avatars.githubusercontent.com/u/1541072?v=4
-440752086,coder,coder/coder,Go,17,A tool that provisions remote development environments via Terraform,346,4421,https://avatars.githubusercontent.com/u/95932066?v=4
+43225113,yq,mikefarah/yq,Go,9,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",455,8637,https://avatars.githubusercontent.com/u/1151925?v=4
+222824662,dagger,dagger/dagger,Go,12,A programmable CI/CD engine that runs your pipelines in containers,428,8304,https://avatars.githubusercontent.com/u/78824383?v=4
+91054480,zerolog,rs/zerolog,Go,30,Zero Allocation JSON Logger,477,8221,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+40916314,dex,dexidp/dex,Go,9,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1512,8129,https://avatars.githubusercontent.com/u/42422344?v=4
+28366058,distribution,distribution/distribution,Go,6,"The toolkit to pack, ship, store, and deliver container content",2279,7543,https://avatars.githubusercontent.com/u/78096003?v=4
+147886080,crossplane,crossplane/crossplane,Go,4,Cloud Native Control Planes,732,7035,https://avatars.githubusercontent.com/u/45158470?v=4
+312629343,fscan,shadow1ng/fscan,Go,14,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1035,5880,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+11452538,alertmanager,prometheus/alertmanager,Go,3,Prometheus Alertmanager,1998,5698,https://avatars.githubusercontent.com/u/3380462?v=4
+58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,3,Add-on agent to generate and expose cluster-level metrics.,1726,4543,https://avatars.githubusercontent.com/u/13629408?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,3,Terraform provider for Azure Resource Manager,4080,4004,https://avatars.githubusercontent.com/u/761456?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,871,3904,https://avatars.githubusercontent.com/u/49998002?v=4
+96570421,go-cmp,google/go-cmp,Go,16,Package for comparing Go values in tests,209,3523,https://avatars.githubusercontent.com/u/1342004?v=4
+105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,1,Protobuf validation - v2 now in beta for Golang.,546,3232,https://avatars.githubusercontent.com/u/54191850?v=4
 175592968,volcano,volcano-sh/volcano,Go,6,A Cloud Native Batch System (Project under CNCF),705,3017,https://avatars.githubusercontent.com/u/47214749?v=4
-468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,50,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",102,1336,https://avatars.githubusercontent.com/u/100373852?v=4
-606125384,junodb,paypal/junodb,Go,140,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",66,1045,https://avatars.githubusercontent.com/u/476675?v=4
-566485695,vault-secrets-operator,hashicorp/vault-secrets-operator,Go,2,The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.,29,224,https://avatars.githubusercontent.com/u/761456?v=4
-642453909,explain-source-code-by-chatgpt,cuishuang/explain-source-code-by-chatgpt,Go,15,👂🏻 chatgpt讲解Go核心源码中每个文件，变量，结构体，方法的作用,8,182,https://avatars.githubusercontent.com/u/15921519?u=50092b3793a7f6b1c240de9b38e6baa7fe15ccd0&v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,5,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,488,2714,https://avatars.githubusercontent.com/u/68335991?v=4
+491101744,nexttrace,sjlleo/nexttrace,Go,118,An open source visual route tracking CLI tool,110,1744,https://avatars.githubusercontent.com/u/13616352?u=69f23f62f43cd477ea08a0ef0607921fbb82ab55&v=4
+79188507,logr,go-logr/logr,Go,3,A simple logging interface for Go,72,1000,https://avatars.githubusercontent.com/u/25166571?v=4
+634086144,DetectDee,piaolin/DetectDee,Go,23,"DetectDee: Hunt down social media accounts by username, email or phone across social networks.",50,431,https://avatars.githubusercontent.com/u/30925316?u=3b89ab3316e15118075ab40bad276bb0ad0fb54e&v=4
