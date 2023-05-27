@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,462,"A curated list of awesome Go frameworks, libraries and software",10982,102127,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,253,Production-Grade Container Scheduling and Management,36199,98672,https://avatars.githubusercontent.com/u/13629408?v=4
-29207621,caddy,caddyserver/caddy,Go,146,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3642,47418,https://avatars.githubusercontent.com/u/12955528?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,130,Official Go implementation of the Ethereum protocol,16667,42380,https://avatars.githubusercontent.com/u/6250754?v=4
-234231371,fiber,gofiber/fiber,Go,149,⚡️ Express inspired web framework written in Go,1320,26447,https://avatars.githubusercontent.com/u/59947262?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,249,Open Source realtime backend in 1 file,950,23493,https://avatars.githubusercontent.com/u/101000011?v=4
-135516270,k3s,k3s-io/k3s,Go,76,Lightweight Kubernetes,2058,23194,https://avatars.githubusercontent.com/u/49319725?v=4
+21540759,awesome-go,avelino/awesome-go,Go,462,"A curated list of awesome Go frameworks, libraries and software",10982,102134,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,253,Production-Grade Container Scheduling and Management,36200,98676,https://avatars.githubusercontent.com/u/13629408?v=4
+29207621,caddy,caddyserver/caddy,Go,146,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3643,47425,https://avatars.githubusercontent.com/u/12955528?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,130,Official Go implementation of the Ethereum protocol,16669,42381,https://avatars.githubusercontent.com/u/6250754?v=4
+234231371,fiber,gofiber/fiber,Go,149,⚡️ Express inspired web framework written in Go,1320,26448,https://avatars.githubusercontent.com/u/59947262?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,249,Open Source realtime backend in 1 file,950,23500,https://avatars.githubusercontent.com/u/101000011?v=4
+135516270,k3s,k3s-io/k3s,Go,76,Lightweight Kubernetes,2058,23195,https://avatars.githubusercontent.com/u/49319725?v=4
 192632000,dapr,dapr/dapr,Go,111,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1661,21250,https://avatars.githubusercontent.com/u/51932459?v=4
-50613991,harbor,goharbor/harbor,Go,63,"An open source trusted cloud native registry project that stores, signs, and scans content.",4351,20139,https://avatars.githubusercontent.com/u/40275816?v=4
-6247705,testify,stretchr/testify,Go,83,A toolkit with common assertions and mocks that plays nicely with the standard library,1456,19750,https://avatars.githubusercontent.com/u/1841476?v=4
+50613991,harbor,goharbor/harbor,Go,63,"An open source trusted cloud native registry project that stores, signs, and scans content.",4351,20142,https://avatars.githubusercontent.com/u/40275816?v=4
+6247705,testify,stretchr/testify,Go,83,A toolkit with common assertions and mocks that plays nicely with the standard library,1456,19751,https://avatars.githubusercontent.com/u/1841476?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,72,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1977,17374,https://avatars.githubusercontent.com/u/11985425?v=4
-87617508,casbin,casbin/casbin,Go,306,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1576,14816,https://avatars.githubusercontent.com/u/27810343?v=4
-36653430,nomad,hashicorp/nomad,Go,25,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1803,13605,https://avatars.githubusercontent.com/u/761456?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,98,Fast and customizable vulnerability scanner based on simple YAML based DSL.,1826,13043,https://avatars.githubusercontent.com/u/50994705?v=4
+87617508,casbin,casbin/casbin,Go,306,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1576,14818,https://avatars.githubusercontent.com/u/27810343?v=4
+36653430,nomad,hashicorp/nomad,Go,25,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1803,13606,https://avatars.githubusercontent.com/u/761456?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,98,Fast and customizable vulnerability scanner based on simple YAML based DSL.,1826,13044,https://avatars.githubusercontent.com/u/50994705?v=4
 6443435,nats-server,nats-io/nats-server,Go,31,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1239,12830,https://avatars.githubusercontent.com/u/10203055?v=4
-28366058,distribution,distribution/distribution,Go,31,"The toolkit to pack, ship, store, and deliver container content",2278,7554,https://avatars.githubusercontent.com/u/78096003?v=4
+28366058,distribution,distribution/distribution,Go,31,"The toolkit to pack, ship, store, and deliver container content",2278,7555,https://avatars.githubusercontent.com/u/78096003?v=4
 326228917,katana,projectdiscovery/katana,Go,112,A next-generation crawling and spidering framework.,327,6542,https://avatars.githubusercontent.com/u/50994705?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,19,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2298,6349,https://avatars.githubusercontent.com/u/36015203?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,19,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2298,6350,https://avatars.githubusercontent.com/u/36015203?v=4
 150713223,kubeedge,kubeedge/kubeedge,Go,16,Kubernetes Native Edge Computing Framework (project under CNCF),1538,5842,https://avatars.githubusercontent.com/u/41812520?v=4
 440752086,coder,coder/coder,Go,64,A tool that provisions remote development environments via Terraform,349,4437,https://avatars.githubusercontent.com/u/95932066?v=4
 49970739,datadog-agent,DataDog/datadog-agent,Go,13,Datadog Agent ,1070,2170,https://avatars.githubusercontent.com/u/365230?v=4
 265775217,bsc,bnb-chain/bsc,Go,7,A BNB Smart Chain client based on the go-ethereum fork,1103,2135,https://avatars.githubusercontent.com/u/45615063?v=4
-468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,115,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",104,1373,https://avatars.githubusercontent.com/u/100373852?v=4
-592748160,devpod,loft-sh/devpod,Go,205,"Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",29,903,https://avatars.githubusercontent.com/u/65466868?v=4
-620999276,mods,charmbracelet/mods,Go,309,AI on the command line,12,839,https://avatars.githubusercontent.com/u/57376114?v=4
+468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,115,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",105,1375,https://avatars.githubusercontent.com/u/100373852?v=4
+592748160,devpod,loft-sh/devpod,Go,205,"Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.",29,904,https://avatars.githubusercontent.com/u/65466868?v=4
+620999276,mods,charmbracelet/mods,Go,309,AI on the command line,12,849,https://avatars.githubusercontent.com/u/57376114?v=4
