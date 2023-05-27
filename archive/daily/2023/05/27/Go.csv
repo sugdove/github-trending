@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-31504491,echo,labstack/echo,Go,6,"High performance, minimalist Go web framework",2150,25732,https://avatars.githubusercontent.com/u/2624634?v=4
-167596393,k9s,derailed/k9s,Go,19,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1339,20903,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
-50613991,harbor,goharbor/harbor,Go,13,"An open source trusted cloud native registry project that stores, signs, and scans content.",4351,20142,https://avatars.githubusercontent.com/u/40275816?v=4
-6247705,testify,stretchr/testify,Go,13,A toolkit with common assertions and mocks that plays nicely with the standard library,1456,19751,https://avatars.githubusercontent.com/u/1841476?v=4
-129717717,loki,grafana/loki,Go,10,"Like Prometheus, but for logs.",2748,19174,https://avatars.githubusercontent.com/u/7195757?v=4
-52034309,zap,uber-go/zap,Go,16,"Blazing fast, structured, leveled logging in Go.",1330,18780,https://avatars.githubusercontent.com/u/19262598?v=4
-66841911,excelize,qax-os/excelize,Go,7,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1488,15188,https://avatars.githubusercontent.com/u/29733149?v=4
-87617508,casbin,casbin/casbin,Go,25,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1576,14818,https://avatars.githubusercontent.com/u/27810343?v=4
-36653430,nomad,hashicorp/nomad,Go,5,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1803,13606,https://avatars.githubusercontent.com/u/761456?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,13,Fast and customizable vulnerability scanner based on simple YAML based DSL.,1826,13044,https://avatars.githubusercontent.com/u/50994705?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,20,Protect and discover secrets using Gitleaks 🔑,1201,12933,https://avatars.githubusercontent.com/u/90395851?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,14,The snappy and most customisable cross platform/shell prompt renderer,2045,10932,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
-144849757,sealos,labring/sealos,Go,25,"Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io",1730,10435,https://avatars.githubusercontent.com/u/102226726?v=4
-247032621,go-admin,go-admin-team/go-admin,Go,15,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,1982,9167,https://avatars.githubusercontent.com/u/70429007?v=4
-14508450,gophish,gophish/gophish,Go,16,Open-Source Phishing Toolkit,1727,9070,https://avatars.githubusercontent.com/u/16602581?v=4
-43225113,yq,mikefarah/yq,Go,10,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",459,8667,https://avatars.githubusercontent.com/u/1151925?v=4
-312629343,fscan,shadow1ng/fscan,Go,10,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1039,5915,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+16752620,gogs,gogs/gogs,Go,15,Gogs is a painless self-hosted Git service,4732,42323,https://avatars.githubusercontent.com/u/6656686?v=4
+17728164,terraform,hashicorp/terraform,Go,10,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8643,37396,https://avatars.githubusercontent.com/u/761456?v=4
+72495579,gitea,go-gitea/gitea,Go,16,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",4644,36769,https://avatars.githubusercontent.com/u/12724356?v=4
+285864199,go-zero,zeromicro/go-zero,Go,5,A cloud-native Go microservices framework with cli tool for productivity.,3440,24325,https://avatars.githubusercontent.com/u/74225106?v=4
+48109239,cilium,cilium/cilium,Go,10,"eBPF-based Networking, Security, and Observability",2202,15441,https://avatars.githubusercontent.com/u/21054566?v=4
+118654121,skaffold,GoogleContainerTools/skaffold,Go,4,Easy and Repeatable Kubernetes Development,1554,13969,https://avatars.githubusercontent.com/u/38444003?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,10,Declarative continuous deployment for Kubernetes.,3875,13150,https://avatars.githubusercontent.com/u/30269780?v=4
+65434192,gjson,tidwall/gjson,Go,9,Get JSON values quickly - JSON parser for Go,785,12312,https://avatars.githubusercontent.com/u/1156077?u=73564c05a3110cfbd4bca3c1422401b078baf72d&v=4
+16554739,beats,elastic/beats,Go,1,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4758,11669,https://avatars.githubusercontent.com/u/6764390?v=4
+144849757,sealos,labring/sealos,Go,25,"Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io",1730,10436,https://avatars.githubusercontent.com/u/102226726?v=4
+359419233,kubeshark,kubeshark/kubeshark,Go,1,"The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes",344,9081,https://avatars.githubusercontent.com/u/99263827?v=4
+27051771,protobuf,golang/protobuf,Go,3,Go support for Google's protocol buffers,1592,9064,https://avatars.githubusercontent.com/u/4314092?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,10,Exporter for machine metrics,2089,8909,https://avatars.githubusercontent.com/u/3380462?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,2,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3563,8034,https://avatars.githubusercontent.com/u/66682517?v=4
+25923208,go-datastructures,Workiva/go-datastructures,Go,6,"A collection of useful, performant, and threadsafe Go datastructures.",826,6978,https://avatars.githubusercontent.com/u/1087529?v=4
+306366900,casdoor,casdoor/casdoor,Go,28,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT",737,6165,https://avatars.githubusercontent.com/u/72992104?v=4
+221849341,asynq,hibiken/asynq,Go,2,"Simple, reliable, and efficient distributed task queue in Go",448,6088,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
 52193726,sqlboiler,volatiletech/sqlboiler,Go,6,Generate a Go ORM tailored to your database schema.,495,5792,https://avatars.githubusercontent.com/u/22513357?v=4
-206213815,chaos-mesh,chaos-mesh/chaos-mesh,Go,5,A Chaos Engineering Platform for Kubernetes.,727,5716,https://avatars.githubusercontent.com/u/59082378?v=4
-258469100,flux2,fluxcd/flux2,Go,6,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,479,4893,https://avatars.githubusercontent.com/u/52158677?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,4,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,491,2727,https://avatars.githubusercontent.com/u/68335991?v=4
-617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,28,Giving Kubernetes Superpowers to everyone,245,2397,https://avatars.githubusercontent.com/u/128535266?v=4
-544278340,xxim-server,cherish-chat/xxim-server,Go,52,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,293,1762,https://avatars.githubusercontent.com/u/114845784?v=4
-224021526,agent,grafana/agent,Go,5,Vendor-neutral programmable observability pipelines.,337,1116,https://avatars.githubusercontent.com/u/7195757?v=4
-620999276,mods,charmbracelet/mods,Go,68,AI on the command line,12,849,https://avatars.githubusercontent.com/u/57376114?v=4
+267054247,grype,anchore/grype,Go,6,A vulnerability scanner for container images and filesystems,399,5785,https://avatars.githubusercontent.com/u/16208487?v=4
+262126497,syft,anchore/syft,Go,3,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,387,4170,https://avatars.githubusercontent.com/u/16208487?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,6,"Optimism is Ethereum, scaled.",1587,3883,https://avatars.githubusercontent.com/u/58791460?v=4
+302670797,scorecard,ossf/scorecard,Go,5,OpenSSF Scorecard - Security health metrics for Open Source,367,3440,https://avatars.githubusercontent.com/u/67707773?v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,28,Giving Kubernetes Superpowers to everyone,245,2400,https://avatars.githubusercontent.com/u/128535266?v=4
+502127166,guac,guacsec/guac,Go,6,GUAC aggregates software security metadata into a high fidelity graph database.,90,872,https://avatars.githubusercontent.com/u/111393891?v=4
+337764594,ibc-go,cosmos/ibc-go,Go,1,Interblockchain Communication Protocol (IBC) implementation in Golang.,355,372,https://avatars.githubusercontent.com/u/228843?v=4
