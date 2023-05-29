@@ -1,16 +1,14 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,466,"A curated list of awesome Go frameworks, libraries and software",10983,102222,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
-29207621,caddy,caddyserver/caddy,Go,152,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3646,47444,https://avatars.githubusercontent.com/u/12955528?v=4
-74175805,istio,istio/istio,Go,60,"Connect, secure, control, and observe services.",7130,33047,https://avatars.githubusercontent.com/u/23534644?v=4
-234231371,fiber,gofiber/fiber,Go,149,⚡️ Express inspired web framework written in Go,1323,26466,https://avatars.githubusercontent.com/u/59947262?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,206,Open Source realtime backend in 1 file,954,23534,https://avatars.githubusercontent.com/u/101000011?v=4
+21540759,awesome-go,avelino/awesome-go,Go,466,"A curated list of awesome Go frameworks, libraries and software",10983,102223,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
+234231371,fiber,gofiber/fiber,Go,149,⚡️ Express inspired web framework written in Go,1323,26467,https://avatars.githubusercontent.com/u/59947262?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,206,Open Source realtime backend in 1 file,954,23536,https://avatars.githubusercontent.com/u/101000011?v=4
 192632000,dapr,dapr/dapr,Go,103,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1660,21256,https://avatars.githubusercontent.com/u/51932459?v=4
 50613991,harbor,goharbor/harbor,Go,68,"An open source trusted cloud native registry project that stores, signs, and scans content.",4351,20147,https://avatars.githubusercontent.com/u/40275816?v=4
 6247705,testify,stretchr/testify,Go,80,A toolkit with common assertions and mocks that plays nicely with the standard library,1458,19754,https://avatars.githubusercontent.com/u/1841476?v=4
 180687624,trivy,aquasecurity/trivy,Go,90,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1725,17518,https://avatars.githubusercontent.com/u/12783832?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,71,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1977,17383,https://avatars.githubusercontent.com/u/11985425?v=4
 87617508,casbin,casbin/casbin,Go,316,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang",1577,14838,https://avatars.githubusercontent.com/u/27810343?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,103,Fast and customizable vulnerability scanner based on simple YAML based DSL.,1826,13070,https://avatars.githubusercontent.com/u/50994705?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,103,Fast and customizable vulnerability scanner based on simple YAML based DSL.,1826,13071,https://avatars.githubusercontent.com/u/50994705?v=4
 6443435,nats-server,nats-io/nats-server,Go,30,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1241,12836,https://avatars.githubusercontent.com/u/10203055?v=4
 44350607,dashboard,kubernetes/dashboard,Go,37,General-purpose web UI for Kubernetes clusters,3967,12614,https://avatars.githubusercontent.com/u/13629408?v=4
 65434192,gjson,tidwall/gjson,Go,90,Get JSON values quickly - JSON parser for Go,786,12324,https://avatars.githubusercontent.com/u/1156077?u=73564c05a3110cfbd4bca3c1422401b078baf72d&v=4
@@ -19,8 +17,7 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 222824662,dagger,dagger/dagger,Go,55,A programmable CI/CD engine that runs your pipelines in containers,429,8345,https://avatars.githubusercontent.com/u/78824383?v=4
 491539130,hertz,cloudwego/hertz,Go,57,Go HTTP framework with high-performance and strong-extensibility for building micro-services.,295,3717,https://avatars.githubusercontent.com/u/79236453?v=4
 136494223,controller-runtime,kubernetes-sigs/controller-runtime,Go,12,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),994,1980,https://avatars.githubusercontent.com/u/36015203?v=4
-544278340,xxim-server,cherish-chat/xxim-server,Go,225,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,301,1820,https://avatars.githubusercontent.com/u/114845784?v=4
+544278340,xxim-server,cherish-chat/xxim-server,Go,225,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,301,1822,https://avatars.githubusercontent.com/u/114845784?v=4
 468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,118,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",106,1389,https://avatars.githubusercontent.com/u/100373852?v=4
-606125384,junodb,paypal/junodb,Go,1050,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",74,1224,https://avatars.githubusercontent.com/u/476675?v=4
 611985985,ChatGPT-Proxy-V4,acheong08/ChatGPT-Proxy-V4,Go,36,Simple Cloudflare bypass for ChatGPT,256,992,https://avatars.githubusercontent.com/u/36258159?u=37b97d1f98960fc58536e99be308ff64e05cc7d9&v=4
 620999276,mods,charmbracelet/mods,Go,346,AI on the command line,14,886,https://avatars.githubusercontent.com/u/57376114?v=4
