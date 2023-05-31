@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,13,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18691,66006,https://avatars.githubusercontent.com/u/27259197?v=4
-6838921,prometheus,prometheus/prometheus,Go,21,The Prometheus monitoring system and time series database.,8183,48409,https://avatars.githubusercontent.com/u/3380462?v=4
-72495579,gitea,go-gitea/gitea,Go,26,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",4657,36849,https://avatars.githubusercontent.com/u/12724356?v=4
-13628513,logrus,sirupsen/logrus,Go,9,"Structured, pluggable logging for Go.",2237,22726,https://avatars.githubusercontent.com/u/97400?v=4
-165041732,kratos,go-kratos/kratos,Go,14,Your ultimate Go microservices framework for the cloud-native era.,3804,20691,https://avatars.githubusercontent.com/u/62791634?v=4
-56342508,jaeger,jaegertracing/jaeger,Go,6,"CNCF Jaeger, a Distributed Tracing Platform",2138,17684,https://avatars.githubusercontent.com/u/28545596?v=4
+7691631,moby,moby/moby,Go,13,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18691,66009,https://avatars.githubusercontent.com/u/27259197?v=4
+6838921,prometheus,prometheus/prometheus,Go,21,The Prometheus monitoring system and time series database.,8182,48413,https://avatars.githubusercontent.com/u/3380462?v=4
+72495579,gitea,go-gitea/gitea,Go,26,"Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD",4658,36851,https://avatars.githubusercontent.com/u/12724356?v=4
+13628513,logrus,sirupsen/logrus,Go,9,"Structured, pluggable logging for Go.",2238,22727,https://avatars.githubusercontent.com/u/97400?v=4
+165041732,kratos,go-kratos/kratos,Go,14,Your ultimate Go microservices framework for the cloud-native era.,3804,20692,https://avatars.githubusercontent.com/u/62791634?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,6,"CNCF Jaeger, a Distributed Tracing Platform",2138,17688,https://avatars.githubusercontent.com/u/28545596?v=4
 33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,5,gRPC to JSON proxy generator following the gRPC HTTP spec,1999,15518,https://avatars.githubusercontent.com/u/19352526?v=4
-48109239,cilium,cilium/cilium,Go,14,"eBPF-based Networking, Security, and Observability",2207,15487,https://avatars.githubusercontent.com/u/21054566?v=4
-62091339,kops,kubernetes/kops,Go,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",4590,14989,https://avatars.githubusercontent.com/u/13629408?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,5,Declarative continuous deployment for Kubernetes.,3891,13174,https://avatars.githubusercontent.com/u/30269780?v=4
-109162639,thanos,thanos-io/thanos,Go,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1867,11777,https://avatars.githubusercontent.com/u/49725059?v=4
-367284699,lima,lima-vm/lima,Go,10,"Linux virtual machines, typically on macOS, for running containerd",463,11576,https://avatars.githubusercontent.com/u/88128539?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,3,Exporter for machine metrics,2096,8925,https://avatars.githubusercontent.com/u/3380462?v=4
-281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,31,cqhttp的golang实现，轻量、原生跨平台.,1385,8477,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
+48109239,cilium,cilium/cilium,Go,14,"eBPF-based Networking, Security, and Observability",2207,15488,https://avatars.githubusercontent.com/u/21054566?v=4
+62091339,kops,kubernetes/kops,Go,4,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",4590,14990,https://avatars.githubusercontent.com/u/13629408?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,5,Declarative continuous deployment for Kubernetes.,3891,13175,https://avatars.githubusercontent.com/u/30269780?v=4
+109162639,thanos,thanos-io/thanos,Go,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1868,11778,https://avatars.githubusercontent.com/u/49725059?v=4
+367284699,lima,lima-vm/lima,Go,10,"Linux virtual machines, typically on macOS, for running containerd",463,11579,https://avatars.githubusercontent.com/u/88128539?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,3,Exporter for machine metrics,2095,8926,https://avatars.githubusercontent.com/u/3380462?v=4
+281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,31,cqhttp的golang实现，轻量、原生跨平台.,1385,8480,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
 146641150,pipeline,tektoncd/pipeline,Go,3,A cloud-native Pipeline resource.,1670,7851,https://avatars.githubusercontent.com/u/47602533?v=4
-9120526,pgx,jackc/pgx,Go,6,PostgreSQL driver and toolkit for Go,673,7204,https://avatars.githubusercontent.com/u/94130?v=4
-50629145,pprof,google/pprof,Go,6,pprof is a tool for visualization and analysis of profiling data,562,6544,https://avatars.githubusercontent.com/u/1342004?v=4
-333303663,bytebase,bytebase/bytebase,Go,12,Database CI/CD for DevOps teams. https://www.bytebase.com,383,5847,https://avatars.githubusercontent.com/u/74386897?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,149,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",577,5578,https://avatars.githubusercontent.com/u/128192713?v=4
+9120526,pgx,jackc/pgx,Go,6,PostgreSQL driver and toolkit for Go,673,7205,https://avatars.githubusercontent.com/u/94130?v=4
+50629145,pprof,google/pprof,Go,6,pprof is a tool for visualization and analysis of profiling data,562,6546,https://avatars.githubusercontent.com/u/1342004?v=4
+333303663,bytebase,bytebase/bytebase,Go,25,Database CI/CD for DevOps teams. https://www.bytebase.com,383,5853,https://avatars.githubusercontent.com/u/74386897?v=4
+615869301,LocalAI,go-skynet/LocalAI,Go,149,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",577,5596,https://avatars.githubusercontent.com/u/128192713?v=4
 276822250,kubevela,kubevela/kubevela,Go,6,The Modern Application Platform.,746,5299,https://avatars.githubusercontent.com/u/74584788?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,61,现代化、开源的 Linux 服务器运维管理面板。,380,4766,https://avatars.githubusercontent.com/u/109613420?v=4
-192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,6,,3414,4297,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
-169108858,kyverno,kyverno/kyverno,Go,15,Kubernetes Native Policy Management,582,3950,https://avatars.githubusercontent.com/u/68448710?v=4
-544278340,xxim-server,cherish-chat/xxim-server,Go,72,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,327,2052,https://avatars.githubusercontent.com/u/114845784?v=4
-618299849,azure-openai-proxy,stulzq/azure-openai-proxy,Go,25,Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4.,75,565,https://avatars.githubusercontent.com/u/13200155?u=b1e5e4480dcbe08df6fdc26e6d6e6c66d8790c10&v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,61,现代化、开源的 Linux 服务器运维管理面板。,380,4767,https://avatars.githubusercontent.com/u/109613420?v=4
+192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,6,,3415,4301,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
+169108858,kyverno,kyverno/kyverno,Go,15,Kubernetes Native Policy Management,583,3952,https://avatars.githubusercontent.com/u/68448710?v=4
+544278340,xxim-server,cherish-chat/xxim-server,Go,72,惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！,327,2060,https://avatars.githubusercontent.com/u/114845784?v=4
+618299849,azure-openai-proxy,stulzq/azure-openai-proxy,Go,25,Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4.,75,566,https://avatars.githubusercontent.com/u/13200155?u=b1e5e4480dcbe08df6fdc26e6d6e6c66d8790c10&v=4
