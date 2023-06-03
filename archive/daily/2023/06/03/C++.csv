@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
+9384267,electron,electron/electron,C++,13,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",14704,107622,https://avatars.githubusercontent.com/u/13409222?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,9,Protocol Buffers - Google's data interchange format,15036,59584,https://avatars.githubusercontent.com/u/26310541?v=4
+619959033,gpt4all,nomic-ai/gpt4all,C++,234,"gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue",4724,44431,https://avatars.githubusercontent.com/u/102670180?v=4
 39840932,googletest,google/googletest,C++,7,GoogleTest - Google Testing and Mocking Framework,9375,29773,https://avatars.githubusercontent.com/u/1342004?v=4
-116167731,yuzu,yuzu-emu/yuzu,C++,65,Nintendo Switch Emulator,2482,28534,https://avatars.githubusercontent.com/u/35075882?v=4
-81227005,faiss,facebookresearch/faiss,C++,39,A library for efficient similarity search and clustering of dense vectors.,2977,22197,https://avatars.githubusercontent.com/u/16943930?v=4
-191820100,mediapipe,google/mediapipe,C++,13,"Cross-platform, customizable ML solutions for live and streaming media.",4592,21996,https://avatars.githubusercontent.com/u/1342004?v=4
-65711522,Paddle,PaddlePaddle/Paddle,C++,3,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,5179,20344,https://avatars.githubusercontent.com/u/23534030?v=4
-18503721,yoga,facebook/yoga,C++,2,Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.,1382,16201,https://avatars.githubusercontent.com/u/69631?v=4
-79317191,typesense,typesense/typesense,C++,7,"Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",412,13490,https://avatars.githubusercontent.com/u/19822348?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3397,13077,https://avatars.githubusercontent.com/u/18461506?v=4
-38581626,pybind11,pybind/pybind11,C++,9,Seamless operability between C++11 and Python,1837,12859,https://avatars.githubusercontent.com/u/17565521?v=4
-9090933,capnproto,capnproto/capnproto,C++,4,Cap'n Proto serialization/RPC system - core tools and C++ library,841,9895,https://avatars.githubusercontent.com/u/29186932?v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,4,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2583,9767,https://avatars.githubusercontent.com/u/84565724?v=4
-108102826,carla,carla-simulator/carla,C++,6,Open-source simulator for autonomous driving research.,2906,9273,https://avatars.githubusercontent.com/u/33029185?v=4
+81227005,faiss,facebookresearch/faiss,C++,39,A library for efficient similarity search and clustering of dense vectors.,2976,22214,https://avatars.githubusercontent.com/u/16943930?v=4
+34777562,srs,ossrs/srs,C++,6,"SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.",4986,21772,https://avatars.githubusercontent.com/u/12165287?v=4
+197275130,winget-cli,microsoft/winget-cli,C++,9,Windows Package Manager CLI (aka winget),1290,20252,https://avatars.githubusercontent.com/u/6154722?v=4
+7056202,fmt,fmtlib/fmt,C++,12,A modern formatting library,2066,17056,https://avatars.githubusercontent.com/u/7280830?v=4
+126412363,simdjson,simdjson/simdjson,C++,10,Parsing gigabytes of JSON per second ,915,16973,https://avatars.githubusercontent.com/u/62337925?v=4
+1062572,Catch2,catchorg/Catch2,C++,6,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2863,16658,https://avatars.githubusercontent.com/u/33321405?v=4
+48009214,react-native-windows,microsoft/react-native-windows,C++,2,A framework for building native Windows apps with React.,1127,15449,https://avatars.githubusercontent.com/u/6154722?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3397,13078,https://avatars.githubusercontent.com/u/18461506?v=4
+1605598,bullet3,bulletphysics/bullet3,C++,3,"Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",2722,10738,https://avatars.githubusercontent.com/u/6955508?v=4
+28449431,scylladb,scylladb/scylladb,C++,9,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",1027,10127,https://avatars.githubusercontent.com/u/14364730?v=4
+131236938,drogon,drogonframework/drogon,C++,2,Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows,909,9304,https://avatars.githubusercontent.com/u/48876018?v=4
 7512484,ardupilot,ArduPilot/ardupilot,C++,3,"ArduPlane, ArduCopter, ArduRover, ArduSub source",14508,8461,https://avatars.githubusercontent.com/u/17919847?v=4
-130068982,taskflow,taskflow/taskflow,C++,15,A General-purpose Parallel and Heterogeneous Task Programming System,993,8308,https://avatars.githubusercontent.com/u/40002981?v=4
 15122806,benchmark,google/benchmark,C++,4,A microbenchmark support library,1480,7560,https://avatars.githubusercontent.com/u/1342004?v=4
-21530861,jsoncpp,open-source-parsers/jsoncpp,C++,3,A C++ library for interacting with JSON.,2530,7192,https://avatars.githubusercontent.com/u/8078093?v=4
-5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,1,PX4 Autopilot Software,12504,6519,https://avatars.githubusercontent.com/u/2096014?v=4
-15802263,ArduinoJson,bblanchon/ArduinoJson,C++,4,📟 JSON library for Arduino and embedded C++. Simple and efficient.,1078,6156,https://avatars.githubusercontent.com/u/5462433?v=4
-31197250,glog,google/glog,C++,2,C++ implementation of the Google logging module,1965,6143,https://avatars.githubusercontent.com/u/1342004?v=4
-36810120,WiFiManager,tzapu/WiFiManager,C++,3,ESP8266 WiFi Connection manager with web captive portal,1813,5843,https://avatars.githubusercontent.com/u/2983312?u=90830872e203ff3760d493192dd5c79ebca6678b&v=4
+50461701,serving,tensorflow/serving,C++,0,"A flexible, high-performance serving system for machine learning models",2203,5866,https://avatars.githubusercontent.com/u/15658638?v=4
 22660515,doctest,doctest/doctest,C++,6,The fastest feature-rich C++11/14/17/20/23 single-header testing framework,594,4942,https://avatars.githubusercontent.com/u/70880936?v=4
-167828165,FTXUI,ArthurSonzogni/FTXUI,C++,10,:computer: C++ Functional Terminal User Interface. :heart:,299,4607,https://avatars.githubusercontent.com/u/4759106?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,3,OpenVINO™ Toolkit repository,1687,4324,https://avatars.githubusercontent.com/u/55443902?v=4
-510313729,hybridclr,focus-creative-games/hybridclr,C++,43,"HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.",493,4019,https://avatars.githubusercontent.com/u/71439677?v=4
-65806293,ImGuizmo,CedricGuillemet/ImGuizmo,C++,2,Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui,674,2518,https://avatars.githubusercontent.com/u/1312968?u=09586c4d429addaa7fc099437bebda780a9e39ed&v=4
+47440536,cocos-engine,cocos/cocos-engine,C++,3,"Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.",1398,3846,https://avatars.githubusercontent.com/u/6937061?v=4
+341816758,react-native-mmkv,mrousavy/react-native-mmkv,C++,6,⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!,179,3664,https://avatars.githubusercontent.com/u/15199031?u=46da50e88594eb284cf249485f202d5d43d474d1&v=4
+24747723,cxxopts,jarro2783/cxxopts,C++,3,Lightweight C++ command line option parser,533,3581,https://avatars.githubusercontent.com/u/1456242?v=4
+410126695,R3nzSkin,R3nzTheCodeGOD/R3nzSkin,C++,8,Skin changer for League of Legends (LOL),320,1934,https://avatars.githubusercontent.com/u/58574988?u=4db6d96ab2cb6aeaaaff376e450d3a65755ddf34&v=4
+135363400,navigation2,ros-planning/navigation2,C++,3,ROS2 Navigation Framework and System,920,1498,https://avatars.githubusercontent.com/u/2328631?v=4
+556075876,Algorithms,Kumar-laxmi/Algorithms,C++,19,"A Repository for algorithms in C, C++, Python and Java",254,220,https://avatars.githubusercontent.com/u/76027425?u=638c04e45b7f62360b1688f66b9282bb5279304f&v=4
