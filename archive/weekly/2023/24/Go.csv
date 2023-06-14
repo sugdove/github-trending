@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-31288958,vault,hashicorp/vault,Go,55,"A tool for secrets management, encryption as a service, and privileged access management",3840,27865,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,56,The Kubernetes Package Manager,6690,24474,https://avatars.githubusercontent.com/u/15859888?v=4
-48003886,go-patterns,tmrts/go-patterns,Go,178,"Curated list of Go design patterns, recipes and idioms",2053,22260,https://avatars.githubusercontent.com/u/5067495?v=4
-26337322,rancher,rancher/rancher,Go,44,Complete container management platform,2809,21163,https://avatars.githubusercontent.com/u/9343010?v=4
-208728772,milvus,milvus-io/milvus,Go,317,"A cloud-native vector database, storage for next generation AI applications",2251,19863,https://avatars.githubusercontent.com/u/51735404?v=4
-27729907,grpc-go,grpc/grpc-go,Go,156,The Go language implementation of gRPC. HTTP/2 based RPC,4014,18304,https://avatars.githubusercontent.com/u/7802525?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,108,Network-wide ads & trackers blocking DNS server,1479,17510,https://avatars.githubusercontent.com/u/8361145?v=4
-48109239,cilium,cilium/cilium,Go,73,"eBPF-based Networking, Security, and Observability",2227,15617,https://avatars.githubusercontent.com/u/21054566?v=4
-434218673,zincsearch,zincsearch/zincsearch,Go,52,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",653,15001,https://avatars.githubusercontent.com/u/129023705?v=4
-533087958,d2,terrastruct/d2,Go,87,D2 is a modern diagram scripting language that turns text to diagrams.,309,13649,https://avatars.githubusercontent.com/u/80369600?v=4
-118105436,migrate,golang-migrate/migrate,Go,166,Database migrations. CLI and Golang library.,1177,11637,https://avatars.githubusercontent.com/u/35595841?v=4
-193833307,listmonk,knadh/listmonk,Go,364,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",905,10682,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
-144849757,sealos,labring/sealos,Go,90,"Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud. ",1752,10608,https://avatars.githubusercontent.com/u/102226726?v=4
-154643390,phoneinfoga,sundowndev/phoneinfoga,Go,59,Information gathering framework for phone numbers,2878,9894,https://avatars.githubusercontent.com/u/16480203?u=736dd20996f73fe51ad2ee2c8dc058d9e89c7a69&v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,36,Terraform AWS provider,8065,8622,https://avatars.githubusercontent.com/u/761456?v=4
-327859577,juicefs,juicedata/juicefs,Go,48,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,712,8143,https://avatars.githubusercontent.com/u/27241737?v=4
-273132277,HackBrowserData,moonD4rk/HackBrowserData,Go,129,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,1278,7866,https://avatars.githubusercontent.com/u/24284231?u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4
-23267883,semaphore,ansible-semaphore/semaphore,Go,574,Modern UI for Ansible,779,6806,https://avatars.githubusercontent.com/u/10135719?v=4
-67828134,cri-o,cri-o/cri-o,Go,24,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,953,4606,https://avatars.githubusercontent.com/u/29074118?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,64,"Optimism is Ethereum, scaled.",1736,4002,https://avatars.githubusercontent.com/u/58791460?v=4
-248790367,gocron,go-co-op/gocron,Go,65,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,226,3417,https://avatars.githubusercontent.com/u/62412798?v=4
-175592968,volcano,volcano-sh/volcano,Go,40,A Cloud Native Batch System (Project under CNCF),713,3080,https://avatars.githubusercontent.com/u/47214749?v=4
-414333257,whatsmeow,tulir/whatsmeow,Go,26,Go library for the WhatsApp web multidevice API,228,1104,https://avatars.githubusercontent.com/u/4224639?v=4
-603535454,langchaingo,tmc/langchaingo,Go,87,LangChain for Go,65,438,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+31288958,vault,hashicorp/vault,Go,59,"A tool for secrets management, encryption as a service, and privileged access management",3841,27867,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,56,The Kubernetes Package Manager,6689,24475,https://avatars.githubusercontent.com/u/15859888?v=4
+48003886,go-patterns,tmrts/go-patterns,Go,187,"Curated list of Go design patterns, recipes and idioms",2053,22264,https://avatars.githubusercontent.com/u/5067495?v=4
+26337322,rancher,rancher/rancher,Go,44,Complete container management platform,2810,21166,https://avatars.githubusercontent.com/u/9343010?v=4
+208728772,milvus,milvus-io/milvus,Go,307,"A cloud-native vector database, storage for next generation AI applications",2252,19872,https://avatars.githubusercontent.com/u/51735404?v=4
+27729907,grpc-go,grpc/grpc-go,Go,148,The Go language implementation of gRPC. HTTP/2 based RPC,4016,18307,https://avatars.githubusercontent.com/u/7802525?v=4
+21827146,seaweedfs,seaweedfs/seaweedfs,Go,126,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",1984,17560,https://avatars.githubusercontent.com/u/11985425?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,107,Network-wide ads & trackers blocking DNS server,1479,17511,https://avatars.githubusercontent.com/u/8361145?v=4
+48109239,cilium,cilium/cilium,Go,73,"eBPF-based Networking, Security, and Observability",2227,15618,https://avatars.githubusercontent.com/u/21054566?v=4
+434218673,zincsearch,zincsearch/zincsearch,Go,58,"ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",654,15009,https://avatars.githubusercontent.com/u/129023705?v=4
+533087958,d2,terrastruct/d2,Go,94,D2 is a modern diagram scripting language that turns text to diagrams.,310,13652,https://avatars.githubusercontent.com/u/80369600?v=4
+118105436,migrate,golang-migrate/migrate,Go,155,Database migrations. CLI and Golang library.,1178,11639,https://avatars.githubusercontent.com/u/35595841?v=4
+193833307,listmonk,knadh/listmonk,Go,553,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",907,10688,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
+144849757,sealos,labring/sealos,Go,130,"Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud. ",1754,10616,https://avatars.githubusercontent.com/u/102226726?v=4
+154643390,phoneinfoga,sundowndev/phoneinfoga,Go,62,Information gathering framework for phone numbers,2878,9897,https://avatars.githubusercontent.com/u/16480203?u=736dd20996f73fe51ad2ee2c8dc058d9e89c7a69&v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,32,Terraform AWS provider,8067,8623,https://avatars.githubusercontent.com/u/761456?v=4
+327859577,juicefs,juicedata/juicefs,Go,48,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,712,8144,https://avatars.githubusercontent.com/u/27241737?v=4
+273132277,HackBrowserData,moonD4rk/HackBrowserData,Go,78,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,1278,7867,https://avatars.githubusercontent.com/u/24284231?u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4
+23267883,semaphore,ansible-semaphore/semaphore,Go,569,Modern UI for Ansible,780,6806,https://avatars.githubusercontent.com/u/10135719?v=4
+67828134,cri-o,cri-o/cri-o,Go,24,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,954,4606,https://avatars.githubusercontent.com/u/29074118?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,70,"Optimism is Ethereum, scaled.",1740,4002,https://avatars.githubusercontent.com/u/58791460?v=4
+248790367,gocron,go-co-op/gocron,Go,64,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,227,3420,https://avatars.githubusercontent.com/u/62412798?v=4
+175592968,volcano,volcano-sh/volcano,Go,41,A Cloud Native Batch System (Project under CNCF),713,3080,https://avatars.githubusercontent.com/u/47214749?v=4
+414333257,whatsmeow,tulir/whatsmeow,Go,25,Go library for the WhatsApp web multidevice API,228,1104,https://avatars.githubusercontent.com/u/4224639?v=4
+603535454,langchaingo,tmc/langchaingo,Go,91,LangChain for Go,65,444,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
