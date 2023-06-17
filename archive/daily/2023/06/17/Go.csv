@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,36,Production-Grade Container Scheduling and Management,36414,99229,https://avatars.githubusercontent.com/u/13629408?v=4
-20904437,gin,gin-gonic/gin,Go,27,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7535,69462,https://avatars.githubusercontent.com/u/7894478?v=4
-7691631,moby,moby/moby,Go,15,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18712,66139,https://avatars.githubusercontent.com/u/27259197?v=4
-6838921,prometheus,prometheus/prometheus,Go,25,The Prometheus monitoring system and time series database.,8229,48652,https://avatars.githubusercontent.com/u/3380462?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,5,gRPC to JSON proxy generator following the gRPC HTTP spec,2011,15626,https://avatars.githubusercontent.com/u/19352526?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,22,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",2310,14586,https://avatars.githubusercontent.com/u/71564206?v=4
+23096959,go,golang/go,Go,24,The Go programming language,16697,112217,https://avatars.githubusercontent.com/u/4314092?v=4
+7691631,moby,moby/moby,Go,15,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18713,66138,https://avatars.githubusercontent.com/u/27259197?v=4
+6838921,prometheus,prometheus/prometheus,Go,25,The Prometheus monitoring system and time series database.,8229,48651,https://avatars.githubusercontent.com/u/3380462?v=4
+6247705,testify,stretchr/testify,Go,12,A toolkit with common assertions and mocks that plays nicely with the standard library,1468,19916,https://avatars.githubusercontent.com/u/1841476?v=4
+13624859,websocket,gorilla/websocket,Go,13,"A fast, well-tested and widely used WebSocket implementation for Go.",3349,19213,https://avatars.githubusercontent.com/u/489566?v=4
+72477752,pulumi,pulumi/pulumi,Go,11,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,910,16291,https://avatars.githubusercontent.com/u/21992475?v=4
 8966356,packer,hashicorp/packer,Go,7,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3320,14462,https://avatars.githubusercontent.com/u/761456?v=4
-33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,5356,12997,https://avatars.githubusercontent.com/u/5713248?v=4
-44350607,dashboard,kubernetes/dashboard,Go,6,General-purpose web UI for Kubernetes clusters,3974,12672,https://avatars.githubusercontent.com/u/13629408?v=4
-148545807,kind,kubernetes-sigs/kind,Go,5,Kubernetes IN Docker - local clusters for testing Kubernetes,1382,11651,https://avatars.githubusercontent.com/u/36015203?v=4
-14508450,gophish,gophish/gophish,Go,11,Open-Source Phishing Toolkit,1741,9190,https://avatars.githubusercontent.com/u/16602581?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,6,Code Intelligence Platform,972,7971,https://avatars.githubusercontent.com/u/3979584?v=4
-99143276,velero,vmware-tanzu/velero,Go,4,Backup and migrate Kubernetes applications and their persistent volumes,1226,7410,https://avatars.githubusercontent.com/u/54452117?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,108,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",668,7123,https://avatars.githubusercontent.com/u/128192713?v=4
-53174289,terratest,gruntwork-io/terratest,Go,9, Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.,1259,6911,https://avatars.githubusercontent.com/u/17118990?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2315,6401,https://avatars.githubusercontent.com/u/36015203?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,6,A Kubernetes controller and tool for one-way encrypted Secrets,590,6270,https://avatars.githubusercontent.com/u/34656521?v=4
-90798757,kafka-go,segmentio/kafka-go,Go,4,Kafka library in Go,682,6210,https://avatars.githubusercontent.com/u/819518?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,204,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,478,5932,https://avatars.githubusercontent.com/u/109613420?v=4
-288482469,go-openai,sashabaranov/go-openai,Go,16,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",717,5516,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-598539671,Feishu-OpenAI,ConnectAI-E/Feishu-OpenAI,Go,26,🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀,778,4528,https://avatars.githubusercontent.com/u/130196328?v=4
-140958903,expr,antonmedv/expr,Go,7,Expression language and expression evaluation for Go,295,3823,https://avatars.githubusercontent.com/u/141232?u=32c3c767d77f4bf7eb66499cb4898f88472d7d52&v=4
-125253663,go-containerregistry,google/go-containerregistry,Go,1,Go library and CLIs for working with container registries,448,2475,https://avatars.githubusercontent.com/u/1342004?v=4
-606125384,junodb,paypal/junodb,Go,49,"JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.",98,1736,https://avatars.githubusercontent.com/u/476675?v=4
-652278230,golang-interview-prep,MatthewJamesBoyle/golang-interview-prep,Go,106,,51,309,https://avatars.githubusercontent.com/u/3738421?u=5815ad71bb1a0ceea0219b914d61ce453f4e4764&v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,11,The most customisable and low-latency cross platform/shell prompt renderer,2037,11113,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
+9524057,node_exporter,prometheus/node_exporter,Go,3,Exporter for machine metrics,2107,9003,https://avatars.githubusercontent.com/u/3380462?v=4
+40916314,dex,dexidp/dex,Go,4,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1522,8174,https://avatars.githubusercontent.com/u/42422344?v=4
+48714685,opa,open-policy-agent/opa,Go,5,"An open source, general-purpose policy engine.",1137,8112,https://avatars.githubusercontent.com/u/16468693?v=4
+66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2757,7749,https://avatars.githubusercontent.com/u/13629408?v=4
+50629145,pprof,google/pprof,Go,1,pprof is a tool for visualization and analysis of profiling data,562,6589,https://avatars.githubusercontent.com/u/1342004?v=4
+244694886,nightingale,ccfos/nightingale,Go,8,"An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",1098,6507,https://avatars.githubusercontent.com/u/96813578?v=4
+11759482,godotenv,joho/godotenv,Go,2,A Go port of Ruby's dotenv library (Loads environment variables from .env files),346,6270,https://avatars.githubusercontent.com/u/4092?u=57ba376fe5e8346fdad11d8f4dbae07562a7ff8b&v=4
+166304026,sliver,BishopFox/sliver,Go,5,Adversary Emulation Framework,833,5944,https://avatars.githubusercontent.com/u/4523757?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,204,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,479,5938,https://avatars.githubusercontent.com/u/109613420?v=4
+11452538,alertmanager,prometheus/alertmanager,Go,4,Prometheus Alertmanager,2011,5757,https://avatars.githubusercontent.com/u/3380462?v=4
+288482469,go-openai,sashabaranov/go-openai,Go,16,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",717,5517,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+79954708,go-tools,dominikh/go-tools,Go,2,Staticcheck - The advanced Go linter,339,5409,https://avatars.githubusercontent.com/u/39825?u=227ba336785f225edf0714a2763ade87c956c32d&v=4
+247714750,zitadel,zitadel/zitadel,Go,8,ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.,191,3657,https://avatars.githubusercontent.com/u/70011121?v=4
+19608522,google-cloud-go,googleapis/google-cloud-go,Go,1,Google Cloud Client Libraries for Go.,1184,3312,https://avatars.githubusercontent.com/u/16785467?v=4
+329821568,EHole,EdgeSecurityTeam/EHole,Go,4,EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具,350,2194,https://avatars.githubusercontent.com/u/72502034?v=4
+474521466,helmfile,helmfile/helmfile,Go,13,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",157,2088,https://avatars.githubusercontent.com/u/83191469?v=4
+652278230,golang-interview-prep,MatthewJamesBoyle/golang-interview-prep,Go,106,,52,310,https://avatars.githubusercontent.com/u/3738421?u=5815ad71bb1a0ceea0219b914d61ce453f4e4764&v=4
