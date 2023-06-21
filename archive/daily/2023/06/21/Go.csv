@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-11225014,etcd,etcd-io/etcd,Go,11,Distributed reliable key-value store for the most critical data of a distributed system,9304,43741,https://avatars.githubusercontent.com/u/41972792?v=4
-13855476,gorm,go-gorm/gorm,Go,12,"The fantastic ORM library for Golang, aims to be developer friendly",3617,32759,https://avatars.githubusercontent.com/u/15127678?v=4
-234231371,fiber,gofiber/fiber,Go,32,⚡️ Express inspired web framework written in Go,1342,26837,https://avatars.githubusercontent.com/u/59947262?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,34,Open Source realtime backend in 1 file,978,24110,https://avatars.githubusercontent.com/u/101000011?v=4
-26337322,rancher,rancher/rancher,Go,4,Complete container management platform,2823,21200,https://avatars.githubusercontent.com/u/9343010?v=4
-54400687,k6,grafana/k6,Go,12,"A modern load testing tool, using Go and JavaScript - https://k6.io",1081,20698,https://avatars.githubusercontent.com/u/7195757?v=4
-50613991,harbor,goharbor/harbor,Go,10,"An open source trusted cloud native registry project that stores, signs, and scans content.",4415,20299,https://avatars.githubusercontent.com/u/40275816?v=4
-66841911,excelize,qax-os/excelize,Go,8,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1509,15360,https://avatars.githubusercontent.com/u/29733149?v=4
-36071697,hydra,ory/hydra,Go,2,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",1423,14138,https://avatars.githubusercontent.com/u/25334553?v=4
-7083242,mysql,go-sql-driver/mysql,Go,5,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2254,13393,https://avatars.githubusercontent.com/u/3002971?v=4
-44350607,dashboard,kubernetes/dashboard,Go,9,General-purpose web UI for Kubernetes clusters,3983,12693,https://avatars.githubusercontent.com/u/13629408?v=4
-80087836,badger,dgraph-io/badger,Go,6,Fast key-value DB in Go.,1085,12376,https://avatars.githubusercontent.com/u/13958706?v=4
-11206255,sarama,Shopify/sarama,Go,3,Sarama is a Go library for Apache Kafka.,1674,10062,https://avatars.githubusercontent.com/u/8085?v=4
-95761244,gf,gogf/gf,Go,9,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1369,9430,https://avatars.githubusercontent.com/u/46776614?v=4
-367758176,dtm,dtm-labs/dtm,Go,9,"A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",951,8814,https://avatars.githubusercontent.com/u/6055142?v=4
-93928882,swag,swaggo/swag,Go,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1050,8343,https://avatars.githubusercontent.com/u/29616670?v=4
-542931741,answer,answerdev/answer,Go,11,"An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",433,7073,https://avatars.githubusercontent.com/u/114210575?v=4
-7823926,client_golang,prometheus/client_golang,Go,0,Prometheus instrumentation library for Go applications,1095,4651,https://avatars.githubusercontent.com/u/3380462?v=4
-535304995,Havoc,HavocFramework/Havoc,Go,9,The Havoc Framework.,670,4432,https://avatars.githubusercontent.com/u/110123898?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,878,3984,https://avatars.githubusercontent.com/u/49998002?v=4
-71487396,tflint,terraform-linters/tflint,Go,4,A Pluggable Terraform Linter,320,3980,https://avatars.githubusercontent.com/u/54197850?v=4
-509091576,sing-box,SagerNet/sing-box,Go,13,The universal proxy platform,469,3785,https://avatars.githubusercontent.com/u/83217677?v=4
-175592968,volcano,volcano-sh/volcano,Go,5,A Cloud Native Batch System (Project under CNCF),718,3098,https://avatars.githubusercontent.com/u/47214749?v=4
-595398563,mantra,MrEmpy/mantra,Go,33,「🔑」A tool used to hunt down API key leaks in JS files and pages,13,207,https://avatars.githubusercontent.com/u/71796063?u=4c3d14c00cfcb1db152586ec7b92601a8e3b8918&v=4
-654852803,surf,assetnote/surf,Go,14,"Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.",8,131,https://avatars.githubusercontent.com/u/35264812?v=4
+17728164,terraform,hashicorp/terraform,Go,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8695,37767,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,13,A Commander for modern Go CLI interactions,2694,32269,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+14125254,consul,hashicorp/consul,Go,2,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4328,26573,https://avatars.githubusercontent.com/u/761456?v=4
+44498957,fasthttp,valyala/fasthttp,Go,4,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,1648,19720,https://avatars.githubusercontent.com/u/283442?u=8146e09c6497196364b9505b3d1fcaf316f994d0&v=4
+52034309,zap,uber-go/zap,Go,5,"Blazing fast, structured, leveled logging in Go.",1344,18974,https://avatars.githubusercontent.com/u/19262598?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,24,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",2317,14664,https://avatars.githubusercontent.com/u/71564206?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,14,Declarative continuous deployment for Kubernetes.,3948,13369,https://avatars.githubusercontent.com/u/30269780?v=4
+33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,5363,13008,https://avatars.githubusercontent.com/u/5713248?v=4
+6443435,nats-server,nats-io/nats-server,Go,9,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1253,12940,https://avatars.githubusercontent.com/u/10203055?v=4
+44350607,dashboard,kubernetes/dashboard,Go,9,General-purpose web UI for Kubernetes clusters,3984,12695,https://avatars.githubusercontent.com/u/13629408?v=4
+62921553,rook,rook/rook,Go,8,Storage Orchestration for Kubernetes,2537,11082,https://avatars.githubusercontent.com/u/22860722?v=4
+291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,26,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,2444,10780,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
+37334619,mock,golang/mock,Go,6,GoMock is a mocking framework for the Go programming language.,616,8993,https://avatars.githubusercontent.com/u/4314092?v=4
+93928882,swag,swaggo/swag,Go,8,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1050,8345,https://avatars.githubusercontent.com/u/29616670?v=4
+66509131,client-go,kubernetes/client-go,Go,2,Go client for Kubernetes.,2758,7755,https://avatars.githubusercontent.com/u/13629408?v=4
+81355383,mongo-go-driver,mongodb/mongo-go-driver,Go,2,The Official Golang driver for MongoDB,865,7459,https://avatars.githubusercontent.com/u/45120?v=4
+615869301,LocalAI,go-skynet/LocalAI,Go,75,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",693,7409,https://avatars.githubusercontent.com/u/128192713?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,17,"Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.",976,6759,https://avatars.githubusercontent.com/u/126152966?v=4
+50629145,pprof,google/pprof,Go,2,pprof is a tool for visualization and analysis of profiling data,564,6601,https://avatars.githubusercontent.com/u/1342004?v=4
+166304026,sliver,BishopFox/sliver,Go,9,Adversary Emulation Framework,840,5970,https://avatars.githubusercontent.com/u/4523757?v=4
+14008364,copier,jinzhu/copier,Go,7,"Copier for golang, copy value from struct to struct and more",430,4381,https://avatars.githubusercontent.com/u/6843?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,878,3985,https://avatars.githubusercontent.com/u/49998002?v=4
+36960293,runtime-spec,opencontainers/runtime-spec,Go,3,OCI Runtime Specification,532,2849,https://avatars.githubusercontent.com/u/12563465?v=4
+595398563,mantra,MrEmpy/mantra,Go,33,「🔑」A tool used to hunt down API key leaks in JS files and pages,14,210,https://avatars.githubusercontent.com/u/71796063?u=4c3d14c00cfcb1db152586ec7b92601a8e3b8918&v=4
+654743668,imersao13,devfullcycle/imersao13,Go,29,,13,48,https://avatars.githubusercontent.com/u/91744653?v=4
