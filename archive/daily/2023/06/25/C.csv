@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,47,Linux kernel source tree,48630,153599,https://avatars.githubusercontent.com/u/1024025?v=4
-10744183,netdata,netdata/netdata,C,8,"Real-time performance monitoring, done right! https://www.netdata.cloud",5546,63473,https://avatars.githubusercontent.com/u/43390781?v=4
-246335987,Ventoy,ventoy/Ventoy,C,36,A new bootable USB solution.,3533,50156,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
-5101141,jq,jqlang/jq,C,6,Command-line JSON processor,1454,25246,https://avatars.githubusercontent.com/u/104800540?v=4
-1357796,emscripten,emscripten-core/emscripten,C,4,Emscripten: An LLVM-to-WebAssembly Compiler,3094,23900,https://avatars.githubusercontent.com/u/46011144?v=4
-6201092,mpv,mpv-player/mpv,C,13,🎥 Command line video player,2619,22722,https://avatars.githubusercontent.com/u/2550273?v=4
+111583593,scrcpy,Genymobile/scrcpy,C,88,Display and control your Android device,8855,86647,https://avatars.githubusercontent.com/u/3427627?v=4
+246335987,Ventoy,ventoy/Ventoy,C,36,A new bootable USB solution.,3558,50172,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
+1614410,FFmpeg,FFmpeg/FFmpeg,C,25,Mirror of https://git.ffmpeg.org/ffmpeg.git,11024,36891,https://avatars.githubusercontent.com/u/729418?v=4
+569041,curl,curl/curl,C,11,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",5817,30509,https://avatars.githubusercontent.com/u/16928085?v=4
+102578345,lede,coolsnowwolf/lede,C,4,Lean's LEDE source,19108,26300,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+6201092,mpv,mpv-player/mpv,C,13,🎥 Command line video player,2619,22723,https://avatars.githubusercontent.com/u/2550273?v=4
 80286288,Tasmota,arendst/Tasmota,C,4,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4441,19862,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-37912398,nginx,nginx/nginx,C,3,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",6358,18622,https://avatars.githubusercontent.com/u/1412239?v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,6,Open-source keyboard firmware for Atmel AVR and Arm USB families,32668,15316,https://avatars.githubusercontent.com/u/25358678?v=4
-84240850,timescaledb,timescale/timescaledb,C,3,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,797,15117,https://avatars.githubusercontent.com/u/8986001?v=4
-65899476,esp-idf,espressif/esp-idf,C,3,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6547,10769,https://avatars.githubusercontent.com/u/9460735?v=4
-3199002,linux,raspberrypi/linux,C,2,Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/,4543,9823,https://avatars.githubusercontent.com/u/1294177?v=4
-3791835,darktable,darktable-org/darktable,C,2,darktable is an open source photography workflow application and raw developer,1003,7750,https://avatars.githubusercontent.com/u/1561544?v=4
-88327406,xmrig,xmrig/xmrig,C,2,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",3425,7647,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
-40556106,wazuh,wazuh/wazuh,C,4,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1054,6152,https://avatars.githubusercontent.com/u/13752566?v=4
-236648333,MangoHud,flightlessmango/MangoHud,C,2,"A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb",206,4898,https://avatars.githubusercontent.com/u/42713625?u=339ce9ed66185e7341280d54133f8c123dd0c8e4&v=4
-40306512,LuaJIT,LuaJIT/LuaJIT,C,6,Mirror of the LuaJIT git repository,837,3861,https://avatars.githubusercontent.com/u/11773774?v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,4,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",761,3753,https://avatars.githubusercontent.com/u/62360046?v=4
-18551709,3proxy,3proxy/3proxy,C,2,3proxy - tiny free proxy server,711,3084,https://avatars.githubusercontent.com/u/75127765?v=4
-27085821,stellar-core,stellar/stellar-core,C,1,stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network,1022,3047,https://avatars.githubusercontent.com/u/7386716?v=4
-96348842,dpdk,DPDK/dpdk,C,2,Data Plane Development Kit,1042,2498,https://avatars.githubusercontent.com/u/29926404?v=4
-47648456,espeak-ng,espeak-ng/espeak-ng,C,1,eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.,677,2116,https://avatars.githubusercontent.com/u/16214005?v=4
-537042935,bare-metal-programming-guide,cpq/bare-metal-programming-guide,C,6,A bare metal programming guide (ARM microcontrollers),129,1783,https://avatars.githubusercontent.com/u/601816?u=ae928b8cd7f020f7a8d2f4eadc249b75bd1ffb48&v=4
-505613691,Onion,OnionUI/Onion,C,5,OS overhaul for Miyoo Mini ,86,1553,https://avatars.githubusercontent.com/u/109221246?v=4
-12756230,form,vermaseren/form,C,10,The FORM project for symbolic manipulation of very big expressions,102,877,https://avatars.githubusercontent.com/u/5435666?v=4
+45821540,openwrt,openwrt/openwrt,C,9,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,8826,15397,https://avatars.githubusercontent.com/u/2528830?v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,6,Open-source keyboard firmware for Atmel AVR and Arm USB families,32670,15317,https://avatars.githubusercontent.com/u/25358678?v=4
+13836499,raylib,raysan5/raylib,C,11,A simple and easy-to-use library to enjoy videogames programming,1573,13335,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
+40217904,sway,swaywm/sway,C,5,i3-compatible Wayland compositor,1008,12547,https://avatars.githubusercontent.com/u/32400794?v=4
+179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,8,OpenCore bootloader,2026,11617,https://avatars.githubusercontent.com/u/39672954?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C,4,Arduino core for the ESP32,6866,10921,https://avatars.githubusercontent.com/u/9460735?v=4
+689344,RetroArch,libretro/RetroArch,C,9,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1598,8097,https://avatars.githubusercontent.com/u/1812827?v=4
+64060314,TheFatRat,screetsec/TheFatRat,C,2,"Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .",2172,7862,https://avatars.githubusercontent.com/u/17976841?u=420992b910333e2c7f367172c4c2d69ebcf8d188&v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,13,Flipper Zero firmware source code,2099,7578,https://avatars.githubusercontent.com/u/57576566?v=4
+59676171,klipper,Klipper3d/klipper,C,4,Klipper is a 3d-printer firmware,4613,6944,https://avatars.githubusercontent.com/u/90982958?v=4
+330008801,SDL,libsdl-org/SDL,C,6,Simple Directmedia Layer,1128,5946,https://avatars.githubusercontent.com/u/77683370?v=4
+9982112,minhook,TsudaKageyu/minhook,C,2,The Minimalistic x86/x64 API Hooking Library for Windows,787,3392,https://avatars.githubusercontent.com/u/2161941?u=2b803bf7e7d7a9cd5654cb13d65974a13d560853&v=4
+440436833,dperf,baidu/dperf,C,30,dperf is a DPDK based 100Gbps network performance and load testing software.,330,3091,https://avatars.githubusercontent.com/u/13245940?v=4
+203759896,immortalwrt,immortalwrt/immortalwrt,C,7,An opensource OpenWrt variant for mainland China users.,1070,2546,https://avatars.githubusercontent.com/u/53193414?v=4
+241270996,xemu,xemu-project/xemu,C,2,"Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",207,1888,https://avatars.githubusercontent.com/u/61253676?v=4
+270692521,zmk,zmkfirmware/zmk,C,0,ZMK Firmware Repository,1759,1693,https://avatars.githubusercontent.com/u/66629601?v=4
+228103273,nuttx,apache/nuttx,C,2,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",732,1448,https://avatars.githubusercontent.com/u/47359?v=4
+573906622,OpenEPaperLink,jjwbruijn/OpenEPaperLink,C,1,,14,207,https://avatars.githubusercontent.com/u/2544995?v=4
