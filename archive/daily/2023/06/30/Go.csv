@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6838921,prometheus,prometheus/prometheus,Go,16,The Prometheus monitoring system and time series database.,8257,48811,https://avatars.githubusercontent.com/u/3380462?v=4
-5271882,build-web-application-with-golang,astaxie/build-web-application-with-golang,Go,4,A golang ebook intro how to build a web with golang,10752,42122,https://avatars.githubusercontent.com/u/233907?v=4
-14125254,consul,hashicorp/consul,Go,7,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4332,26614,https://avatars.githubusercontent.com/u/761456?v=4
-208728772,milvus,milvus-io/milvus,Go,77,"A cloud-native vector database, storage for next generation AI applications",2312,20610,https://avatars.githubusercontent.com/u/51735404?v=4
-50613991,harbor,goharbor/harbor,Go,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",4424,20351,https://avatars.githubusercontent.com/u/40275816?v=4
-27729907,grpc-go,grpc/grpc-go,Go,7,The Go language implementation of gRPC. HTTP/2 based RPC,4028,18378,https://avatars.githubusercontent.com/u/7802525?v=4
-14956897,httprouter,julienschmidt/httprouter,Go,13,A high performance HTTP request router that scales well,1439,15451,https://avatars.githubusercontent.com/u/944947?u=d89b2fb0f9341390f25aa1e3c988337ba81efb8f&v=4
-46089560,containerd,containerd/containerd,Go,5,An open and reliable container runtime,2928,14287,https://avatars.githubusercontent.com/u/14037953?v=4
-109162639,thanos,thanos-io/thanos,Go,3,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1880,11852,https://avatars.githubusercontent.com/u/49725059?v=4
-16554739,beats,elastic/beats,Go,1,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4783,11716,https://avatars.githubusercontent.com/u/6764390?v=4
-159540440,wire,google/wire,Go,7,Compile-time Dependency Injection for Go,581,10862,https://avatars.githubusercontent.com/u/1342004?v=4
-281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,13,cqhttp的golang实现，轻量、原生跨平台.,1418,8816,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,35,Code Intelligence Platform,984,8120,https://avatars.githubusercontent.com/u/3979584?v=4
-28366058,distribution,distribution/distribution,Go,9,"The toolkit to pack, ship, store, and deliver container content",2298,7669,https://avatars.githubusercontent.com/u/78096003?v=4
-197914161,sftpgo,drakkan/sftpgo,Go,12,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",572,6396,https://avatars.githubusercontent.com/u/553263?v=4
-312629343,fscan,shadow1ng/fscan,Go,4,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1077,6153,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-526363266,devbox,jetpack-io/devbox,Go,38,"Instant, easy, and predictable development environments",101,5639,https://avatars.githubusercontent.com/u/65328393?v=4
-63882194,calico,projectcalico/calico,Go,2,Cloud native networking and network security,1116,4747,https://avatars.githubusercontent.com/u/12304728?v=4
-286729329,proxypool,zu1k/proxypool,Go,9,自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表,2557,3424,https://avatars.githubusercontent.com/u/42370281?u=bf29cfaad1ce112bf71201aa786ac65382ff30a7&v=4
-91074692,postgres-operator,zalando/postgres-operator,Go,5,Postgres operator creates and manages PostgreSQL clusters running in Kubernetes,893,3392,https://avatars.githubusercontent.com/u/1564818?v=4
-329229346,openwechat,eatmoreapple/openwechat,Go,3,golang微信SDK,641,3185,https://avatars.githubusercontent.com/u/73388495?u=f7c9e4661115bcfe0b9609ad246071cf8444c62d&v=4
-230986271,cli,create-go-app/cli,Go,21,"✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!",239,2059,https://avatars.githubusercontent.com/u/59355893?v=4
-246387644,avalanchego,ava-labs/avalanchego,Go,1,Go implementation of an Avalanche node.,503,1850,https://avatars.githubusercontent.com/u/44277073?v=4
-610065886,RealiTLScanner,XTLS/RealiTLScanner,Go,7,A TLS server scanner for Reality,33,507,https://avatars.githubusercontent.com/u/71564206?v=4
-657359654,idc-ms-chatgpt,KubeDev/idc-ms-chatgpt,Go,4,,67,22,https://avatars.githubusercontent.com/u/63871926?v=4
+6838921,prometheus,prometheus/prometheus,Go,24,The Prometheus monitoring system and time series database.,8257,48816,https://avatars.githubusercontent.com/u/3380462?v=4
+138547797,mkcert,FiloSottile/mkcert,Go,12,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2165,41502,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+29261473,minio,minio/minio,Go,20,High Performance Object Storage for AI,4774,39645,https://avatars.githubusercontent.com/u/695951?v=4
+74175805,istio,istio/istio,Go,9,"Connect, secure, control, and observe services.",7192,33239,https://avatars.githubusercontent.com/u/23534644?v=4
+3577919,beego,beego/beego,Go,8,"beego is an open-source, high-performance web framework for the Go programming language.",5599,29908,https://avatars.githubusercontent.com/u/3884041?v=4
+6051812,mux,gorilla/mux,Go,1,A powerful HTTP router and URL matcher for building Go web servers with 🦍,1762,18235,https://avatars.githubusercontent.com/u/489566?v=4
+5179099,go-redis,redis/go-redis,Go,5,Redis Go client,2112,17466,https://avatars.githubusercontent.com/u/1529926?v=4
+14956897,httprouter,julienschmidt/httprouter,Go,15,A high performance HTTP request router that scales well,1440,15457,https://avatars.githubusercontent.com/u/944947?u=d89b2fb0f9341390f25aa1e3c988337ba81efb8f&v=4
+40684033,sops,getsops/sops,Go,43,Simple and flexible tool for managing secrets,759,13231,https://avatars.githubusercontent.com/u/129185620?v=4
+130430977,kubesphere,kubesphere/kubesphere,Go,9,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",1922,12890,https://avatars.githubusercontent.com/u/37326490?v=4
+134018330,ants,panjf2000/ants,Go,17,🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。,1226,10587,https://avatars.githubusercontent.com/u/7496278?u=060b096b0daf6908e60de1639beb189149755018&v=4
+247032621,go-admin,go-admin-team/go-admin,Go,7,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,2015,9363,https://avatars.githubusercontent.com/u/70429007?v=4
+37334619,mock,golang/mock,Go,2,GoMock is a mocking framework for the Go programming language.,621,9015,https://avatars.githubusercontent.com/u/4314092?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,47,Code Intelligence Platform,987,8172,https://avatars.githubusercontent.com/u/3979584?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,0,Autoscaling components for Kubernetes,3483,6905,https://avatars.githubusercontent.com/u/13629408?v=4
+166304026,sliver,BishopFox/sliver,Go,30,Adversary Emulation Framework,848,6052,https://avatars.githubusercontent.com/u/4523757?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,6,:chains: A Framework for Building High Value Public Blockchains :sparkles:,2840,5267,https://avatars.githubusercontent.com/u/228843?v=4
+126493684,gotenberg,gotenberg/gotenberg,Go,27,A Docker-powered stateless API for PDF files.,368,5064,https://avatars.githubusercontent.com/u/66820499?v=4
+169108858,kyverno,kyverno/kyverno,Go,6,Kubernetes Native Policy Management,609,4058,https://avatars.githubusercontent.com/u/68448710?v=4
+26192117,lxd,lxc/lxd,Go,2,Powerful system container and virtual machine manager,864,3889,https://avatars.githubusercontent.com/u/2301756?v=4
+255437195,wgcf,ViRb3/wgcf,Go,32,"🚤 Cross-platform, unofficial CLI for Cloudflare Warp",448,3740,https://avatars.githubusercontent.com/u/2650170?u=a60e51d22e2e0f807812d68f012b4bbc3e2dd785&v=4
+83623770,helm-diff,databus23/helm-diff,Go,1,A helm plugin that shows a diff explaining what a helm upgrade would change,240,2148,https://avatars.githubusercontent.com/u/439223?v=4
+272394704,security-research,google/security-research,Go,17,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,259,1896,https://avatars.githubusercontent.com/u/1342004?v=4
+603535454,langchaingo,tmc/langchaingo,Go,14,LangChain for Go,84,605,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+88511474,prebid-server,prebid/prebid-server,Go,0,Server side component to offload prebid processing to the cloud,580,307,https://avatars.githubusercontent.com/u/13242760?v=4
