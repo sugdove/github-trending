@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,29,Production-Grade Container Scheduling and Management,36712,99781,https://avatars.githubusercontent.com/u/13629408?v=4
-7691631,moby,moby/moby,Go,7,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18761,66238,https://avatars.githubusercontent.com/u/27259197?v=4
-212613049,cli,cli/cli,Go,13,GitHub’s official command line tool,5249,32725,https://avatars.githubusercontent.com/u/59704711?v=4
-135516270,k3s,k3s-io/k3s,Go,27,Lightweight Kubernetes,2073,23525,https://avatars.githubusercontent.com/u/49319725?v=4
-13624859,websocket,gorilla/websocket,Go,18,"A fast, well-tested and widely used WebSocket implementation for Go.",3362,19286,https://avatars.githubusercontent.com/u/489566?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,8,A powerful little TUI framework 🏗,599,18819,https://avatars.githubusercontent.com/u/57376114?v=4
-10379607,goreplay,buger/goreplay,Go,10,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",1763,17540,https://avatars.githubusercontent.com/u/14009?v=4
-5179099,go-redis,redis/go-redis,Go,6,Redis Go client,2107,17511,https://avatars.githubusercontent.com/u/1529926?v=4
-87617508,casbin,casbin/casbin,Go,11,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",1581,15229,https://avatars.githubusercontent.com/u/27810343?v=4
-46089560,containerd,containerd/containerd,Go,14,An open and reliable container runtime,2937,14337,https://avatars.githubusercontent.com/u/14037953?v=4
-15345331,bolt,boltdb/bolt,Go,4,An embedded key/value database for Go.,1471,13631,https://avatars.githubusercontent.com/u/6539737?v=4
-7083242,mysql,go-sql-driver/mysql,Go,6,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2283,13469,https://avatars.githubusercontent.com/u/3002971?v=4
-33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,5379,13047,https://avatars.githubusercontent.com/u/5713248?v=4
-113106184,linkerd2,linkerd/linkerd2,Go,3,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",1200,9704,https://avatars.githubusercontent.com/u/25301026?v=4
-50629145,pprof,google/pprof,Go,4,pprof is a tool for visualization and analysis of profiling data,567,6650,https://avatars.githubusercontent.com/u/1342004?v=4
-37038121,lego,go-acme/lego,Go,2,Let's Encrypt/ACME client and library written in Go,847,6268,https://avatars.githubusercontent.com/u/48337471?v=4
-7823926,client_golang,prometheus/client_golang,Go,0,Prometheus instrumentation library for Go applications,1098,4671,https://avatars.githubusercontent.com/u/3380462?v=4
-41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,2,Blackbox prober exporter,954,3720,https://avatars.githubusercontent.com/u/3380462?v=4
-14605416,sprig,Masterminds/sprig,Go,4,Useful template functions for Go templates.,380,3639,https://avatars.githubusercontent.com/u/689082?v=4
-311639195,karmada,karmada-io/karmada,Go,2,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",669,3378,https://avatars.githubusercontent.com/u/74165798?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,1,Google Cloud Client Libraries for Go.,1193,3324,https://avatars.githubusercontent.com/u/16785467?v=4
-27522241,crypto,golang/crypto,Go,2,[mirror] Go supplementary cryptography libraries,2293,2751,https://avatars.githubusercontent.com/u/4314092?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,1525,1870,https://avatars.githubusercontent.com/u/49998002?v=4
-648967412,nunu,go-nunu/nunu,Go,26,A CLI tool for building Go applications.,30,400,https://avatars.githubusercontent.com/u/135428577?v=4
-625592115,bookget,deweizhu/bookget,Go,19,bookget 数字古籍图书下载工具,51,198,https://avatars.githubusercontent.com/u/7992801?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,29,Production-Grade Container Scheduling and Management,36731,99784,https://avatars.githubusercontent.com/u/13629408?v=4
+15045751,compose,docker/compose,Go,12,Define and run multi-container applications with Docker,4932,29902,https://avatars.githubusercontent.com/u/5429470?v=4
+16563587,cockroach,cockroachdb/cockroach,Go,6,"CockroachDB - the open source, cloud-native distributed SQL database.",3473,27392,https://avatars.githubusercontent.com/u/6748139?v=4
+135516270,k3s,k3s-io/k3s,Go,11,Lightweight Kubernetes,2073,23527,https://avatars.githubusercontent.com/u/49319725?v=4
+18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1920,23357,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+122734569,lux,iawia002/lux,Go,9,👾 Fast and simple video download library and CLI tool written in Go,2524,21400,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+109145553,podman,containers/podman,Go,9,Podman: A tool for managing OCI containers and pods.,1993,18433,https://avatars.githubusercontent.com/u/5874934?v=4
+180687624,trivy,aquasecurity/trivy,Go,10,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1787,17984,https://avatars.githubusercontent.com/u/12783832?v=4
+8966356,packer,hashicorp/packer,Go,2,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3314,14490,https://avatars.githubusercontent.com/u/761456?v=4
+273871859,headscale,juanfont/headscale,Go,15,"An open source, self-hosted implementation of the Tailscale control server",840,14019,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+120896210,argo-cd,argoproj/argo-cd,Go,8,Declarative continuous deployment for Kubernetes.,3992,13511,https://avatars.githubusercontent.com/u/30269780?v=4
+7083242,mysql,go-sql-driver/mysql,Go,38,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2284,13472,https://avatars.githubusercontent.com/u/3002971?v=4
+44350607,dashboard,kubernetes/dashboard,Go,5,General-purpose web UI for Kubernetes clusters,3992,12742,https://avatars.githubusercontent.com/u/13629408?v=4
+193160679,sqlc,kyleconroy/sqlc,Go,21,Generate type-safe code from SQL,570,8443,https://avatars.githubusercontent.com/u/34893?u=2a72510548627c1bcb6fe6913429d876dcfa2f91&v=4
+273132277,HackBrowserData,moonD4rk/HackBrowserData,Go,8,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,1307,8020,https://avatars.githubusercontent.com/u/24284231?u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4
+440752086,coder,coder/coder,Go,8,A tool that provisions remote development environments via Terraform,372,4685,https://avatars.githubusercontent.com/u/95932066?v=4
+598539671,Feishu-OpenAI,ConnectAI-E/Feishu-OpenAI,Go,5,🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀,810,4631,https://avatars.githubusercontent.com/u/130196328?v=4
+302670797,scorecard,ossf/scorecard,Go,2,OpenSSF Scorecard - Security health metrics for Open Source,380,3534,https://avatars.githubusercontent.com/u/67707773?v=4
+105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,1,Protocol Buffer Validation - Checkout the new `protovalidate` project,555,3318,https://avatars.githubusercontent.com/u/54191850?v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,4,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,514,2843,https://avatars.githubusercontent.com/u/68335991?v=4
+41317079,postgres_exporter,prometheus-community/postgres_exporter,Go,2,A PostgreSQL metric exporter for Prometheus,636,2174,https://avatars.githubusercontent.com/u/42581734?v=4
+150468186,local-path-provisioner,rancher/local-path-provisioner,Go,3,Dynamically provisioning persistent local storage with Kubernetes,376,1648,https://avatars.githubusercontent.com/u/9343010?v=4
+139728360,aws-ebs-csi-driver,kubernetes-sigs/aws-ebs-csi-driver,Go,0,CSI driver for Amazon EBS https://aws.amazon.com/ebs/,710,787,https://avatars.githubusercontent.com/u/36015203?v=4
+603535454,langchaingo,tmc/langchaingo,Go,10,LangChain for Go,104,660,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+489865430,trivy-operator,aquasecurity/trivy-operator,Go,2,Kubernetes-native security toolkit,117,598,https://avatars.githubusercontent.com/u/12783832?v=4
