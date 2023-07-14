@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,64,Linux kernel source tree,48926,154405,https://avatars.githubusercontent.com/u/1024025?v=4
-10744183,netdata,netdata/netdata,C,27,"Real-time performance monitoring, done right! https://www.netdata.cloud",5586,63731,https://avatars.githubusercontent.com/u/43390781?v=4
-156018,redis,redis/redis,C,18,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22713,60616,https://avatars.githubusercontent.com/u/1529926?v=4
-3774328,wrk,wg/wrk,C,8,Modern HTTP benchmarking tool,2819,34775,https://avatars.githubusercontent.com/u/94529?v=4
-14812739,libuv,libuv/libuv,C,6,Cross-platform asynchronous I/O,3416,21832,https://avatars.githubusercontent.com/u/4030929?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,52,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1199,15385,https://avatars.githubusercontent.com/u/51009775?v=4
-394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,29,This project aims to enhance the working environment on Windows,710,14789,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
-613829,lua-nginx-module,openresty/lua-nginx-module,C,3,Embed the Power of Lua into NGINX HTTP servers,2029,10725,https://avatars.githubusercontent.com/u/7390180?v=4
-1856976,libevent,libevent/libevent,C,4,Event notification library,3263,9964,https://avatars.githubusercontent.com/u/833750?v=4
-23641816,sanitizers,google/sanitizers,C,5,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",958,9882,https://avatars.githubusercontent.com/u/1342004?v=4
-50874442,citus,citusdata/citus,C,13,Distributed PostgreSQL as an extension,581,8598,https://avatars.githubusercontent.com/u/2545424?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,10,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5004,8040,https://avatars.githubusercontent.com/u/19595895?v=4
-5805256,lua,lua/lua,C,3,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",1455,7088,https://avatars.githubusercontent.com/u/2319114?v=4
-673267,hiredis,redis/hiredis,C,3,Minimalistic C client for Redis >= 1.2,1776,5788,https://avatars.githubusercontent.com/u/1529926?v=4
-97212490,sokol,floooh/sokol,C,7,minimal cross-platform standalone C headers,383,4912,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
-359952601,pgvector,pgvector/pgvector,C,26,Open-source vector similarity search for Postgres,170,4592,https://avatars.githubusercontent.com/u/98363230?v=4
-2359378,zlib,madler/zlib,C,9,A massively spiffy yet delicately unobtrusive compression library.,2230,4522,https://avatars.githubusercontent.com/u/240717?v=4
-6331631,fio,axboe/fio,C,3,Flexible I/O Tester,1139,4305,https://avatars.githubusercontent.com/u/2619634?v=4
+214011414,WindTerm,kingToolbox/WindTerm,C,52,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1200,15387,https://avatars.githubusercontent.com/u/51009775?v=4
+84240850,timescaledb,timescale/timescaledb,C,3,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,802,15195,https://avatars.githubusercontent.com/u/8986001?v=4
+60667730,lvgl,lvgl/lvgl,C,7,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2532,12415,https://avatars.githubusercontent.com/u/19811762?v=4
+272457606,cosmopolitan,jart/cosmopolitan,C,52,build-once run-anywhere c library,362,11419,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+39242894,coturn,coturn/coturn,C,5,coturn TURN server project,1825,9390,https://avatars.githubusercontent.com/u/6572098?v=4
+50874442,citus,citusdata/citus,C,13,Distributed PostgreSQL as an extension,581,8599,https://avatars.githubusercontent.com/u/2545424?v=4
+40556106,wazuh,wazuh/wazuh,C,3,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1072,6222,https://avatars.githubusercontent.com/u/13752566?v=4
+673267,hiredis,redis/hiredis,C,3,Minimalistic C client for Redis >= 1.2,1776,5793,https://avatars.githubusercontent.com/u/1529926?v=4
+48296177,libfuse,libfuse/libfuse,C,1,The reference implementation of the Linux FUSE (Filesystem in Userspace) interface,1032,4561,https://avatars.githubusercontent.com/u/16281578?v=4
 45703884,u8g2,olikraus/u8g2,C,3,"U8glib library for monochrome displays, version 2 ",928,4069,https://avatars.githubusercontent.com/u/1084992?v=4
-51868010,bubblewrap,containers/bubblewrap,C,8,Low-level unprivileged sandboxing tool used by Flatpak and similar projects,213,3227,https://avatars.githubusercontent.com/u/5874934?v=4
-14360940,openmv,openmv/openmv,C,5,OpenMV Camera Module,988,2118,https://avatars.githubusercontent.com/u/12023962?v=4
-20193261,optee_os,OP-TEE/optee_os,C,1,Trusted side of the TEE,948,1349,https://avatars.githubusercontent.com/u/7488961?v=4
-655304519,OMOTE,CoretechR/OMOTE,C,64,Open Source Remote Using ESP32 and LVGL,39,383,https://avatars.githubusercontent.com/u/13223470?u=2011c9b551e77a4bc6655ec17f0ff226c47f565a&v=4
-616222670,NerdMiner_v2,BitMaker-hub/NerdMiner_v2,C,4,Improved version of first ESP32 NerdMiner,47,325,https://avatars.githubusercontent.com/u/105243563?u=e4a7a4b8e143fe25d2da1f8355c9207bab931d4f&v=4
+83160811,littlefs,littlefs-project/littlefs,C,6,A little fail-safe filesystem designed for microcontrollers,688,4068,https://avatars.githubusercontent.com/u/60944974?v=4
+40306512,LuaJIT,LuaJIT/LuaJIT,C,0,Mirror of the LuaJIT git repository,844,3886,https://avatars.githubusercontent.com/u/11773774?v=4
+34807561,nanopb,nanopb/nanopb,C,5,Protocol Buffers with small code size,751,3619,https://avatars.githubusercontent.com/u/12173937?v=4
+256105296,helloworld,fw876/helloworld,C,2,,2210,2988,https://avatars.githubusercontent.com/u/63767508?v=4
+84732118,log.c,rxi/log.c,C,3,A simple logging library implemented in C99,440,2004,https://avatars.githubusercontent.com/u/3920290?u=6ebea271c6b3f69964669217fee8dd88c5f0d173&v=4
+80611216,open5gs,open5gs/open5gs,C,1,"Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)",566,1289,https://avatars.githubusercontent.com/u/44808635?v=4
+149340903,apriltag,AprilRobotics/apriltag,C,3,AprilTag is a visual fiducial system popular for robotics research.,447,1150,https://avatars.githubusercontent.com/u/43387976?v=4
+53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,1,Scripts which perform an installable binary image build for SONiC,1193,567,https://avatars.githubusercontent.com/u/102750714?v=4
+403314395,1337-Piscine-42,48d31kh413k/1337-Piscine-42,C,2,June Piscine 2021 from 1337 Benguerir 42 Network.,182,478,https://avatars.githubusercontent.com/u/65833007?u=9be65d007cd7391e8ba5e099e47644a3aa9d918e&v=4
+665649223,BlackLotus,ldpreload/BlackLotus,C,212,BlackLotus UEFI Windows Bootkit,167,464,https://avatars.githubusercontent.com/u/95562574?u=9810d2a5df491ed8f30fb52815ab03c6f76aed49&v=4
+655304519,OMOTE,CoretechR/OMOTE,C,64,Open Source Remote Using ESP32 and LVGL,41,389,https://avatars.githubusercontent.com/u/13223470?u=2011c9b551e77a4bc6655ec17f0ff226c47f565a&v=4
+381734253,flatbox,jfedor2/flatbox,C,5,Low profile hitbox-layout fightstick,79,371,https://avatars.githubusercontent.com/u/2271721?v=4
+468245058,42-School-Exam-Rank-02,pasqualerossi/42-School-Exam-Rank-02,C,3,First 42 School Exam,81,292,https://avatars.githubusercontent.com/u/58959408?u=d40a22b8c74440e2fd40199e3f6f084924cac04f&v=4
+550231622,ggtag,rgerganov/ggtag,C,33,programmable e-paper tag with RFID,6,104,https://avatars.githubusercontent.com/u/271616?u=4ab3e8ed3b97355f9d494db852e748c13c91426b&v=4
+583854623,Medusa,ldpreload/Medusa,C,23,LD_PRELOAD Rootkit,18,89,https://avatars.githubusercontent.com/u/95562574?u=9810d2a5df491ed8f30fb52815ab03c6f76aed49&v=4
