@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-41986369,tidb,pingcap/tidb,Go,4,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",5561,34424,https://avatars.githubusercontent.com/u/11855343?v=4
-14125254,consul,hashicorp/consul,Go,0,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4337,26670,https://avatars.githubusercontent.com/u/761456?v=4
+41986369,tidb,pingcap/tidb,Go,4,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",5561,34425,https://avatars.githubusercontent.com/u/11855343?v=4
+14125254,consul,hashicorp/consul,Go,0,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4337,26672,https://avatars.githubusercontent.com/u/761456?v=4
 285864199,go-zero,zeromicro/go-zero,Go,14,A cloud-native Go microservices framework with cli tool for productivity.,3525,24884,https://avatars.githubusercontent.com/u/74225106?v=4
 12080551,vegeta,tsenart/vegeta,Go,6,HTTP load testing tool and library. It's over 9000!,1295,21440,https://avatars.githubusercontent.com/u/67471?u=6524a1de32b0e2bd55af5cc1af1a154e0ea71743&v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,8,A powerful little TUI framework 🏗,601,18892,https://avatars.githubusercontent.com/u/57376114?v=4
-27729907,grpc-go,grpc/grpc-go,Go,7,The Go language implementation of gRPC. HTTP/2 based RPC,4060,18461,https://avatars.githubusercontent.com/u/7802525?v=4
-6051812,mux,gorilla/mux,Go,65,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1775,18381,https://avatars.githubusercontent.com/u/489566?v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,8,A powerful little TUI framework 🏗,601,18893,https://avatars.githubusercontent.com/u/57376114?v=4
+27729907,grpc-go,grpc/grpc-go,Go,7,The Go language implementation of gRPC. HTTP/2 based RPC,4061,18461,https://avatars.githubusercontent.com/u/7802525?v=4
+6051812,mux,gorilla/mux,Go,65,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1775,18389,https://avatars.githubusercontent.com/u/489566?v=4
 86733463,kubectx,ahmetb/kubectx,Go,6,Faster way to switch between clusters and namespaces in kubectl,1139,15544,https://avatars.githubusercontent.com/u/159209?u=7484858b12e4c4a7fe1351d1f0b406076805deb2&v=4
-44344606,chi,go-chi/chi,Go,17,"lightweight, idiomatic and composable router for building Go HTTP services",903,14695,https://avatars.githubusercontent.com/u/29575368?v=4
+44344606,chi,go-chi/chi,Go,17,"lightweight, idiomatic and composable router for building Go HTTP services",903,14697,https://avatars.githubusercontent.com/u/29575368?v=4
 46089560,containerd,containerd/containerd,Go,3,An open and reliable container runtime,2975,14382,https://avatars.githubusercontent.com/u/14037953?v=4
 44350607,dashboard,kubernetes/dashboard,Go,3,General-purpose web UI for Kubernetes clusters,3993,12762,https://avatars.githubusercontent.com/u/13629408?v=4
-65434192,gjson,tidwall/gjson,Go,5,Get JSON values quickly - JSON parser for Go,807,12557,https://avatars.githubusercontent.com/u/1156077?u=73564c05a3110cfbd4bca3c1422401b078baf72d&v=4
-134012064,webrtc,pion/webrtc,Go,4,Pure Go implementation of the WebRTC API,1457,11410,https://avatars.githubusercontent.com/u/38192892?v=4
-222824662,dagger,dagger/dagger,Go,9,A programmable CI/CD engine that runs your pipelines in containers,440,8565,https://avatars.githubusercontent.com/u/78824383?v=4
-212465715,buf,bufbuild/buf,Go,8,A new way of working with Protocol Buffers.,197,6930,https://avatars.githubusercontent.com/u/54191850?v=4
+65434192,gjson,tidwall/gjson,Go,5,Get JSON values quickly - JSON parser for Go,807,12560,https://avatars.githubusercontent.com/u/1156077?u=73564c05a3110cfbd4bca3c1422401b078baf72d&v=4
+134012064,webrtc,pion/webrtc,Go,4,Pure Go implementation of the WebRTC API,1457,11411,https://avatars.githubusercontent.com/u/38192892?v=4
+222824662,dagger,dagger/dagger,Go,9,A programmable CI/CD engine that runs your pipelines in containers,440,8564,https://avatars.githubusercontent.com/u/78824383?v=4
+212465715,buf,bufbuild/buf,Go,8,A new way of working with Protocol Buffers.,197,6933,https://avatars.githubusercontent.com/u/54191850?v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2341,6475,https://avatars.githubusercontent.com/u/36015203?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,30,:chains: A Framework for Building High Value Public Blockchains :sparkles:,2877,5332,https://avatars.githubusercontent.com/u/228843?v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,15,"node of the decentralized oracle network, bridging on and off-chain computation",1386,4778,https://avatars.githubusercontent.com/u/25111032?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,30,:chains: A Framework for Building High Value Public Blockchains :sparkles:,2877,5333,https://avatars.githubusercontent.com/u/228843?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,15,"node of the decentralized oracle network, bridging on and off-chain computation",1386,4779,https://avatars.githubusercontent.com/u/25111032?v=4
 206649463,ebpf,cilium/ebpf,Go,5,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",518,4726,https://avatars.githubusercontent.com/u/21054566?v=4
 67828134,cri-o,cri-o/cri-o,Go,2,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,973,4658,https://avatars.githubusercontent.com/u/29074118?v=4
-311639195,karmada,karmada-io/karmada,Go,1,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",699,3400,https://avatars.githubusercontent.com/u/74165798?v=4
-117377862,gardener,gardener/gardener,Go,2,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",428,2526,https://avatars.githubusercontent.com/u/33683699?v=4
+311639195,karmada,karmada-io/karmada,Go,1,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",700,3400,https://avatars.githubusercontent.com/u/74165798?v=4
+117377862,gardener,gardener/gardener,Go,2,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",428,2528,https://avatars.githubusercontent.com/u/33683699?v=4
 41317079,postgres_exporter,prometheus-community/postgres_exporter,Go,1,A PostgreSQL metric exporter for Prometheus,638,2194,https://avatars.githubusercontent.com/u/42581734?v=4
-468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,4,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",120,1553,https://avatars.githubusercontent.com/u/100373852?v=4
-108372143,go-spacemesh,spacemeshos/go-spacemesh,Go,3,Go Implementation of the Spacemesh protocol full node. 💾⏰💪,169,619,https://avatars.githubusercontent.com/u/33087498?v=4
+468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,4,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",120,1554,https://avatars.githubusercontent.com/u/100373852?v=4
+108372143,go-spacemesh,spacemeshos/go-spacemesh,Go,3,Go Implementation of the Spacemesh protocol full node. 💾⏰💪,169,620,https://avatars.githubusercontent.com/u/33087498?v=4
