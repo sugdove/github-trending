@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-11225014,etcd,etcd-io/etcd,Go,14,Distributed reliable key-value store for the most critical data of a distributed system,9403,44061,https://avatars.githubusercontent.com/u/41972792?v=4
-17728164,terraform,hashicorp/terraform,Go,22,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",8781,38179,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,15,A Commander for modern Go CLI interactions,2714,32684,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,22,A node.js version management utility for Windows. Ironically written in Go.,2897,29478,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-135516270,k3s,k3s-io/k3s,Go,14,Lightweight Kubernetes,2091,23694,https://avatars.githubusercontent.com/u/49319725?v=4
-52034309,zap,uber-go/zap,Go,13,"Blazing fast, structured, leveled logging in Go.",1359,19166,https://avatars.githubusercontent.com/u/19262598?v=4
-66841911,excelize,qax-os/excelize,Go,13,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1533,15566,https://avatars.githubusercontent.com/u/29733149?v=4
-6443435,nats-server,nats-io/nats-server,Go,20,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1266,13248,https://avatars.githubusercontent.com/u/10203055?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,9,Workflow engine for Kubernetes,2876,13197,https://avatars.githubusercontent.com/u/30269780?v=4
-465303307,lo,samber/lo,Go,192,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",541,12361,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-31311037,chisel,jpillora/chisel,Go,34,A fast TCP/UDP tunnel over HTTP,1123,9480,https://avatars.githubusercontent.com/u/633843?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,82,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",817,9052,https://avatars.githubusercontent.com/u/128192713?v=4
-91054480,zerolog,rs/zerolog,Go,8,Zero Allocation JSON Logger,492,8574,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3600,8166,https://avatars.githubusercontent.com/u/66682517?v=4
-66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2779,7856,https://avatars.githubusercontent.com/u/13629408?v=4
-147886080,crossplane,crossplane/crossplane,Go,6,Cloud Native Control Planes,762,7267,https://avatars.githubusercontent.com/u/45158470?v=4
-10166531,mapstructure,mitchellh/mapstructure,Go,8,Go library for decoding generic map values into native Go structures and vice versa.,633,6989,https://avatars.githubusercontent.com/u/1299?u=cc88a733b0c95bdfd323ec661c0da4c6768c4e4b&v=4
-55072677,weaviate,weaviate/weaviate,Go,20,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",409,6919,https://avatars.githubusercontent.com/u/37794290?v=4
-120650407,operator-sdk,operator-framework/operator-sdk,Go,3,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.",1693,6614,https://avatars.githubusercontent.com/u/38202270?v=4
-192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,3,,3506,4411,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
-272663924,simplebank,techschool/simplebank,Go,3,Backend master class: build a simple bank service in Go,690,3008,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
-157554479,meshery,meshery/meshery,Go,9,"Meshery, the cloud native manager",1077,2676,https://avatars.githubusercontent.com/u/52376019?v=4
-444442096,ENScan_GO,wgpsec/ENScan_GO,Go,10,一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。,214,1811,https://avatars.githubusercontent.com/u/20661677?v=4
-340090062,fake-sms,Narasimha1997/fake-sms,Go,334,A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.,118,1685,https://avatars.githubusercontent.com/u/20423357?u=7280f51df11a5225196be7891fd848431987cca7&v=4
-669258409,reddit-placebot-2023,Edouard127/reddit-placebot-2023,Go,36,A bot for r/place that doesn't use the api,20,90,https://avatars.githubusercontent.com/u/46357922?v=4
+133251103,dive,wagoodman/dive,Go,35,A tool for exploring each layer in a docker image,1513,37528,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
+12574344,cobra,spf13/cobra,Go,17,A Commander for modern Go CLI interactions,2714,32686,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+135516270,k3s,k3s-io/k3s,Go,13,Lightweight Kubernetes,2092,23696,https://avatars.githubusercontent.com/u/49319725?v=4
+129717717,loki,grafana/loki,Go,7,"Like Prometheus, but for logs.",2844,19642,https://avatars.githubusercontent.com/u/7195757?v=4
+52034309,zap,uber-go/zap,Go,10,"Blazing fast, structured, leveled logging in Go.",1359,19168,https://avatars.githubusercontent.com/u/19262598?v=4
+72477752,pulumi,pulumi/pulumi,Go,16,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,927,16646,https://avatars.githubusercontent.com/u/21992475?v=4
+20653934,cadvisor,google/cadvisor,Go,5,Analyzes resource usage and performance characteristics of running containers.,2262,15261,https://avatars.githubusercontent.com/u/1342004?v=4
+36653430,nomad,hashicorp/nomad,Go,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1827,13792,https://avatars.githubusercontent.com/u/761456?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,9,Declarative continuous deployment for Kubernetes.,4040,13663,https://avatars.githubusercontent.com/u/30269780?v=4
+465303307,lo,samber/lo,Go,192,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",542,12365,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+118105436,migrate,golang-migrate/migrate,Go,5,Database migrations. CLI and Golang library.,1205,11887,https://avatars.githubusercontent.com/u/35595841?v=4
+31311037,chisel,jpillora/chisel,Go,16,A fast TCP/UDP tunnel over HTTP,1124,9480,https://avatars.githubusercontent.com/u/633843?v=4
+91054480,zerolog,rs/zerolog,Go,12,Zero Allocation JSON Logger,492,8575,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+9120526,pgx,jackc/pgx,Go,5,PostgreSQL driver and toolkit for Go,692,7469,https://avatars.githubusercontent.com/u/94130?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,3,Autoscaling components for Kubernetes,3508,6958,https://avatars.githubusercontent.com/u/13629408?v=4
+384451028,kitex,cloudwego/kitex,Go,2,Go RPC framework with high-performance and strong-extensibility for building micro-services.,676,6091,https://avatars.githubusercontent.com/u/79236453?v=4
+31333618,decimal,shopspring/decimal,Go,5,Arbitrary-precision fixed-point decimal numbers in go,555,5216,https://avatars.githubusercontent.com/u/11196412?v=4
+228192593,hakrawler,hakluke/hakrawler,Go,13,"Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",451,3840,https://avatars.githubusercontent.com/u/13975395?u=2901efccbf259b76108be8414c1fd6c94a74c4c9&v=4
+117156031,prysm,prysmaticlabs/prysm,Go,0,Go implementation of Ethereum proof of stake,837,3190,https://avatars.githubusercontent.com/u/35349758?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,6,OpenTelemetry Collector,1145,3144,https://avatars.githubusercontent.com/u/49998002?v=4
+125253663,go-containerregistry,google/go-containerregistry,Go,2,Go library and CLIs for working with container registries,458,2545,https://avatars.githubusercontent.com/u/1342004?v=4
+340090062,fake-sms,Narasimha1997/fake-sms,Go,34,A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.,118,1688,https://avatars.githubusercontent.com/u/20423357?u=7280f51df11a5225196be7891fd848431987cca7&v=4
+271250363,k0s,k0sproject/k0s,Go,10,k0s - The Zero Friction Kubernetes,304,1307,https://avatars.githubusercontent.com/u/72999283?v=4
+665488952,TangSengDaoDaoServer,TangSengDaoDao/TangSengDaoDaoServer,Go,17,"IM即时通讯,聊天",30,171,https://avatars.githubusercontent.com/u/138738944?v=4
+669258409,reddit-placebot-2023,Edouard127/reddit-placebot-2023,Go,36,A bot for r/place that doesn't use the api,20,91,https://avatars.githubusercontent.com/u/46357922?v=4

@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,14,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",22753,60761,https://avatars.githubusercontent.com/u/1529926?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C,252,Port of Facebook's LLaMA model in C/C++,5071,36327,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-1357796,emscripten,emscripten-core/emscripten,C,3,Emscripten: An LLVM-to-WebAssembly Compiler,3109,24036,https://avatars.githubusercontent.com/u/46011144?v=4
-6201092,mpv,mpv-player/mpv,C,25,🎥 Command line video player,2634,23004,https://avatars.githubusercontent.com/u/2550273?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,32,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1232,15752,https://avatars.githubusercontent.com/u/51009775?v=4
-3784017,tengine,alibaba/tengine,C,3,A distribution of Nginx with some advanced features,2497,12178,https://avatars.githubusercontent.com/u/1961952?v=4
-70127218,arduino-esp32,espressif/arduino-esp32,C,7,Arduino core for the ESP32,6907,11066,https://avatars.githubusercontent.com/u/9460735?v=4
-65899476,esp-idf,espressif/esp-idf,C,7,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6584,10922,https://avatars.githubusercontent.com/u/9460735?v=4
-3199002,linux,raspberrypi/linux,C,2,Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/,4601,9889,https://avatars.githubusercontent.com/u/1294177?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,22,Flipper Zero Unleashed Firmware,938,9880,https://avatars.githubusercontent.com/u/115378555?v=4
-54280778,cJSON,DaveGamble/cJSON,C,6,Ultralightweight JSON parser in ANSI C,2980,9049,https://avatars.githubusercontent.com/u/118247?v=4
-53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,2196,7517,https://avatars.githubusercontent.com/u/56974?v=4
-59676171,klipper,Klipper3d/klipper,C,3,Klipper is a 3d-printer firmware,4653,7095,https://avatars.githubusercontent.com/u/90982958?v=4
-187922067,WSL2-Linux-Kernel,microsoft/WSL2-Linux-Kernel,C,2,The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2),883,6803,https://avatars.githubusercontent.com/u/6154722?v=4
-538180525,ggml,ggerganov/ggml,C,40,Tensor library for machine learning,562,5869,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-8180677,libimobiledevice,libimobiledevice/libimobiledevice,C,3,A cross-platform protocol library to communicate with iOS devices,1224,5779,https://avatars.githubusercontent.com/u/3584568?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,3,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2320,4310,https://avatars.githubusercontent.com/u/97226525?v=4
-473137633,tetragon,cilium/tetragon,C,2,eBPF-based Security Observability and Runtime Enforcement,221,2487,https://avatars.githubusercontent.com/u/21054566?v=4
-272394704,security-research,google/security-research,C,60,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,268,2026,https://avatars.githubusercontent.com/u/1342004?v=4
-14313288,pgbackrest,pgbackrest/pgbackrest,C,0,Reliable PostgreSQL Backup & Restore,177,1774,https://avatars.githubusercontent.com/u/18493692?v=4
-640683234,ctransformers,marella/ctransformers,C,15,Python bindings for the Transformer models implemented in C/C++ using GGML library.,36,585,https://avatars.githubusercontent.com/u/1623046?v=4
-419478174,PSPi-Version-6,othermod/PSPi-Version-6,C,45,,9,317,https://avatars.githubusercontent.com/u/22604540?u=ba75ad4ea025d51487926b0001bacb7c6fefe98f&v=4
-669134663,kfd,felix-pb/kfd,C,68,"kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.",34,283,https://avatars.githubusercontent.com/u/53051058?u=cd8564af48bb4e8d74741d5df936be742ba3b0ce&v=4
-649515425,pljs,plv8/pljs,C,8,PLJS - Javascript Language Plugin for PostreSQL,1,59,https://avatars.githubusercontent.com/u/11472311?v=4
-668949521,CVE-2023-38408,snowcra5h/CVE-2023-38408,C,20,CVE-2023-38408 Remote Code Execution in OpenSSH's forwarded ssh-agent,15,42,https://avatars.githubusercontent.com/u/90065760?u=a1c04b6a95ac11f53151b98ae1fc4b1a48ae6271&v=4
+2325298,linux,torvalds/linux,C,60,Linux kernel source tree,49118,154942,https://avatars.githubusercontent.com/u/1024025?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C,193,Port of Facebook's LLaMA model in C/C++,5072,36357,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+3774328,wrk,wg/wrk,C,7,Modern HTTP benchmarking tool,2825,34849,https://avatars.githubusercontent.com/u/94529?v=4
+927442,postgres,postgres/postgres,C,9,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",3999,12815,https://avatars.githubusercontent.com/u/177543?v=4
+60667730,lvgl,lvgl/lvgl,C,5,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2556,12495,https://avatars.githubusercontent.com/u/19811762?v=4
+32873313,systemd,systemd/systemd,C,6,The systemd System and Service Manager ,3387,11324,https://avatars.githubusercontent.com/u/1918868?v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,24,Flipper Zero Unleashed Firmware,938,9882,https://avatars.githubusercontent.com/u/115378555?v=4
+1979797,FreeRDP,FreeRDP/FreeRDP,C,20,FreeRDP is a free remote desktop protocol library and clients,23374,8492,https://avatars.githubusercontent.com/u/663376?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,3,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5040,8092,https://avatars.githubusercontent.com/u/19595895?v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,13,Flipper Zero firmware source code,1917,7898,https://avatars.githubusercontent.com/u/57576566?v=4
+53614190,mosquitto,eclipse/mosquitto,C,2,Eclipse Mosquitto - An open source MQTT broker,2196,7517,https://avatars.githubusercontent.com/u/56974?v=4
+29933948,fluent-bit,fluent/fluent-bit,C,3,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1323,4722,https://avatars.githubusercontent.com/u/859518?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,5,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2320,4312,https://avatars.githubusercontent.com/u/97226525?v=4
+83160811,littlefs,littlefs-project/littlefs,C,2,A little fail-safe filesystem designed for microcontrollers,691,4082,https://avatars.githubusercontent.com/u/60944974?v=4
+1613176,edk2,tianocore/edk2,C,1,EDK II,2134,3746,https://avatars.githubusercontent.com/u/352162?v=4
+96348842,dpdk,DPDK/dpdk,C,3,Data Plane Development Kit,1062,2570,https://avatars.githubusercontent.com/u/29926404?v=4
+473137633,tetragon,cilium/tetragon,C,15,eBPF-based Security Observability and Runtime Enforcement,221,2488,https://avatars.githubusercontent.com/u/21054566?v=4
+200663555,liburing,axboe/liburing,C,4,,333,2237,https://avatars.githubusercontent.com/u/2619634?v=4
+272394704,security-research,google/security-research,C,48,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,270,2047,https://avatars.githubusercontent.com/u/1342004?v=4
+640683234,ctransformers,marella/ctransformers,C,10,Python bindings for the Transformer models implemented in C/C++ using GGML library.,37,588,https://avatars.githubusercontent.com/u/1623046?v=4
+655304519,OMOTE,CoretechR/OMOTE,C,7,Open Source Remote Using ESP32 and LVGL,62,564,https://avatars.githubusercontent.com/u/13223470?u=2011c9b551e77a4bc6655ec17f0ff226c47f565a&v=4
+166769317,foldseek,steineggerlab/foldseek,C,3,Foldseek enables fast and sensitive comparisons of large structure sets.,57,397,https://avatars.githubusercontent.com/u/62094016?v=4
+419478174,PSPi-Version-6,othermod/PSPi-Version-6,C,45,,9,320,https://avatars.githubusercontent.com/u/22604540?u=ba75ad4ea025d51487926b0001bacb7c6fefe98f&v=4
+669134663,kfd,felix-pb/kfd,C,68,"kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.",34,292,https://avatars.githubusercontent.com/u/53051058?u=cd8564af48bb4e8d74741d5df936be742ba3b0ce&v=4
+668949521,CVE-2023-38408,snowcra5h/CVE-2023-38408,C,3,CVE-2023-38408 Remote Code Execution in OpenSSH's forwarded ssh-agent,15,43,https://avatars.githubusercontent.com/u/90065760?u=a1c04b6a95ac11f53151b98ae1fc4b1a48ae6271&v=4
