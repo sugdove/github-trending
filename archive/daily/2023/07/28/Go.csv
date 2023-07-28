@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6838921,prometheus,prometheus/prometheus,Go,22,The Prometheus monitoring system and time series database.,8300,49232,https://avatars.githubusercontent.com/u/3380462?v=4
-14125254,consul,hashicorp/consul,Go,3,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4343,26707,https://avatars.githubusercontent.com/u/761456?v=4
-135516270,k3s,k3s-io/k3s,Go,22,Lightweight Kubernetes,2095,23833,https://avatars.githubusercontent.com/u/49319725?v=4
-52034309,zap,uber-go/zap,Go,13,"Blazing fast, structured, leveled logging in Go.",1360,19183,https://avatars.githubusercontent.com/u/19262598?v=4
-27729907,grpc-go,grpc/grpc-go,Go,3,The Go language implementation of gRPC. HTTP/2 based RPC,4073,18519,https://avatars.githubusercontent.com/u/7802525?v=4
-5179099,go-redis,redis/go-redis,Go,6,Redis Go client,2122,17638,https://avatars.githubusercontent.com/u/1529926?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,9,gRPC to JSON proxy generator following the gRPC HTTP spec,2029,15799,https://avatars.githubusercontent.com/u/19352526?v=4
-502193049,gum,charmbracelet/gum,Go,55,A tool for glamorous shell scripts 🎀,275,14116,https://avatars.githubusercontent.com/u/57376114?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,11,Declarative continuous deployment for Kubernetes.,4046,13685,https://avatars.githubusercontent.com/u/30269780?v=4
-33258973,telegraf,influxdata/telegraf,Go,7,The plugin-driven server agent for collecting & reporting metrics.,5390,13114,https://avatars.githubusercontent.com/u/5713248?v=4
-44350607,dashboard,kubernetes/dashboard,Go,5,General-purpose web UI for Kubernetes clusters,3997,12808,https://avatars.githubusercontent.com/u/13629408?v=4
-65434192,gjson,tidwall/gjson,Go,4,Get JSON values quickly - JSON parser for Go,807,12608,https://avatars.githubusercontent.com/u/1156077?u=73564c05a3110cfbd4bca3c1422401b078baf72d&v=4
-465303307,lo,samber/lo,Go,28,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",549,12501,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-109162639,thanos,thanos-io/thanos,Go,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1896,11936,https://avatars.githubusercontent.com/u/49725059?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,63,":robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other",824,9157,https://avatars.githubusercontent.com/u/128192713?v=4
-21306961,fsnotify,fsnotify/fsnotify,Go,8,Cross-platform file system notifications for Go.,840,8335,https://avatars.githubusercontent.com/u/8013877?v=4
-273132277,HackBrowserData,moonD4rk/HackBrowserData,Go,9,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,1315,8141,https://avatars.githubusercontent.com/u/24284231?u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4
-215654064,temporal,temporalio/temporal,Go,12,Temporal service,595,7696,https://avatars.githubusercontent.com/u/56493103?v=4
-9120526,pgx,jackc/pgx,Go,15,PostgreSQL driver and toolkit for Go,693,7486,https://avatars.githubusercontent.com/u/94130?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,3,Autoscaling components for Kubernetes,3513,6962,https://avatars.githubusercontent.com/u/13629408?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2351,6501,https://avatars.githubusercontent.com/u/36015203?v=4
-52555254,goose,pressly/goose,Go,3,A database migration tool. Supports SQL migrations and Go functions. ,432,4180,https://avatars.githubusercontent.com/u/18835?v=4
-125253663,go-containerregistry,google/go-containerregistry,Go,5,Go library and CLIs for working with container registries,458,2552,https://avatars.githubusercontent.com/u/1342004?v=4
-271250363,k0s,k0sproject/k0s,Go,30,k0s - The Zero Friction Kubernetes,306,1348,https://avatars.githubusercontent.com/u/72999283?v=4
-562368887,transfer,artie-labs/transfer,Go,26,Real-time data replication from OLTP to OLAP dbs,11,338,https://avatars.githubusercontent.com/u/117559288?v=4
+6838921,prometheus,prometheus/prometheus,Go,17,The Prometheus monitoring system and time series database.,8301,49236,https://avatars.githubusercontent.com/u/3380462?v=4
+163883279,act,nektos/act,Go,36,Run your GitHub Actions locally 🚀,1031,40398,https://avatars.githubusercontent.com/u/3813618?v=4
+97533102,LeetCode-Go,halfrost/LeetCode-Go,Go,48,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",5438,30031,https://avatars.githubusercontent.com/u/10825609?u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4
+56353740,minikube,kubernetes/minikube,Go,6,Run Kubernetes locally,4643,26959,https://avatars.githubusercontent.com/u/13629408?v=4
+59239347,portainer,portainer/portainer,Go,9,Making Docker and Kubernetes management easy.,2211,26103,https://avatars.githubusercontent.com/u/22225832?v=4
+135516270,k3s,k3s-io/k3s,Go,138,Lightweight Kubernetes,2095,23850,https://avatars.githubusercontent.com/u/49319725?v=4
+13628513,logrus,sirupsen/logrus,Go,7,"Structured, pluggable logging for Go.",2259,23002,https://avatars.githubusercontent.com/u/97400?v=4
+129717717,loki,grafana/loki,Go,11,"Like Prometheus, but for logs.",2843,19661,https://avatars.githubusercontent.com/u/7195757?v=4
+46089560,containerd,containerd/containerd,Go,13,An open and reliable container runtime,2998,14477,https://avatars.githubusercontent.com/u/14037953?v=4
+36653430,nomad,hashicorp/nomad,Go,9,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1826,13809,https://avatars.githubusercontent.com/u/761456?v=4
+465303307,lo,samber/lo,Go,130,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",551,12523,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+169948217,crawlab,crawlab-team/crawlab,Go,8,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架,1651,10023,https://avatars.githubusercontent.com/u/49225390?v=4
+10270722,go-github,google/go-github,Go,35,Go library for accessing the GitHub v3 API,1984,9525,https://avatars.githubusercontent.com/u/1342004?v=4
+91054480,zerolog,rs/zerolog,Go,11,Zero Allocation JSON Logger,493,8596,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+21306961,fsnotify,fsnotify/fsnotify,Go,8,Cross-platform file system notifications for Go.,840,8337,https://avatars.githubusercontent.com/u/8013877?v=4
+215654064,temporal,temporalio/temporal,Go,13,Temporal service,596,7702,https://avatars.githubusercontent.com/u/56493103?v=4
+23267883,semaphore,ansible-semaphore/semaphore,Go,18,Modern UI for Ansible,826,7292,https://avatars.githubusercontent.com/u/10135719?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,3,Autoscaling components for Kubernetes,3513,6963,https://avatars.githubusercontent.com/u/13629408?v=4
+267054247,grype,anchore/grype,Go,9,A vulnerability scanner for container images and filesystems,423,6262,https://avatars.githubusercontent.com/u/16208487?v=4
+11452538,alertmanager,prometheus/alertmanager,Go,1,Prometheus Alertmanager,2023,5825,https://avatars.githubusercontent.com/u/3380462?v=4
+262126497,syft,anchore/syft,Go,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,409,4459,https://avatars.githubusercontent.com/u/16208487?v=4
+105711679,protoc-gen-validate,bufbuild/protoc-gen-validate,Go,2,Protocol Buffer Validation - Checkout the new `protovalidate` project,559,3357,https://avatars.githubusercontent.com/u/54191850?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,1,AWS SDK for the Go programming language. ,538,2072,https://avatars.githubusercontent.com/u/2232217?v=4
+102390943,cel-spec,google/cel-spec,Go,3,Common Expression Language -- specification and binary representation,220,1942,https://avatars.githubusercontent.com/u/1342004?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,5,Contrib repository for the OpenTelemetry Collector,1561,1903,https://avatars.githubusercontent.com/u/49998002?v=4
