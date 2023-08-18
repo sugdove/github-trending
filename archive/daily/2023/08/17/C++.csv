@@ -1,11 +1,11 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,35,A framework for building native applications using React,23710,111294,https://avatars.githubusercontent.com/u/69631?v=4
-1181927,bitcoin,bitcoin/bitcoin,C++,36,Bitcoin Core integration/staging tree,35551,70966,https://avatars.githubusercontent.com/u/528860?v=4
-39840932,googletest,google/googletest,C++,17,GoogleTest - Google Testing and Mocking Framework,9745,30505,https://avatars.githubusercontent.com/u/1342004?v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,20,ClickHouse® is a free analytics DBMS for big data,6229,30271,https://avatars.githubusercontent.com/u/54801242?v=4
+29028775,react-native,facebook/react-native,C++,35,A framework for building native applications using React,23711,111294,https://avatars.githubusercontent.com/u/69631?v=4
+1181927,bitcoin,bitcoin/bitcoin,C++,36,Bitcoin Core integration/staging tree,35551,70967,https://avatars.githubusercontent.com/u/528860?v=4
+39840932,googletest,google/googletest,C++,17,GoogleTest - Google Testing and Mocking Framework,9745,30507,https://avatars.githubusercontent.com/u/1342004?v=4
+60246359,ClickHouse,ClickHouse/ClickHouse,C++,20,ClickHouse® is a free analytics DBMS for big data,6229,30272,https://avatars.githubusercontent.com/u/54801242?v=4
 89247811,openpose,CMU-Perceptual-Computing-Lab/openpose,C++,10,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",7651,27732,https://avatars.githubusercontent.com/u/12239573?v=4
 6934395,rocksdb,facebook/rocksdb,C++,7,"A library that provides an embeddable, persistent key-value store for fast storage.",5875,25839,https://avatars.githubusercontent.com/u/69631?v=4
-4524181,folly,facebook/folly,C++,4,An open-source C++ library developed and used at Facebook.,5439,25792,https://avatars.githubusercontent.com/u/69631?v=4
+4524181,folly,facebook/folly,C++,4,An open-source C++ library developed and used at Facebook.,5439,25791,https://avatars.githubusercontent.com/u/69631?v=4
 108110,mongo,mongodb/mongo,C++,6,The MongoDB Database,5593,24242,https://avatars.githubusercontent.com/u/45120?v=4
 65214191,envoy,envoyproxy/envoy,C++,10,Cloud-native high-performance edge/middle/service proxy,4465,22545,https://avatars.githubusercontent.com/u/30125649?v=4
 1062572,Catch2,catchorg/Catch2,C++,4,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2908,16955,https://avatars.githubusercontent.com/u/33321405?v=4
@@ -13,8 +13,8 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 102343794,brpc,apache/brpc,C++,6,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3747,15166,https://avatars.githubusercontent.com/u/47359?v=4
 81887991,AirSim,microsoft/AirSim,C++,53,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",4275,14934,https://avatars.githubusercontent.com/u/6154722?v=4
 79317191,typesense,typesense/typesense,C++,30,"Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",439,14100,https://avatars.githubusercontent.com/u/19822348?v=4
-2310495,ceph,ceph/ceph,C++,6,"Ceph is a distributed object, block, and file storage platform ",6090,12263,https://avatars.githubusercontent.com/u/1015767?v=4
-70038437,vnote,vnotex/vnote,C++,23,A pleasant note-taking platform.,1111,10582,https://avatars.githubusercontent.com/u/48284031?v=4
+2310495,ceph,ceph/ceph,C++,6,"Ceph is a distributed object, block, and file storage platform ",6095,12263,https://avatars.githubusercontent.com/u/1015767?v=4
+70038437,vnote,vnotex/vnote,C++,23,A pleasant note-taking platform.,1111,10584,https://avatars.githubusercontent.com/u/48284031?v=4
 86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,14,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2724,10407,https://avatars.githubusercontent.com/u/84565724?v=4
 31197250,glog,google/glog,C++,2,C++ implementation of the Google logging module,1998,6287,https://avatars.githubusercontent.com/u/1342004?v=4
 71402842,Detours,microsoft/Detours,C++,3,Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.,912,4351,https://avatars.githubusercontent.com/u/6154722?v=4
@@ -22,5 +22,5 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 640177564,fastllm,ztxz16/fastllm,C++,20,"纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行",220,1828,https://avatars.githubusercontent.com/u/13409660?v=4
 514553345,OrcaSlicer,SoftFever/OrcaSlicer,C++,6,"G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",200,1772,https://avatars.githubusercontent.com/u/103989404?u=b07a80c2bad1dc452303b696bd6cf67d040c398d&v=4
 135363400,navigation2,ros-planning/navigation2,C++,2,ROS2 Navigation Framework and System,959,1611,https://avatars.githubusercontent.com/u/2328631?v=4
-678359621,DllNotificationInjection,ShorSec/DllNotificationInjection,C++,22,A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.,29,203,https://avatars.githubusercontent.com/u/138789525?v=4
+678359621,DllNotificationInjection,ShorSec/DllNotificationInjection,C++,22,A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.,29,204,https://avatars.githubusercontent.com/u/138789525?v=4
 647416331,C_Plus_Plus,sksalahuddin2828/C_Plus_Plus,C++,4,Explore something new,96,123,https://avatars.githubusercontent.com/u/127140921?u=745d5e1c661fb2312ea830b08eb5ccb109f6d8d8&v=4
