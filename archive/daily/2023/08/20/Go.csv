@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6838921,prometheus,prometheus/prometheus,Go,13,The Prometheus monitoring system and time series database.,8429,49541,https://avatars.githubusercontent.com/u/3380462?v=4
-29207621,caddy,caddyserver/caddy,Go,18,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3748,48672,https://avatars.githubusercontent.com/u/12955528?v=4
-29261473,minio,minio/minio,Go,12,High Performance Object Storage for AI,4876,40428,https://avatars.githubusercontent.com/u/695951?v=4
-129717717,loki,grafana/loki,Go,4,"Like Prometheus, but for logs.",2879,19826,https://avatars.githubusercontent.com/u/7195757?v=4
-62091339,kops,kubernetes/kops,Go,3,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",4656,15115,https://avatars.githubusercontent.com/u/13629408?v=4
-44344606,chi,go-chi/chi,Go,12,"lightweight, idiomatic and composable router for building Go HTTP services",917,15021,https://avatars.githubusercontent.com/u/29575368?v=4
-103126070,goproxy,snail007/goproxy,Go,5,"🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",2796,14229,https://avatars.githubusercontent.com/u/4533203?u=0f07d6eac80d4fa155b612f1855e20cd4f09381e&v=4
-44350607,dashboard,kubernetes/dashboard,Go,4,General-purpose web UI for Kubernetes clusters,4005,12897,https://avatars.githubusercontent.com/u/13629408?v=4
-159540440,wire,google/wire,Go,5,Compile-time Dependency Injection for Go,601,11121,https://avatars.githubusercontent.com/u/1342004?v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,2,Customization of kubernetes YAML configurations,2164,9938,https://avatars.githubusercontent.com/u/36015203?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,105,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,853,9314,https://avatars.githubusercontent.com/u/109613420?v=4
-542931741,answer,answerdev/answer,Go,10,"A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.",467,7355,https://avatars.githubusercontent.com/u/114210575?v=4
-326228917,katana,projectdiscovery/katana,Go,46,A next-generation crawling and spidering framework.,369,7233,https://avatars.githubusercontent.com/u/50994705?v=4
-55072677,weaviate,weaviate/weaviate,Go,9,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",435,7193,https://avatars.githubusercontent.com/u/37794290?v=4
-333303663,bytebase,bytebase/bytebase,Go,15,"Database DevOps and CI/CD for Developer, DBA and Platform Engineering team. https://www.bytebase.com",423,6618,https://avatars.githubusercontent.com/u/74386897?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2396,6605,https://avatars.githubusercontent.com/u/36015203?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,4,A Kubernetes controller and tool for one-way encrypted Secrets,607,6455,https://avatars.githubusercontent.com/u/34656521?v=4
-31333618,decimal,shopspring/decimal,Go,1,Arbitrary-precision fixed-point decimal numbers in go,566,5286,https://avatars.githubusercontent.com/u/11196412?v=4
-63882194,calico,projectcalico/calico,Go,1,Cloud native networking and network security,1141,4876,https://avatars.githubusercontent.com/u/12304728?v=4
+136815833,clash,Dreamacro/clash,Go,25,A rule-based tunnel in Go.,5929,45799,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
+41912791,v2ray-core,v2ray/v2ray-core,Go,10,A platform for building proxies to bypass network restrictions.,8755,42989,https://avatars.githubusercontent.com/u/14110142?v=4
+138547797,mkcert,FiloSottile/mkcert,Go,11,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2232,42192,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,15,Open Source realtime backend in 1 file,1041,25294,https://avatars.githubusercontent.com/u/101000011?v=4
+53632140,micro,zyedidia/micro,Go,28,A modern and intuitive terminal-based text editor,1140,22189,https://avatars.githubusercontent.com/u/5513065?u=15db609dac90ac481ec89b92bf02f59e91974fb7&v=4
+19205896,restic,restic/restic,Go,13,"Fast, secure, efficient backup program",1339,20979,https://avatars.githubusercontent.com/u/10073512?v=4
+123572362,learn-go-with-tests,quii/learn-go-with-tests,Go,12,Learn Go with test-driven development,2627,19995,https://avatars.githubusercontent.com/u/631756?u=123f719ea9c1d667afedfef562c6b1b3b929d483&v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,16,A powerful little TUI framework 🏗,608,19377,https://avatars.githubusercontent.com/u/57376114?v=4
+120156076,Cloudreve,cloudreve/Cloudreve,Go,8,"🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",3110,18719,https://avatars.githubusercontent.com/u/48898462?v=4
+21827146,seaweedfs,seaweedfs/seaweedfs,Go,5,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2019,18082,https://avatars.githubusercontent.com/u/11985425?v=4
+14508450,gophish,gophish/gophish,Go,2,Open-Source Phishing Toolkit,1815,9527,https://avatars.githubusercontent.com/u/16602581?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,74,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,853,9318,https://avatars.githubusercontent.com/u/109613420?v=4
+10721619,ebiten,hajimehoshi/ebiten,Go,4,Ebitengine - A dead simple 2D game engine for Go,558,8600,https://avatars.githubusercontent.com/u/16950?u=ed7c5b7cfcec804ff78d1e3fa43c42ef9869f9c6&v=4
+326228917,katana,projectdiscovery/katana,Go,46,A next-generation crawling and spidering framework.,369,7234,https://avatars.githubusercontent.com/u/50994705?v=4
+216103835,v2rayA,v2rayA/v2rayA,Go,20,"A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Juicity. 🚀🚀",745,6693,https://avatars.githubusercontent.com/u/71894288?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,49,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2396,6606,https://avatars.githubusercontent.com/u/36015203?v=4
 357897199,netbird,netbirdio/netbird,Go,18,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,197,4874,https://avatars.githubusercontent.com/u/100464677?v=4
-262126497,syft,anchore/syft,Go,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,419,4562,https://avatars.githubusercontent.com/u/16208487?v=4
-169108858,kyverno,kyverno/kyverno,Go,3,Kubernetes Native Policy Management,645,4281,https://avatars.githubusercontent.com/u/68448710?v=4
-592748160,devpod,loft-sh/devpod,Go,16,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",176,3995,https://avatars.githubusercontent.com/u/65466868?v=4
-121289901,komiser,tailwarden/komiser,Go,6,Build your cloud asset inventory and break down your cost at the resource level 💰,343,3439,https://avatars.githubusercontent.com/u/105113430?v=4
-188836864,erigon,ledgerwatch/erigon,Go,5,Ethereum implementation on the efficiency frontier,778,2526,https://avatars.githubusercontent.com/u/29105044?v=4
+509091576,sing-box,SagerNet/sing-box,Go,9,The universal proxy platform,539,4310,https://avatars.githubusercontent.com/u/83217677?v=4
+299054922,mosint,alpkeskin/mosint,Go,5,An automated e-mail OSINT tool,416,2968,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
+157554479,meshery,meshery/meshery,Go,10,"Meshery, the cloud native manager",1131,2865,https://avatars.githubusercontent.com/u/52376019?v=4
+226368338,evcc,evcc-io/evcc,Go,2,Sonne tanken ☀️🚘,348,1802,https://avatars.githubusercontent.com/u/81383504?v=4
+304841810,osmosis,osmosis-labs/osmosis,Go,1,The AMM Laboratory,435,769,https://avatars.githubusercontent.com/u/79296913?v=4
+662620190,fp-go,IBM/fp-go,Go,47,functional programming library for golang,12,447,https://avatars.githubusercontent.com/u/1459110?v=4
+670579868,bepass,uoosef/bepass,Go,7,A simple DPI bypass tool written in go,13,117,https://avatars.githubusercontent.com/u/43346478?v=4
+512155826,veronica,bootun/veronica,Go,23,Go项目差异构建工具,16,80,https://avatars.githubusercontent.com/u/96464651?u=2884b1b5f0ec52eb9a3bf768447d8490ab7721b3&v=4
