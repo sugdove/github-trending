@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-163883279,act,nektos/act,Go,67,Run your GitHub Actions locally 🚀,1070,42983,https://avatars.githubusercontent.com/u/3813618?v=4
-16563587,cockroach,cockroachdb/cockroach,Go,16,"CockroachDB - the open source, cloud-native distributed SQL database.",3522,27746,https://avatars.githubusercontent.com/u/6748139?v=4
-18369373,viper,spf13/viper,Go,19,Go configuration with fangs,1966,23943,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-129717717,loki,grafana/loki,Go,21,"Like Prometheus, but for logs.",2898,19980,https://avatars.githubusercontent.com/u/7195757?v=4
-31660590,gods,emirpasic/gods,Go,11,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",1638,14273,https://avatars.githubusercontent.com/u/3115942?u=372d64800b424bfb2fe8a492c034b0a83ec213e7&v=4
-120896210,argo-cd,argoproj/argo-cd,Go,12,Declarative continuous deployment for Kubernetes.,4178,14012,https://avatars.githubusercontent.com/u/30269780?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,17,Find and verify credentials,1393,11913,https://avatars.githubusercontent.com/u/79229934?v=4
-16554739,beats,elastic/beats,Go,2,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4801,11792,https://avatars.githubusercontent.com/u/6764390?v=4
-26661222,chat,tinode/chat,Go,3,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",1742,10686,https://avatars.githubusercontent.com/u/9325720?v=4
-10270722,go-github,google/go-github,Go,3,Go library for accessing the GitHub v3 API,2019,9652,https://avatars.githubusercontent.com/u/1342004?v=4
+23096959,go,golang/go,Go,41,The Go programming language,17100,114181,https://avatars.githubusercontent.com/u/4314092?v=4
+7691631,moby,moby/moby,Go,10,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18839,66617,https://avatars.githubusercontent.com/u/27259197?v=4
+6838921,prometheus,prometheus/prometheus,Go,22,The Prometheus monitoring system and time series database.,8469,49774,https://avatars.githubusercontent.com/u/3380462?v=4
+29207621,caddy,caddyserver/caddy,Go,20,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3786,49564,https://avatars.githubusercontent.com/u/12955528?v=4
+11225014,etcd,etcd-io/etcd,Go,8,Distributed reliable key-value store for the most critical data of a distributed system,9471,44414,https://avatars.githubusercontent.com/u/41972792?v=4
+61137153,esbuild,evanw/esbuild,Go,10,An extremely fast bundler for the web,1047,35953,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
+31288958,vault,hashicorp/vault,Go,10,"A tool for secrets management, encryption as a service, and privileged access management",3989,28342,https://avatars.githubusercontent.com/u/761456?v=4
+192632000,dapr,dapr/dapr,Go,35,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1722,21911,https://avatars.githubusercontent.com/u/51932459?v=4
+13624859,websocket,gorilla/websocket,Go,11,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3395,19764,https://avatars.githubusercontent.com/u/489566?v=4
+52034309,zap,uber-go/zap,Go,10,"Blazing fast, structured, leveled logging in Go.",1395,19646,https://avatars.githubusercontent.com/u/19262598?v=4
+6051812,mux,gorilla/mux,Go,17,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1802,19121,https://avatars.githubusercontent.com/u/489566?v=4
+27729907,grpc-go,grpc/grpc-go,Go,8,The Go language implementation of gRPC. HTTP/2 based RPC,4109,18711,https://avatars.githubusercontent.com/u/7802525?v=4
+46089560,containerd,containerd/containerd,Go,9,An open and reliable container runtime,3032,14771,https://avatars.githubusercontent.com/u/14037953?v=4
+103126070,goproxy,snail007/goproxy,Go,13,"🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",2824,14324,https://avatars.githubusercontent.com/u/4533203?u=0f07d6eac80d4fa155b612f1855e20cd4f09381e&v=4
+31660590,gods,emirpasic/gods,Go,11,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",1638,14276,https://avatars.githubusercontent.com/u/3115942?u=372d64800b424bfb2fe8a492c034b0a83ec213e7&v=4
+130430977,kubesphere,kubesphere/kubesphere,Go,6,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",1997,13312,https://avatars.githubusercontent.com/u/37326490?v=4
+62921553,rook,rook/rook,Go,5,Storage Orchestration for Kubernetes,2602,11372,https://avatars.githubusercontent.com/u/22860722?v=4
+11206255,sarama,IBM/sarama,Go,1,Sarama is a Go library for Apache Kafka.,1711,10336,https://avatars.githubusercontent.com/u/1459110?v=4
+37334619,mock,golang/mock,Go,1,GoMock is a mocking framework for the Go programming language.,678,9080,https://avatars.githubusercontent.com/u/4314092?v=4
+27576132,aws-sdk-go,aws/aws-sdk-go,Go,2,AWS SDK for the Go programming language.,2107,8405,https://avatars.githubusercontent.com/u/2232217?v=4
 66509131,client-go,kubernetes/client-go,Go,4,Go client for Kubernetes.,2815,7997,https://avatars.githubusercontent.com/u/13629408?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,5,Autoscaling components for Kubernetes,3595,7044,https://avatars.githubusercontent.com/u/13629408?v=4
-86164982,gonum,gonum/gonum,Go,8,"Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",538,6815,https://avatars.githubusercontent.com/u/3771091?v=4
-54539060,bigcache,allegro/bigcache,Go,6,Efficient cache for gigabytes of data written in Go.,568,6766,https://avatars.githubusercontent.com/u/562236?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,3,:chains: A Framework for Building High Value Public Blockchains :sparkles:,2960,5404,https://avatars.githubusercontent.com/u/228843?v=4
-679421146,opentf,opentffoundation/opentf,Go,836,OpenTF lets you declaratively manage your cloud infrastructure.,113,4751,https://avatars.githubusercontent.com/u/142061836?v=4
-106928408,ReverseProxy,ilanyu/ReverseProxy,Go,1,ReverseProxy in golang,1016,3893,https://avatars.githubusercontent.com/u/9317609?v=4
-14605416,sprig,Masterminds/sprig,Go,5,Useful template functions for Go templates.,412,3730,https://avatars.githubusercontent.com/u/689082?v=4
-235320869,naabu,projectdiscovery/naabu,Go,8,A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests,458,3691,https://avatars.githubusercontent.com/u/50994705?v=4
-75744278,ulid,oklog/ulid,Go,4,Universally Unique Lexicographically Sortable Identifier (ULID) in Go,143,3684,https://avatars.githubusercontent.com/u/24411296?v=4
+679421146,opentf,opentffoundation/opentf,Go,836,OpenTF lets you declaratively manage your cloud infrastructure.,116,4855,https://avatars.githubusercontent.com/u/142061836?v=4
 78678862,clickhouse-go,ClickHouse/clickhouse-go,Go,3,Golang driver for ClickHouse,521,2531,https://avatars.githubusercontent.com/u/54801242?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,3,Main repository for Datadog Agent,1108,2305,https://avatars.githubusercontent.com/u/365230?v=4
-451405549,awesome-italia-remote,italiaremote/awesome-italia-remote,Go,54,A list of remote-friendly or full-remote companies that targets Italian talents.,271,1908,https://avatars.githubusercontent.com/u/97435153?v=4
-685934319,rig,rigdev/rig,Go,179,Rig.dev is a developer-centric application platform for Kubernetes ⛵,17,476,https://avatars.githubusercontent.com/u/143799880?v=4
-684754713,PPLBlade,tastypepperoni/PPLBlade,Go,26,Protected Process Dumper Tool,29,250,https://avatars.githubusercontent.com/u/94043088?v=4
+451405549,awesome-italia-remote,italiaremote/awesome-italia-remote,Go,54,A list of remote-friendly or full-remote companies that targets Italian talents.,271,1913,https://avatars.githubusercontent.com/u/97435153?v=4
+685934319,rig,rigdev/rig,Go,179,Rig.dev is a developer-centric application platform for Kubernetes ⛵,18,483,https://avatars.githubusercontent.com/u/143799880?v=4
