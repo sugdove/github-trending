@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-14712850,syncthing,syncthing/syncthing,Go,19,Open Source Continuous File Synchronization,3868,54222,https://avatars.githubusercontent.com/u/7628018?v=4
-29207621,caddy,caddyserver/caddy,Go,31,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3793,49645,https://avatars.githubusercontent.com/u/12955528?v=4
-136815833,clash,Dreamacro/clash,Go,49,A rule-based tunnel in Go.,6063,46591,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,16,Official Go implementation of the Ethereum protocol,18453,43597,https://avatars.githubusercontent.com/u/6250754?v=4
-61137153,esbuild,evanw/esbuild,Go,13,An extremely fast bundler for the web,1051,35980,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
-192632000,dapr,dapr/dapr,Go,27,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1737,22249,https://avatars.githubusercontent.com/u/51932459?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,11,Network-wide ads & trackers blocking DNS server,1529,18474,https://avatars.githubusercontent.com/u/8361145?v=4
-40684033,sops,getsops/sops,Go,13,Simple and flexible tool for managing secrets,782,13743,https://avatars.githubusercontent.com/u/129185620?v=4
-201658460,7days-golang,geektutu/7days-golang,Go,7,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列",2288,13669,https://avatars.githubusercontent.com/u/13294018?u=5586b09871dbf49af015acf45173b0512206aab9&v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,17,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,2712,12795,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,29,The most customisable and low-latency cross platform/shell prompt renderer,2096,11928,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
-154643390,phoneinfoga,sundowndev/phoneinfoga,Go,11,Information gathering framework for phone numbers,3017,10504,https://avatars.githubusercontent.com/u/16480203?u=736dd20996f73fe51ad2ee2c8dc058d9e89c7a69&v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,1,Terraform AWS provider,8317,8856,https://avatars.githubusercontent.com/u/761456?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,43,simple terminal UI for git commands,1513,38699,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+31288958,vault,hashicorp/vault,Go,11,"A tool for secrets management, encryption as a service, and privileged access management",3996,28356,https://avatars.githubusercontent.com/u/761456?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,46,Open Source realtime backend in 1 file,1070,25809,https://avatars.githubusercontent.com/u/101000011?v=4
+135516270,k3s,k3s-io/k3s,Go,11,Lightweight Kubernetes,2117,24396,https://avatars.githubusercontent.com/u/49319725?v=4
+208728772,milvus,milvus-io/milvus,Go,25,"A cloud-native vector database, storage for next generation AI applications",2504,22803,https://avatars.githubusercontent.com/u/51735404?v=4
+50613991,harbor,goharbor/harbor,Go,5,"An open source trusted cloud native registry project that stores, signs, and scans content.",4445,20806,https://avatars.githubusercontent.com/u/40275816?v=4
+129717717,loki,grafana/loki,Go,21,"Like Prometheus, but for logs.",2908,20028,https://avatars.githubusercontent.com/u/7195757?v=4
+180687624,trivy,aquasecurity/trivy,Go,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1853,18575,https://avatars.githubusercontent.com/u/12783832?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,6,gRPC to JSON proxy generator following the gRPC HTTP spec,2050,16005,https://avatars.githubusercontent.com/u/19352526?v=4
+193833307,listmonk,knadh/listmonk,Go,9,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",1021,11663,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
+27576132,aws-sdk-go,aws/aws-sdk-go,Go,3,AWS SDK for the Go programming language.,2115,8404,https://avatars.githubusercontent.com/u/2232217?v=4
+9120526,pgx,jackc/pgx,Go,4,PostgreSQL driver and toolkit for Go,714,7685,https://avatars.githubusercontent.com/u/94130?v=4
+216103835,v2rayA,v2rayA/v2rayA,Go,13,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",765,6912,https://avatars.githubusercontent.com/u/71894288?v=4
+50629145,pprof,google/pprof,Go,4,pprof is a tool for visualization and analysis of profiling data,572,6792,https://avatars.githubusercontent.com/u/1342004?v=4
+173785481,tfsec,aquasecurity/tfsec,Go,3,Security scanner for your Terraform code,520,6232,https://avatars.githubusercontent.com/u/12783832?v=4
 334110599,rime-ice,iDvel/rime-ice,Go,25,Rime 配置：雾凇拼音 | 长期维护的简体词库,360,4959,https://avatars.githubusercontent.com/u/14658234?u=5ba8999f8e5b0230cb39efcbcca3f5a8633c896d&v=4
-509091576,sing-box,SagerNet/sing-box,Go,12,The universal proxy platform,563,4584,https://avatars.githubusercontent.com/u/83217677?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,3,"Optimism is Ethereum, scaled.",2391,4457,https://avatars.githubusercontent.com/u/58791460?v=4
-109451092,talos,siderolabs/talos,Go,4,Talos Linux is a modern Linux distribution built for Kubernetes.,351,4231,https://avatars.githubusercontent.com/u/13804887?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,25,Generate Go client and server boilerplate from OpenAPI 3 specifications,698,4066,https://avatars.githubusercontent.com/u/47459865?v=4
-272663924,simplebank,techschool/simplebank,Go,17,Backend master class: build a simple bank service in Go,735,3192,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
-237805954,goxygen,Shpota/goxygen,Go,7,"Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲",217,3150,https://avatars.githubusercontent.com/u/5640984?u=78365319b4766857841b65abc3a649e40433f197&v=4
-157554479,meshery,meshery/meshery,Go,5,"Meshery, the cloud native manager",1174,2966,https://avatars.githubusercontent.com/u/52376019?v=4
-531313322,tdl,iyear/tdl,Go,6,📥 A Telegram downloader/tools written in Golang,219,2072,https://avatars.githubusercontent.com/u/61452000?u=86edf8408911ba781d3056da33f8fbd0b1659347&v=4
-530469130,homebox,hay-kot/homebox,Go,10,Homebox is the inventory and organization system built for the Home User,73,1447,https://avatars.githubusercontent.com/u/64056131?u=e9c77c8ed0c343395605b0468ca65565bc7907c0&v=4
-684883012,aidea-server,mylxsw/aidea-server,Go,96,AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。,107,392,https://avatars.githubusercontent.com/u/2330911?u=920627f984db29ba4fba415dd897a53b7de736d5&v=4
+10757154,go.uuid,satori/go.uuid,Go,1,UUID package for Go,621,4820,https://avatars.githubusercontent.com/u/80474?v=4
+7823926,client_golang,prometheus/client_golang,Go,10,Prometheus instrumentation library for Go applications,1144,4782,https://avatars.githubusercontent.com/u/3380462?v=4
+88013053,cli,docker/cli,Go,4,The Docker CLI,1823,4225,https://avatars.githubusercontent.com/u/5429470?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,5,OpenTelemetry Go API and SDK,930,4202,https://avatars.githubusercontent.com/u/49998002?v=4
+392810918,go-quai,dominant-strategies/go-quai,Go,7,Official Go Implementation of the Quai Network,431,2234,https://avatars.githubusercontent.com/u/54382906?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,2,AWS SDK for the Go programming language. ,572,2123,https://avatars.githubusercontent.com/u/2232217?v=4
+106473613,k8s-device-plugin,NVIDIA/k8s-device-plugin,Go,2,NVIDIA device plugin for Kubernetes,574,1966,https://avatars.githubusercontent.com/u/1728152?v=4
+684883012,aidea-server,mylxsw/aidea-server,Go,96,AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。,110,401,https://avatars.githubusercontent.com/u/2330911?u=920627f984db29ba4fba415dd897a53b7de736d5&v=4
