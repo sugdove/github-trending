@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,54,"A curated list of awesome Go frameworks, libraries and software",11257,108253,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
-43723161,helm,helm/helm,Go,3,The Kubernetes Package Manager,6865,24931,https://avatars.githubusercontent.com/u/15859888?v=4
-13628513,logrus,sirupsen/logrus,Go,1,"Structured, pluggable logging for Go.",2283,23230,https://avatars.githubusercontent.com/u/97400?v=4
-42332863,filebrowser,filebrowser/filebrowser,Go,18,📂 Web File Browser,2491,20876,https://avatars.githubusercontent.com/u/35781395?v=4
-44498957,fasthttp,valyala/fasthttp,Go,3,Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http,1672,20131,https://avatars.githubusercontent.com/u/283442?u=8146e09c6497196364b9505b3d1fcaf316f994d0&v=4
-72477752,pulumi,pulumi/pulumi,Go,24,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,966,17522,https://avatars.githubusercontent.com/u/21992475?v=4
-44344606,chi,go-chi/chi,Go,5,"lightweight, idiomatic and composable router for building Go HTTP services",939,15289,https://avatars.githubusercontent.com/u/29575368?v=4
-75135036,go,json-iterator/go,Go,5,"A high-performance 100% compatible drop-in replacement of ""encoding/json""",1045,12603,https://avatars.githubusercontent.com/u/24260074?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,34,":robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",989,11105,https://avatars.githubusercontent.com/u/128192713?v=4
-31311037,chisel,jpillora/chisel,Go,14,A fast TCP/UDP tunnel over HTTP,1151,9789,https://avatars.githubusercontent.com/u/633843?v=4
-48714685,opa,open-policy-agent/opa,Go,5,"An open source, general-purpose policy engine.",1187,8469,https://avatars.githubusercontent.com/u/16468693?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,0,Autoscaling components for Kubernetes,3609,7065,https://avatars.githubusercontent.com/u/13629408?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2407,6671,https://avatars.githubusercontent.com/u/36015203?v=4
-267713284,httpx,projectdiscovery/httpx,Go,8,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,702,5753,https://avatars.githubusercontent.com/u/50994705?v=4
-79954708,go-tools,dominikh/go-tools,Go,4,Staticcheck - The advanced Go linter,368,5562,https://avatars.githubusercontent.com/u/39825?u=227ba336785f225edf0714a2763ade87c956c32d&v=4
-43465675,go-libp2p,libp2p/go-libp2p,Go,5,libp2p implementation in Go,986,5397,https://avatars.githubusercontent.com/u/14838238?v=4
-440752086,coder,coder/coder,Go,20,A tool that provisions remote development environments via Terraform,425,5211,https://avatars.githubusercontent.com/u/95932066?v=4
-48299818,kopia,kopia/kopia,Go,202,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",255,4444,https://avatars.githubusercontent.com/u/16365723?v=4
-631254164,one-api,songquanpeng/one-api,Go,31,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",967,4244,https://avatars.githubusercontent.com/u/39998050?v=4
-116392590,podinfo,stefanprodan/podinfo,Go,26,Go microservice template for Kubernetes,1417,4115,https://avatars.githubusercontent.com/u/3797675?v=4
-96570421,go-cmp,google/go-cmp,Go,4,Package for comparing Go values in tests,236,3690,https://avatars.githubusercontent.com/u/1342004?v=4
+48378947,frp,fatedier/frp,Go,30,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,11945,71896,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+119160553,photoprism,photoprism/photoprism,Go,10,AI-Powered Photos App for the Decentralized Web 🌈💎✨,1595,28654,https://avatars.githubusercontent.com/u/32436079?v=4
+56353740,minikube,kubernetes/minikube,Go,3,Run Kubernetes locally,4731,27230,https://avatars.githubusercontent.com/u/13629408?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,7,Network-wide ads & trackers blocking DNS server,1529,18531,https://avatars.githubusercontent.com/u/8361145?v=4
+72477752,pulumi,pulumi/pulumi,Go,24,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,966,17531,https://avatars.githubusercontent.com/u/21992475?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,11,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",2492,16070,https://avatars.githubusercontent.com/u/71564206?v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,69,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",886,15367,https://avatars.githubusercontent.com/u/91336243?v=4
+66156850,Go,TheAlgorithms/Go,Go,7,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",2376,13301,https://avatars.githubusercontent.com/u/20487725?v=4
+615869301,LocalAI,go-skynet/LocalAI,Go,34,":robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",990,11107,https://avatars.githubusercontent.com/u/128192713?v=4
+67382094,yay,Jguer/yay,Go,4,Yet another Yogurt - An AUR Helper written in Go,334,9572,https://avatars.githubusercontent.com/u/8071073?u=31dcf861785552275aea3a89860b081ed114ee1f&v=4
+281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,8,cqhttp的golang实现，轻量、原生跨平台.,1555,9518,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
+83252983,task,go-task/task,Go,12,A task runner / simpler Make alternative written in Go,513,8561,https://avatars.githubusercontent.com/u/26048825?v=4
+257434373,hysteria,apernet/hysteria,Go,90,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",798,6960,https://avatars.githubusercontent.com/u/79422552?v=4
+5896437,gobyexample,mmcgrana/gobyexample,Go,2,Go by Example,1207,6461,https://avatars.githubusercontent.com/u/2432?u=bc3919e51296ee5e3f934b42c964fe33c9984597&v=4
+44820350,matterbridge,42wim/matterbridge,Go,17,"bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)",577,5918,https://avatars.githubusercontent.com/u/1810977?u=1a9b347b1e0e38b2cd0e8bfa095b60b1f80d5082&v=4
+330616364,go-clean-template,evrone/go-clean-template,Go,1,Clean Architecture template for Golang services,497,5441,https://avatars.githubusercontent.com/u/431569?v=4
+509091576,sing-box,SagerNet/sing-box,Go,25,The universal proxy platform,565,4657,https://avatars.githubusercontent.com/u/83217677?v=4
+48299818,kopia,kopia/kopia,Go,202,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",255,4449,https://avatars.githubusercontent.com/u/16365723?v=4
+116392590,podinfo,stefanprodan/podinfo,Go,26,Go microservice template for Kubernetes,1417,4116,https://avatars.githubusercontent.com/u/3797675?v=4
+201546443,assets,trustwallet/assets,Go,2,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",21407,4058,https://avatars.githubusercontent.com/u/32179889?v=4
+141352703,cli,smallstep/cli,Go,34,"🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.",224,3185,https://avatars.githubusercontent.com/u/23183426?v=4
 157554479,meshery,meshery/meshery,Go,22,"Meshery, the cloud native manager",1182,3024,https://avatars.githubusercontent.com/u/52376019?v=4
-117377862,gardener,gardener/gardener,Go,0,"Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.",441,2601,https://avatars.githubusercontent.com/u/33683699?v=4
-102390943,cel-spec,google/cel-spec,Go,1,Common Expression Language -- specification and binary representation,225,2033,https://avatars.githubusercontent.com/u/1342004?v=4
-93446113,terraform-provider-cloudflare,cloudflare/terraform-provider-cloudflare,Go,1,Cloudflare Terraform Provider,488,609,https://avatars.githubusercontent.com/u/314135?v=4
+226368338,evcc,evcc-io/evcc,Go,2,Sonne tanken ☀️🚘,358,1878,https://avatars.githubusercontent.com/u/81383504?v=4
+307882563,apple-store-helper,hteen/apple-store-helper,Go,16,Apple Store iPhone预约助手,135,752,https://avatars.githubusercontent.com/u/8476546?u=7f0ad284d78cfe5dbc2b69a31f2a999ed5d5be49&v=4
+644651253,tork,runabol/tork,Go,9,A distributed workflow engine,6,186,https://avatars.githubusercontent.com/u/3052806?u=524ade14eeaa7bedb8272893192d439e38165fc9&v=4
