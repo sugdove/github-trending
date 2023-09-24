@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,52,Linux kernel source tree,50309,157959,https://avatars.githubusercontent.com/u/1024025?v=4
-36502,git,git/git,C,12,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,25469,47417,https://avatars.githubusercontent.com/u/18133?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C,40,Port of Facebook's LLaMA model in C/C++,5777,41152,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,8,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1310,16862,https://avatars.githubusercontent.com/u/51009775?v=4
-927442,postgres,postgres/postgres,C,5,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",4086,13197,https://avatars.githubusercontent.com/u/177543?v=4
-5254557,skynet,cloudwu/skynet,C,2,A lightweight online game framework,4045,12194,https://avatars.githubusercontent.com/u/729648?v=4
+111583593,scrcpy,Genymobile/scrcpy,C,37,Display and control your Android device,9259,91419,https://avatars.githubusercontent.com/u/3427627?v=4
+13233158,obs-studio,obsproject/obs-studio,C,28,OBS Studio - Free and open source software for live streaming and screen recording,7201,50410,https://avatars.githubusercontent.com/u/7725691?v=4
+102578345,lede,coolsnowwolf/lede,C,10,Lean's LEDE source,19349,27087,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+2810292,rufus,pbatard/rufus,C,15,The Reliable USB Formatting Utility,2389,24674,https://avatars.githubusercontent.com/u/1206968?u=ed1be5451352656cffecc840d661bb793c3bad05&v=4
+80286288,Tasmota,arendst/Tasmota,C,9,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4505,20263,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+4869294,radare2,radareorg/radare2,C,3,UNIX-like reverse engineering framework and command-line toolset,2907,18606,https://avatars.githubusercontent.com/u/2842539?v=4
+45821540,openwrt,openwrt/openwrt,C,11,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,9102,16147,https://avatars.githubusercontent.com/u/2528830?v=4
+394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,10,This project aims to enhance the working environment on Windows,767,15969,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,7,Open-source keyboard firmware for Atmel AVR and Arm USB families,33790,15810,https://avatars.githubusercontent.com/u/25358678?v=4
 65899476,esp-idf,espressif/esp-idf,C,3,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6673,11217,https://avatars.githubusercontent.com/u/9460735?v=4
-689344,RetroArch,libretro/RetroArch,C,9,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1634,8378,https://avatars.githubusercontent.com/u/1812827?v=4
-6376337,poco,pocoproject/poco,C,4,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",2038,7340,https://avatars.githubusercontent.com/u/201918?v=4
-40556106,wazuh,wazuh/wazuh,C,4,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1156,7017,https://avatars.githubusercontent.com/u/13752566?v=4
-44781140,gpdb,greenplum-db/gpdb,C,13,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1669,5957,https://avatars.githubusercontent.com/u/14097842?v=4
-29933948,fluent-bit,fluent/fluent-bit,C,3,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1353,4835,https://avatars.githubusercontent.com/u/859518?v=4
-2359378,zlib,madler/zlib,C,2,A massively spiffy yet delicately unobtrusive compression library.,2265,4673,https://avatars.githubusercontent.com/u/240717?v=4
-176278485,sqlite,sqlite/sqlite,C,10,Official Git mirror of the SQLite source tree,774,4543,https://avatars.githubusercontent.com/u/48680494?u=4ab40856ccfa4616130de822486cc01350b34e09&v=4
-66016134,simplewall,henrypp/simplewall,C,5,Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.,412,4477,https://avatars.githubusercontent.com/u/3902025?u=b0ece819da48142eab03300731168783d7a2307b&v=4
-320921453,CyberEngineTweaks,maximegmd/CyberEngineTweaks,C,8,"Cyberpunk 2077 tweaks, hacks and scripting framework",275,4151,https://avatars.githubusercontent.com/u/672982?u=bd38724f20816c90029481fabd7793245d71aaa7&v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,1,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",810,3964,https://avatars.githubusercontent.com/u/62360046?v=4
-18383364,ovs,openvswitch/ovs,C,2,Open vSwitch,1887,3261,https://avatars.githubusercontent.com/u/7143863?v=4
-481977,libmodbus,stephane/libmodbus,C,1,"A Modbus library for Linux, Mac OS, FreeBSD and Windows",1596,2888,https://avatars.githubusercontent.com/u/1815?u=5ba41e06415bb6c84df4ddbd902466fb59d8948b&v=4
-13352949,civetweb,civetweb/civetweb,C,1,Embedded C/C++ web server,947,2475,https://avatars.githubusercontent.com/u/13592161?v=4
+689344,RetroArch,libretro/RetroArch,C,9,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1634,8380,https://avatars.githubusercontent.com/u/1812827?v=4
+330008801,SDL,libsdl-org/SDL,C,9,Simple Directmedia Layer,1255,6667,https://avatars.githubusercontent.com/u/77683370?v=4
+31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,3,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4850,6271,https://avatars.githubusercontent.com/u/6154722?v=4
+204459250,xv6-riscv,mit-pdos/xv6-riscv,C,21,Xv6 for RISC-V,1784,4584,https://avatars.githubusercontent.com/u/12404246?v=4
+320921453,CyberEngineTweaks,maximegmd/CyberEngineTweaks,C,8,"Cyberpunk 2077 tweaks, hacks and scripting framework",275,4150,https://avatars.githubusercontent.com/u/672982?u=bd38724f20816c90029481fabd7793245d71aaa7&v=4
+40306512,LuaJIT,LuaJIT/LuaJIT,C,4,Mirror of the LuaJIT git repository,874,4035,https://avatars.githubusercontent.com/u/11773774?v=4
+117704656,ostep-projects,remzi-arpacidusseau/ostep-projects,C,7,Projects for an undergraduate OS course,980,3308,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
+256105296,helloworld,fw876/helloworld,C,3,,2370,3080,https://avatars.githubusercontent.com/u/63767508?v=4
+203759896,immortalwrt,immortalwrt/immortalwrt,C,8,An opensource OpenWrt variant for mainland China users.,1161,2974,https://avatars.githubusercontent.com/u/53193414?v=4
 676941180,wipeout-rewrite,phoboslab/wipeout-rewrite,C,19,,189,2288,https://avatars.githubusercontent.com/u/443987?v=4
-516821813,hydra,hydradatabase/hydra,C,12,Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.,55,2154,https://avatars.githubusercontent.com/u/97624024?v=4
-105255685,AndroidUSBCamera,jiangdongguo/AndroidUSBCamera,C,3,"🔥🔥🔥Flexible and useful UVC camera engine on Android platform, supporting multi-road cameras!",668,1912,https://avatars.githubusercontent.com/u/26385502?u=fe098e026215b55616b2ca869459b662118f188c&v=4
-152338895,libbpf,libbpf/libbpf,C,1,Automated upstream mirror for libbpf stand-alone build.,361,1610,https://avatars.githubusercontent.com/u/44008517?v=4
-354963447,esp32-wifi-penetration-tool,risinek/esp32-wifi-penetration-tool,C,9,Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.,133,960,https://avatars.githubusercontent.com/u/12913557?v=4
+270692521,zmk,zmkfirmware/zmk,C,0,ZMK Firmware Repository,1928,1857,https://avatars.githubusercontent.com/u/66629601?v=4
+80611216,open5gs,open5gs/open5gs,C,1,"Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)",592,1367,https://avatars.githubusercontent.com/u/44808635?v=4
+616222670,NerdMiner_v2,BitMaker-hub/NerdMiner_v2,C,6,Improved version of first ESP32 NerdMiner,84,495,https://avatars.githubusercontent.com/u/105243563?u=e4a7a4b8e143fe25d2da1f8355c9207bab931d4f&v=4
+694965378,MaldevAcademyLdr.1,Maldev-Academy/MaldevAcademyLdr.1,C,27,,12,91,https://avatars.githubusercontent.com/u/121844819?v=4
+694489315,CVE-2023-4863,mistymntncop/CVE-2023-4863,C,19,,6,77,https://avatars.githubusercontent.com/u/105329747?v=4
