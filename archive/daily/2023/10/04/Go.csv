@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,17,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7719,71789,https://avatars.githubusercontent.com/u/7894478?v=4
-29207621,caddy,caddyserver/caddy,Go,13,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3819,49967,https://avatars.githubusercontent.com/u/12955528?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,25,simple terminal UI for git commands,1531,39186,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-234231371,fiber,gofiber/fiber,Go,24,⚡️ Express inspired web framework written in Go,1460,28629,https://avatars.githubusercontent.com/u/59947262?v=4
-43723161,helm,helm/helm,Go,5,The Kubernetes Package Manager,6872,24995,https://avatars.githubusercontent.com/u/15859888?v=4
-6051812,mux,gorilla/mux,Go,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1809,19260,https://avatars.githubusercontent.com/u/489566?v=4
-198683574,dolt,dolthub/dolt,Go,8,Dolt – Git for Data,446,15592,https://avatars.githubusercontent.com/u/42156961?v=4
-44344606,chi,go-chi/chi,Go,15,"lightweight, idiomatic and composable router for building Go HTTP services",950,15455,https://avatars.githubusercontent.com/u/29575368?v=4
-533087958,d2,terrastruct/d2,Go,15,D2 is a modern diagram scripting language that turns text to diagrams.,338,14319,https://avatars.githubusercontent.com/u/80369600?v=4
-30711774,validator,go-playground/validator,Go,8,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1214,14104,https://avatars.githubusercontent.com/u/14768796?v=4
-33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5434,13257,https://avatars.githubusercontent.com/u/5713248?v=4
-615869301,LocalAI,go-skynet/LocalAI,Go,22,":robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",1055,11680,https://avatars.githubusercontent.com/u/128192713?v=4
-159540440,wire,google/wire,Go,5,Compile-time Dependency Injection for Go,628,11353,https://avatars.githubusercontent.com/u/1342004?v=4
-113106184,linkerd2,linkerd/linkerd2,Go,2,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",1249,9904,https://avatars.githubusercontent.com/u/25301026?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,7,Code AI platform with Code Search & Cody,1159,8984,https://avatars.githubusercontent.com/u/3979584?v=4
-395283401,kubescape,kubescape/kubescape,Go,14,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",756,8935,https://avatars.githubusercontent.com/u/100554170?v=4
-29099181,client,keybase/client,Go,4,"Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",1338,8587,https://avatars.githubusercontent.com/u/5400834?v=4
-658928958,ollama,jmorganca/ollama,Go,217,Get up and running with Llama 2 and other large language models locally,449,8239,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
-368683828,jwt,golang-jwt/jwt,Go,7,Community maintained clone of https://github.com/dgrijalva/jwt-go,297,5407,https://avatars.githubusercontent.com/u/84194169?v=4
-52555254,goose,pressly/goose,Go,8,A database migration tool. Supports SQL migrations and Go functions. ,467,4419,https://avatars.githubusercontent.com/u/18835?v=4
-216628419,flyte,flyteorg/flyte,Go,12,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",395,3846,https://avatars.githubusercontent.com/u/35380635?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,1,Google Cloud Client Libraries for Go.,1243,3371,https://avatars.githubusercontent.com/u/16785467?v=4
-356677177,templ,a-h/templ,Go,112,A language for writing HTML user interfaces in Go.,47,1017,https://avatars.githubusercontent.com/u/1029947?u=81870ddb3da5cbf268b13e9f0409caf08c5fa9f2&v=4
-514062293,kargo,akuity/kargo,Go,8,Application lifecycle orchestration,36,669,https://avatars.githubusercontent.com/u/84434210?v=4
+23096959,go,golang/go,Go,24,The Go programming language,17238,114812,https://avatars.githubusercontent.com/u/4314092?v=4
+14712850,syncthing,syncthing/syncthing,Go,24,Open Source Continuous File Synchronization,3894,54571,https://avatars.githubusercontent.com/u/7628018?v=4
+6838921,prometheus,prometheus/prometheus,Go,20,The Prometheus monitoring system and time series database.,8539,50106,https://avatars.githubusercontent.com/u/3380462?v=4
+163883279,act,nektos/act,Go,45,Run your GitHub Actions locally 🚀,1094,43794,https://avatars.githubusercontent.com/u/3813618?v=4
+74175805,istio,istio/istio,Go,8,"Connect, secure, control, and observe services.",7375,33738,https://avatars.githubusercontent.com/u/23534644?v=4
+212613049,cli,cli/cli,Go,15,GitHub’s official command line tool,5520,33399,https://avatars.githubusercontent.com/u/59704711?v=4
+6247705,testify,stretchr/testify,Go,12,A toolkit with common assertions and mocks that plays nicely with the standard library,1505,20701,https://avatars.githubusercontent.com/u/1841476?v=4
+39038086,watchtower,containrrr/watchtower,Go,16,A process for automating Docker container base image updates. ,760,14935,https://avatars.githubusercontent.com/u/49166261?v=4
+7877397,sqlx,jmoiron/sqlx,Go,10,general purpose extensions to golang's database/sql,1045,14339,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,7,Workflow Engine for Kubernetes,2938,13501,https://avatars.githubusercontent.com/u/30269780?v=4
+133067498,kustomize,kubernetes-sigs/kustomize,Go,2,Customization of kubernetes YAML configurations,2179,10030,https://avatars.githubusercontent.com/u/36015203?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,1,Terraform AWS provider,8355,8880,https://avatars.githubusercontent.com/u/761456?v=4
+27576132,aws-sdk-go,aws/aws-sdk-go,Go,1,AWS SDK for the Go programming language.,2129,8422,https://avatars.githubusercontent.com/u/2232217?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,2,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3629,8313,https://avatars.githubusercontent.com/u/66682517?v=4
+658928958,ollama,jmorganca/ollama,Go,217,Get up and running with Llama 2 and other large language models locally,449,8257,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
+12332444,ginkgo,onsi/ginkgo,Go,6,A Modern Testing Framework for Go,652,7495,https://avatars.githubusercontent.com/u/558230?v=4
+92969352,buildkit,moby/buildkit,Go,4,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",1027,7094,https://avatars.githubusercontent.com/u/27259197?v=4
+170411418,keda,kedacore/keda,Go,8, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,875,6875,https://avatars.githubusercontent.com/u/49917779?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2413,6706,https://avatars.githubusercontent.com/u/36015203?v=4
+126493684,gotenberg,gotenberg/gotenberg,Go,6,"A developer-friendly API for converting numerous document formats into PDF files, and more!",437,5631,https://avatars.githubusercontent.com/u/66820499?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,34,"node of the decentralized oracle network, bridging on and off-chain computation",1445,5168,https://avatars.githubusercontent.com/u/25111032?v=4
+5425992,nats.go,nats-io/nats.go,Go,2,"Golang client for NATS, the cloud native messaging system.",656,4803,https://avatars.githubusercontent.com/u/10203055?v=4
+149515625,flagger,fluxcd/flagger,Go,2,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",696,4431,https://avatars.githubusercontent.com/u/52158677?v=4
+594749373,REALITY,XTLS/REALITY,Go,11,THE NEXT FUTURE,169,2402,https://avatars.githubusercontent.com/u/71564206?v=4
+356677177,templ,a-h/templ,Go,112,A language for writing HTML user interfaces in Go.,47,1026,https://avatars.githubusercontent.com/u/1029947?u=81870ddb3da5cbf268b13e9f0409caf08c5fa9f2&v=4
