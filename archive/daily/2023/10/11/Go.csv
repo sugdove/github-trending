@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-48378947,frp,fatedier/frp,Go,45,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12018,72609,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-41986369,tidb,pingcap/tidb,Go,17,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",5634,34990,https://avatars.githubusercontent.com/u/11855343?v=4
-31288958,vault,hashicorp/vault,Go,6,"A tool for secrets management, encryption as a service, and privileged access management",4021,28494,https://avatars.githubusercontent.com/u/761456?v=4
-285864199,go-zero,zeromicro/go-zero,Go,19,A cloud-native Go microservices framework with cli tool for productivity.,3650,25761,https://avatars.githubusercontent.com/u/74225106?v=4
-122734569,lux,iawia002/lux,Go,11,👾 Fast and simple video download library and CLI tool written in Go,2588,22220,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-26337322,rancher,rancher/rancher,Go,7,Complete container management platform,2891,21606,https://avatars.githubusercontent.com/u/9343010?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,26,A powerful little TUI framework 🏗,626,20050,https://avatars.githubusercontent.com/u/57376114?v=4
-205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,12,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",5582,18450,https://avatars.githubusercontent.com/u/63276650?v=4
-5179099,go-redis,redis/go-redis,Go,9,Redis Go client,2179,18117,https://avatars.githubusercontent.com/u/1529926?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,6,Protect and discover secrets using Gitleaks 🔑,1252,13938,https://avatars.githubusercontent.com/u/90395851?v=4
-7083242,mysql,go-sql-driver/mysql,Go,0,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2351,13711,https://avatars.githubusercontent.com/u/3002971?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,43,Production-Grade Container Scheduling and Management,38055,102212,https://avatars.githubusercontent.com/u/13629408?v=4
+16752620,gogs,gogs/gogs,Go,8,Gogs is a painless self-hosted Git service,4844,43027,https://avatars.githubusercontent.com/u/6656686?v=4
+15045751,compose,docker/compose,Go,7,Define and run multi-container applications with Docker,5044,30627,https://avatars.githubusercontent.com/u/5429470?v=4
+14125254,consul,hashicorp/consul,Go,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4397,26974,https://avatars.githubusercontent.com/u/761456?v=4
+285864199,go-zero,zeromicro/go-zero,Go,112,A cloud-native Go microservices framework with cli tool for productivity.,3651,25771,https://avatars.githubusercontent.com/u/74225106?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,7,gRPC to JSON proxy generator following the gRPC HTTP spec,2058,16120,https://avatars.githubusercontent.com/u/19352526?v=4
+72891330,ingress-nginx,kubernetes/ingress-nginx,Go,7,Ingress-NGINX Controller for Kubernetes,7974,15651,https://avatars.githubusercontent.com/u/13629408?v=4
+20653934,cadvisor,google/cadvisor,Go,5,Analyzes resource usage and performance characteristics of running containers.,2287,15564,https://avatars.githubusercontent.com/u/1342004?v=4
+118105436,migrate,golang-migrate/migrate,Go,13,Database migrations. CLI and Golang library.,1231,12388,https://avatars.githubusercontent.com/u/35595841?v=4
 370977430,open-im-server,openimsdk/open-im-server,Go,12,IM SDK chat ,2079,11969,https://avatars.githubusercontent.com/u/84842645?v=4
+4925652,cron,robfig/cron,Go,18,a cron library for go,1562,11824,https://avatars.githubusercontent.com/u/536325?v=4
 144849757,sealos,labring/sealos,Go,11,Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. https://sealos.io,1858,11483,https://avatars.githubusercontent.com/u/102226726?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,4,Code AI platform with Code Search & Cody,1167,9010,https://avatars.githubusercontent.com/u/3979584?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,0,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3629,8329,https://avatars.githubusercontent.com/u/66682517?v=4
-93808874,go-clean-arch,bxcodec/go-clean-arch,Go,11,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,1140,8168,https://avatars.githubusercontent.com/u/11002383?u=a88a4c7f2def4c4a976e8acd6d757030ef4669af&v=4
+11206255,sarama,IBM/sarama,Go,2,Sarama is a Go library for Apache Kafka.,1735,10411,https://avatars.githubusercontent.com/u/1459110?v=4
+281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,13,cqhttp的golang实现，轻量、原生跨平台.,1602,9690,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
+9120526,pgx,jackc/pgx,Go,19,PostgreSQL driver and toolkit for Go,736,7864,https://avatars.githubusercontent.com/u/94130?v=4
+12332444,ginkgo,onsi/ginkgo,Go,10,A Modern Testing Framework for Go,655,7516,https://avatars.githubusercontent.com/u/558230?v=4
+584556174,conc,sourcegraph/conc,Go,15,Better structured concurrency for go,283,7371,https://avatars.githubusercontent.com/u/3979584?v=4
 49765480,lnd,lightningnetwork/lnd,Go,28,Lightning Network Daemon ⚡️,1986,7139,https://avatars.githubusercontent.com/u/13424735?v=4
-333303663,bytebase,bytebase/bytebase,Go,14,"Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.",453,7022,https://avatars.githubusercontent.com/u/74386897?v=4
-3802828,goproxy,elazarl/goproxy,Go,2,An HTTP proxy library for Go,1063,5562,https://avatars.githubusercontent.com/u/260258?v=4
-330616364,go-clean-template,evrone/go-clean-template,Go,19,Clean Architecture template for Golang services,514,5531,https://avatars.githubusercontent.com/u/431569?v=4
-631254164,one-api,songquanpeng/one-api,Go,38,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",1129,4829,https://avatars.githubusercontent.com/u/39998050?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,5,OpenTelemetry Go API and SDK,950,4270,https://avatars.githubusercontent.com/u/49998002?v=4
-93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,4,Terraform provider for Azure Resource Manager,4236,4188,https://avatars.githubusercontent.com/u/761456?v=4
-411630635,terramate,terramate-io/terramate,Go,5,"Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.",53,2628,https://avatars.githubusercontent.com/u/129163307?v=4
-53971519,azure-container-networking,Azure/azure-container-networking,Go,1,Azure Container Networking Solutions for Linux and Windows Containers,226,338,https://avatars.githubusercontent.com/u/6844498?v=4
+63625434,gosec,securego/gosec,Go,5,Golang security checker,598,7120,https://avatars.githubusercontent.com/u/23195997?v=4
+333303663,bytebase,bytebase/bytebase,Go,14,"Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.",453,7028,https://avatars.githubusercontent.com/u/74386897?v=4
+53356367,skopeo,containers/skopeo,Go,3,"Work with remote images registries - retrieving information, images, signing content",697,6633,https://avatars.githubusercontent.com/u/5874934?v=4
+52555254,goose,pressly/goose,Go,15,A database migration tool. Supports SQL migrations and Go functions. ,475,4480,https://avatars.githubusercontent.com/u/18835?v=4
+173009358,oapi-codegen,deepmap/oapi-codegen,Go,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,717,4198,https://avatars.githubusercontent.com/u/47459865?v=4
+384111310,incubator-devlake,apache/incubator-devlake,Go,1,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",406,2203,https://avatars.githubusercontent.com/u/47359?v=4
+643972624,wxapkg,wux1an/wxapkg,Go,29,微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具,62,323,https://avatars.githubusercontent.com/u/87492350?u=17163d6f1475895e0859d8f435e03b5e5dfb1f2e&v=4
