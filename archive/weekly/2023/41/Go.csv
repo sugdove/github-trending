@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-136815833,clash,Dreamacro/clash,Go,303,A rule-based tunnel in Go.,6179,47560,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
-285864199,go-zero,zeromicro/go-zero,Go,285,A cloud-native Go microservices framework with cli tool for productivity.,3662,25936,https://avatars.githubusercontent.com/u/74225106?v=4
-165041732,kratos,go-kratos/kratos,Go,100,Your ultimate Go microservices framework for the cloud-native era.,3922,21527,https://avatars.githubusercontent.com/u/62791634?v=4
-48109239,cilium,cilium/cilium,Go,89,"eBPF-based Networking, Security, and Observability",2426,16677,https://avatars.githubusercontent.com/u/21054566?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,83,Declarative Continuous Deployment for Kubernetes,4285,14314,https://avatars.githubusercontent.com/u/30269780?v=4
+136815833,clash,Dreamacro/clash,Go,303,A rule-based tunnel in Go.,6178,47565,https://avatars.githubusercontent.com/u/8615343?u=327152a798c877f098eaa24ec15448e9e21df323&v=4
+42408804,traefik,traefik/traefik,Go,108,The Cloud Native Application Proxy,4734,44943,https://avatars.githubusercontent.com/u/14280338?v=4
+156084530,nps,ehang-io/nps,Go,87,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",4975,27330,https://avatars.githubusercontent.com/u/59558731?v=4
+14125254,consul,hashicorp/consul,Go,249,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4408,27179,https://avatars.githubusercontent.com/u/761456?v=4
+285864199,go-zero,zeromicro/go-zero,Go,285,A cloud-native Go microservices framework with cli tool for productivity.,3662,25947,https://avatars.githubusercontent.com/u/74225106?v=4
+165041732,kratos,go-kratos/kratos,Go,100,Your ultimate Go microservices framework for the cloud-native era.,3922,21528,https://avatars.githubusercontent.com/u/62791634?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,129,"CNCF Jaeger, a Distributed Tracing Platform",2260,18478,https://avatars.githubusercontent.com/u/28545596?v=4
+48109239,cilium,cilium/cilium,Go,89,"eBPF-based Networking, Security, and Observability",2426,16680,https://avatars.githubusercontent.com/u/21054566?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,83,Declarative Continuous Deployment for Kubernetes,4285,14315,https://avatars.githubusercontent.com/u/30269780?v=4
+66156850,Go,TheAlgorithms/Go,Go,73,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",2423,13531,https://avatars.githubusercontent.com/u/20487725?v=4
 118105436,migrate,golang-migrate/migrate,Go,61,Database migrations. CLI and Golang library.,1232,12403,https://avatars.githubusercontent.com/u/35595841?v=4
-106704041,air,cosmtrek/air,Go,172,☁️ Live reload for Go apps,712,12097,https://avatars.githubusercontent.com/u/8832222?v=4
-11206255,sarama,IBM/sarama,Go,30,Sarama is a Go library for Apache Kafka.,1735,10422,https://avatars.githubusercontent.com/u/1459110?v=4
-281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,75,cqhttp的golang实现，轻量、原生跨平台.,1601,9704,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
-658928958,ollama,jmorganca/ollama,Go,1132,Get up and running with Llama 2 and other large language models locally,512,9524,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
-93808874,go-clean-arch,bxcodec/go-clean-arch,Go,62,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,1140,8176,https://avatars.githubusercontent.com/u/11002383?u=a88a4c7f2def4c4a976e8acd6d757030ef4669af&v=4
-99143276,velero,vmware-tanzu/velero,Go,57,Backup and migrate Kubernetes applications and their persistent volumes,1286,7726,https://avatars.githubusercontent.com/u/54452117?v=4
-147886080,crossplane,crossplane/crossplane,Go,64,Cloud Native Control Planes,801,7633,https://avatars.githubusercontent.com/u/45158470?v=4
-584556174,conc,sourcegraph/conc,Go,109,Better structured concurrency for go,285,7425,https://avatars.githubusercontent.com/u/3979584?v=4
-221849341,asynq,hibiken/asynq,Go,127,"Simple, reliable, and efficient distributed task queue in Go",562,7246,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
-49765480,lnd,lightningnetwork/lnd,Go,53,Lightning Network Daemon ⚡️,1988,7144,https://avatars.githubusercontent.com/u/13424735?v=4
-509091576,sing-box,SagerNet/sing-box,Go,225,The universal proxy platform,610,5296,https://avatars.githubusercontent.com/u/83217677?v=4
-220588935,nezha,naiba/nezha,Go,126,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool",1072,5032,https://avatars.githubusercontent.com/u/29243953?u=9881a6f1a488312e0e597c065a1de318148743ea&v=4
-631254164,one-api,songquanpeng/one-api,Go,253,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",1141,4865,https://avatars.githubusercontent.com/u/39998050?v=4
-52555254,goose,pressly/goose,Go,67,A database migration tool. Supports SQL migrations and Go functions. ,476,4504,https://avatars.githubusercontent.com/u/18835?v=4
-505278571,scan4all,hktalent/scan4all,Go,102,"Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...",502,4200,https://avatars.githubusercontent.com/u/18223385?u=5ba29c1a9447ae88a6a0433f44038f47471e11c1&v=4
-369755856,ipatool,majd/ipatool,Go,102,Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store,375,4168,https://avatars.githubusercontent.com/u/1644696?u=9c527fec8a73d3ab9dce56344083bd213cc9d214&v=4
-216628419,flyte,flyteorg/flyte,Go,60,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",408,3927,https://avatars.githubusercontent.com/u/35380635?v=4
-309820286,fleet,fleetdm/fleet,Go,29,"Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)",286,1610,https://avatars.githubusercontent.com/u/70264713?v=4
-356677177,templ,a-h/templ,Go,247,A language for writing HTML user interfaces in Go.,59,1333,https://avatars.githubusercontent.com/u/1029947?u=81870ddb3da5cbf268b13e9f0409caf08c5fa9f2&v=4
+16554739,beats,elastic/beats,Go,8,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4811,11814,https://avatars.githubusercontent.com/u/6764390?v=4
+658928958,ollama,jmorganca/ollama,Go,1132,Get up and running with Llama 2 and other large language models locally,513,9534,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
+93808874,go-clean-arch,bxcodec/go-clean-arch,Go,62,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,1140,8177,https://avatars.githubusercontent.com/u/11002383?u=a88a4c7f2def4c4a976e8acd6d757030ef4669af&v=4
+9120526,pgx,jackc/pgx,Go,128,PostgreSQL driver and toolkit for Go,743,7942,https://avatars.githubusercontent.com/u/94130?v=4
+257434373,hysteria,apernet/hysteria,Go,302,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",852,7869,https://avatars.githubusercontent.com/u/79422552?v=4
+99143276,velero,vmware-tanzu/velero,Go,57,Backup and migrate Kubernetes applications and their persistent volumes,1286,7728,https://avatars.githubusercontent.com/u/54452117?v=4
+244694886,nightingale,ccfos/nightingale,Go,284,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1197,7485,https://avatars.githubusercontent.com/u/96813578?v=4
+584556174,conc,sourcegraph/conc,Go,109,Better structured concurrency for go,285,7427,https://avatars.githubusercontent.com/u/3979584?v=4
+333303663,bytebase,bytebase/bytebase,Go,164,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.",460,7108,https://avatars.githubusercontent.com/u/74386897?v=4
+197914161,sftpgo,drakkan/sftpgo,Go,38,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",587,6865,https://avatars.githubusercontent.com/u/553263?v=4
+509091576,sing-box,SagerNet/sing-box,Go,225,The universal proxy platform,610,5297,https://avatars.githubusercontent.com/u/83217677?v=4
+52555254,goose,pressly/goose,Go,67,A database migration tool. Supports SQL migrations and Go functions. ,476,4506,https://avatars.githubusercontent.com/u/18835?v=4
+216628419,flyte,flyteorg/flyte,Go,60,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",408,3928,https://avatars.githubusercontent.com/u/35380635?v=4
+356677177,templ,a-h/templ,Go,247,A language for writing HTML user interfaces in Go.,59,1336,https://avatars.githubusercontent.com/u/1029947?u=81870ddb3da5cbf268b13e9f0409caf08c5fa9f2&v=4
