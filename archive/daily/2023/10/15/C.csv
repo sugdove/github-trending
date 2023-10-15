@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,66,Linux kernel source tree,50673,158966,https://avatars.githubusercontent.com/u/1024025?v=4
-7710647,libsodium,jedisct1/libsodium,C,3,"A modern, portable, easy to use crypto library.",1732,11521,https://avatars.githubusercontent.com/u/124872?v=4
-65899476,esp-idf,espressif/esp-idf,C,7,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6695,11331,https://avatars.githubusercontent.com/u/9460735?v=4
-1856976,libevent,libevent/libevent,C,3,Event notification library,3300,10235,https://avatars.githubusercontent.com/u/833750?v=4
-5414488,mongoose,cesanta/mongoose,C,0,Embedded Web Server,2604,9900,https://avatars.githubusercontent.com/u/5111322?v=4
-54280778,cJSON,DaveGamble/cJSON,C,4,Ultralightweight JSON parser in ANSI C,3064,9318,https://avatars.githubusercontent.com/u/118247?v=4
-7408108,rt-thread,RT-Thread/rt-thread,C,1,RT-Thread is an open source IoT real-time operating system (RTOS).,4668,8832,https://avatars.githubusercontent.com/u/1783729?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,5,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5250,8495,https://avatars.githubusercontent.com/u/19595895?v=4
-224151065,Nuklear,Immediate-Mode-UI/Nuklear,C,5,A single-header ANSI C immediate mode cross-platform GUI library,480,7848,https://avatars.githubusercontent.com/u/58210959?v=4
+111583593,scrcpy,Genymobile/scrcpy,C,42,Display and control your Android device,9343,92310,https://avatars.githubusercontent.com/u/3427627?v=4
+102578345,lede,coolsnowwolf/lede,C,10,Lean's LEDE source,19385,27213,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+6201092,mpv,mpv-player/mpv,C,7,🎥 Command line video player,2673,23776,https://avatars.githubusercontent.com/u/2550273?v=4
+80286288,Tasmota,arendst/Tasmota,C,5,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4514,20350,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+184909163,yabai,koekeishiya/yabai,C,14,A tiling window manager for macOS based on binary space partitioning,582,18277,https://avatars.githubusercontent.com/u/6175959?u=e07b472bc4fa5500439c2c099a4736bcfd636769&v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,6,Open-source keyboard firmware for Atmel AVR and Arm USB families,34041,15988,https://avatars.githubusercontent.com/u/25358678?v=4
+254327261,Sandboxie,sandboxie-plus/Sandboxie,C,6,Sandboxie Plus & Classic,1196,10751,https://avatars.githubusercontent.com/u/63755826?v=4
+437011,zfs,openzfs/zfs,C,6,OpenZFS on Linux and FreeBSD,1659,9546,https://avatars.githubusercontent.com/u/4510897?v=4
+37060852,betaflight,betaflight/betaflight,C,2,Open Source Flight Controller Firmware,2672,7273,https://avatars.githubusercontent.com/u/19597933?v=4
+86245815,pygame,pygame/pygame,C,4,"🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",2826,6398,https://avatars.githubusercontent.com/u/20628127?v=4
 131710328,hekate,CTCaer/hekate,C,10,hekate - A GUI based Nintendo Switch Bootloader,504,5556,https://avatars.githubusercontent.com/u/3665130?v=4
-33031885,UACME,hfiref0x/UACME,C,4,Defeating Windows User Account Control,1284,5519,https://avatars.githubusercontent.com/u/10708977?u=b5b0f2ad788fd45039f107caa0c03a0113bebf42&v=4
 579676275,Xtreme-Firmware,Flipper-XFW/Xtreme-Firmware,C,25,"The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!    ",349,5000,https://avatars.githubusercontent.com/u/140006447?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,8,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2361,4496,https://avatars.githubusercontent.com/u/97226525?v=4
-1139119,json-c,json-c/json-c,C,0,https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/,1090,2760,https://avatars.githubusercontent.com/u/814753?v=4
-4233299,enet,lsalzman/enet,C,3,ENet reliable UDP networking library ,634,2442,https://avatars.githubusercontent.com/u/1456849?v=4
-45695616,mydumper,mydumper/mydumper,C,1,Official MyDumper Project,422,2138,https://avatars.githubusercontent.com/u/83303388?v=4
+203759896,immortalwrt,immortalwrt/immortalwrt,C,6,An opensource OpenWrt variant for mainland China users.,1186,3043,https://avatars.githubusercontent.com/u/53193414?v=4
+144465372,proxmark3,RfidResearchGroup/proxmark3,C,2,Iceman Fork - Proxmark3,859,2979,https://avatars.githubusercontent.com/u/40314039?v=4
+470373719,istoreos,istoreos/istoreos,C,9,提供一个人人会用的的路由、NAS系统,256,2773,https://avatars.githubusercontent.com/u/107662817?v=4
+646423,pgbouncer,pgbouncer/pgbouncer,C,4,lightweight connection pooler for PostgreSQL,397,2279,https://avatars.githubusercontent.com/u/11858179?v=4
+331381105,pico-examples,raspberrypi/pico-examples,C,5,,673,2191,https://avatars.githubusercontent.com/u/1294177?v=4
 671061529,winlator,brunodev85/winlator,C,11,Android application for running Windows applications with Wine and Box86/Box64,67,2002,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
-1031235,strongswan,strongswan/strongswan,C,1,strongSwan - IPsec-based VPN,708,1888,https://avatars.githubusercontent.com/u/457671?v=4
-50272879,pjproject,pjsip/pjproject,C,1,PJSIP project,683,1645,https://avatars.githubusercontent.com/u/6085234?v=4
-186178030,labwc,labwc/labwc,C,3,A Wayland window-stacking compositor,114,1192,https://avatars.githubusercontent.com/u/93831657?v=4
-702634625,Windows_MSKSSRV_LPE_CVE-2023-36802,chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802,C,8,LPE exploit for CVE-2023-36802,26,87,https://avatars.githubusercontent.com/u/56364411?v=4
-523859598,linux-imx,nxp-imx/linux-imx,C,0,i.MX Linux kernel,101,87,https://avatars.githubusercontent.com/u/110269971?v=4
-704013145,Cobaltstrike-Detection,paranoidninja/Cobaltstrike-Detection,C,3,"This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared",7,48,https://avatars.githubusercontent.com/u/21009111?u=95d691a011d541545ff740a245bd7447a4ffcf75&v=4
+270692521,zmk,zmkfirmware/zmk,C,0,ZMK Firmware Repository,1972,1898,https://avatars.githubusercontent.com/u/66629601?v=4
+43677244,pokeemerald,pret/pokeemerald,C,2,Decompilation of Pokémon Emerald,1501,1791,https://avatars.githubusercontent.com/u/10761592?v=4
+229072307,Prusa-Firmware-Buddy,prusa3d/Prusa-Firmware-Buddy,C,2,"Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research. ",161,774,https://avatars.githubusercontent.com/u/14859759?v=4
+687536523,xtouch,xperiments-in/xtouch,C,14,,7,69,https://avatars.githubusercontent.com/u/146482816?v=4
+702407711,HactoberFest2023,HarshwardhanPatil07/HactoberFest2023,Jupyter Notebook,19,A Simple😉 beginner friendly😊 Repo for all programmers and coders. All contributors are requested to star🌟this repo and and folllllow me.  Contribute to start your journey with hacktoberfest. Happy Hacking💻!!!,105,59,https://avatars.githubusercontent.com/u/126240589?u=1cf06d44eca51da031f89a59b4a0628da711ceb1&v=4
 702090706,litechain,jinxinyang/litechain,C,12,,8,41,https://avatars.githubusercontent.com/u/37427124?v=4
+689229073,uv-k5-firmware-custom,OneOfEleven/uv-k5-firmware-custom,C,3,A customized version of https://github.com/DualTachyon/uv-k5-firmware,10,13,https://avatars.githubusercontent.com/u/51590168?v=4
