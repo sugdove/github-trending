@@ -1,14 +1,14 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 20904437,gin,gin-gonic/gin,Go,19,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7728,72067,https://avatars.githubusercontent.com/u/7894478?v=4
-17728164,terraform,hashicorp/terraform,Go,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9106,39053,https://avatars.githubusercontent.com/u/761456?v=4
+17728164,terraform,hashicorp/terraform,Go,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9106,39054,https://avatars.githubusercontent.com/u/761456?v=4
 30215630,kit,go-kit/kit,Go,7,A standard library for microservices.,2466,25530,https://avatars.githubusercontent.com/u/10981023?v=4
 50613991,harbor,goharbor/harbor,Go,14,"An open source trusted cloud native registry project that stores, signs, and scans content.",4468,21051,https://avatars.githubusercontent.com/u/40275816?v=4
 129717717,loki,grafana/loki,Go,11,"Like Prometheus, but for logs.",2983,20342,https://avatars.githubusercontent.com/u/7195757?v=4
-273871859,headscale,juanfont/headscale,Go,39,"An open source, self-hosted implementation of the Tailscale control server",921,15730,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+273871859,headscale,juanfont/headscale,Go,31,"An open source, self-hosted implementation of the Tailscale control server",921,15730,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
 8966356,packer,hashicorp/packer,Go,4,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3362,14644,https://avatars.githubusercontent.com/u/761456?v=4
 119190187,gitleaks,gitleaks/gitleaks,Go,6,Protect and discover secrets using Gitleaks 🔑,1254,13976,https://avatars.githubusercontent.com/u/90395851?v=4
-7083242,mysql,go-sql-driver/mysql,Go,2,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2357,13726,https://avatars.githubusercontent.com/u/3002971?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,26,Find and verify credentials,1442,12289,https://avatars.githubusercontent.com/u/79229934?v=4
+7083242,mysql,go-sql-driver/mysql,Go,1,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2357,13726,https://avatars.githubusercontent.com/u/3002971?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,26,Find and verify credentials,1442,12291,https://avatars.githubusercontent.com/u/79229934?v=4
 106704041,air,cosmtrek/air,Go,30,☁️ Live reload for Go apps,720,12211,https://avatars.githubusercontent.com/u/8832222?v=4
 11206255,sarama,IBM/sarama,Go,3,Sarama is a Go library for Apache Kafka.,1739,10434,https://avatars.githubusercontent.com/u/1459110?v=4
 27051771,protobuf,golang/protobuf,Go,6,Go support for Google's protocol buffers,1635,9299,https://avatars.githubusercontent.com/u/4314092?v=4
@@ -22,5 +22,5 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 503408858,wechat-backup,greycodee/wechat-backup,Go,29,微信聊天记录持久化备份本地硬盘，释放手机存储空间。,288,2853,https://avatars.githubusercontent.com/u/33391732?u=1608f825514e0df0ddf1d8c3517f0d4c8f0ec858&v=4
 96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,2,AWS SDK for the Go programming language. ,590,2152,https://avatars.githubusercontent.com/u/2232217?v=4
 196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,1,Contrib repository for the OpenTelemetry Collector,1685,2075,https://avatars.githubusercontent.com/u/49998002?v=4
-454528656,kepler,sustainable-computing-io/kepler,Go,7,"Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics",114,707,https://avatars.githubusercontent.com/u/91567619?v=4
-704915493,imersao15,devfullcycle/imersao15,Go,10,,28,54,https://avatars.githubusercontent.com/u/91744653?v=4
+454528656,kepler,sustainable-computing-io/kepler,Go,11,"Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics",114,708,https://avatars.githubusercontent.com/u/91567619?v=4
+704915493,imersao15,devfullcycle/imersao15,Go,10,,29,56,https://avatars.githubusercontent.com/u/91744653?v=4
