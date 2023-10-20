@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,23,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23000,61875,https://avatars.githubusercontent.com/u/1529926?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C,80,Port of Facebook's LLaMA model in C/C++,6004,42615,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-3774328,wrk,wg/wrk,C,50,Modern HTTP benchmarking tool,2861,35600,https://avatars.githubusercontent.com/u/94529?v=4
-1357796,emscripten,emscripten-core/emscripten,C,5,Emscripten: An LLVM-to-WebAssembly Compiler,3190,24374,https://avatars.githubusercontent.com/u/46011144?v=4
-196353673,TDengine,taosdata/TDengine,C,5,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4726,21805,https://avatars.githubusercontent.com/u/48876650?v=4
-80286288,Tasmota,arendst/Tasmota,C,9,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4523,20372,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
+156018,redis,redis/redis,C,12,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23001,61876,https://avatars.githubusercontent.com/u/1529926?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C,80,Port of Facebook's LLaMA model in C/C++,6005,42628,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+3774328,wrk,wg/wrk,C,50,Modern HTTP benchmarking tool,2861,35606,https://avatars.githubusercontent.com/u/94529?v=4
+1357796,emscripten,emscripten-core/emscripten,C,5,Emscripten: An LLVM-to-WebAssembly Compiler,3191,24374,https://avatars.githubusercontent.com/u/46011144?v=4
+196353673,TDengine,taosdata/TDengine,C,5,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4726,21806,https://avatars.githubusercontent.com/u/48876650?v=4
+80286288,Tasmota,arendst/Tasmota,C,9,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4524,20373,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
 34921116,bcc,iovisor/bcc,C,13,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3666,18158,https://avatars.githubusercontent.com/u/12766186?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,90,Flipper Zero Unleashed Firmware,1079,11492,https://avatars.githubusercontent.com/u/115378555?v=4
-39242894,coturn,coturn/coturn,C,11,coturn TURN server project,1861,9743,https://avatars.githubusercontent.com/u/6572098?v=4
-14049216,cockpit,cockpit-project/cockpit,C,18,Cockpit is a web-based graphical interface for servers.,1052,9294,https://avatars.githubusercontent.com/u/5765104?v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,90,Flipper Zero Unleashed Firmware,1079,11494,https://avatars.githubusercontent.com/u/115378555?v=4
+39242894,coturn,coturn/coturn,C,11,coturn TURN server project,1861,9744,https://avatars.githubusercontent.com/u/6572098?v=4
+14049216,cockpit,cockpit-project/cockpit,C,18,Cockpit is a web-based graphical interface for servers.,1052,9311,https://avatars.githubusercontent.com/u/5765104?v=4
 50874442,citus,citusdata/citus,C,6,Distributed PostgreSQL as an extension,599,9053,https://avatars.githubusercontent.com/u/2545424?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,6,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5278,8531,https://avatars.githubusercontent.com/u/19595895?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,8,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5278,8531,https://avatars.githubusercontent.com/u/19595895?v=4
 106586124,atomic-red-team,redcanaryco/atomic-red-team,C,5,Small and highly portable detection tests based on MITRE's ATT&CK.,2545,8196,https://avatars.githubusercontent.com/u/6877001?v=4
-40556106,wazuh,wazuh/wazuh,C,10,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1178,7183,https://avatars.githubusercontent.com/u/13752566?v=4
-537699,CMake,Kitware/CMake,C,2,Mirror of CMake upstream repository,2495,6050,https://avatars.githubusercontent.com/u/87549?v=4
-29933948,fluent-bit,fluent/fluent-bit,C,3,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1370,4908,https://avatars.githubusercontent.com/u/859518?v=4
-2359378,zlib,madler/zlib,C,5,A massively spiffy yet delicately unobtrusive compression library.,2279,4737,https://avatars.githubusercontent.com/u/240717?v=4
-1251393,klib,attractivechaos/klib,C,7,A standalone and lightweight C library,564,3878,https://avatars.githubusercontent.com/u/563093?v=4
-39042157,spdk,spdk/spdk,C,0,Storage Performance Development Kit,1061,2598,https://avatars.githubusercontent.com/u/13323228?v=4
-505613691,Onion,OnionUI/Onion,C,6,OS overhaul for Miyoo Mini and Mini+,120,2173,https://avatars.githubusercontent.com/u/109221246?v=4
-228103273,nuttx,apache/nuttx,C,13,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",842,1682,https://avatars.githubusercontent.com/u/47359?v=4
-342120988,arduino-pico,earlephilhower/arduino-pico,C,6,"Raspberry Pi Pico Arduino core, for all RP2040 boards",324,1462,https://avatars.githubusercontent.com/u/11875?u=fefb7f1675bab97530a8c6a77f07dde76662cd80&v=4
+40556106,wazuh,wazuh/wazuh,C,10,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1178,7185,https://avatars.githubusercontent.com/u/13752566?v=4
+537699,CMake,Kitware/CMake,C,2,Mirror of CMake upstream repository,2495,6051,https://avatars.githubusercontent.com/u/87549?v=4
+29933948,fluent-bit,fluent/fluent-bit,C,3,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1370,4909,https://avatars.githubusercontent.com/u/859518?v=4
+2359378,zlib,madler/zlib,C,5,A massively spiffy yet delicately unobtrusive compression library.,2279,4735,https://avatars.githubusercontent.com/u/240717?v=4
+1251393,klib,attractivechaos/klib,C,3,A standalone and lightweight C library,564,3879,https://avatars.githubusercontent.com/u/563093?v=4
+39042157,spdk,spdk/spdk,C,0,Storage Performance Development Kit,1061,2599,https://avatars.githubusercontent.com/u/13323228?v=4
+505613691,Onion,OnionUI/Onion,C,6,OS overhaul for Miyoo Mini and Mini+,120,2174,https://avatars.githubusercontent.com/u/109221246?v=4
+228103273,nuttx,apache/nuttx,C,5,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",842,1682,https://avatars.githubusercontent.com/u/47359?v=4
+342120988,arduino-pico,earlephilhower/arduino-pico,C,6,"Raspberry Pi Pico Arduino core, for all RP2040 boards",324,1463,https://avatars.githubusercontent.com/u/11875?u=fefb7f1675bab97530a8c6a77f07dde76662cd80&v=4
 640683234,ctransformers,marella/ctransformers,C,6,Python bindings for the Transformer models implemented in C/C++ using GGML library.,92,1206,https://avatars.githubusercontent.com/u/1623046?v=4
 53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,1241,602,https://avatars.githubusercontent.com/u/102750714?v=4
 672651553,gaussian-splatting-cuda,MrNeRF/gaussian-splatting-cuda,C,10,"3D Gaussian Splatting, reimagined: Unleashing unmatched speed with C++ and CUDA from the ground up!",32,518,https://avatars.githubusercontent.com/u/33876434?u=223e93bb39f15a25feb7a1fc111709206531b57e&v=4
