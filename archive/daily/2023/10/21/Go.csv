@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6838921,prometheus,prometheus/prometheus,Go,21,The Prometheus monitoring system and time series database.,8565,50323,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9113,39081,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,14,A Commander for modern Go CLI interactions,2784,33791,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+192632000,dapr,dapr/dapr,Go,12,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1758,22434,https://avatars.githubusercontent.com/u/51932459?v=4
 26337322,rancher,rancher/rancher,Go,9,Complete container management platform,2899,21649,https://avatars.githubusercontent.com/u/9343010?v=4
-29217054,go-micro,go-micro/go-micro,Go,9,A Go microservices framework,2345,20914,https://avatars.githubusercontent.com/u/103172883?v=4
-52034309,zap,uber-go/zap,Go,8,"Blazing fast, structured, leveled logging in Go.",1420,19892,https://avatars.githubusercontent.com/u/19262598?v=4
-109145553,podman,containers/podman,Go,10,Podman: A tool for managing OCI containers and pods.,2081,19445,https://avatars.githubusercontent.com/u/5874934?v=4
-44344606,chi,go-chi/chi,Go,13,"lightweight, idiomatic and composable router for building Go HTTP services",962,15614,https://avatars.githubusercontent.com/u/29575368?v=4
+6247705,testify,stretchr/testify,Go,9,A toolkit with common assertions and mocks that plays nicely with the standard library,1509,20786,https://avatars.githubusercontent.com/u/1841476?v=4
+180687624,trivy,aquasecurity/trivy,Go,14,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1921,19024,https://avatars.githubusercontent.com/u/12783832?v=4
+48109239,cilium,cilium/cilium,Go,6,"eBPF-based Networking, Security, and Observability",2438,16755,https://avatars.githubusercontent.com/u/21054566?v=4
 252813491,nuclei,projectdiscovery/nuclei,Go,24,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2047,15011,https://avatars.githubusercontent.com/u/50994705?v=4
-46089560,containerd,containerd/containerd,Go,8,An open and reliable container runtime,3129,15001,https://avatars.githubusercontent.com/u/14037953?v=4
-30711774,validator,go-playground/validator,Go,8,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1217,14199,https://avatars.githubusercontent.com/u/14768796?v=4
-7083242,mysql,go-sql-driver/mysql,Go,4,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2360,13735,https://avatars.githubusercontent.com/u/3002971?v=4
-33258973,telegraf,influxdata/telegraf,Go,2,The plugin-driven server agent for collecting & reporting metrics.,5436,13297,https://avatars.githubusercontent.com/u/5713248?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,124,Find and verify credentials,1448,12468,https://avatars.githubusercontent.com/u/79229934?v=4
+420503947,ntfy,binwiederhier/ntfy,Go,18,Send push notifications to your phone or desktop using PUT/POST,522,14249,https://avatars.githubusercontent.com/u/664597?u=d20c51ed3d20cab19d2deffc58d028136229ab01&v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,9,The most customisable and low-latency cross platform/shell prompt renderer,2127,12380,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
 109162639,thanos,thanos-io/thanos,Go,8,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,1945,12174,https://avatars.githubusercontent.com/u/49725059?v=4
-13021798,git-lfs,git-lfs/git-lfs,Go,5,Git extension for versioning large files,2257,11905,https://avatars.githubusercontent.com/u/20246716?v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,5,Customization of kubernetes YAML configurations,2189,10075,https://avatars.githubusercontent.com/u/36015203?v=4
-135321861,kratos,ory/kratos,Go,12,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",833,9457,https://avatars.githubusercontent.com/u/25334553?v=4
-49765480,lnd,lightningnetwork/lnd,Go,5,Lightning Network Daemon ⚡️,1990,7174,https://avatars.githubusercontent.com/u/13424735?v=4
-106867604,cloudflared,cloudflare/cloudflared,Go,9,Cloudflare Tunnel client (formerly Argo Tunnel),650,6741,https://avatars.githubusercontent.com/u/314135?v=4
-16607984,go-sqlmock,DATA-DOG/go-sqlmock,Go,1,Sql mock driver for golang to test database interactions,423,5526,https://avatars.githubusercontent.com/u/6613360?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,19,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1030,11804,https://avatars.githubusercontent.com/u/109613420?v=4
+281694167,go-cqhttp,Mrs4s/go-cqhttp,Go,15,cqhttp的golang实现，轻量、原生跨平台.,1622,9757,https://avatars.githubusercontent.com/u/12137562?u=addd9d7564252ea47f8a8bef317a72a908cbe0c6&v=4
+222824662,dagger,dagger/dagger,Go,6,A programmable CI/CD engine that runs your pipelines in containers,479,9127,https://avatars.githubusercontent.com/u/78824383?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,2,Terraform AWS provider,8392,8914,https://avatars.githubusercontent.com/u/761456?v=4
+40916314,dex,dexidp/dex,Go,0,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1576,8491,https://avatars.githubusercontent.com/u/42422344?v=4
+306366900,casdoor,casdoor/casdoor,Go,4,"An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS",876,7224,https://avatars.githubusercontent.com/u/72992104?v=4
+120519269,atlantis,runatlantis/atlantis,Go,2,Terraform Pull Request Automation,942,6576,https://avatars.githubusercontent.com/u/32311288?v=4
+299832860,livekit,livekit/livekit,Go,2,End-to-end stack for WebRTC. SFU media server and SDKs.,483,5816,https://avatars.githubusercontent.com/u/69438833?v=4
+509091576,sing-box,SagerNet/sing-box,Go,14,The universal proxy platform,619,5403,https://avatars.githubusercontent.com/u/83217677?v=4
 278480393,karpenter,aws/karpenter,Go,4,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",651,4971,https://avatars.githubusercontent.com/u/2232217?v=4
-7823926,client_golang,prometheus/client_golang,Go,0,Prometheus instrumentation library for Go applications,1165,4841,https://avatars.githubusercontent.com/u/3380462?v=4
-469828818,hanko,teamhanko/hanko,Go,54,Open authentication and user management for the passkey era,669,4596,https://avatars.githubusercontent.com/u/20222142?v=4
-169108858,kyverno,kyverno/kyverno,Go,4,Kubernetes Native Policy Management,671,4488,https://avatars.githubusercontent.com/u/68448710?v=4
-704915493,imersao15,devfullcycle/imersao15,TypeScript,35,,56,117,https://avatars.githubusercontent.com/u/91744653?v=4
+76686583,kubevirt,kubevirt/kubevirt,Go,3,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1099,4624,https://avatars.githubusercontent.com/u/18700703?v=4
+469828818,hanko,teamhanko/hanko,Go,54,Open authentication and user management for the passkey era,679,4604,https://avatars.githubusercontent.com/u/20222142?v=4
+468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,8,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",163,2297,https://avatars.githubusercontent.com/u/100373852?v=4
+384111310,incubator-devlake,apache/incubator-devlake,Go,3,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",405,2217,https://avatars.githubusercontent.com/u/47359?v=4
+340522752,radius,radius-project/radius,Go,59,"Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",18,452,https://avatars.githubusercontent.com/u/93291507?v=4
