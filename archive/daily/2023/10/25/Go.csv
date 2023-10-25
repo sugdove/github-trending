@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-48378947,frp,fatedier/frp,Go,38,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12075,73021,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-20904437,gin,gin-gonic/gin,Go,20,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7733,72184,https://avatars.githubusercontent.com/u/7894478?v=4
-14712850,syncthing,syncthing/syncthing,Go,31,Open Source Continuous File Synchronization,3924,55066,https://avatars.githubusercontent.com/u/7628018?v=4
-12574344,cobra,spf13/cobra,Go,20,A Commander for modern Go CLI interactions,2786,33849,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-180687624,trivy,aquasecurity/trivy,Go,19,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",1931,19075,https://avatars.githubusercontent.com/u/12783832?v=4
-72477752,pulumi,pulumi/pulumi,Go,21,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,990,17923,https://avatars.githubusercontent.com/u/21992475?v=4
-410430370,CasaOS,IceWhaleTech/CasaOS,Go,76,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",962,17479,https://avatars.githubusercontent.com/u/91336243?v=4
-420503947,ntfy,binwiederhier/ntfy,Go,17,Send push notifications to your phone or desktop using PUT/POST,526,14311,https://avatars.githubusercontent.com/u/664597?u=d20c51ed3d20cab19d2deffc58d028136229ab01&v=4
-30711774,validator,go-playground/validator,Go,12,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1217,14233,https://avatars.githubusercontent.com/u/14768796?v=4
-465303307,lo,samber/lo,Go,18,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",651,13600,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,5,Customization of kubernetes YAML configurations,2195,10087,https://avatars.githubusercontent.com/u/36015203?v=4
+23096959,go,golang/go,Go,47,The Go programming language,17301,115280,https://avatars.githubusercontent.com/u/4314092?v=4
+48378947,frp,fatedier/frp,Go,38,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12075,73024,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+14712850,syncthing,syncthing/syncthing,Go,31,Open Source Continuous File Synchronization,3925,55075,https://avatars.githubusercontent.com/u/7628018?v=4
+29261473,minio,minio/minio,Go,16,High Performance Object Storage for AI,4963,41293,https://avatars.githubusercontent.com/u/695951?v=4
+285864199,go-zero,zeromicro/go-zero,Go,4,A cloud-native Go microservices framework with cli tool for productivity.,3678,26120,https://avatars.githubusercontent.com/u/74225106?v=4
+208728772,milvus,milvus-io/milvus,Go,31,"A cloud-native vector database, storage for next generation AI applications",2567,23624,https://avatars.githubusercontent.com/u/51735404?v=4
+122734569,lux,iawia002/lux,Go,4,👾 Fast and simple video download library and CLI tool written in Go,2591,22322,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+26337322,rancher,rancher/rancher,Go,12,Complete container management platform,2902,21680,https://avatars.githubusercontent.com/u/9343010?v=4
+109145553,podman,containers/podman,Go,18,Podman: A tool for managing OCI containers and pods.,2085,19486,https://avatars.githubusercontent.com/u/5874934?v=4
+5179099,go-redis,redis/go-redis,Go,2,Redis Go client,2191,18171,https://avatars.githubusercontent.com/u/1529926?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,18,Declarative Continuous Deployment for Kubernetes,4318,14448,https://avatars.githubusercontent.com/u/30269780?v=4
+118105436,migrate,golang-migrate/migrate,Go,14,Database migrations. CLI and Golang library.,1241,12483,https://avatars.githubusercontent.com/u/35595841?v=4
+11206255,sarama,IBM/sarama,Go,4,Sarama is a Go library for Apache Kafka.,1745,10449,https://avatars.githubusercontent.com/u/1459110?v=4
+93928882,swag,swaggo/swag,Go,4,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1090,8953,https://avatars.githubusercontent.com/u/29616670?v=4
 21306961,fsnotify,fsnotify/fsnotify,Go,4,Cross-platform file system notifications for Go.,880,8580,https://avatars.githubusercontent.com/u/8013877?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,14,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.",1118,7998,https://avatars.githubusercontent.com/u/126152966?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,4,Autoscaling components for Kubernetes,3683,7184,https://avatars.githubusercontent.com/u/13629408?v=4
-197914161,sftpgo,drakkan/sftpgo,Go,9,"Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",592,6935,https://avatars.githubusercontent.com/u/553263?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,3,A Kubernetes controller and tool for one-way encrypted Secrets,619,6619,https://avatars.githubusercontent.com/u/34656521?v=4
-206649463,ebpf,cilium/ebpf,Go,4,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",555,5063,https://avatars.githubusercontent.com/u/21054566?v=4
-229030654,go-git,go-git/go-git,Go,3,A highly extensible Git implementation in pure Go.,661,5016,https://avatars.githubusercontent.com/u/57653224?v=4
-7823926,client_golang,prometheus/client_golang,Go,2,Prometheus instrumentation library for Go applications,1169,4845,https://avatars.githubusercontent.com/u/3380462?v=4
-169108858,kyverno,kyverno/kyverno,Go,7,Kubernetes Native Policy Management,674,4500,https://avatars.githubusercontent.com/u/68448710?v=4
-39468142,compress,klauspost/compress,Go,16,Optimized Go Compression Packages,325,4225,https://avatars.githubusercontent.com/u/5663952?u=c220e508b2bb3b5b1e91452a9e51bf9dd4ed27a1&v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,1,Progressive Delivery for Kubernetes,693,2257,https://avatars.githubusercontent.com/u/30269780?v=4
-240039769,gost,go-gost/gost,Go,5,GO Simple Tunnel - a simple tunnel written in golang,261,1911,https://avatars.githubusercontent.com/u/33850973?v=4
-137167041,bifrost,aperturerobotics/bifrost,Go,36,Cross-platform p2p daemon and library with pluggable transports and WebAssembly support.,8,435,https://avatars.githubusercontent.com/u/20498711?v=4
-705811448,FalconHound,FalconForceTeam/FalconHound,Go,34,FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool. ,15,333,https://avatars.githubusercontent.com/u/56194852?v=4
+542931741,incubator-answer,apache/incubator-answer,Go,79,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.",531,8058,https://avatars.githubusercontent.com/u/47359?v=4
+11759482,godotenv,joho/godotenv,Go,4,A Go port of Ruby's dotenv library (Loads environment variables from .env files),389,6754,https://avatars.githubusercontent.com/u/4092?u=57ba376fe5e8346fdad11d8f4dbae07562a7ff8b&v=4
+11452538,alertmanager,prometheus/alertmanager,Go,6,Prometheus Alertmanager,2061,5957,https://avatars.githubusercontent.com/u/3380462?v=4
+278480393,karpenter,aws/karpenter,Go,7,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",658,4996,https://avatars.githubusercontent.com/u/2232217?v=4
+592748160,devpod,loft-sh/devpod,Go,127,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",217,4846,https://avatars.githubusercontent.com/u/65466868?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,4,OpenTelemetry Go API and SDK,960,4300,https://avatars.githubusercontent.com/u/49998002?v=4
+157554479,meshery,meshery/meshery,Go,6,"Meshery, the cloud native manager",1275,3824,https://avatars.githubusercontent.com/u/52376019?v=4
+355946670,vcluster,loft-sh/vcluster,Go,127,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,304,3384,https://avatars.githubusercontent.com/u/65466868?v=4
+586427117,go-backend-clean-architecture,amitshekhariitbhu/go-backend-clean-architecture,Go,14,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",298,3042,https://avatars.githubusercontent.com/u/9877145?u=3827ad395dfc458321f9b65944406cfdd26055dd&v=4
+501095512,odigos,keyval-dev/odigos,Go,25,Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF,130,1610,https://avatars.githubusercontent.com/u/84347062?v=4
