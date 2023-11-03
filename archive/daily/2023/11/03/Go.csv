@@ -1,26 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,37,The Go programming language,17322,115479,https://avatars.githubusercontent.com/u/4314092?v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,35,Production-Grade Container Scheduling and Management,38232,102681,https://avatars.githubusercontent.com/u/13629408?v=4
-6838921,prometheus,prometheus/prometheus,Go,8,The Prometheus monitoring system and time series database.,8594,50474,https://avatars.githubusercontent.com/u/3380462?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,12,Official Go implementation of the Ethereum protocol,18819,43969,https://avatars.githubusercontent.com/u/6250754?v=4
-16607898,gitness,harness/gitness,Go,28,"Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.",2751,30416,https://avatars.githubusercontent.com/u/34780278?v=4
-234231371,fiber,gofiber/fiber,Go,18,⚡️ Express inspired web framework written in Go,1482,29041,https://avatars.githubusercontent.com/u/59947262?v=4
+41912791,v2ray-core,v2ray/v2ray-core,Go,154,A platform for building proxies to bypass network restrictions.,8913,43453,https://avatars.githubusercontent.com/u/14110142?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,203,A platform for building proxies to bypass network restrictions.,4033,24509,https://avatars.githubusercontent.com/u/49637375?v=4
 6247705,testify,stretchr/testify,Go,10,A toolkit with common assertions and mocks that plays nicely with the standard library,1520,20857,https://avatars.githubusercontent.com/u/1841476?v=4
-27729907,grpc-go,grpc/grpc-go,Go,10,The Go language implementation of gRPC. HTTP/2 based RPC,4169,19035,https://avatars.githubusercontent.com/u/7802525?v=4
-5179099,go-redis,redis/go-redis,Go,11,Redis Go client,2196,18225,https://avatars.githubusercontent.com/u/1529926?v=4
-30711774,validator,go-playground/validator,Go,14,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1223,14310,https://avatars.githubusercontent.com/u/14768796?v=4
-32575637,gost,ginuerzh/gost,Go,13,GO Simple Tunnel - a simple tunnel written in golang,2341,14088,https://avatars.githubusercontent.com/u/2801795?u=fd46d2697427ab8934bab8336f227980ef23d44e&v=4
-62921553,rook,rook/rook,Go,3,Storage Orchestration for Kubernetes,2627,11525,https://avatars.githubusercontent.com/u/22860722?v=4
-23664475,toxiproxy,Shopify/toxiproxy,Go,13,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing,437,9866,https://avatars.githubusercontent.com/u/8085?v=4
-37334619,mock,golang/mock,Go,3,GoMock is a mocking framework for the Go programming language.,652,9121,https://avatars.githubusercontent.com/u/4314092?v=4
-273132277,HackBrowserData,moonD4rk/HackBrowserData,Go,19,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,1391,8887,https://avatars.githubusercontent.com/u/24284231?u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4
-140412864,evilginx2,kgretzky/evilginx2,Go,82,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",1679,8611,https://avatars.githubusercontent.com/u/19260967?u=220f620ddd124b2532e92444d41c47cb8c58283b&v=4
-815644,dns,miekg/dns,Go,9,DNS library in Go,1155,7275,https://avatars.githubusercontent.com/u/353371?u=b98951c0352124cc5ac3e526f0a372accf41041a&v=4
-92969352,buildkit,moby/buildkit,Go,4,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",1049,7206,https://avatars.githubusercontent.com/u/27259197?v=4
-631254164,one-api,songquanpeng/one-api,Go,37,"OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",1303,5346,https://avatars.githubusercontent.com/u/39998050?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,3,Google Cloud Client Libraries for Go.,1255,3388,https://avatars.githubusercontent.com/u/16785467?v=4
-473137633,tetragon,cilium/tetragon,Go,24,eBPF-based Security Observability and Runtime Enforcement,254,2722,https://avatars.githubusercontent.com/u/21054566?v=4
-501095512,odigos,keyval-dev/odigos,Go,69,Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF,154,2218,https://avatars.githubusercontent.com/u/84347062?v=4
-96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,3,AWS SDK for the Go programming language. ,601,2169,https://avatars.githubusercontent.com/u/2232217?v=4
-219058535,gateway-api,kubernetes-sigs/gateway-api,Go,4,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,355,1254,https://avatars.githubusercontent.com/u/36015203?v=4
-396780483,celestia-node,celestiaorg/celestia-node,Go,25,Celestia Data Availability Nodes,693,682,https://avatars.githubusercontent.com/u/54859940?v=4
+27729907,grpc-go,grpc/grpc-go,Go,10,The Go language implementation of gRPC. HTTP/2 based RPC,4170,19035,https://avatars.githubusercontent.com/u/7802525?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,158,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",2816,16923,https://avatars.githubusercontent.com/u/71564206?v=4
+198683574,dolt,dolthub/dolt,Go,52,Dolt – Git for Data,449,15792,https://avatars.githubusercontent.com/u/42156961?v=4
+219616873,glow,charmbracelet/glow,Go,32,"Render markdown on the CLI, with pizzazz! 💅🏻",300,13556,https://avatars.githubusercontent.com/u/57376114?v=4
+658928958,ollama,jmorganca/ollama,Go,1190,Get up and running with Llama 2 and other large language models locally,641,12193,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
+114379163,tview,rivo/tview,Go,5,"Terminal UI library with rich, interactive widgets — written in Golang",503,8964,https://avatars.githubusercontent.com/u/480930?u=997fa500636c97f5eb6e049e1c4f5773e671b3c3&v=4
+140412864,evilginx2,kgretzky/evilginx2,Go,82,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",1680,8624,https://avatars.githubusercontent.com/u/19260967?u=220f620ddd124b2532e92444d41c47cb8c58283b&v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,9,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2438,6804,https://avatars.githubusercontent.com/u/36015203?v=4
+509091576,sing-box,SagerNet/sing-box,Go,316,The universal proxy platform,893,6341,https://avatars.githubusercontent.com/u/83217677?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,13,"node of the decentralized oracle network, bridging on and off-chain computation",1498,5370,https://avatars.githubusercontent.com/u/25111032?v=4
+262126497,syft,anchore/syft,Go,5,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,449,4860,https://avatars.githubusercontent.com/u/16208487?v=4
+210268863,codeforces-go,EndlessCheng/codeforces-go,Go,44,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,378,2889,https://avatars.githubusercontent.com/u/7086966?u=ac53cc01d8798356e5702e8291cb7ddb838ee823&v=4
+473137633,tetragon,cilium/tetragon,Go,24,eBPF-based Security Observability and Runtime Enforcement,255,2727,https://avatars.githubusercontent.com/u/21054566?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,1,Main repository for Datadog Agent,1117,2363,https://avatars.githubusercontent.com/u/365230?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,3,AWS SDK for the Go programming language. ,601,2171,https://avatars.githubusercontent.com/u/2232217?v=4
+356677177,templ,a-h/templ,Go,59,A language for writing HTML user interfaces in Go.,77,1875,https://avatars.githubusercontent.com/u/1029947?u=81870ddb3da5cbf268b13e9f0409caf08c5fa9f2&v=4
+309820286,fleet,fleetdm/fleet,Go,2,"Open-source platform for IT and security teams with thousands of computers. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)",298,1661,https://avatars.githubusercontent.com/u/70264713?v=4
+219058535,gateway-api,kubernetes-sigs/gateway-api,Go,4,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,355,1257,https://avatars.githubusercontent.com/u/36015203?v=4
+204742393,shortlink,shortlink-org/shortlink,Go,18,Shortlink service (Microservice example),19,414,https://avatars.githubusercontent.com/u/121882509?v=4
+709242076,gofr,gofr-dev/gofr,Go,46,An opinionated Go framework for accelerated microservice development,8,309,https://avatars.githubusercontent.com/u/146108433?v=4
+710638824,ActiveMQ-RCE,X1r0z/ActiveMQ-RCE,Go,21,"ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言",11,98,https://avatars.githubusercontent.com/u/28532286?u=31b13b135027b4829ad2b7f6135cdf1745be118f&v=4
