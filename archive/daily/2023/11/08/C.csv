@@ -1,14 +1,14 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 246335987,Ventoy,ventoy/Ventoy,C,34,A new bootable USB solution.,3787,53876,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
 13233158,obs-studio,obsproject/obs-studio,C,82,OBS Studio - Free and open source software for live streaming and screen recording,7312,51544,https://avatars.githubusercontent.com/u/7725691?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C,77,Port of Facebook's LLaMA model in C/C++,6199,43661,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-569041,curl,curl/curl,C,12,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6080,32334,https://avatars.githubusercontent.com/u/16928085?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C,77,Port of Facebook's LLaMA model in C/C++,6200,43664,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+569041,curl,curl/curl,C,12,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6080,32335,https://avatars.githubusercontent.com/u/16928085?v=4
 7634677,openssl,openssl/openssl,C,5,TLS/SSL and crypto library,10106,22971,https://avatars.githubusercontent.com/u/3279138?v=4
 14812739,libuv,libuv/libuv,C,8,Cross-platform asynchronous I/O,3489,22389,https://avatars.githubusercontent.com/u/4030929?v=4
 214011414,WindTerm,kingToolbox/WindTerm,C,27,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1355,17375,https://avatars.githubusercontent.com/u/51009775?v=4
 105627846,reactos,reactos/reactos,C,15,A free Windows-compatible Operating System,1664,13383,https://avatars.githubusercontent.com/u/1056157?v=4
 7710647,libsodium,jedisct1/libsodium,C,2,"A modern, portable, easy to use crypto library.",1736,11559,https://avatars.githubusercontent.com/u/124872?v=4
-3319040,DOOM,id-Software/DOOM,C,13,DOOM Open Source Release,1938,11234,https://avatars.githubusercontent.com/u/1395534?v=4
+3319040,DOOM,id-Software/DOOM,C,13,DOOM Open Source Release,1937,11234,https://avatars.githubusercontent.com/u/1395534?v=4
 192805335,mimalloc,microsoft/mimalloc,C,5,mimalloc is a compact general purpose allocator with excellent performance.,699,8719,https://avatars.githubusercontent.com/u/6154722?v=4
 59771425,zephyr,zephyrproject-rtos/zephyr,C,4,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5332,8619,https://avatars.githubusercontent.com/u/19595895?v=4
 106586124,atomic-red-team,redcanaryco/atomic-red-team,C,12,Small and highly portable detection tests based on MITRE's ATT&CK.,2563,8281,https://avatars.githubusercontent.com/u/6877001?v=4
@@ -17,9 +17,9 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 29933948,fluent-bit,fluent/fluent-bit,C,5,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1378,4938,https://avatars.githubusercontent.com/u/859518?v=4
 102627638,unit,nginx/unit,C,3,NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.,306,4884,https://avatars.githubusercontent.com/u/1412239?v=4
 5410234,suricata,OISF/suricata,C,5,"Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",1321,3580,https://avatars.githubusercontent.com/u/2188963?v=4
-2928164,patchelf,NixOS/patchelf,C,2,A small utility to modify the dynamic linker and RPATH of ELF executables,448,3007,https://avatars.githubusercontent.com/u/487568?v=4
-472575717,Shipwright,HarbourMasters/Shipwright,C,4,,370,2228,https://avatars.githubusercontent.com/u/88675208?v=4
-573906622,OpenEPaperLink,jjwbruijn/OpenEPaperLink,C,32,,39,429,https://avatars.githubusercontent.com/u/2544995?v=4
+2928164,patchelf,NixOS/patchelf,C,2,A small utility to modify the dynamic linker and RPATH of ELF executables,448,3008,https://avatars.githubusercontent.com/u/487568?v=4
+472575717,Shipwright,HarbourMasters/Shipwright,C,4,,371,2228,https://avatars.githubusercontent.com/u/88675208?v=4
+573906622,OpenEPaperLink,jjwbruijn/OpenEPaperLink,C,32,,39,430,https://avatars.githubusercontent.com/u/2544995?v=4
 561907484,ikea-led-obegraensad,ph1p/ikea-led-obegraensad,C,16,ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp,36,414,https://avatars.githubusercontent.com/u/15351728?u=9e9a0d415e7d284d0bc2ec18baa3fc567de8baf8&v=4
 715157585,LdrLibraryEx,Cracked5pider/LdrLibraryEx,C,54,A small x64 library to load dll's into memory.,32,213,https://avatars.githubusercontent.com/u/51360176?u=5e482b81fa26eff41697a1cb7675052bd59b6776&v=4
 600926154,lone,lone-lang/lone,C,6,The standalone Linux Lisp,3,163,https://avatars.githubusercontent.com/u/127643794?v=4
