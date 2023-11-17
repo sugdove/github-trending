@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-15634981,godot,godotengine/godot,C++,59,Godot Engine – Multi-platform 2D and 3D game engine,15863,77628,https://avatars.githubusercontent.com/u/6318500?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,20,Protocol Buffers - Google's data interchange format,15316,61939,https://avatars.githubusercontent.com/u/26310541?v=4
-11171548,json,nlohmann/json,C++,15,JSON for Modern C++,6337,37475,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-191820100,mediapipe,google/mediapipe,C++,10,"Cross-platform, customizable ML solutions for live and streaming media.",4824,23919,https://avatars.githubusercontent.com/u/1342004?v=4
+15634981,godot,godotengine/godot,C++,59,Godot Engine – Multi-platform 2D and 3D game engine,15866,77630,https://avatars.githubusercontent.com/u/6318500?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,20,Protocol Buffers - Google's data interchange format,15316,61941,https://avatars.githubusercontent.com/u/26310541?v=4
+11171548,json,nlohmann/json,C++,15,JSON for Modern C++,6339,37479,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+191820100,mediapipe,google/mediapipe,C++,10,"Cross-platform, customizable ML solutions for live and streaming media.",4825,23921,https://avatars.githubusercontent.com/u/1342004?v=4
 26038648,spdlog,gabime/spdlog,C++,14,Fast C++ logging library.,4138,20588,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
 1062572,Catch2,catchorg/Catch2,C++,5,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2980,17272,https://avatars.githubusercontent.com/u/33321405?v=4
-138754790,duckdb,duckdb/duckdb,C++,21,DuckDB is an in-process SQL OLAP Database Management System,1206,12974,https://avatars.githubusercontent.com/u/82039556?v=4
-7512484,ardupilot,ArduPilot/ardupilot,C++,7,"ArduPlane, ArduCopter, ArduRover, ArduSub source",15353,9038,https://avatars.githubusercontent.com/u/17919847?v=4
+138754790,duckdb,duckdb/duckdb,C++,21,DuckDB is an in-process SQL OLAP Database Management System,1206,12980,https://avatars.githubusercontent.com/u/82039556?v=4
+7512484,ardupilot,ArduPilot/ardupilot,C++,7,"ArduPlane, ArduCopter, ArduRover, ArduSub source",15353,9040,https://avatars.githubusercontent.com/u/17919847?v=4
 23061798,seastar,scylladb/seastar,C++,3,High performance server-side application framework,1483,7702,https://avatars.githubusercontent.com/u/14364730?v=4
 128479644,esphome,esphome/esphome,C++,4,ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.,2693,6766,https://avatars.githubusercontent.com/u/45919759?v=4
 248058818,tracy,wolfpld/tracy,C++,7,Frame profiler,491,6588,https://avatars.githubusercontent.com/u/600573?u=d1ac7f58bc1671dd2a99ada35ddd21fa936a0f88&v=4
-400501136,mujoco,google-deepmind/mujoco,C++,8,Multi-Joint dynamics with Contact. A general purpose physics simulator.,608,6456,https://avatars.githubusercontent.com/u/8596759?v=4
-33100064,yaml-cpp,jbeder/yaml-cpp,C++,0,A YAML parser and emitter in C++,1691,4479,https://avatars.githubusercontent.com/u/1059334?u=c1a1d6555522380d9c818e51048f24b29c3dae09&v=4
-287706896,puerts,Tencent/puerts,C++,32,PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.,619,4303,https://avatars.githubusercontent.com/u/18461506?v=4
+400501136,mujoco,google-deepmind/mujoco,C++,8,Multi-Joint dynamics with Contact. A general purpose physics simulator.,608,6458,https://avatars.githubusercontent.com/u/8596759?v=4
+33100064,yaml-cpp,jbeder/yaml-cpp,C++,0,A YAML parser and emitter in C++,1691,4480,https://avatars.githubusercontent.com/u/1059334?u=c1a1d6555522380d9c818e51048f24b29c3dae09&v=4
+287706896,puerts,Tencent/puerts,C++,32,PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.,620,4304,https://avatars.githubusercontent.com/u/18461506?v=4
 112542515,cutlass,NVIDIA/cutlass,C++,3,CUDA Templates for Linear Algebra Subroutines,658,3486,https://avatars.githubusercontent.com/u/1728152?v=4
 8243074,rpi-rgb-led-matrix,hzeller/rpi-rgb-led-matrix,C++,3,"Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO",1077,3311,https://avatars.githubusercontent.com/u/140937?v=4
-679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,130,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,215,3189,https://avatars.githubusercontent.com/u/1728152?v=4
-9880335,qtbase,qt/qtbase,C++,2,"Qt Base (Core, Gui, Widgets, Network, ...)",957,2122,https://avatars.githubusercontent.com/u/159455?v=4
+679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,130,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,215,3197,https://avatars.githubusercontent.com/u/1728152?v=4
+9880335,qtbase,qt/qtbase,C++,2,"Qt Base (Core, Gui, Widgets, Network, ...)",957,2123,https://avatars.githubusercontent.com/u/159455?v=4
 12007030,lammps,lammps/lammps,C++,3,Public development project of the LAMMPS MD software package  ,1575,1857,https://avatars.githubusercontent.com/u/5199009?v=4
-644497089,chatglm.cpp,li-plus/chatglm.cpp,C++,8,C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs,275,1606,https://avatars.githubusercontent.com/u/39846316?u=52e5e7e45432b995d36363d262157f3141f15eba&v=4
+644497089,chatglm.cpp,li-plus/chatglm.cpp,C++,8,C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs,275,1610,https://avatars.githubusercontent.com/u/39846316?u=52e5e7e45432b995d36363d262157f3141f15eba&v=4
 92912604,opendbc,commaai/opendbc,C++,1,democratize access to car decoder rings,996,1522,https://avatars.githubusercontent.com/u/16128714?v=4
 654122609,lmdeploy,InternLM/lmdeploy,C++,6,"LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",123,1429,https://avatars.githubusercontent.com/u/135356492?v=4
 356055024,tflite-micro,tensorflow/tflite-micro,C++,1,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).,682,1388,https://avatars.githubusercontent.com/u/15658638?v=4
-338785731,SatDump,SatDump/SatDump,C++,5,A generic satellite data processing software.,112,876,https://avatars.githubusercontent.com/u/123970305?v=4
-668460693,Video-Encode,Brendan-Kirtlan/Video-Encode,C++,86,Encodes a file into a video format to store on a cloud video hosting service,25,208,https://avatars.githubusercontent.com/u/68126316?v=4
+338785731,SatDump,SatDump/SatDump,C++,5,A generic satellite data processing software.,112,877,https://avatars.githubusercontent.com/u/123970305?v=4
+668460693,Video-Encode,Brendan-Kirtlan/Video-Encode,C++,86,Encodes a file into a video format to store on a cloud video hosting service,26,229,https://avatars.githubusercontent.com/u/68126316?v=4
