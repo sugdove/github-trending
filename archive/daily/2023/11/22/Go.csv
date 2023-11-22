@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,38,The Go programming language,17385,115885,https://avatars.githubusercontent.com/u/4314092?v=4
-6838921,prometheus,prometheus/prometheus,Go,21,The Prometheus monitoring system and time series database.,8625,50704,https://avatars.githubusercontent.com/u/3380462?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,31,A node.js version management utility for Windows. Ironically written in Go.,3076,31660,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-18369373,viper,spf13/viper,Go,13,Go configuration with fangs,2021,24565,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-129717717,loki,grafana/loki,Go,11,"Like Prometheus, but for logs.",3046,20597,https://avatars.githubusercontent.com/u/7195757?v=4
-205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,10,"基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。",5663,18749,https://avatars.githubusercontent.com/u/63276650?v=4
-56342508,jaeger,jaegertracing/jaeger,Go,8,"CNCF Jaeger, a Distributed Tracing Platform",2286,18657,https://avatars.githubusercontent.com/u/28545596?v=4
-5179099,go-redis,redis/go-redis,Go,12,Redis Go client,2216,18347,https://avatars.githubusercontent.com/u/1529926?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,6,Protect and discover secrets using Gitleaks 🔑,1272,14182,https://avatars.githubusercontent.com/u/90395851?v=4
-43225113,yq,mikefarah/yq,Go,7,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",507,9768,https://avatars.githubusercontent.com/u/1151925?v=4
-395283401,kubescape,kubescape/kubescape,Go,24,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",780,9220,https://avatars.githubusercontent.com/u/100554170?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,5,Code AI platform with Code Search & Cody,1198,9162,https://avatars.githubusercontent.com/u/3979584?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,2,Terraform AWS provider,8471,8996,https://avatars.githubusercontent.com/u/761456?v=4
+23096959,go,golang/go,Go,38,The Go programming language,17385,115891,https://avatars.githubusercontent.com/u/4314092?v=4
+21540759,awesome-go,avelino/awesome-go,Go,75,"A curated list of awesome Go frameworks, libraries and software",11457,111920,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
+163883279,act,nektos/act,Go,355,Run your GitHub Actions locally 🚀,1118,45344,https://avatars.githubusercontent.com/u/3813618?v=4
+31288958,vault,hashicorp/vault,Go,7,"A tool for secrets management, encryption as a service, and privileged access management",4062,28876,https://avatars.githubusercontent.com/u/761456?v=4
+18369373,viper,spf13/viper,Go,13,Go configuration with fangs,2021,24569,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+129717717,loki,grafana/loki,Go,11,"Like Prometheus, but for logs.",3046,20599,https://avatars.githubusercontent.com/u/7195757?v=4
+658928958,ollama,jmorganca/ollama,Go,255,Get up and running with Llama 2 and other large language models locally,980,18384,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
+5179099,go-redis,redis/go-redis,Go,12,Redis Go client,2216,18348,https://avatars.githubusercontent.com/u/1529926?v=4
+33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,5448,13373,https://avatars.githubusercontent.com/u/5713248?v=4
+273132277,HackBrowserData,moonD4rk/HackBrowserData,Go,47,Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。,1407,9111,https://avatars.githubusercontent.com/u/24284231?u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4
+48714685,opa,open-policy-agent/opa,Go,6,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",1205,8656,https://avatars.githubusercontent.com/u/16468693?v=4
+40916314,dex,dexidp/dex,Go,2,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1585,8573,https://avatars.githubusercontent.com/u/42422344?v=4
 9120526,pgx,jackc/pgx,Go,24,PostgreSQL driver and toolkit for Go,782,8542,https://avatars.githubusercontent.com/u/94130?v=4
-3698588,pq,lib/pq,Go,2,Pure Go Postgres driver for database/sql,955,8438,https://avatars.githubusercontent.com/u/3791026?v=4
-50629145,pprof,google/pprof,Go,4,pprof is a tool for visualization and analysis of profiling data,583,6968,https://avatars.githubusercontent.com/u/1342004?v=4
-54435102,benthos,benthosdev/benthos,Go,7,Fancy stream processing made operationally mundane,667,6818,https://avatars.githubusercontent.com/u/48179284?v=4
-440752086,coder,coder/coder,Go,11,Provision remote development environments via Terraform,464,5685,https://avatars.githubusercontent.com/u/95932066?v=4
-52555254,goose,pressly/goose,Go,8,A database migration tool. Supports SQL migrations and Go functions. ,499,4726,https://avatars.githubusercontent.com/u/18835?v=4
-272663924,simplebank,techschool/simplebank,Go,19,Backend master class: build a simple bank service in Go,800,3465,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
-713106159,ladder,everywall/ladder,Go,407,Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL,106,3340,https://avatars.githubusercontent.com/u/150453436?v=4
-474521466,helmfile,helmfile/helmfile,Go,11,"Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",197,2678,https://avatars.githubusercontent.com/u/83191469?v=4
-526081371,go2rtc,AlexxIT/go2rtc,Go,8,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",226,2367,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
-35890002,list,publicsuffix/list,Go,1,The Public Suffix List,1155,1741,https://avatars.githubusercontent.com/u/2463634?v=4
-665193375,nilaway,uber-go/nilaway,Go,101,Static Analysis tool to detect potential Nil panics in Go code,13,1182,https://avatars.githubusercontent.com/u/19262598?v=4
+66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2875,8206,https://avatars.githubusercontent.com/u/13629408?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3714,7224,https://avatars.githubusercontent.com/u/13629408?v=4
+170411418,keda,kedacore/keda,Go,8, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,903,7099,https://avatars.githubusercontent.com/u/49917779?v=4
+139727567,Reloader,stakater/Reloader,Go,11,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",415,6011,https://avatars.githubusercontent.com/u/15930712?v=4
+440752086,coder,coder/coder,Go,11,Provision remote development environments via Terraform,466,5685,https://avatars.githubusercontent.com/u/95932066?v=4
+16607984,go-sqlmock,DATA-DOG/go-sqlmock,Go,3,Sql mock driver for golang to test database interactions,433,5570,https://avatars.githubusercontent.com/u/6613360?v=4
+7823926,client_golang,prometheus/client_golang,Go,3,Prometheus instrumentation library for Go applications,1190,4892,https://avatars.githubusercontent.com/u/3380462?v=4
+67828134,cri-o,cri-o/cri-o,Go,3,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,1030,4823,https://avatars.githubusercontent.com/u/29074118?v=4
+272663924,simplebank,techschool/simplebank,Go,19,Backend master class: build a simple bank service in Go,800,3467,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
+385634291,mimir,grafana/mimir,Go,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",400,3462,https://avatars.githubusercontent.com/u/7195757?v=4
+514062293,kargo,akuity/kargo,Go,42,Application lifecycle orchestration,59,895,https://avatars.githubusercontent.com/u/84434210?v=4
+716228772,river,riverqueue/river,Go,243,Fast and reliable background jobs in Go,12,885,https://avatars.githubusercontent.com/u/136755925?v=4
