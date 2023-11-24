@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23357588,protobuf,protocolbuffers/protobuf,C++,19,Protocol Buffers - Google's data interchange format,15337,62041,https://avatars.githubusercontent.com/u/26310541?v=4
-619959033,gpt4all,nomic-ai/gpt4all,C++,60,gpt4all: open-source LLM chatbots that you can run anywhere,6036,55110,https://avatars.githubusercontent.com/u/102670180?v=4
-27729880,grpc,grpc/grpc,C++,14,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10572,39492,https://avatars.githubusercontent.com/u/7802525?v=4
-11171548,json,nlohmann/json,C++,27,JSON for Modern C++,6349,37575,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-23405758,leveldb,google/leveldb,C++,12,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,7588,33956,https://avatars.githubusercontent.com/u/1342004?v=4
-168008797,calculator,microsoft/calculator,C++,13,Windows Calculator: A simple yet powerful calculator that ships with Windows,5108,28061,https://avatars.githubusercontent.com/u/6154722?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,31,An Open Source Machine Learning Framework for Everyone,89146,178975,https://avatars.githubusercontent.com/u/15658638?v=4
+9384267,electron,electron/electron,C++,24,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15292,109741,https://avatars.githubusercontent.com/u/13409222?v=4
 4524181,folly,facebook/folly,C++,8,An open-source C++ library developed and used at Facebook.,5568,26367,https://avatars.githubusercontent.com/u/69631?v=4
-81227005,faiss,facebookresearch/faiss,C++,22,A library for efficient similarity search and clustering of dense vectors.,3206,25507,https://avatars.githubusercontent.com/u/16943930?v=4
-26038648,spdlog,gabime/spdlog,C++,9,Fast C++ logging library.,4157,20671,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-149111813,MMKV,Tencent/MMKV,C++,5,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",1835,16355,https://avatars.githubusercontent.com/u/18461506?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3516,13517,https://avatars.githubusercontent.com/u/18461506?v=4
-5909706,cpp-httplib,yhirose/cpp-httplib,C++,10,A C++ header-only HTTP/HTTPS server and client library,2082,10737,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
-131236938,drogon,drogonframework/drogon,C++,11,Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows,972,10191,https://avatars.githubusercontent.com/u/48876018?v=4
-26255337,concurrentqueue,cameron314/concurrentqueue,C++,3,"A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",1609,8405,https://avatars.githubusercontent.com/u/116235?v=4
-46374199,librealsense,IntelRealSense/librealsense,C++,3,Intel® RealSense™ SDK,4770,7110,https://avatars.githubusercontent.com/u/14095512?v=4
+26038648,spdlog,gabime/spdlog,C++,9,Fast C++ logging library.,4157,20673,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+33014811,notepad-plus-plus,notepad-plus-plus/notepad-plus-plus,C++,17,Notepad++ official repository,4287,20463,https://avatars.githubusercontent.com/u/12589084?v=4
+29397594,tinyrenderer,ssloy/tinyrenderer,C++,11,A brief computer graphics / rendering course,1809,18353,https://avatars.githubusercontent.com/u/1029298?u=ed979742dfae8d1d3967488b6ff50de727aa9ae4&v=4
+81887991,AirSim,microsoft/AirSim,C++,5,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",4381,15339,https://avatars.githubusercontent.com/u/6154722?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3517,13518,https://avatars.githubusercontent.com/u/18461506?v=4
+28449431,scylladb,scylladb/scylladb,C++,6,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",1124,11544,https://avatars.githubusercontent.com/u/14364730?v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,17,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2868,11164,https://avatars.githubusercontent.com/u/84565724?v=4
+488177011,nekoray,MatsuriDayo/nekoray,C++,147,Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box),690,6952,https://avatars.githubusercontent.com/u/95122236?v=4
+372536760,oceanbase,oceanbase/oceanbase,C++,1,"OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",1412,6780,https://avatars.githubusercontent.com/u/82347605?v=4
 626896474,SafeLine,chaitin/SafeLine,C++,138,一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。,381,6353,https://avatars.githubusercontent.com/u/7302766?v=4
-3884981,JUCE,juce-framework/JUCE,C++,4,"JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",1552,5661,https://avatars.githubusercontent.com/u/62880632?v=4
-32231207,endless-sky,endless-sky/endless-sky,C++,41,"Space exploration, trading, and combat game.",915,4590,https://avatars.githubusercontent.com/u/11450262?v=4
-690585078,EvilAppleJuice-ESP32,ckcr4lyf/EvilAppleJuice-ESP32,C++,20,Spam Apple Proximity Messages via an ESP32,134,1000,https://avatars.githubusercontent.com/u/6680615?u=d1cff8b8bd8e1e375b5cfdc9891865c7319eb71c&v=4
-68405620,vsomeip,COVESA/vsomeip,C++,4,An implementation of Scalable service-Oriented MiddlewarE over IP,599,903,https://avatars.githubusercontent.com/u/90009755?v=4
-429651616,autoware.universe,autowarefoundation/autoware.universe,C++,1,,411,619,https://avatars.githubusercontent.com/u/48420599?v=4
-648517310,yuzu-android,yuzu-emu/yuzu-android,C++,30,,27,537,https://avatars.githubusercontent.com/u/35075882?v=4
-717730995,BestEdrOfTheMarket,Xacone/BestEdrOfTheMarket,C++,92,Little AV/EDR bypassing lab for training & learning purposes,45,471,https://avatars.githubusercontent.com/u/76184111?u=41fe3928ca9c8c9b9480ab396989039d06778af3&v=4
-720308689,kawaii-gcc,Bill-Haku/kawaii-gcc,C,50,GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.,7,260,https://avatars.githubusercontent.com/u/48173350?u=2fc4c0442b182a95ae99df396efc4a56d12005d7&v=4
-399614506,SmartBMS,Green-bms/SmartBMS,C++,14,Open source Smart Battery Management System,73,208,https://avatars.githubusercontent.com/u/89488863?u=b24c94ff4c16142f1b91e03d0d1b244fccf0c0ba&v=4
+67768325,meshoptimizer,zeux/meshoptimizer,C++,7,Mesh optimization library that makes meshes smaller and faster to render,416,4634,https://avatars.githubusercontent.com/u/1106629?u=620ee97d58fc4c0e915bc36c992c86e94bd76efe&v=4
+32231207,endless-sky,endless-sky/endless-sky,C++,41,"Space exploration, trading, and combat game.",915,4592,https://avatars.githubusercontent.com/u/11450262?v=4
+49978193,valhalla,valhalla/valhalla,C++,4,Open Source Routing Engine for OpenStreetMap,625,3941,https://avatars.githubusercontent.com/u/10232331?v=4
+20293077,kalibr,ethz-asl/kalibr,C++,4,The Kalibr visual-inertial calibration toolbox,1304,3745,https://avatars.githubusercontent.com/u/475362?v=4
+313501668,wenet,wenet-e2e/wenet,C++,3,Production First and Production Ready End-to-End Speech Recognition Toolkit,943,3409,https://avatars.githubusercontent.com/u/84374044?v=4
+388946490,velox,facebookincubator/velox,C++,2,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,915,2785,https://avatars.githubusercontent.com/u/19538647?v=4
+20296703,Fast-DDS,eProsima/Fast-DDS,C++,2,The most complete DDS - Proven: Plenty of success cases.,649,1785,https://avatars.githubusercontent.com/u/6390783?v=4
+135363400,navigation2,ros-planning/navigation2,C++,4,ROS2 Navigation Framework and System,1024,1760,https://avatars.githubusercontent.com/u/2328631?v=4
+564623890,intel-extension-for-transformers,intel/intel-extension-for-transformers,C++,31,⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡,105,918,https://avatars.githubusercontent.com/u/17888862?v=4
+627433116,voyager,spotify/voyager,C++,21,"🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.",24,847,https://avatars.githubusercontent.com/u/251374?v=4
+648517310,yuzu-android,yuzu-emu/yuzu-android,C++,30,,29,542,https://avatars.githubusercontent.com/u/35075882?v=4
+717730995,BestEdrOfTheMarket,Xacone/BestEdrOfTheMarket,C++,57,Little AV/EDR bypassing lab for training & learning purposes,45,475,https://avatars.githubusercontent.com/u/76184111?u=41fe3928ca9c8c9b9480ab396989039d06778af3&v=4
