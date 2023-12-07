@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,36,The Go programming language,17430,116225,https://avatars.githubusercontent.com/u/4314092?v=4
-17728164,terraform,hashicorp/terraform,Go,143,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9235,39682,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,13,A Commander for modern Go CLI interactions,2815,34396,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-74175805,istio,istio/istio,Go,3,"Connect, secure, control, and observe services.",7478,34044,https://avatars.githubusercontent.com/u/23534644?v=4
-15045751,compose,docker/compose,Go,14,Define and run multi-container applications with Docker,5105,31085,https://avatars.githubusercontent.com/u/5429470?v=4
-161951219,wails,wailsapp/wails,Go,44,Create beautiful applications using Go,978,19532,https://avatars.githubusercontent.com/u/39746503?v=4
+23096959,go,golang/go,Go,36,The Go programming language,17431,116225,https://avatars.githubusercontent.com/u/4314092?v=4
+17728164,terraform,hashicorp/terraform,Go,143,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9235,39676,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,13,A Commander for modern Go CLI interactions,2816,34398,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+74175805,istio,istio/istio,Go,3,"Connect, secure, control, and observe services.",7478,34048,https://avatars.githubusercontent.com/u/23534644?v=4
+15045751,compose,docker/compose,Go,14,Define and run multi-container applications with Docker,5105,31090,https://avatars.githubusercontent.com/u/5429470?v=4
+161951219,wails,wailsapp/wails,Go,44,Create beautiful applications using Go,978,19533,https://avatars.githubusercontent.com/u/39746503?v=4
+5179099,go-redis,redis/go-redis,Go,8,Redis Go client,2219,18431,https://avatars.githubusercontent.com/u/1529926?v=4
 11008207,vitess,vitessio/vitess,Go,9,Vitess is a database clustering system for horizontal scaling of MySQL.,2024,17140,https://avatars.githubusercontent.com/u/33043890?v=4
 66841911,excelize,qax-os/excelize,Go,8,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1603,16362,https://avatars.githubusercontent.com/u/29733149?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,13,Declarative Continuous Deployment for Kubernetes,4447,14832,https://avatars.githubusercontent.com/u/30269780?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,13,Declarative Continuous Deployment for Kubernetes,4447,14833,https://avatars.githubusercontent.com/u/30269780?v=4
 157245200,chezmoi,twpayne/chezmoi,Go,5,"Manage your dotfiles across multiple diverse machines, securely.",455,10437,https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4
 27576132,aws-sdk-go,aws/aws-sdk-go,Go,1,AWS SDK for the Go programming language.,2153,8461,https://avatars.githubusercontent.com/u/2232217?v=4
 66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2877,8247,https://avatars.githubusercontent.com/u/13629408?v=4
 87990209,autoscaler,kubernetes/autoscaler,Go,3,Autoscaling components for Kubernetes,3721,7250,https://avatars.githubusercontent.com/u/13629408?v=4
-318476701,nerdctl,containerd/nerdctl,Go,9,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",525,6877,https://avatars.githubusercontent.com/u/14037953?v=4
+318476701,nerdctl,containerd/nerdctl,Go,9,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",525,6881,https://avatars.githubusercontent.com/u/14037953?v=4
 120519269,atlantis,runatlantis/atlantis,Go,10,Terraform Pull Request Automation,958,6720,https://avatars.githubusercontent.com/u/32311288?v=4
-535304995,Havoc,HavocFramework/Havoc,Go,20,The Havoc Framework.,794,5279,https://avatars.githubusercontent.com/u/110123898?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,4,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",692,5261,https://avatars.githubusercontent.com/u/2232217?v=4
+535304995,Havoc,HavocFramework/Havoc,Go,20,The Havoc Framework.,794,5280,https://avatars.githubusercontent.com/u/110123898?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,4,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",692,5263,https://avatars.githubusercontent.com/u/2232217?v=4
 93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,5,Terraform provider for Azure Resource Manager,4312,4237,https://avatars.githubusercontent.com/u/761456?v=4
 236736020,actions-runner-controller,actions/actions-runner-controller,Go,5,Kubernetes controller for GitHub Actions self-hosted runners,962,3823,https://avatars.githubusercontent.com/u/44036562?v=4
-141451032,testcontainers-go,testcontainers/testcontainers-go,Go,3,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",398,2584,https://avatars.githubusercontent.com/u/13393021?v=4
-94029207,kin-openapi,getkin/kin-openapi,Go,3,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",376,2177,https://avatars.githubusercontent.com/u/40365715?v=4
+141451032,testcontainers-go,testcontainers/testcontainers-go,Go,3,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",398,2585,https://avatars.githubusercontent.com/u/13393021?v=4
+94029207,kin-openapi,getkin/kin-openapi,Go,3,"OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)",376,2179,https://avatars.githubusercontent.com/u/40365715?v=4
 242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,2,Collection of extensions for OpenTelemetry-Go.,486,892,https://avatars.githubusercontent.com/u/49998002?v=4
-673748533,sessionprobe,dub-flow/sessionprobe,Go,19,"SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.",16,190,https://avatars.githubusercontent.com/u/89262088?u=faed71bdd38bc81bf07969c128b707aeafa5bc51&v=4
+673748533,sessionprobe,dub-flow/sessionprobe,Go,19,"SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.",16,191,https://avatars.githubusercontent.com/u/89262088?u=faed71bdd38bc81bf07969c128b707aeafa5bc51&v=4
 726995838,imersao16,devfullcycle/imersao16,TypeScript,5,,14,25,https://avatars.githubusercontent.com/u/91744653?v=4
