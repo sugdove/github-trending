@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1181927,bitcoin,bitcoin/bitcoin,C++,42,Bitcoin Core integration/staging tree,36101,72550,https://avatars.githubusercontent.com/u/528860?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,11,Protocol Buffers - Google's data interchange format,15363,62193,https://avatars.githubusercontent.com/u/26310541?v=4
-619959033,gpt4all,nomic-ai/gpt4all,C++,182,gpt4all: open-source LLM chatbots that you can run anywhere,6120,55976,https://avatars.githubusercontent.com/u/102670180?v=4
-39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,10000,31648,https://avatars.githubusercontent.com/u/1342004?v=4
-6934395,rocksdb,facebook/rocksdb,C++,8,"A library that provides an embeddable, persistent key-value store for fast storage.",6031,26495,https://avatars.githubusercontent.com/u/69631?v=4
-4524181,folly,facebook/folly,C++,10,An open-source C++ library developed and used at Facebook.,5582,26437,https://avatars.githubusercontent.com/u/69631?v=4
-65214191,envoy,envoyproxy/envoy,C++,8,Cloud-native high-performance edge/middle/service proxy,4542,23117,https://avatars.githubusercontent.com/u/30125649?v=4
-26038648,spdlog,gabime/spdlog,C++,15,Fast C++ logging library.,4168,20815,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-1062572,Catch2,catchorg/Catch2,C++,8,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3028,17422,https://avatars.githubusercontent.com/u/33321405?v=4
-102343794,brpc,apache/brpc,C++,2,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3829,15499,https://avatars.githubusercontent.com/u/47359?v=4
-271714,wkhtmltopdf,wkhtmltopdf/wkhtmltopdf,C++,2,Convert HTML to PDF using Webkit (QtWebKit),1800,13513,https://avatars.githubusercontent.com/u/6532064?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,38,An Open Source Machine Learning Framework for Everyone,89200,179281,https://avatars.githubusercontent.com/u/15658638?v=4
+1181927,bitcoin,bitcoin/bitcoin,C++,42,Bitcoin Core integration/staging tree,36103,72546,https://avatars.githubusercontent.com/u/528860?v=4
+60246359,ClickHouse,ClickHouse/ClickHouse,C++,20,ClickHouse® is a free analytics DBMS for big data,6292,32002,https://avatars.githubusercontent.com/u/54801242?v=4
+4524181,folly,facebook/folly,C++,10,An open-source C++ library developed and used at Facebook.,5583,26435,https://avatars.githubusercontent.com/u/69631?v=4
+7056202,fmt,fmtlib/fmt,C++,14,A modern formatting library,2235,18442,https://avatars.githubusercontent.com/u/7280830?v=4
+1062572,Catch2,catchorg/Catch2,C++,80,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3028,17427,https://avatars.githubusercontent.com/u/33321405?v=4
+38581626,pybind11,pybind/pybind11,C++,2,Seamless operability between C++11 and Python,1969,13885,https://avatars.githubusercontent.com/u/17565521?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,4,A fast JSON parser/generator for C++ with both SAX/DOM style API,3522,13546,https://avatars.githubusercontent.com/u/18461506?v=4
+2310495,ceph,ceph/ceph,C++,4,"Ceph is a distributed object, block, and file storage platform ",6032,12644,https://avatars.githubusercontent.com/u/1015767?v=4
 86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,16,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2888,11287,https://avatars.githubusercontent.com/u/84565724?v=4
-5909706,cpp-httplib,yhirose/cpp-httplib,C++,19,A C++ header-only HTTP/HTTPS server and client library,2097,10851,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
-75413130,Open3D,isl-org/Open3D,C++,9,Open3D: A Modern Library for 3D Data Processing,2117,9818,https://avatars.githubusercontent.com/u/23507030?v=4
-2168780,minetest,minetest/minetest,C++,5,Minetest is an open source voxel game engine with easy modding and game creation,1910,9645,https://avatars.githubusercontent.com/u/2624745?v=4
-204593825,STL,microsoft/STL,C++,4,MSVC's implementation of the C++ Standard Library.,1382,9274,https://avatars.githubusercontent.com/u/6154722?v=4
-39211337,engine,flutter/engine,C++,2,The Flutter engine,5657,6889,https://avatars.githubusercontent.com/u/14101776?v=4
-33100064,yaml-cpp,jbeder/yaml-cpp,C++,2,A YAML parser and emitter in C++,1720,4524,https://avatars.githubusercontent.com/u/1059334?u=c1a1d6555522380d9c818e51048f24b29c3dae09&v=4
-1368195,asio,chriskohlhoff/asio,C++,5,Asio C++ Library,1188,4371,https://avatars.githubusercontent.com/u/462538?v=4
-287706896,puerts,Tencent/puerts,C++,3,PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.,626,4355,https://avatars.githubusercontent.com/u/18461506?v=4
-410126695,R3nzSkin,R3nzTheCodeGOD/R3nzSkin,C++,20,Skin changer for League of Legends (LOL),563,3681,https://avatars.githubusercontent.com/u/58574988?u=0d26cbf4271a4b820623198423fa4b0266426a3d&v=4
-227091502,perfetto,google/perfetto,C++,2,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",285,2130,https://avatars.githubusercontent.com/u/1342004?v=4
-135363400,navigation2,ros-planning/navigation2,C++,2,ROS2 Navigation Framework and System,1029,1778,https://avatars.githubusercontent.com/u/2328631?v=4
-638661163,strato,strato-emu/strato,C++,8,Run Nintendo Switch homebrew & games on your Android device!,176,1439,https://avatars.githubusercontent.com/u/133053931?v=4
-463628495,executorch,pytorch/executorch,C++,1,End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models,78,498,https://avatars.githubusercontent.com/u/21003710?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,19,A C++ header-only HTTP/HTTPS server and client library,2097,10852,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,5,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2626,9702,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
+1690480,QGIS,qgis/QGIS,C++,10,"QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",2803,9020,https://avatars.githubusercontent.com/u/483444?v=4
+400501136,mujoco,google-deepmind/mujoco,C++,6,Multi-Joint dynamics with Contact. A general purpose physics simulator.,625,6577,https://avatars.githubusercontent.com/u/8596759?v=4
+724854743,mlx,ml-explore/mlx,C++,1094,MLX: An array framework for Apple silicon,184,6320,https://avatars.githubusercontent.com/u/102832242?v=4
+143131,cppcheck,danmar/cppcheck,C++,4,static analysis of C/C++ code,1439,5190,https://avatars.githubusercontent.com/u/60195?v=4
+153097643,openvino,openvinotoolkit/openvino,C++,15,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,1822,5057,https://avatars.githubusercontent.com/u/55443902?v=4
+198232685,open_spiel,google-deepmind/open_spiel,C++,3,OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.,858,3867,https://avatars.githubusercontent.com/u/8596759?v=4
+410126695,R3nzSkin,R3nzTheCodeGOD/R3nzSkin,C++,20,Skin changer for League of Legends (LOL),563,3679,https://avatars.githubusercontent.com/u/58574988?u=0d26cbf4271a4b820623198423fa4b0266426a3d&v=4
+679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,16,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,273,3577,https://avatars.githubusercontent.com/u/1728152?v=4
+201692465,GASDocumentation,tranek/GASDocumentation,C++,5,My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.,671,3360,https://avatars.githubusercontent.com/u/1534735?v=4
+507861208,FastDeploy,PaddlePaddle/FastDeploy,C++,0,"⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support.",413,2453,https://avatars.githubusercontent.com/u/23534030?v=4
+46376800,fleece,couchbase/fleece,C++,22,"A super-fast, compact, JSON-equivalent binary data format",32,250,https://avatars.githubusercontent.com/u/605755?v=4
+724762002,mlx-data,ml-explore/mlx-data,C++,16,Efficient framework-agnostic data loading,3,127,https://avatars.githubusercontent.com/u/102832242?v=4
+726462257,salamander,OpenSalamander/salamander,C++,51,Open Salamander,15,100,https://avatars.githubusercontent.com/u/152618168?v=4
