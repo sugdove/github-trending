@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,56,Linux kernel source tree,51306,162182,https://avatars.githubusercontent.com/u/1024025?v=4
-10744183,netdata,netdata/netdata,C,31,"Monitor your servers, containers, and applications, in high-resolution and in real-time!",5734,66223,https://avatars.githubusercontent.com/u/43390781?v=4
-569041,curl,curl/curl,C,8,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6136,32586,https://avatars.githubusercontent.com/u/16928085?v=4
-7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,10176,23206,https://avatars.githubusercontent.com/u/3279138?v=4
-15337142,micropython,micropython/micropython,C,5,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,7015,17590,https://avatars.githubusercontent.com/u/6298560?v=4
-60667730,lvgl,lvgl/lvgl,C,8,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",2783,13820,https://avatars.githubusercontent.com/u/19811762?v=4
-927442,postgres,postgres/postgres,C,6,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",4182,13674,https://avatars.githubusercontent.com/u/177543?v=4
+10744183,netdata,netdata/netdata,C,31,"Monitor your servers, containers, and applications, in high-resolution and in real-time!",5734,66229,https://avatars.githubusercontent.com/u/43390781?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C,71,Port of Facebook's LLaMA model in C/C++,6524,45886,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,25,Flipper Zero Unleashed Firmware,1149,12489,https://avatars.githubusercontent.com/u/115378555?v=4
 32873313,systemd,systemd/systemd,C,16,The systemd System and Service Manager ,3512,11839,https://avatars.githubusercontent.com/u/1918868?v=4
-213916896,blender,blender/blender,C,11,Official mirror of Blender,1680,10311,https://avatars.githubusercontent.com/u/52924476?v=4
-215973962,acwj,DoctorWkt/acwj,C,24,A Compiler Writing Journey,915,9230,https://avatars.githubusercontent.com/u/817898?u=0af29670f30ff566382155876132a0368cb6bb21&v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,5,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5436,8808,https://avatars.githubusercontent.com/u/19595895?v=4
-19330466,xxHash,Cyan4973/xxHash,C,2,Extremely fast non-cryptographic hash algorithm,774,7964,https://avatars.githubusercontent.com/u/750081?v=4
-40556106,wazuh,wazuh/wazuh,C,13,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1251,7841,https://avatars.githubusercontent.com/u/13752566?v=4
-359952601,pgvector,pgvector/pgvector,C,12,Open-source vector similarity search for Postgres,294,7051,https://avatars.githubusercontent.com/u/98363230?v=4
-543276238,libsql,tursodatabase/libsql,C,18,"libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",132,5417,https://avatars.githubusercontent.com/u/139391156?v=4
-146155284,flecs,SanderMertens/flecs,C,5,A fast entity component system (ECS) for C & C++,423,5041,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
-6331631,fio,axboe/fio,C,3,Flexible I/O Tester,1179,4597,https://avatars.githubusercontent.com/u/2619634?v=4
-128909919,gamemode,FeralInteractive/gamemode,C,12,Optimise Linux system performance on demand,182,4087,https://avatars.githubusercontent.com/u/9704713?v=4
-1613176,edk2,tianocore/edk2,C,3,EDK II,2258,3960,https://avatars.githubusercontent.com/u/352162?v=4
-217654199,msquic,microsoft/msquic,C,2,"Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",532,3657,https://avatars.githubusercontent.com/u/6154722?v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,0,Simple Unit Testing for C,955,3398,https://avatars.githubusercontent.com/u/1049138?v=4
-26537135,u-boot,u-boot/u-boot,C,0,"""Das U-Boot"" Source Tree",3296,3265,https://avatars.githubusercontent.com/u/9681997?v=4
-317493442,box64,ptitSeb/box64,C,10,"Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices",199,2626,https://avatars.githubusercontent.com/u/3250792?u=f206420ae21c0bbf92fea09871f11adea98adb39&v=4
-31374735,fwupd,fwupd/fwupd,C,4,A system daemon to allow session software to update firmware,391,2401,https://avatars.githubusercontent.com/u/54377141?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,0,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",906,2041,https://avatars.githubusercontent.com/u/54647343?v=4
+9524997,glfw,glfw/glfw,C,3,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",4708,11483,https://avatars.githubusercontent.com/u/3905364?v=4
+3319040,DOOM,id-Software/DOOM,C,5,DOOM Open Source Release,1975,11430,https://avatars.githubusercontent.com/u/1395534?v=4
+15583310,SoftEtherVPN,SoftEtherVPN/SoftEtherVPN,C,1,Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.,2516,10678,https://avatars.githubusercontent.com/u/6303100?v=4
+490465859,Flipper,UberGuidoZ/Flipper,C,18,Playground (and dump) of stuff I make or modify for the Flipper Zero,2639,10326,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
+35780977,ImageMagick,ImageMagick/ImageMagick,C,4,🧙‍♂️ ImageMagick 7,1259,10318,https://avatars.githubusercontent.com/u/12486768?v=4
+39242894,coturn,coturn/coturn,C,4,coturn TURN server project,1881,9938,https://avatars.githubusercontent.com/u/6572098?v=4
+4151993,openvpn,OpenVPN/openvpn,C,7,OpenVPN  is  an open source VPN daemon,2842,9364,https://avatars.githubusercontent.com/u/1569141?v=4
+325724738,pyroscope,grafana/pyroscope,C,7,Continuous Profiling Platform. Debug performance issues down to a single line of code,511,8865,https://avatars.githubusercontent.com/u/7195757?v=4
+13310527,jemalloc,jemalloc/jemalloc,C,4,,1381,8624,https://avatars.githubusercontent.com/u/5606968?v=4
+59676171,klipper,Klipper3d/klipper,C,4,Klipper is a 3d-printer firmware,4851,7907,https://avatars.githubusercontent.com/u/90982958?v=4
+468685658,ElectronBot,peng-zhihui/ElectronBot,C,4,,1690,7116,https://avatars.githubusercontent.com/u/12994887?u=6bfec84cb512892557cfed7fd7c52b0b0f41f95b&v=4
+5870069,librdkafka,confluentinc/librdkafka,C,3,The Apache Kafka C/C++ library,3213,7072,https://avatars.githubusercontent.com/u/9439498?v=4
+27275442,tpotce,telekom-security/tpotce,C,11,🍯 T-Pot - The All In One Honeypot Platform 🐝,917,5478,https://avatars.githubusercontent.com/u/30164233?v=4
+2359378,zlib,madler/zlib,C,2,A massively spiffy yet delicately unobtrusive compression library.,2310,4892,https://avatars.githubusercontent.com/u/240717?v=4
+127023441,cuda-samples,NVIDIA/cuda-samples,C,4,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1495,4569,https://avatars.githubusercontent.com/u/1728152?v=4
+27359183,GmSSL,guanzhi/GmSSL,C,2,支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱,1550,4413,https://avatars.githubusercontent.com/u/1787781?u=c71c577b7da3afe39a461344fdca316d82f91735&v=4
+6860771,tinyusb,hathach/tinyusb,C,4,An open source  cross-platform USB stack for embedded system,925,4194,https://avatars.githubusercontent.com/u/249515?u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4
+36930672,stress-ng,ColinIanKing/stress-ng,C,2,This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. ,234,1232,https://avatars.githubusercontent.com/u/9316527?u=4e22e6176285a0c369d4053b8af0d582c80143f4&v=4
+68456226,rdma-core,linux-rdma/rdma-core,C,1,RDMA core userspace libraries and daemons,613,1213,https://avatars.githubusercontent.com/u/22179970?v=4
+36461547,stuxnet,research-virus/stuxnet,C,36,Public open-source code of malware Stuxnet (aka MyRTUs).,142,804,https://avatars.githubusercontent.com/u/100643657?v=4
+477754490,onyx,onyx-lang/onyx,C,18,A modern language for WebAssembly.,8,242,https://avatars.githubusercontent.com/u/102979627?u=49ec42604acef179202bff084117f0f7942bb96e&v=4
