@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,35,The Go programming language,17451,116415,https://avatars.githubusercontent.com/u/4314092?v=4
-658928958,ollama,jmorganca/ollama,Go,389,Get up and running with Llama 2 and other large language models locally,1286,22807,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
-120227732,fyne,fyne-io/fyne,Go,9,Cross platform GUI toolkit in Go inspired by Material Design,1282,22040,https://avatars.githubusercontent.com/u/36045855?v=4
-6247705,testify,stretchr/testify,Go,5,A toolkit with common assertions and mocks that plays nicely with the standard library,1540,21121,https://avatars.githubusercontent.com/u/1841476?v=4
-109145553,podman,containers/podman,Go,25,Podman: A tool for managing OCI containers and pods.,2127,20067,https://avatars.githubusercontent.com/u/5874934?v=4
-44344606,chi,go-chi/chi,Go,13,"lightweight, idiomatic and composable router for building Go HTTP services",984,16080,https://avatars.githubusercontent.com/u/29575368?v=4
-80087836,badger,dgraph-io/badger,Go,5,Fast key-value DB in Go.,1179,12976,https://avatars.githubusercontent.com/u/13958706?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,4,Terraform AWS provider,8531,9074,https://avatars.githubusercontent.com/u/761456?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,20,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.",1183,8563,https://avatars.githubusercontent.com/u/126152966?v=4
-815644,dns,miekg/dns,Go,58,DNS library in Go,1213,7544,https://avatars.githubusercontent.com/u/353371?u=b98951c0352124cc5ac3e526f0a372accf41041a&v=4
-92969352,buildkit,moby/buildkit,Go,7,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",1075,7320,https://avatars.githubusercontent.com/u/27259197?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,7,Autoscaling components for Kubernetes,3727,7275,https://avatars.githubusercontent.com/u/13629408?v=4
-166304026,sliver,BishopFox/sliver,Go,6,Adversary Emulation Framework,977,6972,https://avatars.githubusercontent.com/u/4523757?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2462,6886,https://avatars.githubusercontent.com/u/36015203?v=4
-299832860,livekit,livekit/livekit,Go,10,End-to-end stack for WebRTC. SFU media server and SDKs.,524,6170,https://avatars.githubusercontent.com/u/69438833?v=4
-52193726,sqlboiler,volatiletech/sqlboiler,Go,1,Generate a Go ORM tailored to your database schema.,563,6168,https://avatars.githubusercontent.com/u/22513357?v=4
-140958903,expr,expr-lang/expr,Go,2,Expression language and expression evaluation for Go,377,4830,https://avatars.githubusercontent.com/u/144815908?v=4
-51620247,uuid,google/uuid,Go,2,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,402,4754,https://avatars.githubusercontent.com/u/1342004?v=4
-76686583,kubevirt,kubevirt/kubevirt,Go,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1128,4746,https://avatars.githubusercontent.com/u/18700703?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1282,3465,https://avatars.githubusercontent.com/u/16785467?v=4
-380501914,go-recipes,nikolaydubina/go-recipes,Go,219,🦩 Tools for Go projects,161,3391,https://avatars.githubusercontent.com/u/2933061?u=0e4587b0e19602c071c93e740a5b2340afdc9d47&v=4
-468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,13,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",186,2567,https://avatars.githubusercontent.com/u/100373852?v=4
+23096959,go,golang/go,Go,35,The Go programming language,17452,116417,https://avatars.githubusercontent.com/u/4314092?v=4
+12574344,cobra,spf13/cobra,Go,8,A Commander for modern Go CLI interactions,2822,34487,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+13855476,gorm,go-gorm/gorm,Go,12,"The fantastic ORM library for Golang, aims to be developer friendly",3817,34301,https://avatars.githubusercontent.com/u/15127678?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,20,A node.js version management utility for Windows. Ironically written in Go.,3121,32152,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+56353740,minikube,kubernetes/minikube,Go,7,Run Kubernetes locally,4815,27683,https://avatars.githubusercontent.com/u/13629408?v=4
+43723161,helm,helm/helm,Go,7,The Kubernetes Package Manager,6940,25336,https://avatars.githubusercontent.com/u/15859888?v=4
+658928958,ollama,jmorganca/ollama,Go,284,Get up and running with Llama 2 and other large language models locally,1294,22843,https://avatars.githubusercontent.com/u/251292?u=a7465aae734d2cbc12d26b885b07d466d969bf0c&v=4
+165041732,kratos,go-kratos/kratos,Go,6,Your ultimate Go microservices framework for the cloud-native era.,3959,21828,https://avatars.githubusercontent.com/u/62791634?v=4
+29217054,go-micro,go-micro/go-micro,Go,5,A Go microservices framework,2355,21046,https://avatars.githubusercontent.com/u/103172883?v=4
+436297812,memos,usememos/memos,Go,40,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1523,20933,https://avatars.githubusercontent.com/u/95764151?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,34,Network-wide ads & trackers blocking DNS server,1596,19776,https://avatars.githubusercontent.com/u/8361145?v=4
+20653934,cadvisor,google/cadvisor,Go,5,Analyzes resource usage and performance characteristics of running containers.,2296,15807,https://avatars.githubusercontent.com/u/1342004?v=4
+502193049,gum,charmbracelet/gum,Go,28,A tool for glamorous shell scripts 🎀,298,15487,https://avatars.githubusercontent.com/u/57376114?v=4
+333303663,bytebase,bytebase/bytebase,Go,117,"World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps",504,7781,https://avatars.githubusercontent.com/u/74386897?v=4
+815644,dns,miekg/dns,Go,55,DNS library in Go,1214,7544,https://avatars.githubusercontent.com/u/353371?u=b98951c0352124cc5ac3e526f0a372accf41041a&v=4
+440752086,coder,coder/coder,Go,4,Provision remote development environments via Terraform,482,5927,https://avatars.githubusercontent.com/u/95932066?v=4
+11931032,btcd,btcsuite/btcd,Go,4,An alternative full node bitcoin implementation written in Go (golang),2265,5588,https://avatars.githubusercontent.com/u/10235229?v=4
+44087204,syzkaller,google/syzkaller,Go,1,syzkaller is an unsupervised coverage-guided kernel fuzzer,1178,4943,https://avatars.githubusercontent.com/u/1342004?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,6,OpenTelemetry Collector,1229,3521,https://avatars.githubusercontent.com/u/49998002?v=4
+380501914,go-recipes,nikolaydubina/go-recipes,Go,60,🦩 Tools for Go projects,161,3398,https://avatars.githubusercontent.com/u/2933061?u=0e4587b0e19602c071c93e740a5b2340afdc9d47&v=4
 83623770,helm-diff,databus23/helm-diff,Go,10,A helm plugin that shows a diff explaining what a helm upgrade would change,256,2357,https://avatars.githubusercontent.com/u/439223?v=4
-224021526,agent,grafana/agent,Go,2,Vendor-neutral programmable observability pipelines.,444,1402,https://avatars.githubusercontent.com/u/7195757?v=4
-165926555,terraform-provider-snowflake,Snowflake-Labs/terraform-provider-snowflake,Go,1,Terraform provider for managing Snowflake accounts,365,451,https://avatars.githubusercontent.com/u/58992620?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,4,AWS SDK for the Go programming language. ,617,2228,https://avatars.githubusercontent.com/u/2232217?v=4
+592283952,dae,daeuniverse/dae,Go,9,A Linux high-performance transparent proxy solution based on eBPF.,106,1458,https://avatars.githubusercontent.com/u/126714249?v=4
+727311825,generative-ai-go,google/generative-ai-go,Go,46,Go SDK for Google Generative AI,0,152,https://avatars.githubusercontent.com/u/1342004?v=4
+717379633,wxbot,jwping/wxbot,Go,8,PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot,56,118,https://avatars.githubusercontent.com/u/56252907?v=4
