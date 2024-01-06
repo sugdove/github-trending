@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-36502,git,git/git,C,14,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,25728,48405,https://avatars.githubusercontent.com/u/18133?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C,69,Port of Facebook's LLaMA model in C/C++,6838,48118,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-7634677,openssl,openssl/openssl,C,8,TLS/SSL and crypto library,10235,23417,https://avatars.githubusercontent.com/u/3279138?v=4
-196353673,TDengine,taosdata/TDengine,C,7,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4768,22438,https://avatars.githubusercontent.com/u/48876650?v=4
-488002779,open-gpu-kernel-modules,NVIDIA/open-gpu-kernel-modules,C,6,NVIDIA Linux open GPU kernel module source,1052,13625,https://avatars.githubusercontent.com/u/1728152?v=4
-39242894,coturn,coturn/coturn,C,3,coturn TURN server project,1892,10038,https://avatars.githubusercontent.com/u/6572098?v=4
-54280778,cJSON,DaveGamble/cJSON,C,4,Ultralightweight JSON parser in ANSI C,3116,9620,https://avatars.githubusercontent.com/u/118247?v=4
+2325298,linux,torvalds/linux,C,70,Linux kernel source tree,51583,163530,https://avatars.githubusercontent.com/u/1024025?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C,69,Port of Facebook's LLaMA model in C/C++,6838,48125,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+3774328,wrk,wg/wrk,C,4,Modern HTTP benchmarking tool,2904,36112,https://avatars.githubusercontent.com/u/94529?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,30,Port of OpenAI's Whisper model in C/C++,2590,26866,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+18666758,darknet,pjreddie/darknet,C,0,Convolutional Neural Networks,21441,24957,https://avatars.githubusercontent.com/u/302108?v=4
+14812739,libuv,libuv/libuv,C,9,Cross-platform asynchronous I/O,3525,22674,https://avatars.githubusercontent.com/u/4030929?v=4
+214011414,WindTerm,kingToolbox/WindTerm,C,24,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1445,18326,https://avatars.githubusercontent.com/u/51009775?v=4
+927442,postgres,postgres/postgres,C,7,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",4218,13840,https://avatars.githubusercontent.com/u/177543?v=4
+65899476,esp-idf,espressif/esp-idf,C,7,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,6826,11815,https://avatars.githubusercontent.com/u/9460735?v=4
+1856976,libevent,libevent/libevent,C,2,Event notification library,3322,10445,https://avatars.githubusercontent.com/u/833750?v=4
 59771425,zephyr,zephyrproject-rtos/zephyr,C,11,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5541,8962,https://avatars.githubusercontent.com/u/19595895?v=4
-53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,2282,8031,https://avatars.githubusercontent.com/u/56974?v=4
-5870069,librdkafka,confluentinc/librdkafka,C,1,The Apache Kafka C/C++ library,3228,7123,https://avatars.githubusercontent.com/u/9439498?v=4
-31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,1,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4898,6434,https://avatars.githubusercontent.com/u/6154722?v=4
+359952601,pgvector,pgvector/pgvector,C,19,Open-source vector similarity search for Postgres,309,7469,https://avatars.githubusercontent.com/u/98363230?v=4
+2328181,freebsd-src,freebsd/freebsd-src,C,3,The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....,2734,7273,https://avatars.githubusercontent.com/u/811839?v=4
+5870069,librdkafka,confluentinc/librdkafka,C,1,The Apache Kafka C/C++ library,3228,7124,https://avatars.githubusercontent.com/u/9439498?v=4
+44781140,gpdb,greenplum-db/gpdb,C,0,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",1695,6077,https://avatars.githubusercontent.com/u/14097842?v=4
 673267,hiredis,redis/hiredis,C,5,Minimalistic C client for Redis >= 1.2,1832,5982,https://avatars.githubusercontent.com/u/1529926?v=4
 65638810,OpenLara,XProger/OpenLara,C,6,Classic Tomb Raider open-source engine,366,4381,https://avatars.githubusercontent.com/u/796763?u=83db30300f257b6210f261895a463dc983502bf6&v=4
+4434428,tiny-AES-c,kokke/tiny-AES-c,C,1,Small portable AES128/192/256 in C,1312,3888,https://avatars.githubusercontent.com/u/1774646?v=4
 34807561,nanopb,nanopb/nanopb,C,2,Protocol Buffers with small code size,796,3859,https://avatars.githubusercontent.com/u/12173937?v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,2,Simple Unit Testing for C,958,3467,https://avatars.githubusercontent.com/u/1049138?v=4
-27085821,stellar-core,stellar/stellar-core,C,1,stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network,1064,3080,https://avatars.githubusercontent.com/u/7386716?v=4
-154525111,freeswitch,signalwire/freeswitch,C,2,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",1257,2770,https://avatars.githubusercontent.com/u/34925332?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,2,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",925,2103,https://avatars.githubusercontent.com/u/54647343?v=4
-310123680,webui,webui-dev/webui,C,52,"Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.",94,1700,https://avatars.githubusercontent.com/u/133399259?v=4
-5053738,libcs50,cs50/libcs50,C,4,This is CS50's Library for C.,838,1514,https://avatars.githubusercontent.com/u/788676?v=4
-616222670,NerdMiner_v2,BitMaker-hub/NerdMiner_v2,C,8,Improved version of first ESP32 NerdMiner,140,823,https://avatars.githubusercontent.com/u/105243563?u=e4a7a4b8e143fe25d2da1f8355c9207bab931d4f&v=4
-737157592,plb2,attractivechaos/plb2,C,34,A programming language benchmark,25,168,https://avatars.githubusercontent.com/u/563093?v=4
+5410234,suricata,OISF/suricata,C,3,"Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",1339,3703,https://avatars.githubusercontent.com/u/2188963?v=4
+226167620,InfiniTime,InfiniTimeOrg/InfiniTime,C,3,Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS,845,2466,https://avatars.githubusercontent.com/u/91782433?v=4
+270692521,zmk,zmkfirmware/zmk,C,2,ZMK Firmware Repository,2174,2071,https://avatars.githubusercontent.com/u/66629601?v=4
+12488811,sparkey,spotify/sparkey,C,32,"Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.",79,1118,https://avatars.githubusercontent.com/u/251374?v=4
+647204725,arduino_core_ch32,openwch/arduino_core_ch32,C,10,Core library for CH32duino,21,154,https://avatars.githubusercontent.com/u/96517772?u=5a432e7a391c90a186393d61e4e205ee171218c0&v=4
 705089895,hpc-now,zhenrong-wang/hpc-now,C,6,"A Cross-Platform, Multi-Cloud High-Performance Computing Platform",69,139,https://avatars.githubusercontent.com/u/59274212?u=0bcd0802c9aa6f82e363ee8f4da3a9003d22f4fb&v=4
-154049686,libwa,rodarima/libwa,C,6,WhatsApp C library,4,110,https://avatars.githubusercontent.com/u/3866127?u=7b2e9bf05ca9b2560ed8bf9677f9d42917d1fa35&v=4
-737436326,Analog-GPS-data-receiver,leaningktower/Analog-GPS-data-receiver,C,7,An full analog GPS receiver using discrete rf components and TinyFPGA,4,72,https://avatars.githubusercontent.com/u/17516571?v=4
