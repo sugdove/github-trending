@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-9384267,electron,electron/electron,C++,14,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15430,110156,https://avatars.githubusercontent.com/u/13409222?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,12,Protocol Buffers - Google's data interchange format,15400,62505,https://avatars.githubusercontent.com/u/26310541?v=4
-11171548,json,nlohmann/json,C++,14,JSON for Modern C++,6618,38594,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-4524181,folly,facebook/folly,C++,6,An open-source C++ library developed and used at Facebook.,5609,26554,https://avatars.githubusercontent.com/u/69631?v=4
-191820100,mediapipe,google/mediapipe,C++,14,"Cross-platform, customizable ML solutions for live and streaming media.",4884,24355,https://avatars.githubusercontent.com/u/1342004?v=4
-65214191,envoy,envoyproxy/envoy,C++,8,Cloud-native high-performance edge/middle/service proxy,4583,23292,https://avatars.githubusercontent.com/u/30125649?v=4
-65711522,Paddle,PaddlePaddle/Paddle,C++,4,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,5394,21215,https://avatars.githubusercontent.com/u/23534030?v=4
-251383553,CnC_Remastered_Collection,electronicarts/CnC_Remastered_Collection,C++,7,,4617,17565,https://avatars.githubusercontent.com/u/1637638?v=4
-38581626,pybind11,pybind/pybind11,C++,6,Seamless operability between C++11 and Python,2071,14161,https://avatars.githubusercontent.com/u/17565521?v=4
-2649214,arangodb,arangodb/arangodb,C++,3,"🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.",843,13228,https://avatars.githubusercontent.com/u/5547849?v=4
-51905353,arrow,apache/arrow,C++,7,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,3195,12983,https://avatars.githubusercontent.com/u/47359?v=4
-2310495,ceph,ceph/ceph,C++,11,"Ceph is a distributed object, block, and file storage platform ",6074,12765,https://avatars.githubusercontent.com/u/1015767?v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,3,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,2933,11541,https://avatars.githubusercontent.com/u/84565724?v=4
-131236938,drogon,drogonframework/drogon,C++,13,Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows,1000,10388,https://avatars.githubusercontent.com/u/48876018?v=4
-23496542,triton,openai/triton,C++,10,Development repository for the Triton language and compiler,1043,9455,https://avatars.githubusercontent.com/u/14957082?v=4
-86337343,entt,skypjack/entt,C++,3,Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more,831,9072,https://avatars.githubusercontent.com/u/1812216?v=4
-184657328,TensorRT,NVIDIA/TensorRT,C++,4,NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.,1913,8430,https://avatars.githubusercontent.com/u/1728152?v=4
-23086893,re2,google/re2,C++,0,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",1151,8393,https://avatars.githubusercontent.com/u/1342004?v=4
-31197250,glog,google/glog,C++,7,C++ implementation of the Google logging module,2074,6556,https://avatars.githubusercontent.com/u/1342004?v=4
-1764646,wxWidgets,wxWidgets/wxWidgets,C++,5,Cross-Platform C++ GUI Library,1728,5510,https://avatars.githubusercontent.com/u/791023?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,6,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,1862,5201,https://avatars.githubusercontent.com/u/55443902?v=4
-46153892,nccl,NVIDIA/nccl,C++,2,Optimized primitives for collective multi-GPU communication,683,2607,https://avatars.githubusercontent.com/u/1728152?v=4
-20296703,Fast-DDS,eProsima/Fast-DDS,C++,1,The most complete DDS - Proven: Plenty of success cases.,663,1836,https://avatars.githubusercontent.com/u/6390783?v=4
-24655143,allwpilib,wpilibsuite/allwpilib,C++,3,Official Repository of WPILibJ and WPILibC,567,945,https://avatars.githubusercontent.com/u/19267233?v=4
-383260228,StackRabbit,GregoryCannon/StackRabbit,C++,17,"An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.",33,372,https://avatars.githubusercontent.com/u/19394260?u=7540316a5fa628d68179e31f3cb8f345b078ed1a&v=4
+44838949,swift,apple/swift,C++,15,The Swift Programming Language,10403,64926,https://avatars.githubusercontent.com/u/10639145?v=4
+22067521,imgui,ocornut/imgui,C++,20,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,9457,52991,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
+116167731,yuzu,yuzu-emu/yuzu,C++,15,Nintendo Switch emulator,2790,32779,https://avatars.githubusercontent.com/u/35075882?v=4
+1116542,aria2,aria2/aria2,C++,12,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",3408,32445,https://avatars.githubusercontent.com/u/13545224?v=4
+160083795,serenity,SerenityOS/serenity,C++,20,The Serenity Operating System 🐞,2920,26782,https://avatars.githubusercontent.com/u/50811782?v=4
+81887991,AirSim,microsoft/AirSim,C++,8,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",4438,15501,https://avatars.githubusercontent.com/u/6154722?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C++,9,Arduino core for the ESP32,7081,11885,https://avatars.githubusercontent.com/u/9460735?v=4
+724854743,mlx,ml-explore/mlx,C++,246,MLX: An array framework for Apple silicon,649,11057,https://avatars.githubusercontent.com/u/102832242?v=4
+131236938,drogon,drogonframework/drogon,C++,13,Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows,1000,10389,https://avatars.githubusercontent.com/u/48876018?v=4
+19866730,citra,citra-emu/citra,C++,2,A Nintendo 3DS Emulator,1750,9818,https://avatars.githubusercontent.com/u/7605670?v=4
+5973855,Cataclysm-DDA,CleverRaven/Cataclysm-DDA,C++,3,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.,3991,9263,https://avatars.githubusercontent.com/u/4367009?v=4
+86337343,entt,skypjack/entt,C++,3,Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more,832,9072,https://avatars.githubusercontent.com/u/1812216?v=4
+31197250,glog,google/glog,C++,7,C++ implementation of the Google logging module,2074,6558,https://avatars.githubusercontent.com/u/1342004?v=4
+1049088,openscad,openscad/openscad,C++,6,OpenSCAD - The Programmers Solid 3D CAD Modeller  ,1161,6157,https://avatars.githubusercontent.com/u/466370?v=4
+7454197,yosys,YosysHQ/yosys,C++,2,Yosys Open SYnthesis Suite,818,2959,https://avatars.githubusercontent.com/u/35169771?v=4
+436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,4,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,2160,2786,https://avatars.githubusercontent.com/u/29489915?u=fcf37f59ad74d0389bcb06a49c324a4cab771e4e&v=4
+731883575,dlssg-to-fsr3,Nukem9/dlssg-to-fsr3,C++,83,Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).,156,2695,https://avatars.githubusercontent.com/u/4228359?v=4
+11489037,rathena,rathena/rathena,C++,2,rAthena is an open-source cross-platform MMORPG server.,2183,2618,https://avatars.githubusercontent.com/u/1776606?v=4
+170738310,wallet-core,trustwallet/wallet-core,C++,2,"Cross-platform, cross-blockchain wallet library.",1558,2508,https://avatars.githubusercontent.com/u/32179889?v=4
+196111891,yuzu-mainline,yuzu-emu/yuzu-mainline,C++,3,,297,2475,https://avatars.githubusercontent.com/u/35075882?v=4
+594330628,ZygiskNext,Dr-TSNG/ZygiskNext,C++,17,Standalone implementation of Zygisk,102,1821,https://avatars.githubusercontent.com/u/52071314?u=12f9d7c55b3a24ab58e11694b04e7894a2f28799&v=4
+480221480,Walnut,StudioCherno/Walnut,C++,4,Walnut is a simple application framework for Vulkan and Dear ImGui apps,321,1719,https://avatars.githubusercontent.com/u/102298576?v=4
+659205972,tachyon,kroma-network/tachyon,C++,46,Modular ZK(Zero Knowledge) backend accelerated by GPU,32,1013,https://avatars.githubusercontent.com/u/126645000?v=4
+24655143,allwpilib,wpilibsuite/allwpilib,C++,3,Official Repository of WPILibJ and WPILibC,567,946,https://avatars.githubusercontent.com/u/19267233?v=4
+689858385,nitro,janhq/nitro,C++,53,"A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API",16,416,https://avatars.githubusercontent.com/u/102363196?v=4
