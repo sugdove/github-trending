@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,563,Linux kernel source tree,52113,165254,https://avatars.githubusercontent.com/u/1024025?v=4
-1614410,FFmpeg,FFmpeg/FFmpeg,C,159,Mirror of https://git.ffmpeg.org/ffmpeg.git,11617,40793,https://avatars.githubusercontent.com/u/729418?v=4
-1903522,php-src,php/php-src,C,58,The PHP Interpreter,7787,36786,https://avatars.githubusercontent.com/u/25158?v=4
+2325298,linux,torvalds/linux,C,563,Linux kernel source tree,52112,165262,https://avatars.githubusercontent.com/u/1024025?v=4
+36502,git,git/git,C,92,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,25812,48696,https://avatars.githubusercontent.com/u/18133?v=4
+1903522,php-src,php/php-src,C,58,The PHP Interpreter,7787,36788,https://avatars.githubusercontent.com/u/25158?v=4
 569041,curl,curl/curl,C,236,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6221,33178,https://avatars.githubusercontent.com/u/16928085?v=4
-7634677,openssl,openssl/openssl,C,76,TLS/SSL and crypto library,10321,23653,https://avatars.githubusercontent.com/u/3279138?v=4
-29759715,zstd,facebook/zstd,C,50,Zstandard - Fast real-time compression algorithm,2087,21655,https://avatars.githubusercontent.com/u/69631?v=4
+7634677,openssl,openssl/openssl,C,76,TLS/SSL and crypto library,10323,23655,https://avatars.githubusercontent.com/u/3279138?v=4
+29759715,zstd,facebook/zstd,C,50,Zstandard - Fast real-time compression algorithm,2087,21657,https://avatars.githubusercontent.com/u/69631?v=4
+34921116,bcc,iovisor/bcc,C,59,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3744,18864,https://avatars.githubusercontent.com/u/12766186?v=4
 84240850,timescaledb,timescale/timescaledb,C,38,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,845,16092,https://avatars.githubusercontent.com/u/8986001?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,251,Flipper Zero Unleashed Firmware,1249,13918,https://avatars.githubusercontent.com/u/115378555?v=4
-325724738,pyroscope,grafana/pyroscope,C,58,Continuous Profiling Platform. Debug performance issues down to a single line of code,534,9101,https://avatars.githubusercontent.com/u/7195757?v=4
-727213319,my-tv,lizongying/my-tv,C,3699,我的电视 电视直播软件，安装即可使用,820,8225,https://avatars.githubusercontent.com/u/16871545?u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4
-47057247,vlmcsd,Wind4/vlmcsd,C,37,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",2132,7842,https://avatars.githubusercontent.com/u/3997851?v=4
+470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,251,Flipper Zero Unleashed Firmware,1250,13924,https://avatars.githubusercontent.com/u/115378555?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,45,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5639,9112,https://avatars.githubusercontent.com/u/19595895?v=4
+325724738,pyroscope,grafana/pyroscope,C,58,Continuous Profiling Platform. Debug performance issues down to a single line of code,534,9103,https://avatars.githubusercontent.com/u/7195757?v=4
+727213319,my-tv,lizongying/my-tv,C,3699,我的电视 电视直播软件，安装即可使用,866,8972,https://avatars.githubusercontent.com/u/16871545?u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4
+5383731,qemu,qemu/qemu,C,58,Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,5203,8919,https://avatars.githubusercontent.com/u/2137033?v=4
+47057247,vlmcsd,Wind4/vlmcsd,C,37,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",2131,7842,https://avatars.githubusercontent.com/u/3997851?v=4
 31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,22,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4909,6481,https://avatars.githubusercontent.com/u/6154722?v=4
-2359378,zlib,madler/zlib,C,29,A massively spiffy yet delicately unobtrusive compression library.,2347,5101,https://avatars.githubusercontent.com/u/240717?v=4
-28058713,memreduct,henrypp/memreduct,C,113,Lightweight real-time memory management application to monitor and clean system memory on your computer.,402,4575,https://avatars.githubusercontent.com/u/3902025?u=b0ece819da48142eab03300731168783d7a2307b&v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,107,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",918,4413,https://avatars.githubusercontent.com/u/62360046?v=4
-122993186,ostep-code,remzi-arpacidusseau/ostep-code,C,14,Code from various chapters in OSTEP (http://www.ostep.org),1240,3020,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,17,,768,2949,https://avatars.githubusercontent.com/u/1294177?v=4
-96348842,dpdk,DPDK/dpdk,C,25,Data Plane Development Kit,1147,2915,https://avatars.githubusercontent.com/u/29926404?v=4
+146155284,flecs,SanderMertens/flecs,C,66,A fast entity component system (ECS) for C & C++,432,5268,https://avatars.githubusercontent.com/u/9919222?u=c255d45d76514ff1c73de590bc5793f2e080a6ee&v=4
+283280154,AI-on-the-edge-device,jomjol/AI-on-the-edge-device,C,66,"Easy to use device for connecting ""old"" measuring units (water, power, gas, ...) to the digital world",541,4644,https://avatars.githubusercontent.com/u/30766535?v=4
+189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,107,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",918,4414,https://avatars.githubusercontent.com/u/62360046?v=4
+96348842,dpdk,DPDK/dpdk,C,25,Data Plane Development Kit,1148,2916,https://avatars.githubusercontent.com/u/29926404?v=4
 39042157,spdk,spdk/spdk,C,21,Storage Performance Development Kit,1110,2738,https://avatars.githubusercontent.com/u/13323228?v=4
-103446460,crun,containers/crun,C,18,A fast and lightweight fully featured OCI runtime and C library for running containers,279,2662,https://avatars.githubusercontent.com/u/5874934?v=4
-263076869,threadx,eclipse-threadx/threadx,C,47,Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.,715,2538,https://avatars.githubusercontent.com/u/156018450?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,23,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",945,2162,https://avatars.githubusercontent.com/u/54647343?v=4
-340181518,fastfetch,fastfetch-cli/fastfetch,C,59,"Like neofetch, but much faster because written mostly in C.",102,1620,https://avatars.githubusercontent.com/u/136235211?v=4
+263076869,threadx,eclipse-threadx/threadx,C,47,Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.,715,2539,https://avatars.githubusercontent.com/u/156018450?v=4
+207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,23,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",945,2163,https://avatars.githubusercontent.com/u/54647343?v=4
 694486730,m5stick-nemo,n0xa/m5stick-nemo,C,32,M5 Stick C firmware for high-tech pranks,56,314,https://avatars.githubusercontent.com/u/23286114?u=159b06a225436b696bf553288041d1670435ca4c&v=4
+747107048,EventLogCrasher,floesen/EventLogCrasher,C,46,,20,131,https://avatars.githubusercontent.com/u/7890198?u=628bb8ee0d091eab86dddd75a7bd2f325b2e5dca&v=4
 746761487,lightwm,nir9/lightwm,C,69,Minimalist Tiling Window Manager for Microsoft Windows,12,129,https://avatars.githubusercontent.com/u/2052318?u=ec5a05edc979d4d44aff350702e46e7e12ab629c&v=4
