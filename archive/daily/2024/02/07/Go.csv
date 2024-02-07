@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,15,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,19039,67314,https://avatars.githubusercontent.com/u/27259197?v=4
-163883279,act,nektos/act,Go,45,Run your GitHub Actions locally 🚀,1198,47229,https://avatars.githubusercontent.com/u/3813618?v=4
-133251103,dive,wagoodman/dive,Go,47,A tool for exploring each layer in a docker image,1645,42422,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
-17728164,terraform,hashicorp/terraform,Go,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9378,40290,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,15,A Commander for modern Go CLI interactions,2850,35088,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-13855476,gorm,go-gorm/gorm,Go,8,"The fantastic ORM library for Golang, aims to be developer friendly",3860,34752,https://avatars.githubusercontent.com/u/15127678?v=4
-135516270,k3s,k3s-io/k3s,Go,25,Lightweight Kubernetes,2238,25758,https://avatars.githubusercontent.com/u/49319725?v=4
-436297812,memos,usememos/memos,Go,313,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1776,24162,https://avatars.githubusercontent.com/u/95764151?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,281,Network-wide ads & trackers blocking DNS server,1639,20871,https://avatars.githubusercontent.com/u/8361145?v=4
-180687624,trivy,aquasecurity/trivy,Go,23,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2036,20340,https://avatars.githubusercontent.com/u/12783832?v=4
-87617508,casbin,casbin/casbin,Go,7,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",1654,16470,https://avatars.githubusercontent.com/u/27810343?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,16,Declarative Continuous Deployment for Kubernetes,4618,15367,https://avatars.githubusercontent.com/u/30269780?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,8,Protect and discover secrets using Gitleaks 🔑,1310,14633,https://avatars.githubusercontent.com/u/90395851?v=4
-40684033,sops,getsops/sops,Go,4,Simple and flexible tool for managing secrets,815,14635,https://avatars.githubusercontent.com/u/129185620?v=4
-193160679,sqlc,sqlc-dev/sqlc,Go,22,Generate type-safe code from SQL,678,10059,https://avatars.githubusercontent.com/u/136738596?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,6,Terraform AWS provider,8682,9193,https://avatars.githubusercontent.com/u/761456?v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,19,"node of the decentralized oracle network, bridging on and off-chain computation",1569,5923,https://avatars.githubusercontent.com/u/25111032?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,5,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",746,5508,https://avatars.githubusercontent.com/u/2232217?v=4
+7691631,moby,moby/moby,Go,16,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,19038,67315,https://avatars.githubusercontent.com/u/27259197?v=4
+163883279,act,nektos/act,Go,27,Run your GitHub Actions locally 🚀,1198,47237,https://avatars.githubusercontent.com/u/3813618?v=4
+133251103,dive,wagoodman/dive,Go,47,A tool for exploring each layer in a docker image,1645,42426,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
+17728164,terraform,hashicorp/terraform,Go,12,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9379,40290,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,15,A Commander for modern Go CLI interactions,2850,35087,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+13855476,gorm,go-gorm/gorm,Go,9,"The fantastic ORM library for Golang, aims to be developer friendly",3860,34751,https://avatars.githubusercontent.com/u/15127678?v=4
+135516270,k3s,k3s-io/k3s,Go,25,Lightweight Kubernetes,2238,25764,https://avatars.githubusercontent.com/u/49319725?v=4
+436297812,memos,usememos/memos,Go,313,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1777,24173,https://avatars.githubusercontent.com/u/95764151?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,281,Network-wide ads & trackers blocking DNS server,1640,20890,https://avatars.githubusercontent.com/u/8361145?v=4
+180687624,trivy,aquasecurity/trivy,Go,23,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2036,20343,https://avatars.githubusercontent.com/u/12783832?v=4
+87617508,casbin,casbin/casbin,Go,7,"An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN",1655,16472,https://avatars.githubusercontent.com/u/27810343?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,16,Declarative Continuous Deployment for Kubernetes,4618,15369,https://avatars.githubusercontent.com/u/30269780?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,14,Protect and discover secrets using Gitleaks 🔑,1310,14634,https://avatars.githubusercontent.com/u/90395851?v=4
+40684033,sops,getsops/sops,Go,4,Simple and flexible tool for managing secrets,815,14636,https://avatars.githubusercontent.com/u/129185620?v=4
+193160679,sqlc,sqlc-dev/sqlc,Go,22,Generate type-safe code from SQL,678,10063,https://avatars.githubusercontent.com/u/136738596?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,6,Terraform AWS provider,8684,9193,https://avatars.githubusercontent.com/u/761456?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,26,"node of the decentralized oracle network, bridging on and off-chain computation",1569,5931,https://avatars.githubusercontent.com/u/25111032?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,5,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",747,5508,https://avatars.githubusercontent.com/u/2232217?v=4
 262126497,syft,anchore/syft,Go,3,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,475,5152,https://avatars.githubusercontent.com/u/16208487?v=4
-52555254,goose,pressly/goose,Go,10,A database migration tool. Supports SQL migrations and Go functions. ,510,5078,https://avatars.githubusercontent.com/u/18835?v=4
-731005899,OpenGFW,apernet/OpenGFW,Go,73,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",303,4998,https://avatars.githubusercontent.com/u/79422552?v=4
+52555254,goose,pressly/goose,Go,14,A database migration tool. Supports SQL migrations and Go functions. ,511,5083,https://avatars.githubusercontent.com/u/18835?v=4
+731005899,OpenGFW,apernet/OpenGFW,Go,73,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",304,5021,https://avatars.githubusercontent.com/u/79422552?v=4
 238797860,optimism,ethereum-optimism/optimism,Go,4,"Optimism is Ethereum, scaled.",2825,4819,https://avatars.githubusercontent.com/u/58791460?v=4
 88013053,cli,docker/cli,Go,3,The Docker CLI,1889,4470,https://avatars.githubusercontent.com/u/5429470?v=4
-618091352,teldrive,divyam234/teldrive,Go,119, Telegram Drive Storage,84,638,https://avatars.githubusercontent.com/u/47589864?u=f7bf49d05c22aad03fb26c5c74f0be1892dbaf02&v=4
-512413660,dymension,dymensionxyz/dymension,Go,13,Dymension Hub,167,190,https://avatars.githubusercontent.com/u/108229184?v=4
+618091352,teldrive,divyam234/teldrive,Go,119, Telegram Drive Storage,85,663,https://avatars.githubusercontent.com/u/47589864?u=f7bf49d05c22aad03fb26c5c74f0be1892dbaf02&v=4
+512413660,dymension,dymensionxyz/dymension,Go,13,Dymension Hub,168,192,https://avatars.githubusercontent.com/u/108229184?v=4
