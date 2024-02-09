@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,28,A framework for building native applications using React,24231,114249,https://avatars.githubusercontent.com/u/69631?v=4
-44838949,swift,apple/swift,C++,25,The Swift Programming Language,10461,65215,https://avatars.githubusercontent.com/u/10639145?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,11,Protocol Buffers - Google's data interchange format,15453,62847,https://avatars.githubusercontent.com/u/26310541?v=4
-27729880,grpc,grpc/grpc,C++,68,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10721,40182,https://avatars.githubusercontent.com/u/7802525?v=4
-160083795,serenity,SerenityOS/serenity,C++,68,The Serenity Operating System 🐞,2975,27321,https://avatars.githubusercontent.com/u/50811782?v=4
-6934395,rocksdb,facebook/rocksdb,C++,9,"A library that provides an embeddable, persistent key-value store for fast storage.",6142,26907,https://avatars.githubusercontent.com/u/69631?v=4
-38581626,pybind11,pybind/pybind11,C++,2,Seamless operability between C++11 and Python,2091,14433,https://avatars.githubusercontent.com/u/17565521?v=4
-138754790,duckdb,duckdb/duckdb,C++,38,DuckDB is an in-process SQL OLAP Database Management System,1331,14408,https://avatars.githubusercontent.com/u/82039556?v=4
-2310495,ceph,ceph/ceph,C++,3,"Ceph is a distributed object, block, and file storage platform ",6118,12920,https://avatars.githubusercontent.com/u/1015767?v=4
+9384267,electron,electron/electron,C++,19,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15503,110549,https://avatars.githubusercontent.com/u/13409222?v=4
+44838949,swift,apple/swift,C++,25,The Swift Programming Language,10462,65214,https://avatars.githubusercontent.com/u/10639145?v=4
+27729880,grpc,grpc/grpc,C++,68,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10721,40183,https://avatars.githubusercontent.com/u/7802525?v=4
+11171548,json,nlohmann/json,C++,20,JSON for Modern C++,6670,39069,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+39840932,googletest,google/googletest,C++,5,GoogleTest - Google Testing and Mocking Framework,10128,32080,https://avatars.githubusercontent.com/u/1342004?v=4
+160083795,serenity,SerenityOS/serenity,C++,109,The Serenity Operating System 🐞,2975,27330,https://avatars.githubusercontent.com/u/50811782?v=4
+27500243,libphonenumber,google/libphonenumber,C++,6,"Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",2067,15804,https://avatars.githubusercontent.com/u/1342004?v=4
+470730648,Hyprland,hyprwm/Hyprland,C++,56,Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.,551,14185,https://avatars.githubusercontent.com/u/107882187?v=4
+724854743,mlx,ml-explore/mlx,C++,47,MLX: An array framework for Apple silicon,773,12386,https://avatars.githubusercontent.com/u/102832242?v=4
 1605598,bullet3,bulletphysics/bullet3,C++,3,"Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",2817,11610,https://avatars.githubusercontent.com/u/6955508?v=4
-153866232,Hazel,TheCherno/Hazel,C++,9,Hazel Engine,1474,10973,https://avatars.githubusercontent.com/u/1475290?u=46b4ea80ac254ec3354b9bb8060e80ca62ea6716&v=4
-49986046,falco,falcosecurity/falco,C++,3,Cloud Native Runtime Security,852,6656,https://avatars.githubusercontent.com/u/42391047?v=4
-33157169,cpr,libcpr/cpr,C++,1,"C++ Requests: Curl for People, a spiritual port of Python Requests.",888,6019,https://avatars.githubusercontent.com/u/55407394?v=4
-2436255,osrm-backend,Project-OSRM/osrm-backend,C++,4,Open Source Routing Machine - C++ backend,3238,5944,https://avatars.githubusercontent.com/u/8207060?v=4
-6148317,gdal,OSGeo/gdal,C++,2,GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.,2304,4326,https://avatars.githubusercontent.com/u/1058467?v=4
-218329478,Vulkan-Samples,KhronosGroup/Vulkan-Samples,C++,4,One stop solution for all Vulkan samples,557,3696,https://avatars.githubusercontent.com/u/1608701?v=4
-256049233,WindowsAppSDK,microsoft/WindowsAppSDK,C++,1,"The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",320,3571,https://avatars.githubusercontent.com/u/6154722?v=4
-201692465,GASDocumentation,tranek/GASDocumentation,C++,3,My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.,699,3542,https://avatars.githubusercontent.com/u/1534735?v=4
-388946490,velox,facebookincubator/velox,C++,3,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,990,2951,https://avatars.githubusercontent.com/u/19538647?v=4
-237647258,firmware,meshtastic/firmware,C++,5,Meshtastic device firmware,526,2406,https://avatars.githubusercontent.com/u/61627050?v=4
-738594945,SafeDiscShim,RibShark/SafeDiscShim,C++,49,"SafeDiscShim is a compatibility tool that allows for SafeDisc protected games which utilize the insecure Macrovision Security Driver (""secdrv.sys"") to run on modern versions of Windows .",6,259,https://avatars.githubusercontent.com/u/1957489?u=2cbe5ee1ad29fa3552d3149b85abe4550f5c1a5c&v=4
-724627416,AimStar,CowNowK/AimStar,C++,8,"Free and open-source external cheat for CS2, written in C++, has 100+ features",35,127,https://avatars.githubusercontent.com/u/133740174?u=12f4ce6b1ae18d5773bcaf50c900a304ed6846db&v=4
+689773665,llamafile,Mozilla-Ocho/llamafile,C++,107,Distribute and run LLMs with a single file.,465,9184,https://avatars.githubusercontent.com/u/117940224?v=4
+309512982,redpanda,redpanda-data/redpanda,C++,7,Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!,519,8421,https://avatars.githubusercontent.com/u/49406389?v=4
+15773229,skia,google/skia,C++,3,"Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.",1440,8361,https://avatars.githubusercontent.com/u/1342004?v=4
+153097643,openvino,openvinotoolkit/openvino,C++,8,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,1925,5400,https://avatars.githubusercontent.com/u/55443902?v=4
+58168143,OpenUSD,PixarAnimationStudios/OpenUSD,C++,3,Universal Scene Description,1125,5215,https://avatars.githubusercontent.com/u/1672744?v=4
+2724167,rippled,XRPLF/rippled,C++,3,Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++,1540,4412,https://avatars.githubusercontent.com/u/67929741?v=4
+49978193,valhalla,valhalla/valhalla,C++,2,Open Source Routing Engine for OpenStreetMap,648,4060,https://avatars.githubusercontent.com/u/10232331?v=4
+700860305,PlayIntegrityFix,chiteroman/PlayIntegrityFix,C++,19,Fix Play Integrity (and SafetyNet) verdicts.,155,2525,https://avatars.githubusercontent.com/u/98092901?v=4
+135363400,navigation2,ros-planning/navigation2,C++,1,ROS2 Navigation Framework and System,1065,1894,https://avatars.githubusercontent.com/u/2328631?v=4
+246625189,esphome-mitsubishiheatpump,geoffdavis/esphome-mitsubishiheatpump,C++,1,ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection,130,416,https://avatars.githubusercontent.com/u/146506?v=4
+743203327,DWMBlurGlass,Maplespe/DWMBlurGlass,C++,60,"Add custom effect to global system title bar, support win10 and win11.",31,402,https://avatars.githubusercontent.com/u/43676879?u=7014a2fb6d13e2faa9d27d1a554e40decea600d6&v=4
+738594945,SafeDiscShim,RibShark/SafeDiscShim,C++,49,"SafeDiscShim is a compatibility tool that allows for SafeDisc protected games which utilize the insecure Macrovision Security Driver (""secdrv.sys"") to run on modern versions of Windows .",6,263,https://avatars.githubusercontent.com/u/1957489?u=2cbe5ee1ad29fa3552d3149b85abe4550f5c1a5c&v=4
+724627416,AimStar,CowNowK/AimStar,C++,8,"Free and open-source external cheat for CS2, written in C++, has 100+ features",35,128,https://avatars.githubusercontent.com/u/133740174?u=12f4ce6b1ae18d5773bcaf50c900a304ed6846db&v=4
 704169395,LPCClocklessAnalyzer,stacksmashing/LPCClocklessAnalyzer,C++,14,"A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.",12,87,https://avatars.githubusercontent.com/u/348708?v=4
-751665782,GBFRelinkFix,Lyall/GBFRelinkFix,C++,6,"A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.",1,74,https://avatars.githubusercontent.com/u/695941?u=554335c43ab4c5ac183df6bbdb62db2b952e91b4&v=4
-749325892,leveldb-chinese-annotated,CN-annotation-team/leveldb-chinese-annotated,C++,14,leveldb chinese annotation,14,73,https://avatars.githubusercontent.com/u/104197263?v=4
+689106419,OOP-Workshops,Seneca-244200/OOP-Workshops,C++,0,,42,36,https://avatars.githubusercontent.com/u/10437990?v=4

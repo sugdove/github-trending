@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,37,The Go programming language,17690,117671,https://avatars.githubusercontent.com/u/4314092?v=4
-7691631,moby,moby/moby,Go,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,19041,67325,https://avatars.githubusercontent.com/u/27259197?v=4
-163883279,act,nektos/act,Go,44,Run your GitHub Actions locally 🚀,1206,47322,https://avatars.githubusercontent.com/u/3813618?v=4
-658928958,ollama,ollama/ollama,Go,151,"Get up and running with Llama 2, Mistral, and other large language models locally.",2375,36111,https://avatars.githubusercontent.com/u/151674099?v=4
-16563587,cockroach,cockroachdb/cockroach,Go,14,"CockroachDB - the open source, cloud-native distributed SQL database.",3667,28613,https://avatars.githubusercontent.com/u/6748139?v=4
-436297812,memos,usememos/memos,Go,87,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1782,24306,https://avatars.githubusercontent.com/u/95764151?v=4
-6247705,testify,stretchr/testify,Go,9,A toolkit with common assertions and mocks that plays nicely with the standard library,1551,21505,https://avatars.githubusercontent.com/u/1841476?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,10,Find and verify credentials,1509,13213,https://avatars.githubusercontent.com/u/79229934?v=4
-193833307,listmonk,knadh/listmonk,Go,8,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",1126,12774,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
-370977430,open-im-server,openimsdk/open-im-server,Go,5,IM Chat ,2222,12577,https://avatars.githubusercontent.com/u/84842645?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,14,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1558,11404,https://avatars.githubusercontent.com/u/2810941?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,6,Automatically provision and manage TLS certificates in Kubernetes,1991,11149,https://avatars.githubusercontent.com/u/39950598?v=4
-27051771,protobuf,golang/protobuf,Go,3,Go support for Google's protocol buffers,1651,9453,https://avatars.githubusercontent.com/u/4314092?v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,4,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1427,8232,https://avatars.githubusercontent.com/u/62798169?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3796,7455,https://avatars.githubusercontent.com/u/13629408?v=4
-37038121,lego,go-acme/lego,Go,83,Let's Encrypt/ACME client and library written in Go,987,7009,https://avatars.githubusercontent.com/u/48337471?v=4
-220588935,nezha,naiba/nezha,Go,9,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool",1152,5758,https://avatars.githubusercontent.com/u/29243953?u=9881a6f1a488312e0e597c065a1de318148743ea&v=4
-731005899,OpenGFW,apernet/OpenGFW,Go,138,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",341,5229,https://avatars.githubusercontent.com/u/79422552?v=4
-52555254,goose,pressly/goose,Go,32,A database migration tool. Supports SQL migrations and Go functions. ,514,5125,https://avatars.githubusercontent.com/u/18835?v=4
-385634291,mimir,grafana/mimir,Go,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",432,3584,https://avatars.githubusercontent.com/u/7195757?v=4
-748534112,coze-discord-proxy,deanxv/coze-discord-proxy,Go,69,代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型,295,1047,https://avatars.githubusercontent.com/u/57529708?u=f996ff999c527044594ee651c01b0d57616d1856&v=4
-618091352,teldrive,divyam234/teldrive,Go,157, Telegram Drive Storage,146,926,https://avatars.githubusercontent.com/u/47589864?u=f7bf49d05c22aad03fb26c5c74f0be1892dbaf02&v=4
-381169911,nmap-formatter,vdjagilev/nmap-formatter,Go,16,"A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot) or sqlite. Simply put it's nmap converter.",46,536,https://avatars.githubusercontent.com/u/2762286?u=d89abedef7e42a71cd57e418824afca199f8acfb&v=4
-620234895,kubeadmiral,kubewharf/kubeadmiral,Go,73,Multi-Cluster Kubernetes Orchestration,79,527,https://avatars.githubusercontent.com/u/108003076?v=4
-512413660,dymension,dymensionxyz/dymension,Go,9,Dymension Hub,202,263,https://avatars.githubusercontent.com/u/108229184?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,24,Production-Grade Container Scheduling and Management,39109,105017,https://avatars.githubusercontent.com/u/13629408?v=4
+163883279,act,nektos/act,Go,44,Run your GitHub Actions locally 🚀,1207,47346,https://avatars.githubusercontent.com/u/3813618?v=4
+17728164,terraform,hashicorp/terraform,Go,8,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9383,40309,https://avatars.githubusercontent.com/u/761456?v=4
+658928958,ollama,ollama/ollama,Go,151,"Get up and running with Llama 2, Mistral, and other large language models locally.",2377,36162,https://avatars.githubusercontent.com/u/151674099?v=4
+167596393,k9s,derailed/k9s,Go,24,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1544,23897,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+6247705,testify,stretchr/testify,Go,9,A toolkit with common assertions and mocks that plays nicely with the standard library,1551,21506,https://avatars.githubusercontent.com/u/1841476?v=4
+27729907,grpc-go,grpc/grpc-go,Go,2,The Go language implementation of gRPC. HTTP/2 based RPC,4254,19513,https://avatars.githubusercontent.com/u/7802525?v=4
+679421146,opentofu,opentofu/opentofu,Go,28,OpenTofu lets you declaratively manage your cloud infrastructure.,650,18205,https://avatars.githubusercontent.com/u/142061836?v=4
+86733463,kubectx,ahmetb/kubectx,Go,7,Faster way to switch between clusters and namespaces in kubectl,1201,16552,https://avatars.githubusercontent.com/u/159209?u=7484858b12e4c4a7fe1351d1f0b406076805deb2&v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,23,Protect and discover secrets using Gitleaks 🔑,1313,14663,https://avatars.githubusercontent.com/u/90395851?v=4
+16554739,beats,elastic/beats,Go,0,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4878,11942,https://avatars.githubusercontent.com/u/6764390?v=4
+159540440,wire,google/wire,Go,5,Compile-time Dependency Injection for Go,652,11875,https://avatars.githubusercontent.com/u/1342004?v=4
+43225113,yq,mikefarah/yq,Go,13,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",524,10266,https://avatars.githubusercontent.com/u/1151925?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,7,Terraform AWS provider,8692,9204,https://avatars.githubusercontent.com/u/761456?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,7,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3661,8574,https://avatars.githubusercontent.com/u/66682517?v=4
+37038121,lego,go-acme/lego,Go,227,Let's Encrypt/ACME client and library written in Go,988,7021,https://avatars.githubusercontent.com/u/48337471?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,5,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",749,5522,https://avatars.githubusercontent.com/u/2232217?v=4
+731005899,OpenGFW,apernet/OpenGFW,Go,127,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",343,5243,https://avatars.githubusercontent.com/u/79422552?v=4
+52555254,goose,pressly/goose,Go,32,A database migration tool. Supports SQL migrations and Go functions. ,514,5127,https://avatars.githubusercontent.com/u/18835?v=4
+41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,5,Blackbox prober exporter,1005,4141,https://avatars.githubusercontent.com/u/3380462?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,1,Main repository for Datadog Agent,1143,2482,https://avatars.githubusercontent.com/u/365230?v=4
+748534112,coze-discord-proxy,deanxv/coze-discord-proxy,Go,117,代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型,296,1055,https://avatars.githubusercontent.com/u/57529708?u=f996ff999c527044594ee651c01b0d57616d1856&v=4
+618091352,teldrive,divyam234/teldrive,Go,149, Telegram Drive Storage,148,934,https://avatars.githubusercontent.com/u/47589864?u=f7bf49d05c22aad03fb26c5c74f0be1892dbaf02&v=4
+620234895,kubeadmiral,kubewharf/kubeadmiral,Go,73,Multi-Cluster Kubernetes Orchestration,79,529,https://avatars.githubusercontent.com/u/108003076?v=4
+512413660,dymension,dymensionxyz/dymension,Go,67,Dymension Hub,202,264,https://avatars.githubusercontent.com/u/108229184?v=4
