@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-163883279,act,nektos/act,Go,308,Run your GitHub Actions locally 🚀,1226,47561,https://avatars.githubusercontent.com/u/3813618?v=4
+21540759,awesome-go,avelino/awesome-go,Go,493,"A curated list of awesome Go frameworks, libraries and software",11666,116388,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
+163883279,act,nektos/act,Go,308,Run your GitHub Actions locally 🚀,1226,47578,https://avatars.githubusercontent.com/u/3813618?v=4
 29261473,minio,minio/minio,Go,130,The Object Store for AI Data Infrastructure,5142,43005,https://avatars.githubusercontent.com/u/695951?v=4
-658928958,ollama,ollama/ollama,Go,1468,"Get up and running with Llama 2, Mistral, and other large language models locally.",2388,36345,https://avatars.githubusercontent.com/u/151674099?v=4
-135516270,k3s,k3s-io/k3s,Go,120,Lightweight Kubernetes,2241,25806,https://avatars.githubusercontent.com/u/49319725?v=4
-436297812,memos,usememos/memos,Go,1347,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1785,24353,https://avatars.githubusercontent.com/u/95764151?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,472,Network-wide ads & trackers blocking DNS server,1642,21002,https://avatars.githubusercontent.com/u/8361145?v=4
+658928958,ollama,ollama/ollama,Go,1468,"Get up and running with Llama 2, Mistral, and other large language models locally.",2389,36370,https://avatars.githubusercontent.com/u/151674099?v=4
+135516270,k3s,k3s-io/k3s,Go,120,Lightweight Kubernetes,2241,25807,https://avatars.githubusercontent.com/u/49319725?v=4
+436297812,memos,usememos/memos,Go,1347,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1785,24356,https://avatars.githubusercontent.com/u/95764151?v=4
+26337322,rancher,rancher/rancher,Go,78,Complete container management platform,3008,22295,https://avatars.githubusercontent.com/u/9343010?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,472,Network-wide ads & trackers blocking DNS server,1642,21011,https://avatars.githubusercontent.com/u/8361145?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,1071,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2146,20306,https://avatars.githubusercontent.com/u/11985425?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,75,Protect and discover secrets using Gitleaks 🔑,1313,14676,https://avatars.githubusercontent.com/u/90395851?v=4
-465303307,lo,samber/lo,Go,123,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",708,14668,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,75,Protect and discover secrets using Gitleaks 🔑,1313,14677,https://avatars.githubusercontent.com/u/90395851?v=4
 36960321,runc,opencontainers/runc,Go,84,CLI tool for spawning and running containers according to the OCI specification,2086,11201,https://avatars.githubusercontent.com/u/12563465?v=4
 10721619,ebiten,hajimehoshi/ebiten,Go,52,Ebitengine - A dead simple 2D game engine for Go,627,9483,https://avatars.githubusercontent.com/u/16950?u=ed7c5b7cfcec804ff78d1e3fa43c42ef9869f9c6&v=4
 327859577,juicefs,juicedata/juicefs,Go,85,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,832,9378,https://avatars.githubusercontent.com/u/27241737?v=4
-147886080,crossplane,crossplane/crossplane,Go,50,The Cloud Native Control Plane,847,8307,https://avatars.githubusercontent.com/u/45158470?v=4
-290437899,ddns-go,jeessy2/ddns-go,Go,103,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",1041,8257,https://avatars.githubusercontent.com/u/6205259?u=0668f056159f7ab885b1749c10400aa50893da5b&v=4
-166304026,sliver,BishopFox/sliver,Go,47,Adversary Emulation Framework,1010,7269,https://avatars.githubusercontent.com/u/4523757?v=4
-37038121,lego,go-acme/lego,Go,329,Let's Encrypt/ACME client and library written in Go,988,7037,https://avatars.githubusercontent.com/u/48337471?v=4
-48299818,kopia,kopia/kopia,Go,78,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",304,5820,https://avatars.githubusercontent.com/u/16365723?v=4
+147886080,crossplane,crossplane/crossplane,Go,50,The Cloud Native Control Plane,847,8309,https://avatars.githubusercontent.com/u/45158470?v=4
+37038121,lego,go-acme/lego,Go,329,Let's Encrypt/ACME client and library written in Go,989,7042,https://avatars.githubusercontent.com/u/48337471?v=4
+258469100,flux2,fluxcd/flux2,Go,37,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,555,5673,https://avatars.githubusercontent.com/u/52158677?v=4
 473949053,frankenphp,dunglas/frankenphp,Go,93,The modern PHP app server 🧟,218,5308,https://avatars.githubusercontent.com/u/57224?u=a7ed2cf3f0ae84c9e06925b94091b85a7d6324b0&v=4
-52555254,goose,pressly/goose,Go,90,A database migration tool. Supports SQL migrations and Go functions. ,516,5145,https://avatars.githubusercontent.com/u/18835?v=4
-67828134,cri-o,cri-o/cri-o,Go,55,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,1050,4945,https://avatars.githubusercontent.com/u/29074118?v=4
+52555254,goose,pressly/goose,Go,90,A database migration tool. Supports SQL migrations and Go functions. ,516,5146,https://avatars.githubusercontent.com/u/18835?v=4
+67828134,cri-o,cri-o/cri-o,Go,55,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,1051,4945,https://avatars.githubusercontent.com/u/29074118?v=4
 109451092,talos,siderolabs/talos,Go,44,Talos Linux is a modern Linux distribution built for Kubernetes.,408,4793,https://avatars.githubusercontent.com/u/13804887?v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,29,OpenTelemetry Go API and SDK,999,4572,https://avatars.githubusercontent.com/u/49998002?v=4
-699502691,cvemap,projectdiscovery/cvemap,Go,234,Navigate the CVE jungle with ease.,65,1154,https://avatars.githubusercontent.com/u/50994705?v=4
-748534112,coze-discord-proxy,deanxv/coze-discord-proxy,Go,470,代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型,306,1071,https://avatars.githubusercontent.com/u/57529708?u=f996ff999c527044594ee651c01b0d57616d1856&v=4
+226368338,evcc,evcc-io/evcc,Go,33,Sonne tanken ☀️🚘,427,2323,https://avatars.githubusercontent.com/u/81383504?v=4
+748534112,coze-discord-proxy,deanxv/coze-discord-proxy,Go,470,代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型,306,1074,https://avatars.githubusercontent.com/u/57529708?u=f996ff999c527044594ee651c01b0d57616d1856&v=4
+747511170,palworld-server-tool,zaigie/palworld-server-tool,Go,289,"基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.",40,523,https://avatars.githubusercontent.com/u/17232619?v=4
 512413660,dymension,dymensionxyz/dymension,Go,93,Dymension Hub,204,266,https://avatars.githubusercontent.com/u/108229184?v=4
