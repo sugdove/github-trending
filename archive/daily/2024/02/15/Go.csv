@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 20580498,kubernetes,kubernetes/kubernetes,Go,34,Production-Grade Container Scheduling and Management,39147,105108,https://avatars.githubusercontent.com/u/13629408?v=4
-13807606,fzf,junegunn/fzf,Go,31,:cherry_blossom: A command-line fuzzy finder,2315,57563,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
-6838921,prometheus,prometheus/prometheus,Go,18,The Prometheus monitoring system and time series database.,8772,51741,https://avatars.githubusercontent.com/u/3380462?v=4
-42408804,traefik,traefik/traefik,Go,34,The Cloud Native Application Proxy,4872,46736,https://avatars.githubusercontent.com/u/14280338?v=4
-17728164,terraform,hashicorp/terraform,Go,22,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9418,40459,https://avatars.githubusercontent.com/u/761456?v=4
-74175805,istio,istio/istio,Go,3,"Connect, secure, control, and observe services.",7558,34369,https://avatars.githubusercontent.com/u/23534644?v=4
-13628513,logrus,sirupsen/logrus,Go,5,"Structured, pluggable logging for Go.",2340,23800,https://avatars.githubusercontent.com/u/97400?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,3,gRPC to JSON proxy generator following the gRPC HTTP spec,2262,17082,https://avatars.githubusercontent.com/u/19352526?v=4
-31558937,teleport,gravitational/teleport,Go,9,Protect access to all of your infrastructure,1662,15831,https://avatars.githubusercontent.com/u/10781132?v=4
-30711774,validator,go-playground/validator,Go,7,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1247,15049,https://avatars.githubusercontent.com/u/14768796?v=4
-33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,5498,13587,https://avatars.githubusercontent.com/u/5713248?v=4
-159540440,wire,google/wire,Go,9,Compile-time Dependency Injection for Go,653,11912,https://avatars.githubusercontent.com/u/1342004?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,12,Exporter for machine metrics,2245,9924,https://avatars.githubusercontent.com/u/3380462?v=4
-66509131,client-go,kubernetes/client-go,Go,2,Go client for Kubernetes.,2908,8414,https://avatars.githubusercontent.com/u/13629408?v=4
-146641150,pipeline,tektoncd/pipeline,Go,2,A cloud-native Pipeline resource.,1744,8190,https://avatars.githubusercontent.com/u/47602533?v=4
-170411418,keda,kedacore/keda,Go,2, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,953,7507,https://avatars.githubusercontent.com/u/49917779?v=4
-267054247,grype,anchore/grype,Go,7,A vulnerability scanner for container images and filesystems,486,7232,https://avatars.githubusercontent.com/u/16208487?v=4
-49766020,sh,mvdan/sh,Go,8,"A shell parser, formatter, and interpreter with bash support; includes shfmt",341,6525,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
-58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,1,Add-on agent to generate and expose cluster-level metrics.,1854,4960,https://avatars.githubusercontent.com/u/13629408?v=4
-41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,2,Blackbox prober exporter,1008,4146,https://avatars.githubusercontent.com/u/3380462?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,1,Main repository for Datadog Agent,1147,2495,https://avatars.githubusercontent.com/u/365230?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,1891,2355,https://avatars.githubusercontent.com/u/49998002?v=4
-93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,6,Terraform Google Cloud Platform provider,1717,2191,https://avatars.githubusercontent.com/u/761456?v=4
+13807606,fzf,junegunn/fzf,Go,31,:cherry_blossom: A command-line fuzzy finder,2316,57573,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
+6838921,prometheus,prometheus/prometheus,Go,18,The Prometheus monitoring system and time series database.,8773,51741,https://avatars.githubusercontent.com/u/3380462?v=4
+42408804,traefik,traefik/traefik,Go,34,The Cloud Native Application Proxy,4872,46743,https://avatars.githubusercontent.com/u/14280338?v=4
+17728164,terraform,hashicorp/terraform,Go,107,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9419,40472,https://avatars.githubusercontent.com/u/761456?v=4
+74175805,istio,istio/istio,Go,3,"Connect, secure, control, and observe services.",7559,34369,https://avatars.githubusercontent.com/u/23534644?v=4
+13628513,logrus,sirupsen/logrus,Go,5,"Structured, pluggable logging for Go.",2340,23802,https://avatars.githubusercontent.com/u/97400?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,3,gRPC to JSON proxy generator following the gRPC HTTP spec,2262,17084,https://avatars.githubusercontent.com/u/19352526?v=4
+31558937,teleport,gravitational/teleport,Go,9,Protect access to all of your infrastructure,1661,15833,https://avatars.githubusercontent.com/u/10781132?v=4
+30711774,validator,go-playground/validator,Go,7,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1247,15051,https://avatars.githubusercontent.com/u/14768796?v=4
+33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5498,13588,https://avatars.githubusercontent.com/u/5713248?v=4
+159540440,wire,google/wire,Go,11,Compile-time Dependency Injection for Go,653,11914,https://avatars.githubusercontent.com/u/1342004?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,12,Exporter for machine metrics,2246,9927,https://avatars.githubusercontent.com/u/3380462?v=4
+66509131,client-go,kubernetes/client-go,Go,2,Go client for Kubernetes.,2908,8416,https://avatars.githubusercontent.com/u/13629408?v=4
+146641150,pipeline,tektoncd/pipeline,Go,3,A cloud-native Pipeline resource.,1744,8191,https://avatars.githubusercontent.com/u/47602533?v=4
+170411418,keda,kedacore/keda,Go,2, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,953,7510,https://avatars.githubusercontent.com/u/49917779?v=4
+267054247,grype,anchore/grype,Go,7,A vulnerability scanner for container images and filesystems,488,7239,https://avatars.githubusercontent.com/u/16208487?v=4
+49766020,sh,mvdan/sh,Go,8,"A shell parser, formatter, and interpreter with bash support; includes shfmt",341,6538,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
+58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,1,Add-on agent to generate and expose cluster-level metrics.,1854,4962,https://avatars.githubusercontent.com/u/13629408?v=4
+41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,2,Blackbox prober exporter,1008,4149,https://avatars.githubusercontent.com/u/3380462?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,1,Main repository for Datadog Agent,1147,2497,https://avatars.githubusercontent.com/u/365230?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,1891,2357,https://avatars.githubusercontent.com/u/49998002?v=4
+93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,6,Terraform Google Cloud Platform provider,1717,2192,https://avatars.githubusercontent.com/u/761456?v=4
 93446053,terraform-provider-datadog,DataDog/terraform-provider-datadog,Go,0,Terraform Datadog provider,360,371,https://avatars.githubusercontent.com/u/365230?v=4
-605677308,go-secdump,jfjallid/go-secdump,Go,12,Tool to remotely dump secrets from the Windows registry,18,181,https://avatars.githubusercontent.com/u/10165473?u=1aac76b2e9949d13d0add57ce05e4ddc4fce7a0e&v=4
+605677308,go-secdump,jfjallid/go-secdump,Go,12,Tool to remotely dump secrets from the Windows registry,20,184,https://avatars.githubusercontent.com/u/10165473?u=1aac76b2e9949d13d0add57ce05e4ddc4fce7a0e&v=4
