@@ -1,11 +1,11 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,23,The Go programming language,17712,117832,https://avatars.githubusercontent.com/u/4314092?v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,25,Production-Grade Container Scheduling and Management,39155,105129,https://avatars.githubusercontent.com/u/13629408?v=4
-13807606,fzf,junegunn/fzf,Go,67,:cherry_blossom: A command-line fuzzy finder,2316,57645,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
-6838921,prometheus,prometheus/prometheus,Go,7,The Prometheus monitoring system and time series database.,8773,51749,https://avatars.githubusercontent.com/u/3380462?v=4
-42408804,traefik,traefik/traefik,Go,37,The Cloud Native Application Proxy,4873,46784,https://avatars.githubusercontent.com/u/14280338?v=4
-17728164,terraform,hashicorp/terraform,Go,121,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9434,40572,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,10,The Kubernetes Package Manager,6992,25684,https://avatars.githubusercontent.com/u/15859888?v=4
+23096959,go,golang/go,Go,23,The Go programming language,17712,117834,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,25,Production-Grade Container Scheduling and Management,39155,105130,https://avatars.githubusercontent.com/u/13629408?v=4
+13807606,fzf,junegunn/fzf,Go,67,:cherry_blossom: A command-line fuzzy finder,2317,57651,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
+6838921,prometheus,prometheus/prometheus,Go,7,The Prometheus monitoring system and time series database.,8774,51750,https://avatars.githubusercontent.com/u/3380462?v=4
+42408804,traefik,traefik/traefik,Go,37,The Cloud Native Application Proxy,4873,46786,https://avatars.githubusercontent.com/u/14280338?v=4
+17728164,terraform,hashicorp/terraform,Go,121,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9435,40571,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,10,The Kubernetes Package Manager,6993,25683,https://avatars.githubusercontent.com/u/15859888?v=4
 52034309,zap,uber-go/zap,Go,10,"Blazing fast, structured, leveled logging in Go.",1452,20534,https://avatars.githubusercontent.com/u/19262598?v=4
 27729907,grpc-go,grpc/grpc-go,Go,4,The Go language implementation of gRPC. HTTP/2 based RPC,4259,19542,https://avatars.githubusercontent.com/u/7802525?v=4
 118105436,migrate,golang-migrate/migrate,Go,6,Database migrations. CLI and Golang library.,1293,13446,https://avatars.githubusercontent.com/u/35595841?v=4
@@ -14,13 +14,13 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,69,Terraform AWS provider,8754,9315,https://avatars.githubusercontent.com/u/761456?v=4
 170411418,keda,kedacore/keda,Go,5, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,953,7514,https://avatars.githubusercontent.com/u/49917779?v=4
 87990209,autoscaler,kubernetes/autoscaler,Go,0,Autoscaling components for Kubernetes,3799,7470,https://avatars.githubusercontent.com/u/13629408?v=4
-267054247,grype,anchore/grype,Go,20,A vulnerability scanner for container images and filesystems,489,7262,https://avatars.githubusercontent.com/u/16208487?v=4
-49766020,sh,mvdan/sh,Go,74,"A shell parser, formatter, and interpreter with bash support; includes shfmt",343,6595,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
-63882194,calico,projectcalico/calico,Go,3,Cloud native networking and network security,1224,5310,https://avatars.githubusercontent.com/u/12304728?v=4
-162460220,Modlishka,drk1wi/Modlishka,Go,7,Modlishka. Reverse Proxy.  ,882,4612,https://avatars.githubusercontent.com/u/2052966?u=e23070f879a683d72dc87d664704770b389bee1e&v=4
-41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,8,Blackbox prober exporter,1006,4157,https://avatars.githubusercontent.com/u/3380462?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,5,OpenTelemetry Collector,1264,3697,https://avatars.githubusercontent.com/u/49998002?v=4
+267054247,grype,anchore/grype,Go,20,A vulnerability scanner for container images and filesystems,489,7264,https://avatars.githubusercontent.com/u/16208487?v=4
+49766020,sh,mvdan/sh,Go,74,"A shell parser, formatter, and interpreter with bash support; includes shfmt",343,6596,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
+63882194,calico,projectcalico/calico,Go,3,Cloud native networking and network security,1224,5311,https://avatars.githubusercontent.com/u/12304728?v=4
+162460220,Modlishka,drk1wi/Modlishka,Go,7,Modlishka. Reverse Proxy.  ,883,4613,https://avatars.githubusercontent.com/u/2052966?u=e23070f879a683d72dc87d664704770b389bee1e&v=4
+41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,8,Blackbox prober exporter,1006,4160,https://avatars.githubusercontent.com/u/3380462?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,5,OpenTelemetry Collector,1264,3698,https://avatars.githubusercontent.com/u/49998002?v=4
 196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,5,Contrib repository for the OpenTelemetry Collector,1895,2363,https://avatars.githubusercontent.com/u/49998002?v=4
-224021526,agent,grafana/agent,Go,0,Vendor-neutral programmable observability pipelines.,470,1460,https://avatars.githubusercontent.com/u/7195757?v=4
-750068254,gptscript,gptscript-ai/gptscript,Go,51,Natural Language Programming ,16,328,https://avatars.githubusercontent.com/u/158112119?v=4
+224021526,agent,grafana/agent,Go,0,Vendor-neutral programmable observability pipelines.,470,1462,https://avatars.githubusercontent.com/u/7195757?v=4
+750068254,gptscript,gptscript-ai/gptscript,Go,51,Natural Language Programming ,21,358,https://avatars.githubusercontent.com/u/158112119?v=4
 397340252,weave-gitops-enterprise,weaveworks/weave-gitops-enterprise,Go,21,"This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.",17,94,https://avatars.githubusercontent.com/u/9976052?v=4
