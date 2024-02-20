@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,216,The Go programming language,17722,117919,https://avatars.githubusercontent.com/u/4314092?v=4
-13807606,fzf,junegunn/fzf,Go,339,:cherry_blossom: A command-line fuzzy finder,2322,57805,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
-42408804,traefik,traefik/traefik,Go,180,The Cloud Native Application Proxy,4879,46862,https://avatars.githubusercontent.com/u/14280338?v=4
-17728164,terraform,hashicorp/terraform,Go,303,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9436,40611,https://avatars.githubusercontent.com/u/761456?v=4
-658928958,ollama,ollama/ollama,Go,1548,"Get up and running with Llama 2, Mistral, and other large language models.",2529,38449,https://avatars.githubusercontent.com/u/151674099?v=4
-12574344,cobra,spf13/cobra,Go,114,A Commander for modern Go CLI interactions,2860,35248,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-14125254,consul,hashicorp/consul,Go,35,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4444,27587,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,72,The Kubernetes Package Manager,7012,25716,https://avatars.githubusercontent.com/u/15859888?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,400,Network-wide ads & trackers blocking DNS server,1684,21637,https://avatars.githubusercontent.com/u/8361145?v=4
-66573241,fabric,hyperledger/fabric,Go,130,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,8766,15240,https://avatars.githubusercontent.com/u/7657900?v=4
+13807606,fzf,junegunn/fzf,Go,339,:cherry_blossom: A command-line fuzzy finder,2323,57810,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
+42408804,traefik,traefik/traefik,Go,180,The Cloud Native Application Proxy,4879,46863,https://avatars.githubusercontent.com/u/14280338?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,118,Official Go implementation of the Ethereum protocol,20083,44875,https://avatars.githubusercontent.com/u/6250754?v=4
+17728164,terraform,hashicorp/terraform,Go,303,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9437,40612,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,72,The Kubernetes Package Manager,7012,25715,https://avatars.githubusercontent.com/u/15859888?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,400,Network-wide ads & trackers blocking DNS server,1685,21637,https://avatars.githubusercontent.com/u/8361145?v=4
 30711774,validator,go-playground/validator,Go,62,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1249,15084,https://avatars.githubusercontent.com/u/14768796?v=4
-159540440,wire,google/wire,Go,60,Compile-time Dependency Injection for Go,654,11950,https://avatars.githubusercontent.com/u/1342004?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,63,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1056,10409,https://avatars.githubusercontent.com/u/43720803?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,119,Terraform AWS provider,8762,9326,https://avatars.githubusercontent.com/u/761456?v=4
-267054247,grype,anchore/grype,Go,64,A vulnerability scanner for container images and filesystems,489,7275,https://avatars.githubusercontent.com/u/16208487?v=4
+222172014,nebula,slackhq/nebula,Go,56,"A scalable overlay networking tool with a focus on performance, simplicity and security",917,13409,https://avatars.githubusercontent.com/u/6911160?v=4
+159540440,wire,google/wire,Go,60,Compile-time Dependency Injection for Go,654,11949,https://avatars.githubusercontent.com/u/1342004?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,63,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1056,10411,https://avatars.githubusercontent.com/u/43720803?v=4
+135321861,kratos,ory/kratos,Go,39,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",898,9925,https://avatars.githubusercontent.com/u/25334553?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,119,Terraform AWS provider,8763,9326,https://avatars.githubusercontent.com/u/761456?v=4
+127519518,subfinder,projectdiscovery/subfinder,Go,56,Fast passive subdomain enumeration tool.,1186,8958,https://avatars.githubusercontent.com/u/50994705?v=4
+267054247,grype,anchore/grype,Go,64,A vulnerability scanner for container images and filesystems,489,7274,https://avatars.githubusercontent.com/u/16208487?v=4
 120519269,atlantis,runatlantis/atlantis,Go,51,Terraform Pull Request Automation,982,7045,https://avatars.githubusercontent.com/u/32311288?v=4
-49766020,sh,mvdan/sh,Go,111,"A shell parser, formatter, and interpreter with bash support; includes shfmt",343,6608,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,241,"node of the decentralized oracle network, bridging on and off-chain computation",1617,6229,https://avatars.githubusercontent.com/u/25111032?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,60,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",771,5600,https://avatars.githubusercontent.com/u/2232217?v=4
-617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,179,Giving Kubernetes Superpowers to everyone,500,4561,https://avatars.githubusercontent.com/u/128535266?v=4
-206214867,gatus,TwiN/gatus,Go,57,⛑ Automated developer-oriented status page,345,4489,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
-54503347,image-spec,opencontainers/image-spec,Go,10,OCI Image Format,686,3117,https://avatars.githubusercontent.com/u/12563465?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,29,Main repository for Datadog Agent,1147,2517,https://avatars.githubusercontent.com/u/365230?v=4
+49766020,sh,mvdan/sh,Go,111,"A shell parser, formatter, and interpreter with bash support; includes shfmt",343,6609,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,241,"node of the decentralized oracle network, bridging on and off-chain computation",1618,6231,https://avatars.githubusercontent.com/u/25111032?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,60,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",770,5600,https://avatars.githubusercontent.com/u/2232217?v=4
+120530079,gluetun,qdm12/gluetun,Go,93,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",301,5572,https://avatars.githubusercontent.com/u/15654980?u=107e7a5972895a3be41024de3b84ffe7dde7bfdc&v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,179,Giving Kubernetes Superpowers to everyone,501,4563,https://avatars.githubusercontent.com/u/128535266?v=4
+206214867,gatus,TwiN/gatus,Go,57,⛑ Automated developer-oriented status page,345,4491,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
+355946670,vcluster,loft-sh/vcluster,Go,216,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,338,4382,https://avatars.githubusercontent.com/u/65466868?v=4
+178628673,gofumpt,mvdan/gofumpt,Go,72,A stricter gofmt,110,2877,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,29,Main repository for Datadog Agent,1147,2516,https://avatars.githubusercontent.com/u/365230?v=4
 245763170,huma,danielgtaylor/huma,Go,113,Huma REST/HTTP API Framework for Golang with OpenAPI 3,50,632,https://avatars.githubusercontent.com/u/106826?v=4
-745600839,pkl-go-examples,apple/pkl-go-examples,Go,29,Examples for using Pkl within Go applications,7,118,https://avatars.githubusercontent.com/u/10639145?v=4
