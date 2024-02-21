@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 13807606,fzf,junegunn/fzf,Go,362,:cherry_blossom: A command-line fuzzy finder,2248,57840,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
-42408804,traefik,traefik/traefik,Go,191,The Cloud Native Application Proxy,4781,46875,https://avatars.githubusercontent.com/u/14280338?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,120,Official Go implementation of the Ethereum protocol,18346,44877,https://avatars.githubusercontent.com/u/6250754?v=4
-17728164,terraform,hashicorp/terraform,Go,304,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9201,40618,https://avatars.githubusercontent.com/u/761456?v=4
-43723161,helm,helm/helm,Go,69,The Kubernetes Package Manager,6864,25713,https://avatars.githubusercontent.com/u/15859888?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,267,Network-wide ads & trackers blocking DNS server,1624,21654,https://avatars.githubusercontent.com/u/8361145?v=4
-30711774,validator,go-playground/validator,Go,61,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1249,15093,https://avatars.githubusercontent.com/u/14768796?v=4
+42408804,traefik,traefik/traefik,Go,191,The Cloud Native Application Proxy,4781,46877,https://avatars.githubusercontent.com/u/14280338?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,120,Official Go implementation of the Ethereum protocol,18344,44873,https://avatars.githubusercontent.com/u/6250754?v=4
+17728164,terraform,hashicorp/terraform,Go,304,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9202,40615,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,69,The Kubernetes Package Manager,6864,25714,https://avatars.githubusercontent.com/u/15859888?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,267,Network-wide ads & trackers blocking DNS server,1624,21652,https://avatars.githubusercontent.com/u/8361145?v=4
+30711774,validator,go-playground/validator,Go,61,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1249,15094,https://avatars.githubusercontent.com/u/14768796?v=4
 222172014,nebula,slackhq/nebula,Go,54,"A scalable overlay networking tool with a focus on performance, simplicity and security",918,13412,https://avatars.githubusercontent.com/u/6911160?v=4
 159540440,wire,google/wire,Go,57,Compile-time Dependency Injection for Go,654,11952,https://avatars.githubusercontent.com/u/1342004?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,72,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1044,10418,https://avatars.githubusercontent.com/u/43720803?v=4
-135321861,kratos,ory/kratos,Go,37,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",898,9925,https://avatars.githubusercontent.com/u/25334553?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,116,Terraform AWS provider,8715,9329,https://avatars.githubusercontent.com/u/761456?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,72,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1044,10419,https://avatars.githubusercontent.com/u/43720803?v=4
+135321861,kratos,ory/kratos,Go,37,"Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, PassKeys, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",898,9926,https://avatars.githubusercontent.com/u/25334553?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,116,Terraform AWS provider,8716,9329,https://avatars.githubusercontent.com/u/761456?v=4
 127519518,subfinder,projectdiscovery/subfinder,Go,56,Fast passive subdomain enumeration tool.,1162,8961,https://avatars.githubusercontent.com/u/50994705?v=4
-267054247,grype,anchore/grype,Go,58,A vulnerability scanner for container images and filesystems,489,7282,https://avatars.githubusercontent.com/u/16208487?v=4
-120519269,atlantis,runatlantis/atlantis,Go,55,Terraform Pull Request Automation,982,7052,https://avatars.githubusercontent.com/u/32311288?v=4
+267054247,grype,anchore/grype,Go,58,A vulnerability scanner for container images and filesystems,475,7282,https://avatars.githubusercontent.com/u/16208487?v=4
+120519269,atlantis,runatlantis/atlantis,Go,55,Terraform Pull Request Automation,982,7051,https://avatars.githubusercontent.com/u/32311288?v=4
 49766020,sh,mvdan/sh,Go,110,"A shell parser, formatter, and interpreter with bash support; includes shfmt",343,6612,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,235,"node of the decentralized oracle network, bridging on and off-chain computation",1618,6233,https://avatars.githubusercontent.com/u/25111032?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,53,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",770,5603,https://avatars.githubusercontent.com/u/2232217?v=4
-120530079,gluetun,qdm12/gluetun,Go,94,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",301,5578,https://avatars.githubusercontent.com/u/15654980?u=107e7a5972895a3be41024de3b84ffe7dde7bfdc&v=4
-617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,151,Giving Kubernetes Superpowers to everyone,501,4568,https://avatars.githubusercontent.com/u/128535266?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,235,"node of the decentralized oracle network, bridging on and off-chain computation",1618,6231,https://avatars.githubusercontent.com/u/25111032?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,53,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",770,5604,https://avatars.githubusercontent.com/u/2232217?v=4
+120530079,gluetun,qdm12/gluetun,Go,94,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",301,5579,https://avatars.githubusercontent.com/u/15654980?u=107e7a5972895a3be41024de3b84ffe7dde7bfdc&v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,151,Giving Kubernetes Superpowers to everyone,501,4567,https://avatars.githubusercontent.com/u/128535266?v=4
 206214867,gatus,TwiN/gatus,Go,66,⛑ Automated developer-oriented status page,345,4499,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
-355946670,vcluster,loft-sh/vcluster,Go,245,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,338,4423,https://avatars.githubusercontent.com/u/65466868?v=4
-178628673,gofumpt,mvdan/gofumpt,Go,73,A stricter gofmt,110,2879,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,29,Main repository for Datadog Agent,1147,2520,https://avatars.githubusercontent.com/u/365230?v=4
-245763170,huma,danielgtaylor/huma,Go,94,Huma REST/HTTP API Framework for Golang with OpenAPI 3,50,642,https://avatars.githubusercontent.com/u/106826?v=4
+355946670,vcluster,loft-sh/vcluster,Go,245,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,338,4433,https://avatars.githubusercontent.com/u/65466868?v=4
+178628673,gofumpt,mvdan/gofumpt,Go,73,A stricter gofmt,110,2881,https://avatars.githubusercontent.com/u/3576549?u=ad2041c9cb48aea606b03f709d30efced5914154&v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,29,Main repository for Datadog Agent,1147,2519,https://avatars.githubusercontent.com/u/365230?v=4
+245763170,huma,danielgtaylor/huma,Go,94,Huma REST/HTTP API Framework for Golang with OpenAPI 3,50,644,https://avatars.githubusercontent.com/u/106826?v=4
