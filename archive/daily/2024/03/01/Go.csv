@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,41,Production-Grade Container Scheduling and Management,38052,105450,https://avatars.githubusercontent.com/u/13629408?v=4
-6838921,prometheus,prometheus/prometheus,Go,13,The Prometheus monitoring system and time series database.,8641,51919,https://avatars.githubusercontent.com/u/3380462?v=4
-658928958,ollama,ollama/ollama,Go,491,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",2787,43074,https://avatars.githubusercontent.com/u/151674099?v=4
-17728164,terraform,hashicorp/terraform,Go,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9219,40705,https://avatars.githubusercontent.com/u/761456?v=4
-13628513,logrus,sirupsen/logrus,Go,4,"Structured, pluggable logging for Go.",2257,23849,https://avatars.githubusercontent.com/u/97400?v=4
-192632000,dapr,dapr/dapr,Go,9,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1811,23041,https://avatars.githubusercontent.com/u/51932459?v=4
-129717717,loki,grafana/loki,Go,17,"Like Prometheus, but for logs.",3165,21650,https://avatars.githubusercontent.com/u/7195757?v=4
-180687624,trivy,aquasecurity/trivy,Go,77,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2034,20695,https://avatars.githubusercontent.com/u/12783832?v=4
-6051812,mux,gorilla/mux,Go,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1823,19924,https://avatars.githubusercontent.com/u/489566?v=4
-20653934,cadvisor,google/cadvisor,Go,11,Analyzes resource usage and performance characteristics of running containers.,2253,16101,https://avatars.githubusercontent.com/u/1342004?v=4
-509091576,sing-box,SagerNet/sing-box,Go,40,The universal proxy platform,1589,12226,https://avatars.githubusercontent.com/u/83217677?v=4
-134018330,ants,panjf2000/ants,Go,7,🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。,1295,11782,https://avatars.githubusercontent.com/u/7496278?u=e371dfcbca24dfb03857fda897c04e6a7fc3781a&v=4
-95761244,gf,gogf/gf,Go,6,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1463,10609,https://avatars.githubusercontent.com/u/46776614?v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,5,Customization of kubernetes YAML configurations,2196,10423,https://avatars.githubusercontent.com/u/36015203?v=4
-83252983,task,go-task/task,Go,11,A task runner / simpler Make alternative written in Go,521,9555,https://avatars.githubusercontent.com/u/26048825?v=4
-55072677,weaviate,weaviate/weaviate,Go,12,"Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.",595,8985,https://avatars.githubusercontent.com/u/37794290?v=4
-173009358,oapi-codegen,deepmap/oapi-codegen,Go,8,Generate Go client and server boilerplate from OpenAPI 3 specifications,769,4953,https://avatars.githubusercontent.com/u/47459865?v=4
-175592968,volcano,volcano-sh/volcano,Go,8,A Cloud Native Batch System (Project under CNCF),841,3638,https://avatars.githubusercontent.com/u/47214749?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,41,Production-Grade Container Scheduling and Management,38058,105457,https://avatars.githubusercontent.com/u/13629408?v=4
+20904437,gin,gin-gonic/gin,Go,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7750,74470,https://avatars.githubusercontent.com/u/7894478?v=4
+11180687,hugo,gohugoio/hugo,Go,30,The world’s fastest framework for building websites.,7260,71543,https://avatars.githubusercontent.com/u/29385237?v=4
+6838921,prometheus,prometheus/prometheus,Go,13,The Prometheus monitoring system and time series database.,8641,51923,https://avatars.githubusercontent.com/u/3380462?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,34,Official Go implementation of the Ethereum protocol,18644,45109,https://avatars.githubusercontent.com/u/6250754?v=4
+17728164,terraform,hashicorp/terraform,Go,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9219,40708,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,13,A Commander for modern Go CLI interactions,2764,35344,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+27729907,grpc-go,grpc/grpc-go,Go,3,The Go language implementation of gRPC. HTTP/2 based RPC,4165,19591,https://avatars.githubusercontent.com/u/7802525?v=4
+187403699,age,FiloSottile/age,Go,17,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",457,14968,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+6443435,nats-server,nats-io/nats-server,Go,12,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1326,14429,https://avatars.githubusercontent.com/u/10203055?v=4
+33258973,telegraf,influxdata/telegraf,Go,6,The plugin-driven server agent for collecting & reporting metrics.,5442,13615,https://avatars.githubusercontent.com/u/5713248?v=4
+159540440,wire,google/wire,Go,12,Compile-time Dependency Injection for Go,602,12018,https://avatars.githubusercontent.com/u/1342004?v=4
+11206255,sarama,IBM/sarama,Go,3,Sarama is a Go library for Apache Kafka.,1701,10822,https://avatars.githubusercontent.com/u/1459110?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,6,Exporter for machine metrics,2228,9998,https://avatars.githubusercontent.com/u/3380462?v=4
+357897199,netbird,netbirdio/netbird,Go,47,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,328,7941,https://avatars.githubusercontent.com/u/100464677?v=4
+170411418,keda,kedacore/keda,Go,6, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,942,7558,https://avatars.githubusercontent.com/u/49917779?v=4
+11452538,alertmanager,prometheus/alertmanager,Go,4,Prometheus Alertmanager,2069,6176,https://avatars.githubusercontent.com/u/3380462?v=4
+38029983,telegram-bot-api,go-telegram-bot-api/telegram-bot-api,Go,3,Golang bindings for the Telegram Bot API,802,5296,https://avatars.githubusercontent.com/u/16530727?v=4
+175592968,volcano,volcano-sh/volcano,Go,8,A Cloud Native Batch System (Project under CNCF),841,3642,https://avatars.githubusercontent.com/u/47214749?v=4
 582059828,LiveRedirect,youshandefeiyang/LiveRedirect,Go,56,LiveRedirect,695,3622,https://avatars.githubusercontent.com/u/63959400?u=d60b479cd6e66e61a8aa6bdc6bddf19b9256071b&v=4
 385634291,mimir,grafana/mimir,Go,6,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",433,3621,https://avatars.githubusercontent.com/u/7195757?v=4
-54503347,image-spec,opencontainers/image-spec,Go,42,OCI Image Format,599,3173,https://avatars.githubusercontent.com/u/12563465?v=4
-468311851,cloudnative-pg,cloudnative-pg/cloudnative-pg,Go,8,"CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication",217,2944,https://avatars.githubusercontent.com/u/100373852?v=4
-384111310,incubator-devlake,apache/incubator-devlake,Go,5,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",451,2361,https://avatars.githubusercontent.com/u/47359?v=4
-744792143,1brc,shraddhaag/1brc,Go,12,Solution to One Billion Rows Challenge in Golang. ,13,154,https://avatars.githubusercontent.com/u/26995115?u=6a2cb3c4b02c247d1e64e3a42f6bc5b697656ffc&v=4
-496942093,babylon,babylonchain/babylon,Go,5,Main repo for Babylon full node,72,100,https://avatars.githubusercontent.com/u/106378782?v=4
+54503347,image-spec,opencontainers/image-spec,Go,42,OCI Image Format,599,3174,https://avatars.githubusercontent.com/u/12563465?v=4
+245763170,huma,danielgtaylor/huma,Go,22,Huma REST/HTTP API Framework for Golang with OpenAPI 3,55,718,https://avatars.githubusercontent.com/u/106826?v=4
+748871374,pql,runreveal/pql,Go,108,Pipelined Query Language,10,409,https://avatars.githubusercontent.com/u/118837935?v=4
+496942093,babylon,babylonchain/babylon,Go,5,Main repo for Babylon full node,72,102,https://avatars.githubusercontent.com/u/106378782?v=4
