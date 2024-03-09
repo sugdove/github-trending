@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-13855476,gorm,go-gorm/gorm,Go,16,"The fantastic ORM library for Golang, aims to be developer friendly",3783,35000,https://avatars.githubusercontent.com/u/15127678?v=4
-18369373,viper,spf13/viper,Go,5,Go configuration with fangs,1972,25403,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-165041732,kratos,go-kratos/kratos,Go,1,Your ultimate Go microservices framework for the cloud-native era.,3901,22191,https://avatars.githubusercontent.com/u/62791634?v=4
-10379607,goreplay,buger/goreplay,Go,5,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",1766,18186,https://avatars.githubusercontent.com/u/14009?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,14,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1470,16299,https://avatars.githubusercontent.com/u/109613420?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,15,Declarative Continuous Deployment for Kubernetes,4718,15721,https://avatars.githubusercontent.com/u/30269780?v=4
-191655189,ent,ent/ent,Go,5,An entity framework for Go,873,14710,https://avatars.githubusercontent.com/u/66847655?v=4
-44350607,dashboard,kubernetes/dashboard,Go,5,General-purpose web UI for Kubernetes clusters,4038,13525,https://avatars.githubusercontent.com/u/13629408?v=4
-246903803,earthly,earthly/earthly,Go,54,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",365,10548,https://avatars.githubusercontent.com/u/63060917?v=4
-333303663,bytebase,bytebase/bytebase,Go,19,"The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",615,9594,https://avatars.githubusercontent.com/u/74386897?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2455,7146,https://avatars.githubusercontent.com/u/36015203?v=4
-731005899,OpenGFW,apernet/OpenGFW,Go,233,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",386,6129,https://avatars.githubusercontent.com/u/79422552?v=4
+13855476,gorm,go-gorm/gorm,Go,15,"The fantastic ORM library for Golang, aims to be developer friendly",3783,35002,https://avatars.githubusercontent.com/u/15127678?v=4
+18369373,viper,spf13/viper,Go,5,Go configuration with fangs,1972,25404,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+165041732,kratos,go-kratos/kratos,Go,1,Your ultimate Go microservices framework for the cloud-native era.,3901,22192,https://avatars.githubusercontent.com/u/62791634?v=4
+10379607,goreplay,buger/goreplay,Go,5,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",1766,18189,https://avatars.githubusercontent.com/u/14009?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,14,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1470,16303,https://avatars.githubusercontent.com/u/109613420?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,109,Declarative Continuous Deployment for Kubernetes,4718,15722,https://avatars.githubusercontent.com/u/30269780?v=4
+191655189,ent,ent/ent,Go,5,An entity framework for Go,873,14713,https://avatars.githubusercontent.com/u/66847655?v=4
+44350607,dashboard,kubernetes/dashboard,Go,5,General-purpose web UI for Kubernetes clusters,4038,13526,https://avatars.githubusercontent.com/u/13629408?v=4
+246903803,earthly,earthly/earthly,Go,54,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",365,10551,https://avatars.githubusercontent.com/u/63060917?v=4
+333303663,bytebase,bytebase/bytebase,Go,22,"The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",615,9598,https://avatars.githubusercontent.com/u/74386897?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2455,7147,https://avatars.githubusercontent.com/u/36015203?v=4
+731005899,OpenGFW,apernet/OpenGFW,Go,233,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",390,6162,https://avatars.githubusercontent.com/u/79422552?v=4
 113473682,agones,googleforgames/agones,Go,5,Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes,759,5733,https://avatars.githubusercontent.com/u/50891674?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,3,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",767,5666,https://avatars.githubusercontent.com/u/2232217?v=4
-43465675,go-libp2p,libp2p/go-libp2p,Go,0,libp2p implementation in Go,995,5648,https://avatars.githubusercontent.com/u/14838238?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,3,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",767,5667,https://avatars.githubusercontent.com/u/2232217?v=4
+43465675,go-libp2p,libp2p/go-libp2p,Go,0,libp2p implementation in Go,995,5650,https://avatars.githubusercontent.com/u/14838238?v=4
 118828329,serving,knative/serving,Go,10,"Kubernetes-based, scale-to-zero, request-driven compute",1112,5326,https://avatars.githubusercontent.com/u/35583233?v=4
-140958903,expr,expr-lang/expr,Go,10,Expression language and expression evaluation for Go,345,5323,https://avatars.githubusercontent.com/u/144815908?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,2,OpenTelemetry Go API and SDK,953,4653,https://avatars.githubusercontent.com/u/49998002?v=4
+140958903,expr,expr-lang/expr,Go,10,Expression language and expression evaluation for Go,345,5324,https://avatars.githubusercontent.com/u/144815908?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,2,OpenTelemetry Go API and SDK,953,4654,https://avatars.githubusercontent.com/u/49998002?v=4
 185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,2,OpenTelemetry Collector,1265,3746,https://avatars.githubusercontent.com/u/49998002?v=4
-753490180,daytona,daytonaio/daytona,Go,672,The Open Source Dev Environment Manager.,96,2666,https://avatars.githubusercontent.com/u/130513197?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,18,Main repository for Datadog Agent,1126,2592,https://avatars.githubusercontent.com/u/365230?v=4
+753490180,daytona,daytonaio/daytona,Go,524,The Open Source Dev Environment Manager.,104,2734,https://avatars.githubusercontent.com/u/130513197?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,3,Main repository for Datadog Agent,1126,2592,https://avatars.githubusercontent.com/u/365230?v=4
 384111310,incubator-devlake,apache/incubator-devlake,Go,2,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",455,2378,https://avatars.githubusercontent.com/u/47359?v=4
-750068254,gptscript,gptscript-ai/gptscript,Go,41,Natural Language Programming,182,1951,https://avatars.githubusercontent.com/u/158112119?v=4
-699540469,bitmagnet,bitmagnet-io/bitmagnet,Go,13,"A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",61,1699,https://avatars.githubusercontent.com/u/146768397?v=4
-522195286,golang-guide,mao888/golang-guide,Go,17,「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！,191,1229,https://avatars.githubusercontent.com/u/59285170?u=574304a2c065c333fe21e8cf142496b9553e7928&v=4
+750068254,gptscript,gptscript-ai/gptscript,Go,235,Natural Language Programming,182,1953,https://avatars.githubusercontent.com/u/158112119?v=4
+699540469,bitmagnet,bitmagnet-io/bitmagnet,Go,13,"A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",61,1701,https://avatars.githubusercontent.com/u/146768397?v=4
+522195286,golang-guide,mao888/golang-guide,Go,18,「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！,191,1235,https://avatars.githubusercontent.com/u/59285170?u=574304a2c065c333fe21e8cf142496b9553e7928&v=4
