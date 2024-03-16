@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18509,67501,https://avatars.githubusercontent.com/u/27259197?v=4
-133251103,dive,wagoodman/dive,Go,26,A tool for exploring each layer in a docker image,1629,42990,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
-13855476,gorm,go-gorm/gorm,Go,14,"The fantastic ORM library for Golang, aims to be developer friendly",3784,35074,https://avatars.githubusercontent.com/u/15127678?v=4
-436297812,memos,usememos/memos,Go,56,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1866,25995,https://avatars.githubusercontent.com/u/95764151?v=4
-6051812,mux,gorilla/mux,Go,18,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1827,20010,https://avatars.githubusercontent.com/u/489566?v=4
-5179099,go-redis,redis/go-redis,Go,130,Redis Go client,2259,19035,https://avatars.githubusercontent.com/u/1529926?v=4
-679421146,opentofu,opentofu/opentofu,Go,33,OpenTofu lets you declaratively manage your cloud infrastructure.,660,18825,https://avatars.githubusercontent.com/u/142061836?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,18,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2197,16778,https://avatars.githubusercontent.com/u/50994705?v=4
-20653934,cadvisor,google/cadvisor,Go,7,Analyzes resource usage and performance characteristics of running containers.,2260,16162,https://avatars.githubusercontent.com/u/1342004?v=4
-45363955,ip2region,lionsoul2014/ip2region,Go,55,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2630,15438,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
-30711774,validator,go-playground/validator,Go,5,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1245,15290,https://avatars.githubusercontent.com/u/14768796?v=4
-106704041,air,cosmtrek/air,Go,38,☁️ Live reload for Go apps,716,14625,https://avatars.githubusercontent.com/u/8832222?v=4
-33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5447,13647,https://avatars.githubusercontent.com/u/5713248?v=4
-36960321,runc,opencontainers/runc,Go,4,CLI tool for spawning and running containers according to the OCI specification,2030,11318,https://avatars.githubusercontent.com/u/12563465?v=4
-9120526,pgx,jackc/pgx,Go,12,PostgreSQL driver and toolkit for Go,773,9188,https://avatars.githubusercontent.com/u/94130?v=4
-357897199,netbird,netbirdio/netbird,Go,50,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,343,8311,https://avatars.githubusercontent.com/u/100464677?v=4
-32351944,gopacket,google/gopacket,Go,9,Provides packet processing capabilities for Go,1080,6063,https://avatars.githubusercontent.com/u/1342004?v=4
-206649463,ebpf,cilium/ebpf,Go,10,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",617,5629,https://avatars.githubusercontent.com/u/21054566?v=4
-51620247,uuid,google/uuid,Go,1,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,356,4942,https://avatars.githubusercontent.com/u/1342004?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,3,"Optimism is Ethereum, scaled.",2576,4940,https://avatars.githubusercontent.com/u/58791460?v=4
-41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,5,Blackbox prober exporter,1001,4213,https://avatars.githubusercontent.com/u/3380462?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,2,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,684,3801,https://avatars.githubusercontent.com/u/68335991?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,5,Contrib repository for the OpenTelemetry Collector,1946,2437,https://avatars.githubusercontent.com/u/49998002?v=4
-165021340,clickhouse-operator,Altinity/clickhouse-operator,Go,10,"Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes",433,1671,https://avatars.githubusercontent.com/u/28471076?v=4
-717197250,new-api,Calcium-Ion/new-api,Go,42,基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！,284,1137,https://avatars.githubusercontent.com/u/61247483?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,29,Production-Grade Container Scheduling and Management,38137,105815,https://avatars.githubusercontent.com/u/13629408?v=4
+436297812,memos,usememos/memos,Go,56,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1866,26000,https://avatars.githubusercontent.com/u/95764151?v=4
+208728772,milvus,milvus-io/milvus,Go,13,"A cloud-native vector database, storage for next generation AI applications",2524,25983,https://avatars.githubusercontent.com/u/51735404?v=4
+43723161,helm,helm/helm,Go,11,The Kubernetes Package Manager,6889,25833,https://avatars.githubusercontent.com/u/15859888?v=4
+122734569,lux,iawia002/lux,Go,24,👾 Fast and simple video download library and CLI tool written in Go,2659,23485,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+13624859,websocket,gorilla/websocket,Go,12,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3425,20927,https://avatars.githubusercontent.com/u/489566?v=4
+27729907,grpc-go,grpc/grpc-go,Go,1,The Go language implementation of gRPC. HTTP/2 based RPC,4172,19647,https://avatars.githubusercontent.com/u/7802525?v=4
+5179099,go-redis,redis/go-redis,Go,83,Redis Go client,2260,19042,https://avatars.githubusercontent.com/u/1529926?v=4
+679421146,opentofu,opentofu/opentofu,Go,33,OpenTofu lets you declaratively manage your cloud infrastructure.,660,18829,https://avatars.githubusercontent.com/u/142061836?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,18,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2197,16781,https://avatars.githubusercontent.com/u/50994705?v=4
+45363955,ip2region,lionsoul2014/ip2region,Go,84,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2630,15445,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
+6443435,nats-server,nats-io/nats-server,Go,8,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1338,14522,https://avatars.githubusercontent.com/u/10203055?v=4
+33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5447,13648,https://avatars.githubusercontent.com/u/5713248?v=4
+67382094,yay,Jguer/yay,Go,19,Yet another Yogurt - An AUR Helper written in Go,338,10140,https://avatars.githubusercontent.com/u/8071073?u=31dcf861785552275aea3a89860b081ed114ee1f&v=4
+9120526,pgx,jackc/pgx,Go,12,PostgreSQL driver and toolkit for Go,773,9189,https://avatars.githubusercontent.com/u/94130?v=4
+66509131,client-go,kubernetes/client-go,Go,1,Go client for Kubernetes.,2873,8508,https://avatars.githubusercontent.com/u/13629408?v=4
+10166531,mapstructure,mitchellh/mapstructure,Go,12,Go library for decoding generic map values into native Go structures and vice versa.,647,7570,https://avatars.githubusercontent.com/u/1299?u=cc88a733b0c95bdfd323ec661c0da4c6768c4e4b&v=4
+94593596,bbolt,etcd-io/bbolt,Go,5,An embedded key/value database for Go.,585,7472,https://avatars.githubusercontent.com/u/41972792?v=4
+155658556,certificates,smallstep/certificates,Go,15,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",398,6023,https://avatars.githubusercontent.com/u/23183426?v=4
+468743437,wireproxy,pufferffish/wireproxy,Go,9,Wireguard client that exposes itself as a socks5 proxy,182,2957,https://avatars.githubusercontent.com/u/74378430?u=1ad60c51fe24e168282d9ac279464468ecb3b951&v=4
+248386471,kubekey,kubesphere/kubekey,Go,3,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",498,2050,https://avatars.githubusercontent.com/u/37326490?v=4
+165021340,clickhouse-operator,Altinity/clickhouse-operator,Go,45,"Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes",433,1673,https://avatars.githubusercontent.com/u/28471076?v=4
+480573177,gateway,envoyproxy/gateway,Go,0,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway,253,1302,https://avatars.githubusercontent.com/u/30125649?v=4
+757391957,tlm,yusufcanb/tlm,Go,60,"Local CLI Copilot, powered by CodeLLaMa. 💻🦙",17,575,https://avatars.githubusercontent.com/u/9295668?u=74d92575f2d93538a5ebd5cacc67241f398d3596&v=4
+739485167,thruster,basecamp/thruster,Go,28,,7,366,https://avatars.githubusercontent.com/u/13131?v=4
