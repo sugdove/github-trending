@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,108,Linux kernel source tree,51327,167906,https://avatars.githubusercontent.com/u/1024025?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,19,Port of OpenAI's Whisper model in C/C++,2754,28895,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-6201092,mpv,mpv-player/mpv,C,9,🎥 Command line video player,2752,25504,https://avatars.githubusercontent.com/u/2550273?v=4
-47409672,hashcat,hashcat/hashcat,C,6,World's fastest and most advanced password recovery utility,2714,19589,https://avatars.githubusercontent.com/u/15949799?v=4
-13836499,raylib,raysan5/raylib,C,27,A simple and easy-to-use library to enjoy videogames programming,1904,18310,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,14,Open-source keyboard firmware for Atmel AVR and Arm USB families,36246,16853,https://avatars.githubusercontent.com/u/25358678?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,27,Flipper Zero Unleashed Firmware,1258,14743,https://avatars.githubusercontent.com/u/115378555?v=4
-669686044,llama2.c,karpathy/llama2.c,C,17,Inference Llama 2 in one file of pure C,1577,14626,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
-9524997,glfw,glfw/glfw,C,4,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",4882,12062,https://avatars.githubusercontent.com/u/3905364?v=4
-254327261,Sandboxie,sandboxie-plus/Sandboxie,C,8,Sandboxie Plus & Classic,1340,11875,https://avatars.githubusercontent.com/u/63755826?v=4
-59676171,klipper,Klipper3d/klipper,C,8,Klipper is a 3d-printer firmware,5018,8517,https://avatars.githubusercontent.com/u/90982958?v=4
-579676275,Xtreme-Firmware,Flipper-XFW/Xtreme-Firmware,C,15,"The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!    ",604,8477,https://avatars.githubusercontent.com/u/140006447?v=4
-330008801,SDL,libsdl-org/SDL,C,11,Simple Directmedia Layer,1480,7941,https://avatars.githubusercontent.com/u/77683370?v=4
-204459250,xv6-riscv,mit-pdos/xv6-riscv,C,9,Xv6 for RISC-V,2147,5840,https://avatars.githubusercontent.com/u/12404246?v=4
-97212490,sokol,floooh/sokol,C,7,minimal cross-platform standalone C headers,429,5650,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
+2325298,linux,torvalds/linux,C,98,Linux kernel source tree,51332,167916,https://avatars.githubusercontent.com/u/1024025?v=4
+156018,redis,redis/redis,C,34,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23050,63744,https://avatars.githubusercontent.com/u/1529926?v=4
+36836475,tmux,tmux/tmux,C,32,tmux source code,2018,32523,https://avatars.githubusercontent.com/u/12054114?v=4
+5101141,jq,jqlang/jq,C,18,Command-line JSON processor,1514,28674,https://avatars.githubusercontent.com/u/104800540?v=4
+214011414,WindTerm,kingToolbox/WindTerm,C,28,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1530,19853,https://avatars.githubusercontent.com/u/51009775?v=4
+201454051,HarmonyOS,Awesome-HarmonyOS/HarmonyOS,C,3,A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。,3298,19066,https://avatars.githubusercontent.com/u/53939514?v=4
+45821540,openwrt,openwrt/openwrt,C,17,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,9598,17916,https://avatars.githubusercontent.com/u/2528830?v=4
+669686044,llama2.c,karpathy/llama2.c,C,12,Inference Llama 2 in one file of pure C,1576,14627,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
+90961634,wcdb,Tencent/wcdb,C,2,WCDB is a cross-platform database framework developed by WeChat.,1342,10000,https://avatars.githubusercontent.com/u/18461506?v=4
+538180525,ggml,ggerganov/ggml,C,16,Tensor library for machine learning,831,9264,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+40556106,wazuh,wazuh/wazuh,C,8,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1393,8797,https://avatars.githubusercontent.com/u/13752566?v=4
+241659610,itlwm,OpenIntelWireless/itlwm,C,5,Intel Wi-Fi Drivers for macOS,627,6620,https://avatars.githubusercontent.com/u/67850724?v=4
+29933948,fluent-bit,fluent/fluent-bit,C,5,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1426,5259,https://avatars.githubusercontent.com/u/859518?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,4,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2435,4828,https://avatars.githubusercontent.com/u/97226525?v=4
+189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,7,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",924,4545,https://avatars.githubusercontent.com/u/62360046?v=4
 6860771,tinyusb,hathach/tinyusb,C,3,An open source  cross-platform USB stack for embedded system,952,4437,https://avatars.githubusercontent.com/u/249515?u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4
-470373719,istoreos,istoreos/istoreos,C,6,提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）,377,3729,https://avatars.githubusercontent.com/u/107662817?v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,5,,794,3038,https://avatars.githubusercontent.com/u/1294177?v=4
-241270996,xemu,xemu-project/xemu,C,5,"Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",234,2304,https://avatars.githubusercontent.com/u/61253676?v=4
-228103273,nuttx,apache/nuttx,C,1,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",972,2275,https://avatars.githubusercontent.com/u/47359?v=4
-270692521,zmk,zmkfirmware/zmk,C,4,ZMK Firmware Repository,2324,2245,https://avatars.githubusercontent.com/u/66629601?v=4
-211756905,Configurations,MarlinFirmware/Configurations,C,0,Configurations for Marlin Firmware,3303,1920,https://avatars.githubusercontent.com/u/10418365?v=4
-467381275,esp32-weather-epd,lmarzen/esp32-weather-epd,C,51,A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.,134,1918,https://avatars.githubusercontent.com/u/98473324?u=4649d469f4ea99477244d49ce27da97aff6fcd83&v=4
-119148271,xpadneo,atar-axis/xpadneo,C,2,Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S),108,1760,https://avatars.githubusercontent.com/u/11148588?u=0f7fd53402932f8fe69b8f5f9d726124138dcf28&v=4
-772057660,TheBasement,SentientArt/TheBasement,C,17,,7,59,https://avatars.githubusercontent.com/u/163421860?u=7f5366cb233f0ad5a4fc33de3db6de47865ca59d&v=4
+184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,3,WebAssembly Micro Runtime (WAMR),554,4400,https://avatars.githubusercontent.com/u/54038801?v=4
+34807561,nanopb,nanopb/nanopb,C,1,Protocol Buffers with small code size,804,4000,https://avatars.githubusercontent.com/u/12173937?v=4
+283149635,ffmpeg-kit,arthenica/ffmpeg-kit,C,5,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",484,3642,https://avatars.githubusercontent.com/u/113347484?v=4
+467381275,esp32-weather-epd,lmarzen/esp32-weather-epd,C,27,A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.,135,1921,https://avatars.githubusercontent.com/u/98473324?u=4649d469f4ea99477244d49ce27da97aff6fcd83&v=4
+209527239,vkd3d-proton,HansKristian-Work/vkd3d-proton,C,2,Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.,177,1636,https://avatars.githubusercontent.com/u/17786731?u=f941d8304f616573c785892bb907639338515203&v=4
+180590388,trezor-firmware,trezor/trezor-firmware,C,2,:lock: Trezor Firmware Monorepo,615,1225,https://avatars.githubusercontent.com/u/4146447?v=4
+599520499,pygame-ce,pygame-community/pygame-ce,C,8,🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.,101,627,https://avatars.githubusercontent.com/u/80135573?v=4
+58707550,pg_hint_plan,ossc-db/pg_hint_plan,C,28,Give PostgreSQL ability to manually force some decisions in execution plans.,96,596,https://avatars.githubusercontent.com/u/13130303?v=4
+772057660,TheBasement,SentientArt/TheBasement,C,14,,7,64,https://avatars.githubusercontent.com/u/163421860?u=7f5366cb233f0ad5a4fc33de3db6de47865ca59d&v=4
