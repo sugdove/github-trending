@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,461,"A curated list of awesome Go frameworks, libraries and software",11507,118574,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
-48378947,frp,fatedier/frp,Go,269,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12517,78310,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+21540759,awesome-go,avelino/awesome-go,Go,461,"A curated list of awesome Go frameworks, libraries and software",11507,118581,https://avatars.githubusercontent.com/u/31996?u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4
+48378947,frp,fatedier/frp,Go,269,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12519,78320,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
 29261473,minio,minio/minio,Go,139,The Object Store for AI Data Infrastructure,5062,43584,https://avatars.githubusercontent.com/u/695951?v=4
-17803236,rclone,rclone/rclone,Go,142,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",3880,43187,https://avatars.githubusercontent.com/u/24937341?v=4
-75785240,authelia,authelia/authelia,Go,100,The Single Sign-On Multi-Factor portal for web apps,1005,19135,https://avatars.githubusercontent.com/u/59122411?v=4
+17803236,rclone,rclone/rclone,Go,142,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files",3880,43188,https://avatars.githubusercontent.com/u/24937341?v=4
+75785240,authelia,authelia/authelia,Go,100,The Single Sign-On Multi-Factor portal for web apps,1006,19140,https://avatars.githubusercontent.com/u/59122411?v=4
 5179099,go-redis,redis/go-redis,Go,279,Redis Go client,2261,19074,https://avatars.githubusercontent.com/u/1529926?v=4
-45363955,ip2region,lionsoul2014/ip2region,Go,458,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2637,15506,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
-131212638,gvisor,google/gvisor,Go,264,Application Kernel for Containers,1228,14962,https://avatars.githubusercontent.com/u/1342004?v=4
-7083242,mysql,go-sql-driver/mysql,Go,30,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2291,14085,https://avatars.githubusercontent.com/u/3002971?v=4
+45363955,ip2region,lionsoul2014/ip2region,Go,458,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2638,15518,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
+131212638,gvisor,google/gvisor,Go,264,Application Kernel for Containers,1227,14963,https://avatars.githubusercontent.com/u/1342004?v=4
+7083242,mysql,go-sql-driver/mysql,Go,30,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2291,14086,https://avatars.githubusercontent.com/u/3002971?v=4
 44350607,dashboard,kubernetes/dashboard,Go,166,General-purpose web UI for Kubernetes clusters,4064,13699,https://avatars.githubusercontent.com/u/13629408?v=4
-118105436,migrate,golang-migrate/migrate,Go,64,Database migrations. CLI and Golang library.,1295,13677,https://avatars.githubusercontent.com/u/35595841?v=4
-509091576,sing-box,SagerNet/sing-box,Go,233,The universal proxy platform,1640,12764,https://avatars.githubusercontent.com/u/83217677?v=4
-257434373,hysteria,apernet/hysteria,Go,166,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1456,12645,https://avatars.githubusercontent.com/u/79422552?v=4
-247032621,go-admin,go-admin-team/go-admin,Go,40,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,2246,10606,https://avatars.githubusercontent.com/u/70429007?v=4
-111431261,grpcurl,fullstorydev/grpcurl,Go,53,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",481,9953,https://avatars.githubusercontent.com/u/33756472?v=4
+118105436,migrate,golang-migrate/migrate,Go,64,Database migrations. CLI and Golang library.,1295,13678,https://avatars.githubusercontent.com/u/35595841?v=4
+509091576,sing-box,SagerNet/sing-box,Go,233,The universal proxy platform,1642,12772,https://avatars.githubusercontent.com/u/83217677?v=4
+257434373,hysteria,apernet/hysteria,Go,166,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1457,12647,https://avatars.githubusercontent.com/u/79422552?v=4
+247032621,go-admin,go-admin-team/go-admin,Go,40,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,2246,10611,https://avatars.githubusercontent.com/u/70429007?v=4
+111431261,grpcurl,fullstorydev/grpcurl,Go,53,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",481,9954,https://avatars.githubusercontent.com/u/33756472?v=4
 333303663,bytebase,bytebase/bytebase,Go,84,"The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",627,9748,https://avatars.githubusercontent.com/u/74386897?v=4
-52481933,navidrome,navidrome/navidrome,Go,137,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,746,9525,https://avatars.githubusercontent.com/u/26692192?v=4
-9120526,pgx,jackc/pgx,Go,57,PostgreSQL driver and toolkit for Go,776,9207,https://avatars.githubusercontent.com/u/94130?v=4
-731005899,OpenGFW,apernet/OpenGFW,Go,1701,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",631,8405,https://avatars.githubusercontent.com/u/79422552?v=4
-357897199,netbird,netbirdio/netbird,Go,274,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,345,8389,https://avatars.githubusercontent.com/u/100464677?v=4
-753490180,daytona,daytonaio/daytona,Go,1078,The Open Source Dev Environment Manager.,156,4517,https://avatars.githubusercontent.com/u/130513197?v=4
+52481933,navidrome,navidrome/navidrome,Go,137,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,746,9528,https://avatars.githubusercontent.com/u/26692192?v=4
+9120526,pgx,jackc/pgx,Go,57,PostgreSQL driver and toolkit for Go,776,9208,https://avatars.githubusercontent.com/u/94130?v=4
+731005899,OpenGFW,apernet/OpenGFW,Go,1701,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",632,8412,https://avatars.githubusercontent.com/u/79422552?v=4
+357897199,netbird,netbirdio/netbird,Go,274,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,345,8395,https://avatars.githubusercontent.com/u/100464677?v=4
+753490180,daytona,daytonaio/daytona,Go,1078,The Open Source Dev Environment Manager.,156,4529,https://avatars.githubusercontent.com/u/130513197?v=4
 19608522,google-cloud-go,googleapis/google-cloud-go,Go,14,Google Cloud Client Libraries for Go.,1198,3567,https://avatars.githubusercontent.com/u/16785467?v=4
 188836864,erigon,ledgerwatch/erigon,Go,107,Ethereum implementation on the efficiency frontier,969,2897,https://avatars.githubusercontent.com/u/29105044?v=4
-717197250,new-api,Calcium-Ion/new-api,Go,236,基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！,300,1217,https://avatars.githubusercontent.com/u/61247483?v=4
-245763170,huma,danielgtaylor/huma,Go,147,Huma REST/HTTP API Framework for Golang with OpenAPI 3.1,89,979,https://avatars.githubusercontent.com/u/106826?v=4
+717197250,new-api,Calcium-Ion/new-api,Go,236,基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！,300,1224,https://avatars.githubusercontent.com/u/61247483?v=4
+245763170,huma,danielgtaylor/huma,Go,147,Huma REST/HTTP API Framework for Golang with OpenAPI 3.1,89,982,https://avatars.githubusercontent.com/u/106826?v=4
