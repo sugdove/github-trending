@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9241,40869,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,14,A Commander for modern Go CLI interactions,2773,35556,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-208728772,milvus,milvus-io/milvus,Go,47,"A cloud-native vector database, storage for next generation AI applications",2530,26093,https://avatars.githubusercontent.com/u/51735404?v=4
-18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1977,25481,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-122734569,lux,iawia002/lux,Go,81,👾 Fast and simple video download library and CLI tool written in Go,2692,23875,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4175,19671,https://avatars.githubusercontent.com/u/7802525?v=4
-48109239,cilium,cilium/cilium,Go,58,"eBPF-based Networking, Security, and Observability",2639,18237,https://avatars.githubusercontent.com/u/21054566?v=4
-31558937,teleport,gravitational/teleport,Go,55,Protect access to all of your infrastructure,1629,16057,https://avatars.githubusercontent.com/u/10781132?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,13,Protect and discover secrets using Gitleaks 🔑,1298,14955,https://avatars.githubusercontent.com/u/90395851?v=4
-8966356,packer,hashicorp/packer,Go,1,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3302,14830,https://avatars.githubusercontent.com/u/761456?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1261,9557,https://avatars.githubusercontent.com/u/126152966?v=4
+17728164,terraform,hashicorp/terraform,Go,9,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9241,40872,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,14,A Commander for modern Go CLI interactions,2774,35558,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+208728772,milvus,milvus-io/milvus,Go,29,"A cloud-native vector database, storage for next generation AI applications",2530,26093,https://avatars.githubusercontent.com/u/51735404?v=4
+18369373,viper,spf13/viper,Go,14,Go configuration with fangs,1977,25483,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+122734569,lux,iawia002/lux,Go,77,👾 Fast and simple video download library and CLI tool written in Go,2693,23887,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4175,19674,https://avatars.githubusercontent.com/u/7802525?v=4
+48109239,cilium,cilium/cilium,Go,58,"eBPF-based Networking, Security, and Observability",2640,18241,https://avatars.githubusercontent.com/u/21054566?v=4
+31558937,teleport,gravitational/teleport,Go,55,Protect access to all of your infrastructure,1631,16059,https://avatars.githubusercontent.com/u/10781132?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,23,Protect and discover secrets using Gitleaks 🔑,1298,14961,https://avatars.githubusercontent.com/u/90395851?v=4
+8966356,packer,hashicorp/packer,Go,1,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3303,14832,https://avatars.githubusercontent.com/u/761456?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,18,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1261,9563,https://avatars.githubusercontent.com/u/126152966?v=4
 21306961,fsnotify,fsnotify/fsnotify,Go,6,Cross-platform file system notifications for Go.,871,9040,https://avatars.githubusercontent.com/u/8013877?v=4
-66509131,client-go,kubernetes/client-go,Go,5,Go client for Kubernetes.,2875,8520,https://avatars.githubusercontent.com/u/13629408?v=4
-306366900,casdoor,casdoor/casdoor,Go,19,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",991,8354,https://avatars.githubusercontent.com/u/72992104?v=4
-146641150,pipeline,tektoncd/pipeline,Go,5,A cloud-native Pipeline resource.,1737,8244,https://avatars.githubusercontent.com/u/47602533?v=4
-99143276,velero,vmware-tanzu/velero,Go,9,Backup and migrate Kubernetes applications and their persistent volumes,1326,8113,https://avatars.githubusercontent.com/u/54452117?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,1,Autoscaling components for Kubernetes,3767,7545,https://avatars.githubusercontent.com/u/13629408?v=4
-120530079,gluetun,qdm12/gluetun,Go,11,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",301,5826,https://avatars.githubusercontent.com/u/15654980?u=107e7a5972895a3be41024de3b84ffe7dde7bfdc&v=4
-617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,7,Giving Kubernetes Superpowers to everyone,514,4695,https://avatars.githubusercontent.com/u/128535266?v=4
-41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,6,Blackbox prober exporter,1002,4226,https://avatars.githubusercontent.com/u/3380462?v=4
-281288782,teler,kitabisa/teler,Go,26,Real-time HTTP Intrusion Detection,234,2690,https://avatars.githubusercontent.com/u/40655294?v=4
-83623770,helm-diff,databus23/helm-diff,Go,5,A helm plugin that shows a diff explaining what a helm upgrade would change,260,2469,https://avatars.githubusercontent.com/u/439223?v=4
-748534112,coze-discord-proxy,deanxv/coze-discord-proxy,Go,66,代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。,635,2102,https://avatars.githubusercontent.com/u/57529708?u=f996ff999c527044594ee651c01b0d57616d1856&v=4
-279488921,gotrue,supabase/gotrue,Go,5,A JWT based API for managing users and issuing JWT tokens,288,1103,https://avatars.githubusercontent.com/u/54469796?v=4
-750108230,oneterm,veops/oneterm,Go,12,Provide secure access and control over all infrastructure,26,147,https://avatars.githubusercontent.com/u/113999717?v=4
+66509131,client-go,kubernetes/client-go,Go,5,Go client for Kubernetes.,2875,8521,https://avatars.githubusercontent.com/u/13629408?v=4
+306366900,casdoor,casdoor/casdoor,Go,19,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",991,8357,https://avatars.githubusercontent.com/u/72992104?v=4
+146641150,pipeline,tektoncd/pipeline,Go,5,A cloud-native Pipeline resource.,1737,8247,https://avatars.githubusercontent.com/u/47602533?v=4
+99143276,velero,vmware-tanzu/velero,Go,13,Backup and migrate Kubernetes applications and their persistent volumes,1326,8116,https://avatars.githubusercontent.com/u/54452117?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,1,Autoscaling components for Kubernetes,3767,7547,https://avatars.githubusercontent.com/u/13629408?v=4
+120530079,gluetun,qdm12/gluetun,Go,11,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",301,5830,https://avatars.githubusercontent.com/u/15654980?u=107e7a5972895a3be41024de3b84ffe7dde7bfdc&v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,7,Giving Kubernetes Superpowers to everyone,514,4696,https://avatars.githubusercontent.com/u/128535266?v=4
+41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,6,Blackbox prober exporter,1002,4227,https://avatars.githubusercontent.com/u/3380462?v=4
+281288782,teler,kitabisa/teler,Go,26,Real-time HTTP Intrusion Detection,234,2695,https://avatars.githubusercontent.com/u/40655294?v=4
+83623770,helm-diff,databus23/helm-diff,Go,5,A helm plugin that shows a diff explaining what a helm upgrade would change,260,2470,https://avatars.githubusercontent.com/u/439223?v=4
+748534112,coze-discord-proxy,deanxv/coze-discord-proxy,Go,66,代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。,635,2110,https://avatars.githubusercontent.com/u/57529708?u=f996ff999c527044594ee651c01b0d57616d1856&v=4
+279488921,gotrue,supabase/gotrue,Go,5,A JWT based API for managing users and issuing JWT tokens,288,1104,https://avatars.githubusercontent.com/u/54469796?v=4
+750108230,oneterm,veops/oneterm,Go,12,Provide secure access and control over all infrastructure,26,149,https://avatars.githubusercontent.com/u/113999717?v=4
