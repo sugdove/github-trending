@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 11225014,etcd,etcd-io/etcd,Go,16,Distributed reliable key-value store for the most critical data of a distributed system,9525,45986,https://avatars.githubusercontent.com/u/41972792?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,21,A node.js version management utility for Windows. Ironically written in Go.,3130,33936,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-31288958,vault,hashicorp/vault,Go,10,"A tool for secrets management, encryption as a service, and privileged access management",4022,29470,https://avatars.githubusercontent.com/u/761456?v=4
-208728772,milvus,milvus-io/milvus,Go,47,"A cloud-native vector database, storage for next generation AI applications",2528,26077,https://avatars.githubusercontent.com/u/51735404?v=4
-18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1977,25477,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-122734569,lux,iawia002/lux,Go,81,👾 Fast and simple video download library and CLI tool written in Go,2687,23821,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-19205896,restic,restic/restic,Go,40,"Fast, secure, efficient backup program",1449,23272,https://avatars.githubusercontent.com/u/10073512?v=4
-21827146,seaweedfs,seaweedfs/seaweedfs,Go,15,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2140,20758,https://avatars.githubusercontent.com/u/11985425?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,13,Protect and discover secrets using Gitleaks 🔑,1298,14948,https://avatars.githubusercontent.com/u/90395851?v=4
-7083242,mysql,go-sql-driver/mysql,Go,7,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2291,14089,https://avatars.githubusercontent.com/u/3002971?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1059,10599,https://avatars.githubusercontent.com/u/43720803?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,21,A node.js version management utility for Windows. Ironically written in Go.,3130,33938,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+31288958,vault,hashicorp/vault,Go,10,"A tool for secrets management, encryption as a service, and privileged access management",4022,29469,https://avatars.githubusercontent.com/u/761456?v=4
+208728772,milvus,milvus-io/milvus,Go,47,"A cloud-native vector database, storage for next generation AI applications",2528,26081,https://avatars.githubusercontent.com/u/51735404?v=4
+18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1977,25479,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+122734569,lux,iawia002/lux,Go,81,👾 Fast and simple video download library and CLI tool written in Go,2689,23838,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+19205896,restic,restic/restic,Go,40,"Fast, secure, efficient backup program",1449,23280,https://avatars.githubusercontent.com/u/10073512?v=4
+21827146,seaweedfs,seaweedfs/seaweedfs,Go,15,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2140,20759,https://avatars.githubusercontent.com/u/11985425?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,13,Protect and discover secrets using Gitleaks 🔑,1298,14949,https://avatars.githubusercontent.com/u/90395851?v=4
+7083242,mysql,go-sql-driver/mysql,Go,7,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2291,14091,https://avatars.githubusercontent.com/u/3002971?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,8,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1059,10600,https://avatars.githubusercontent.com/u/43720803?v=4
 9524057,node_exporter,prometheus/node_exporter,Go,11,Exporter for machine metrics,2238,10108,https://avatars.githubusercontent.com/u/3380462?v=4
 230660669,mediamtx,bluenviron/mediamtx,Go,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1260,9549,https://avatars.githubusercontent.com/u/126152966?v=4
-41561105,resty,go-resty/resty,Go,9,Simple HTTP and REST client library for Go,658,9159,https://avatars.githubusercontent.com/u/14019737?v=4
-127519518,subfinder,projectdiscovery/subfinder,Go,6,Fast passive subdomain enumeration tool.,1171,9126,https://avatars.githubusercontent.com/u/50994705?v=4
-21306961,fsnotify,fsnotify/fsnotify,Go,6,Cross-platform file system notifications for Go.,871,9035,https://avatars.githubusercontent.com/u/8013877?v=4
-326228917,katana,projectdiscovery/katana,Go,8,A next-generation crawling and spidering framework.,441,8238,https://avatars.githubusercontent.com/u/50994705?v=4
-99143276,velero,vmware-tanzu/velero,Go,9,Backup and migrate Kubernetes applications and their persistent volumes,1326,8106,https://avatars.githubusercontent.com/u/54452117?v=4
+41561105,resty,go-resty/resty,Go,9,Simple HTTP and REST client library for Go,658,9162,https://avatars.githubusercontent.com/u/14019737?v=4
+127519518,subfinder,projectdiscovery/subfinder,Go,6,Fast passive subdomain enumeration tool.,1171,9129,https://avatars.githubusercontent.com/u/50994705?v=4
+21306961,fsnotify,fsnotify/fsnotify,Go,6,Cross-platform file system notifications for Go.,871,9037,https://avatars.githubusercontent.com/u/8013877?v=4
+326228917,katana,projectdiscovery/katana,Go,8,A next-generation crawling and spidering framework.,441,8240,https://avatars.githubusercontent.com/u/50994705?v=4
+99143276,velero,vmware-tanzu/velero,Go,9,Backup and migrate Kubernetes applications and their persistent volumes,1326,8108,https://avatars.githubusercontent.com/u/54452117?v=4
 11759482,godotenv,joho/godotenv,Go,8,A Go port of Ruby's dotenv library (Loads environment variables from .env files),379,7372,https://avatars.githubusercontent.com/u/4092?u=57ba376fe5e8346fdad11d8f4dbae07562a7ff8b&v=4
-50629145,pprof,google/pprof,Go,4,pprof is a tool for visualization and analysis of profiling data,579,7334,https://avatars.githubusercontent.com/u/1342004?v=4
-247714750,zitadel,zitadel/zitadel,Go,22,"ZITADEL - Identity infrastructure, simplified for you.",385,6541,https://avatars.githubusercontent.com/u/70011121?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,7,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3271,5832,https://avatars.githubusercontent.com/u/228843?v=4
-116392590,podinfo,stefanprodan/podinfo,Go,10,Go microservice template for Kubernetes,1550,4964,https://avatars.githubusercontent.com/u/3797675?u=994ad74f368b53597fc3039c358c67fc140834ef&v=4
-66566232,windows_exporter,prometheus-community/windows_exporter,Go,3,Prometheus exporter for Windows machines,659,2616,https://avatars.githubusercontent.com/u/42581734?v=4
+50629145,pprof,google/pprof,Go,4,pprof is a tool for visualization and analysis of profiling data,579,7335,https://avatars.githubusercontent.com/u/1342004?v=4
+247714750,zitadel,zitadel/zitadel,Go,22,"ZITADEL - Identity infrastructure, simplified for you.",385,6545,https://avatars.githubusercontent.com/u/70011121?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,7,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3272,5832,https://avatars.githubusercontent.com/u/228843?v=4
+116392590,podinfo,stefanprodan/podinfo,Go,10,Go microservice template for Kubernetes,1550,4966,https://avatars.githubusercontent.com/u/3797675?u=994ad74f368b53597fc3039c358c67fc140834ef&v=4
+66566232,windows_exporter,prometheus-community/windows_exporter,Go,3,Prometheus exporter for Windows machines,659,2617,https://avatars.githubusercontent.com/u/42581734?v=4
 93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,0,Terraform Google Cloud Platform provider,1659,2202,https://avatars.githubusercontent.com/u/761456?v=4
