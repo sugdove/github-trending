@@ -1,26 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,184,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7776,74846,https://avatars.githubusercontent.com/u/7894478?v=4
 11225014,etcd,etcd-io/etcd,Go,65,Distributed reliable key-value store for the most critical data of a distributed system,9529,46000,https://avatars.githubusercontent.com/u/41972792?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,314,simple terminal UI for git commands,1642,44068,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-122734569,lux,iawia002/lux,Go,469,👾 Fast and simple video download library and CLI tool written in Go,2694,23925,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-26337322,rancher,rancher/rancher,Go,42,Complete container management platform,2871,22405,https://avatars.githubusercontent.com/u/9343010?v=4
-27729907,grpc-go,grpc/grpc-go,Go,42,The Go language implementation of gRPC. HTTP/2 based RPC,4177,19680,https://avatars.githubusercontent.com/u/7802525?v=4
-75785240,authelia,authelia/authelia,Go,116,The Single Sign-On Multi-Factor portal for web apps,1006,19166,https://avatars.githubusercontent.com/u/59122411?v=4
-5179099,go-redis,redis/go-redis,Go,274,Redis Go client,2262,19089,https://avatars.githubusercontent.com/u/1529926?v=4
-679421146,opentofu,opentofu/opentofu,Go,173,OpenTofu lets you declaratively manage your cloud infrastructure.,663,18936,https://avatars.githubusercontent.com/u/142061836?v=4
-45363955,ip2region,lionsoul2014/ip2region,Go,397,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2641,15565,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
-131212638,gvisor,google/gvisor,Go,157,Application Kernel for Containers,1230,14970,https://avatars.githubusercontent.com/u/1342004?v=4
-7083242,mysql,go-sql-driver/mysql,Go,38,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2291,14095,https://avatars.githubusercontent.com/u/3002971?v=4
-118105436,migrate,golang-migrate/migrate,Go,61,Database migrations. CLI and Golang library.,1295,13694,https://avatars.githubusercontent.com/u/35595841?v=4
-509091576,sing-box,SagerNet/sing-box,Go,281,The universal proxy platform,1649,12879,https://avatars.githubusercontent.com/u/83217677?v=4
-257434373,hysteria,apernet/hysteria,Go,133,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1460,12675,https://avatars.githubusercontent.com/u/79422552?v=4
-247032621,go-admin,go-admin-team/go-admin,Go,43,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,2251,10622,https://avatars.githubusercontent.com/u/70429007?v=4
-67382094,yay,Jguer/yay,Go,69,Yet another Yogurt - An AUR Helper written in Go,337,10177,https://avatars.githubusercontent.com/u/8071073?u=31dcf861785552275aea3a89860b081ed114ee1f&v=4
-111431261,grpcurl,fullstorydev/grpcurl,Go,57,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",482,9972,https://avatars.githubusercontent.com/u/33756472?v=4
+31288958,vault,hashicorp/vault,Go,49,"A tool for secrets management, encryption as a service, and privileged access management",4020,29478,https://avatars.githubusercontent.com/u/761456?v=4
+16563587,cockroach,cockroachdb/cockroach,Go,62,"CockroachDB - the open source, cloud-native distributed SQL database.",3597,28848,https://avatars.githubusercontent.com/u/6748139?v=4
+208728772,milvus,milvus-io/milvus,Go,198,"A cloud-native vector database, storage for next generation AI applications",2532,26135,https://avatars.githubusercontent.com/u/51735404?v=4
+122734569,lux,iawia002/lux,Go,469,👾 Fast and simple video download library and CLI tool written in Go,2695,23936,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+27729907,grpc-go,grpc/grpc-go,Go,42,The Go language implementation of gRPC. HTTP/2 based RPC,4177,19682,https://avatars.githubusercontent.com/u/7802525?v=4
+75785240,authelia,authelia/authelia,Go,116,The Single Sign-On Multi-Factor portal for web apps,1006,19167,https://avatars.githubusercontent.com/u/59122411?v=4
+5179099,go-redis,redis/go-redis,Go,274,Redis Go client,2262,19090,https://avatars.githubusercontent.com/u/1529926?v=4
+679421146,opentofu,opentofu/opentofu,Go,173,OpenTofu lets you declaratively manage your cloud infrastructure.,663,18939,https://avatars.githubusercontent.com/u/142061836?v=4
+45363955,ip2region,lionsoul2014/ip2region,Go,397,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2641,15576,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
+130430977,kubesphere,kubesphere/kubesphere,Go,42,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",2074,14176,https://avatars.githubusercontent.com/u/37326490?v=4
+509091576,sing-box,SagerNet/sing-box,Go,281,The universal proxy platform,1649,12886,https://avatars.githubusercontent.com/u/83217677?v=4
+67382094,yay,Jguer/yay,Go,69,Yet another Yogurt - An AUR Helper written in Go,337,10176,https://avatars.githubusercontent.com/u/8071073?u=31dcf861785552275aea3a89860b081ed114ee1f&v=4
 9120526,pgx,jackc/pgx,Go,55,PostgreSQL driver and toolkit for Go,776,9224,https://avatars.githubusercontent.com/u/94130?v=4
-357897199,netbird,netbirdio/netbird,Go,292,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,350,8458,https://avatars.githubusercontent.com/u/100464677?v=4
-306366900,casdoor,casdoor/casdoor,Go,117,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",992,8376,https://avatars.githubusercontent.com/u/72992104?v=4
-177010499,ko,ko-build/ko,Go,74,Build and deploy Go applications,367,7108,https://avatars.githubusercontent.com/u/111438175?v=4
-41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,24,Blackbox prober exporter,1005,4230,https://avatars.githubusercontent.com/u/3380462?v=4
-717197250,new-api,Calcium-Ion/new-api,Go,239,基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！,313,1253,https://avatars.githubusercontent.com/u/61247483?v=4
-308444913,kuberay,ray-project/kuberay,Go,20,A toolkit to run Ray applications on Kubernetes,292,765,https://avatars.githubusercontent.com/u/22125274?v=4
+357897199,netbird,netbirdio/netbird,Go,292,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,351,8461,https://avatars.githubusercontent.com/u/100464677?v=4
+306366900,casdoor,casdoor/casdoor,Go,117,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",992,8378,https://avatars.githubusercontent.com/u/72992104?v=4
+177010499,ko,ko-build/ko,Go,74,Build and deploy Go applications,367,7109,https://avatars.githubusercontent.com/u/111438175?v=4
+247714750,zitadel,zitadel/zitadel,Go,88,"ZITADEL - Identity infrastructure, simplified for you.",388,6561,https://avatars.githubusercontent.com/u/70011121?v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,46,Giving Kubernetes Superpowers to everyone,515,4701,https://avatars.githubusercontent.com/u/128535266?v=4
+165021340,clickhouse-operator,Altinity/clickhouse-operator,Go,65,"Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes",431,1682,https://avatars.githubusercontent.com/u/28471076?v=4
+717197250,new-api,Calcium-Ion/new-api,Go,239,基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！,314,1254,https://avatars.githubusercontent.com/u/61247483?v=4
