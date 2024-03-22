@@ -1,16 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,40,Production-Grade Container Scheduling and Management,38170,105971,https://avatars.githubusercontent.com/u/13629408?v=4
-72477752,pulumi,pulumi/pulumi,Go,18,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,1016,19384,https://avatars.githubusercontent.com/u/21992475?v=4
-48109239,cilium,cilium/cilium,Go,14,"eBPF-based Networking, Security, and Observability",2639,18266,https://avatars.githubusercontent.com/u/21054566?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,4,gRPC to JSON proxy generator following the gRPC HTTP spec,2146,17214,https://avatars.githubusercontent.com/u/19352526?v=4
-31558937,teleport,gravitational/teleport,Go,12,Protect access to all of your infrastructure,1634,16076,https://avatars.githubusercontent.com/u/10781132?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,28,Protect and discover secrets using Gitleaks 🔑,1300,15010,https://avatars.githubusercontent.com/u/90395851?v=4
-8966356,packer,hashicorp/packer,Go,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3303,14843,https://avatars.githubusercontent.com/u/761456?v=4
-16554739,beats,elastic/beats,Go,4,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4839,11967,https://avatars.githubusercontent.com/u/6764390?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,7,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1063,10634,https://avatars.githubusercontent.com/u/43720803?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2462,7193,https://avatars.githubusercontent.com/u/36015203?v=4
-43465675,go-libp2p,libp2p/go-libp2p,Go,2,libp2p implementation in Go,1001,5678,https://avatars.githubusercontent.com/u/14838238?v=4
-311639195,karmada,karmada-io/karmada,Go,28,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",787,4028,https://avatars.githubusercontent.com/u/74165798?v=4
-235685125,deej,omriharel/deej,Go,203,Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux,304,3200,https://avatars.githubusercontent.com/u/10298151?u=86af52a5598a73f6c790421472ac204f721751bb&v=4
-729446906,vfox,version-fox/vfox,Go,9,"A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more",51,1569,https://avatars.githubusercontent.com/u/154070718?v=4
-746962176,retina,microsoft/retina,Go,370,eBPF distributed networking observability tool for Kubernetes,39,1042,https://avatars.githubusercontent.com/u/6154722?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,35,Production-Grade Container Scheduling and Management,38172,105976,https://avatars.githubusercontent.com/u/13629408?v=4
+6838921,prometheus,prometheus/prometheus,Go,22,The Prometheus monitoring system and time series database.,8684,52293,https://avatars.githubusercontent.com/u/3380462?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,22,Official Go implementation of the Ethereum protocol,18955,45509,https://avatars.githubusercontent.com/u/6250754?v=4
+29261473,minio,minio/minio,Go,26,The Object Store for AI Data Infrastructure,5072,43647,https://avatars.githubusercontent.com/u/695951?v=4
+17728164,terraform,hashicorp/terraform,Go,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9244,40900,https://avatars.githubusercontent.com/u/761456?v=4
+212613049,cli,cli/cli,Go,35,GitHub’s official command line tool,5095,35007,https://avatars.githubusercontent.com/u/59704711?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,21,Open Source realtime backend in 1 file,1421,32358,https://avatars.githubusercontent.com/u/101000011?v=4
+167596393,k9s,derailed/k9s,Go,26,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1548,24440,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+26337322,rancher,rancher/rancher,Go,11,Complete container management platform,2871,22419,https://avatars.githubusercontent.com/u/9343010?v=4
+109145553,podman,containers/podman,Go,16,Podman: A tool for managing OCI containers and pods.,2207,21285,https://avatars.githubusercontent.com/u/5874934?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,47,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1500,16656,https://avatars.githubusercontent.com/u/109613420?v=4
+403020531,colima,abiosoft/colima,Go,25,Container runtimes on macOS (and Linux) with minimal setup,337,16342,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,28,Protect and discover secrets using Gitleaks 🔑,1300,15015,https://avatars.githubusercontent.com/u/90395851?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,9,Workflow Engine for Kubernetes,3029,14158,https://avatars.githubusercontent.com/u/30269780?v=4
+193160679,sqlc,sqlc-dev/sqlc,Go,15,Generate type-safe code from SQL,695,10511,https://avatars.githubusercontent.com/u/136738596?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,9,Exporter for machine metrics,2241,10122,https://avatars.githubusercontent.com/u/3380462?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,31,Code AI platform with Code Search & Cody,1170,9590,https://avatars.githubusercontent.com/u/3979584?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,3,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,927,7543,https://avatars.githubusercontent.com/u/17118990?v=4
+247714750,zitadel,zitadel/zitadel,Go,12,"ZITADEL - Identity infrastructure, simplified for you.",388,6578,https://avatars.githubusercontent.com/u/70011121?v=4
+206213815,chaos-mesh,chaos-mesh/chaos-mesh,Go,19,A Chaos Engineering Platform for Kubernetes.,785,6282,https://avatars.githubusercontent.com/u/59082378?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,3,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3282,5837,https://avatars.githubusercontent.com/u/228843?v=4
+235685125,deej,omriharel/deej,Go,117,Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux,305,3212,https://avatars.githubusercontent.com/u/10298151?u=86af52a5598a73f6c790421472ac204f721751bb&v=4
+281288782,teler,kitabisa/teler,Go,146,Real-time HTTP Intrusion Detection,244,2878,https://avatars.githubusercontent.com/u/40655294?v=4
+411212454,evmos,evmos/evmos,Go,0,"Evmos is the first decentralized EVM chain on the Cosmos Network.  It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.",780,1599,https://avatars.githubusercontent.com/u/106125317?v=4
+746962176,retina,microsoft/retina,Go,370,eBPF distributed networking observability tool for Kubernetes,45,1147,https://avatars.githubusercontent.com/u/6154722?v=4
