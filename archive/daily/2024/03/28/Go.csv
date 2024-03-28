@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,31,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7779,74985,https://avatars.githubusercontent.com/u/7894478?v=4
-658928958,ollama,ollama/ollama,Go,324,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",3481,51014,https://avatars.githubusercontent.com/u/151674099?v=4
-11225014,etcd,etcd-io/etcd,Go,30,Distributed reliable key-value store for the most critical data of a distributed system,9543,46080,https://avatars.githubusercontent.com/u/41972792?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,62,simple terminal UI for git commands,1655,44619,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,37,Open Source realtime backend in 1 file,1424,32512,https://avatars.githubusercontent.com/u/101000011?v=4
-18369373,viper,spf13/viper,Go,18,Go configuration with fangs,1979,25570,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-48003886,go-patterns,tmrts/go-patterns,Go,32,"Curated list of Go design patterns, recipes and idioms",2140,23933,https://avatars.githubusercontent.com/u/5067495?v=4
-52034309,zap,uber-go/zap,Go,18,"Blazing fast, structured, leveled logging in Go.",1386,20762,https://avatars.githubusercontent.com/u/19262598?v=4
-27729907,grpc-go,grpc/grpc-go,Go,15,The Go language implementation of gRPC. HTTP/2 based RPC,4178,19721,https://avatars.githubusercontent.com/u/7802525?v=4
-5179099,go-redis,redis/go-redis,Go,17,Redis Go client,2265,19137,https://avatars.githubusercontent.com/u/1529926?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,18,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2209,16907,https://avatars.githubusercontent.com/u/50994705?v=4
-45363955,ip2region,lionsoul2014/ip2region,Go,32,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2657,15724,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
-33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5457,13682,https://avatars.githubusercontent.com/u/5713248?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1565,11654,https://avatars.githubusercontent.com/u/2810941?v=4
+6838921,prometheus,prometheus/prometheus,Go,24,The Prometheus monitoring system and time series database.,8697,52372,https://avatars.githubusercontent.com/u/3380462?v=4
+658928958,ollama,ollama/ollama,Go,324,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",3487,51047,https://avatars.githubusercontent.com/u/151674099?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,25,Official Go implementation of the Ethereum protocol,19006,45585,https://avatars.githubusercontent.com/u/6250754?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,62,simple terminal UI for git commands,1655,44624,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+122734569,lux,iawia002/lux,Go,51,👾 Fast and simple video download library and CLI tool written in Go,2729,24347,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+180687624,trivy,aquasecurity/trivy,Go,12,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2073,21022,https://avatars.githubusercontent.com/u/12783832?v=4
+27729907,grpc-go,grpc/grpc-go,Go,15,The Go language implementation of gRPC. HTTP/2 based RPC,4178,19723,https://avatars.githubusercontent.com/u/7802525?v=4
+20653934,cadvisor,google/cadvisor,Go,3,Analyzes resource usage and performance characteristics of running containers.,2266,16207,https://avatars.githubusercontent.com/u/1342004?v=4
+533087958,d2,terrastruct/d2,Go,19,D2 is a modern diagram scripting language that turns text to diagrams.,372,15612,https://avatars.githubusercontent.com/u/80369600?v=4
+6443435,nats-server,nats-io/nats-server,Go,4,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1343,14592,https://avatars.githubusercontent.com/u/10203055?v=4
+62921553,rook,rook/rook,Go,6,Storage Orchestration for Kubernetes,2626,11847,https://avatars.githubusercontent.com/u/22860722?v=4
+10270722,go-github,google/go-github,Go,1,Go library for accessing the GitHub v3 API,1990,10025,https://avatars.githubusercontent.com/u/1342004?v=4
 222824662,dagger,dagger/dagger,Go,20,Application Delivery as Code that Runs Anywhere,517,9968,https://avatars.githubusercontent.com/u/78824383?v=4
-9120526,pgx,jackc/pgx,Go,6,PostgreSQL driver and toolkit for Go,778,9274,https://avatars.githubusercontent.com/u/94130?v=4
-147886080,crossplane,crossplane/crossplane,Go,15,The Cloud Native Control Plane,860,8592,https://avatars.githubusercontent.com/u/45158470?v=4
-66509131,client-go,kubernetes/client-go,Go,5,Go client for Kubernetes.,2875,8544,https://avatars.githubusercontent.com/u/13629408?v=4
-221849341,asynq,hibiken/asynq,Go,26,"Simple, reliable, and efficient distributed task queue in Go",614,8470,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
-12332444,ginkgo,onsi/ginkgo,Go,11,A Modern Testing Framework for Go,638,7861,https://avatars.githubusercontent.com/u/558230?v=4
-126493684,gotenberg,gotenberg/gotenberg,Go,20,"A developer-friendly API for converting numerous document formats into PDF files, and more!",444,6564,https://avatars.githubusercontent.com/u/66820499?v=4
-63882194,calico,projectcalico/calico,Go,7,Cloud native networking and network security,1233,5408,https://avatars.githubusercontent.com/u/12304728?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,12,OpenTelemetry Go API and SDK,964,4707,https://avatars.githubusercontent.com/u/49998002?v=4
-486038209,XrayR,XrayR-project/XrayR,Go,1,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",686,1560,https://avatars.githubusercontent.com/u/80372356?v=4
-187904985,corteza,cortezaproject/corteza,Go,16,Low-code platform,304,1316,https://avatars.githubusercontent.com/u/50577806?v=4
+312629343,fscan,shadow1ng/fscan,Go,14,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1297,7725,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,2,Kubernetes Native Edge Computing Framework (project under CNCF),1641,6340,https://avatars.githubusercontent.com/u/41812520?v=4
+11931032,btcd,btcsuite/btcd,Go,1,An alternative full node bitcoin implementation written in Go (golang),2157,5844,https://avatars.githubusercontent.com/u/10235229?v=4
+206649463,ebpf,cilium/ebpf,Go,6,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",624,5668,https://avatars.githubusercontent.com/u/21054566?v=4
+63882194,calico,projectcalico/calico,Go,7,Cloud native networking and network security,1234,5409,https://avatars.githubusercontent.com/u/12304728?v=4
+58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,4,Add-on agent to generate and expose cluster-level metrics.,1831,5038,https://avatars.githubusercontent.com/u/13629408?v=4
+248790367,gocron,go-co-op/gocron,Go,9,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,281,4821,https://avatars.githubusercontent.com/u/62412798?v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,18,Giving Kubernetes Superpowers to everyone,521,4766,https://avatars.githubusercontent.com/u/128535266?v=4
+98671007,descheduler,kubernetes-sigs/descheduler,Go,2,Descheduler for Kubernetes,628,4009,https://avatars.githubusercontent.com/u/36015203?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,1965,2465,https://avatars.githubusercontent.com/u/49998002?v=4
+187904985,corteza,cortezaproject/corteza,Go,16,Low-code platform,304,1319,https://avatars.githubusercontent.com/u/50577806?v=4
+712458219,siglens,siglens/siglens,Go,21,100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%,138,871,https://avatars.githubusercontent.com/u/149330615?v=4
