@@ -1,14 +1,14 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 184909163,yabai,koekeishiya/yabai,C,21,A tiling window manager for macOS based on binary space partitioning,614,20916,https://avatars.githubusercontent.com/u/6175959?u=e07b472bc4fa5500439c2c099a4736bcfd636769&v=4
 84240850,timescaledb,timescale/timescaledb,C,2,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,835,16338,https://avatars.githubusercontent.com/u/8986001?v=4
-272457606,cosmopolitan,jart/cosmopolitan,C,63,build-once run-anywhere c library,481,14614,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
-40217904,sway,swaywm/sway,C,8,i3-compatible Wayland compositor,1058,13684,https://avatars.githubusercontent.com/u/32400794?v=4
+272457606,cosmopolitan,jart/cosmopolitan,C,63,build-once run-anywhere c library,481,14615,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+40217904,sway,swaywm/sway,C,8,i3-compatible Wayland compositor,1059,13684,https://avatars.githubusercontent.com/u/32400794?v=4
 414577657,Dummy-Robot,peng-zhihui/Dummy-Robot,C,17,我的超迷你机械臂机器人项目。,2500,11127,https://avatars.githubusercontent.com/u/12994887?u=6bfec84cb512892557cfed7fd7c52b0b0f41f95b&v=4
 91493088,GoodbyeDPI,ValdikSS/GoodbyeDPI,C,12,GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows),874,10134,https://avatars.githubusercontent.com/u/3054729?u=db712da584cc0d21a860b786b9ab2f2323758598&v=4
 90961634,wcdb,Tencent/wcdb,C,1,WCDB is a cross-platform database framework developed by WeChat.,1342,10016,https://avatars.githubusercontent.com/u/18461506?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,7,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5818,9425,https://avatars.githubusercontent.com/u/19595895?v=4
-106586124,atomic-red-team,redcanaryco/atomic-red-team,C,4,Small and highly portable detection tests based on MITRE's ATT&CK.,2649,8935,https://avatars.githubusercontent.com/u/6877001?v=4
-19330466,xxHash,Cyan4973/xxHash,C,17,Extremely fast non-cryptographic hash algorithm,741,8338,https://avatars.githubusercontent.com/u/750081?u=bc25a00bff5a065778480a53601409e71e63f7be&v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,7,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5819,9425,https://avatars.githubusercontent.com/u/19595895?v=4
+106586124,atomic-red-team,redcanaryco/atomic-red-team,C,4,Small and highly portable detection tests based on MITRE's ATT&CK.,2649,8936,https://avatars.githubusercontent.com/u/6877001?v=4
+19330466,xxHash,Cyan4973/xxHash,C,17,Extremely fast non-cryptographic hash algorithm,741,8339,https://avatars.githubusercontent.com/u/750081?u=bc25a00bff5a065778480a53601409e71e63f7be&v=4
 7037996,yara,VirusTotal/yara,C,5,The pattern matching swiss knife,1381,7545,https://avatars.githubusercontent.com/u/7701252?v=4
 38617,sqlcipher,sqlcipher/sqlcipher,C,2,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1242,5902,https://avatars.githubusercontent.com/u/649049?v=4
 6331631,fio,axboe/fio,C,2,Flexible I/O Tester,1203,4819,https://avatars.githubusercontent.com/u/2619634?v=4
@@ -16,11 +16,11 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,2,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",928,4564,https://avatars.githubusercontent.com/u/62360046?v=4
 283149635,ffmpeg-kit,arthenica/ffmpeg-kit,C,4,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",486,3682,https://avatars.githubusercontent.com/u/113347484?v=4
 23780138,riscv-gnu-toolchain,riscv-collab/riscv-gnu-toolchain,C,2,"GNU toolchain for RISC-V, including GCC",1058,3055,https://avatars.githubusercontent.com/u/89536104?v=4
-775743011,valkey,valkey-io/valkey,C,1828,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.",81,2748,https://avatars.githubusercontent.com/u/164458127?v=4
+775743011,valkey,valkey-io/valkey,C,1828,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.",81,2776,https://avatars.githubusercontent.com/u/164458127?v=4
 51990771,CMSIS_5,ARM-software/CMSIS_5,C,3,CMSIS Version 5 Development Repository,1073,1218,https://avatars.githubusercontent.com/u/5690313?v=4
-775151369,CVE-2024-1086,Notselwyn/CVE-2024-1086,C,286,"Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",87,810,https://avatars.githubusercontent.com/u/68616630?u=b7ff25f9e7ab8d1b9a2b696e1326036e7f6614b3&v=4
+775151369,CVE-2024-1086,Notselwyn/CVE-2024-1086,C,286,"Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",87,820,https://avatars.githubusercontent.com/u/68616630?u=b7ff25f9e7ab8d1b9a2b696e1326036e7f6614b3&v=4
 695650801,uv-k5-firmware-custom,egzumer/uv-k5-firmware-custom,C,9,A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod,222,781,https://avatars.githubusercontent.com/u/14902414?u=fff0620c7e61b9f71a2735684f1e2efadfda8a4a&v=4
 53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,1,Scripts which perform an installable binary image build for SONiC,1301,661,https://avatars.githubusercontent.com/u/102750714?v=4
-776981146,lolra,cnlohr/lolra,C,128,Transmit LoRa Frames Without a Radio,24,391,https://avatars.githubusercontent.com/u/2748168?u=3b0cf506abbed548d035827e6901e9333c541e27&v=4
+776981146,lolra,cnlohr/lolra,C,128,Transmit LoRa Frames Without a Radio,25,393,https://avatars.githubusercontent.com/u/2748168?u=3b0cf506abbed548d035827e6901e9333c541e27&v=4
 696280459,rknn-toolkit2,airockchip/rknn-toolkit2,C,9,,18,152,https://avatars.githubusercontent.com/u/57983059?v=4
-689881351,ESP-Drone,Circuit-Digest/ESP-Drone,C,25,,11,73,https://avatars.githubusercontent.com/u/88712734?v=4
+689881351,ESP-Drone,Circuit-Digest/ESP-Drone,C,25,,11,74,https://avatars.githubusercontent.com/u/88712734?v=4
