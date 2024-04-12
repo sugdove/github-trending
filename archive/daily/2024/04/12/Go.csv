@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,12,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18519,67655,https://avatars.githubusercontent.com/u/27259197?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,183,Official Go implementation of the Ethereum protocol,19274,45919,https://avatars.githubusercontent.com/u/6250754?v=4
-72495579,gitea,go-gitea/gitea,Go,13,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5162,41674,https://avatars.githubusercontent.com/u/12724356?v=4
-41986369,tidb,pingcap/tidb,Go,8,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial",5704,36045,https://avatars.githubusercontent.com/u/11855343?v=4
-13855476,gorm,go-gorm/gorm,Go,14,"The fantastic ORM library for Golang, aims to be developer friendly",3808,35321,https://avatars.githubusercontent.com/u/15127678?v=4
-436297812,memos,usememos/memos,Go,35,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",1946,26871,https://avatars.githubusercontent.com/u/95764151?v=4
-50613991,harbor,goharbor/harbor,Go,11,"An open source trusted cloud native registry project that stores, signs, and scans content.",4523,22124,https://avatars.githubusercontent.com/u/40275816?v=4
-6247705,testify,stretchr/testify,Go,14,A toolkit with common assertions and mocks that plays nicely with the standard library,1542,21925,https://avatars.githubusercontent.com/u/1841476?v=4
-72477752,pulumi,pulumi/pulumi,Go,7,Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀,1025,19615,https://avatars.githubusercontent.com/u/21992475?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,8,Declarative Continuous Deployment for Kubernetes,4818,16026,https://avatars.githubusercontent.com/u/30269780?v=4
-465303307,lo,samber/lo,Go,17,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",686,15253,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,5471,13718,https://avatars.githubusercontent.com/u/5713248?v=4
-370977430,open-im-server,openimsdk/open-im-server,Go,5,IM Chat ,2265,12898,https://avatars.githubusercontent.com/u/84842645?v=4
-148545807,kind,kubernetes-sigs/kind,Go,12,Kubernetes IN Docker - local clusters for testing Kubernetes,1465,12722,https://avatars.githubusercontent.com/u/36015203?v=4
-16554739,beats,elastic/beats,Go,2,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4843,11977,https://avatars.githubusercontent.com/u/6764390?v=4
-247032621,go-admin,go-admin-team/go-admin,Go,13,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,2271,10741,https://avatars.githubusercontent.com/u/70429007?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,13,Exporter for machine metrics,2255,10215,https://avatars.githubusercontent.com/u/3380462?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,16,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1286,9830,https://avatars.githubusercontent.com/u/126152966?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,0,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3658,8707,https://avatars.githubusercontent.com/u/66682517?v=4
-150713223,kubeedge,kubeedge/kubeedge,Go,3,Kubernetes Native Edge Computing Framework (project under CNCF),1645,6378,https://avatars.githubusercontent.com/u/41812520?v=4
-116392590,podinfo,stefanprodan/podinfo,Go,23,Go microservice template for Kubernetes,1582,5089,https://avatars.githubusercontent.com/u/3797675?u=994ad74f368b53597fc3039c358c67fc140834ef&v=4
-238797860,optimism,ethereum-optimism/optimism,Go,5,"Optimism is Ethereum, scaled.",2669,5018,https://avatars.githubusercontent.com/u/58791460?v=4
-219954477,blocky,0xERR0R/blocky,Go,57,Fast and lightweight DNS proxy as ad-blocker for local network with many features,184,4064,https://avatars.githubusercontent.com/u/25868513?u=8bcc4812563a861ddf650a4889bfcc9ccbbf246d&v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,2,Progressive Delivery for Kubernetes,767,2452,https://avatars.githubusercontent.com/u/30269780?v=4
-193784341,go-mysql-server,dolthub/go-mysql-server,Go,140,A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.,183,2015,https://avatars.githubusercontent.com/u/42156961?v=4
+48378947,frp,fatedier/frp,Go,47,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12606,79229,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+658928958,ollama,ollama/ollama,Go,233,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",3785,54340,https://avatars.githubusercontent.com/u/151674099?v=4
+42408804,traefik,traefik/traefik,Go,28,The Cloud Native Application Proxy,4840,47642,https://avatars.githubusercontent.com/u/14280338?v=4
+56353740,minikube,kubernetes/minikube,Go,10,Run Kubernetes locally,4742,28286,https://avatars.githubusercontent.com/u/13629408?v=4
+208728772,milvus,milvus-io/milvus,Go,25,"A cloud-native vector database, storage for next generation AI applications",2547,26518,https://avatars.githubusercontent.com/u/51735404?v=4
+43723161,helm,helm/helm,Go,5,The Kubernetes Package Manager,6919,25968,https://avatars.githubusercontent.com/u/15859888?v=4
+18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1984,25691,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+129717717,loki,grafana/loki,Go,13,"Like Prometheus, but for logs.",3206,22022,https://avatars.githubusercontent.com/u/7195757?v=4
+6247705,testify,stretchr/testify,Go,14,A toolkit with common assertions and mocks that plays nicely with the standard library,1542,21927,https://avatars.githubusercontent.com/u/1841476?v=4
+27729907,grpc-go,grpc/grpc-go,Go,7,The Go language implementation of gRPC. HTTP/2 based RPC,4190,19797,https://avatars.githubusercontent.com/u/7802525?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,62,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1568,17381,https://avatars.githubusercontent.com/u/109613420?v=4
+46089560,containerd,containerd/containerd,Go,13,An open and reliable container runtime,3232,16251,https://avatars.githubusercontent.com/u/14037953?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,8,Declarative Continuous Deployment for Kubernetes,4819,16029,https://avatars.githubusercontent.com/u/30269780?v=4
+33258973,telegraf,influxdata/telegraf,Go,3,The plugin-driven server agent for collecting & reporting metrics.,5472,13719,https://avatars.githubusercontent.com/u/5713248?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,8,Code AI platform with Code Search & Cody,1178,9666,https://avatars.githubusercontent.com/u/3979584?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,9,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1447,8594,https://avatars.githubusercontent.com/u/62798169?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,9,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,937,7594,https://avatars.githubusercontent.com/u/17118990?v=4
+267054247,grype,anchore/grype,Go,5,A vulnerability scanner for container images and filesystems,485,7581,https://avatars.githubusercontent.com/u/16208487?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,2,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3310,5892,https://avatars.githubusercontent.com/u/228843?v=4
+116392590,podinfo,stefanprodan/podinfo,Go,23,Go microservice template for Kubernetes,1582,5091,https://avatars.githubusercontent.com/u/3797675?u=994ad74f368b53597fc3039c358c67fc140834ef&v=4
+335952417,cosign,sigstore/cosign,Go,3,Code signing and transparency for containers and binaries,494,4029,https://avatars.githubusercontent.com/u/71096353?v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,3,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,697,3875,https://avatars.githubusercontent.com/u/68335991?v=4
+265775217,bsc,bnb-chain/bsc,Go,13,A BNB Smart Chain client based on the go-ethereum fork,1451,2548,https://avatars.githubusercontent.com/u/45615063?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,5,Contrib repository for the OpenTelemetry Collector,1996,2506,https://avatars.githubusercontent.com/u/49998002?v=4
+764670636,alloy,grafana/alloy,Go,36,OpenTelemetry Collector distribution with programmable pipelines,10,384,https://avatars.githubusercontent.com/u/7195757?v=4
