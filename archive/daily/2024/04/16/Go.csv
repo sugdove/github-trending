@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,25,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7813,75333,https://avatars.githubusercontent.com/u/7894478?v=4
-6838921,prometheus,prometheus/prometheus,Go,15,The Prometheus monitoring system and time series database.,8725,52601,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,7,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9284,41070,https://avatars.githubusercontent.com/u/761456?v=4
-13855476,gorm,go-gorm/gorm,Go,16,"The fantastic ORM library for Golang, aims to be developer friendly",3812,35360,https://avatars.githubusercontent.com/u/15127678?v=4
-15045751,compose,docker/compose,Go,13,Define and run multi-container applications with Docker,5044,32285,https://avatars.githubusercontent.com/u/5429470?v=4
-208728772,milvus,milvus-io/milvus,Go,32,"A cloud-native vector database, storage for next generation AI applications",2554,26590,https://avatars.githubusercontent.com/u/51735404?v=4
-50613991,harbor,goharbor/harbor,Go,13,"An open source trusted cloud native registry project that stores, signs, and scans content.",4534,22172,https://avatars.githubusercontent.com/u/40275816?v=4
-129717717,loki,grafana/loki,Go,19,"Like Prometheus, but for logs.",3212,22080,https://avatars.githubusercontent.com/u/7195757?v=4
-13624859,websocket,gorilla/websocket,Go,6,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3428,21103,https://avatars.githubusercontent.com/u/489566?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,17,gRPC to JSON proxy generator following the gRPC HTTP spec,2153,17324,https://avatars.githubusercontent.com/u/19352526?v=4
-403020531,colima,abiosoft/colima,Go,21,Container runtimes on macOS (and Linux) with minimal setup,343,16664,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-21233191,kubo,ipfs/kubo,Go,6,An IPFS implementation in Go,2956,15765,https://avatars.githubusercontent.com/u/10536621?v=4
+20904437,gin,gin-gonic/gin,Go,25,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7813,75336,https://avatars.githubusercontent.com/u/7894478?v=4
+6838921,prometheus,prometheus/prometheus,Go,15,The Prometheus monitoring system and time series database.,8725,52603,https://avatars.githubusercontent.com/u/3380462?v=4
+17728164,terraform,hashicorp/terraform,Go,7,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9284,41072,https://avatars.githubusercontent.com/u/761456?v=4
+13855476,gorm,go-gorm/gorm,Go,16,"The fantastic ORM library for Golang, aims to be developer friendly",3814,35365,https://avatars.githubusercontent.com/u/15127678?v=4
+15045751,compose,docker/compose,Go,13,Define and run multi-container applications with Docker,5044,32288,https://avatars.githubusercontent.com/u/5429470?v=4
+208728772,milvus,milvus-io/milvus,Go,32,"A cloud-native vector database, storage for next generation AI applications",2554,26593,https://avatars.githubusercontent.com/u/51735404?v=4
+50613991,harbor,goharbor/harbor,Go,13,"An open source trusted cloud native registry project that stores, signs, and scans content.",4542,22197,https://avatars.githubusercontent.com/u/40275816?v=4
+129717717,loki,grafana/loki,Go,19,"Like Prometheus, but for logs.",3214,22082,https://avatars.githubusercontent.com/u/7195757?v=4
+13624859,websocket,gorilla/websocket,Go,6,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3428,21105,https://avatars.githubusercontent.com/u/489566?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,17,gRPC to JSON proxy generator following the gRPC HTTP spec,2153,17325,https://avatars.githubusercontent.com/u/19352526?v=4
+403020531,colima,abiosoft/colima,Go,21,Container runtimes on macOS (and Linux) with minimal setup,343,16669,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
+21233191,kubo,ipfs/kubo,Go,6,An IPFS implementation in Go,2956,15767,https://avatars.githubusercontent.com/u/10536621?v=4
 118105436,migrate,golang-migrate/migrate,Go,4,Database migrations. CLI and Golang library.,1309,13895,https://avatars.githubusercontent.com/u/35595841?v=4
-33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5472,13734,https://avatars.githubusercontent.com/u/5713248?v=4
-77071454,goreleaser,goreleaser/goreleaser,Go,10,Deliver Go binaries as fast and easily as possible,896,12963,https://avatars.githubusercontent.com/u/24697112?v=4
+33258973,telegraf,influxdata/telegraf,Go,5,The plugin-driven server agent for collecting & reporting metrics.,5473,13734,https://avatars.githubusercontent.com/u/5713248?v=4
+77071454,goreleaser,goreleaser/goreleaser,Go,11,Deliver Go binaries as fast and easily as possible,896,12965,https://avatars.githubusercontent.com/u/24697112?v=4
 159540440,wire,google/wire,Go,11,Compile-time Dependency Injection for Go,605,12247,https://avatars.githubusercontent.com/u/1342004?v=4
-357897199,netbird,netbirdio/netbird,Go,21,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,372,8771,https://avatars.githubusercontent.com/u/100464677?v=4
-58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,6,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",667,6027,https://avatars.githubusercontent.com/u/19352526?v=4
-355946670,vcluster,loft-sh/vcluster,Go,21,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,349,5502,https://avatars.githubusercontent.com/u/65466868?v=4
-44087204,syzkaller,google/syzkaller,Go,1,syzkaller is an unsupervised coverage-guided kernel fuzzer,1163,5111,https://avatars.githubusercontent.com/u/1342004?v=4
+357897199,netbird,netbirdio/netbird,Go,21,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,372,8775,https://avatars.githubusercontent.com/u/100464677?v=4
+58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,6,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",668,6029,https://avatars.githubusercontent.com/u/19352526?v=4
+355946670,vcluster,loft-sh/vcluster,Go,15,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,349,5505,https://avatars.githubusercontent.com/u/65466868?v=4
+44087204,syzkaller,google/syzkaller,Go,5,syzkaller is an unsupervised coverage-guided kernel fuzzer,1163,5114,https://avatars.githubusercontent.com/u/1342004?v=4
 58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,3,Add-on agent to generate and expose cluster-level metrics.,1848,5072,https://avatars.githubusercontent.com/u/13629408?v=4
 93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,6,Terraform provider for Azure Resource Manager,4446,4395,https://avatars.githubusercontent.com/u/761456?v=4
 236736020,actions-runner-controller,actions/actions-runner-controller,Go,7,Kubernetes controller for GitHub Actions self-hosted runners,993,4198,https://avatars.githubusercontent.com/u/44036562?v=4
-106473613,k8s-device-plugin,NVIDIA/k8s-device-plugin,Go,10,NVIDIA device plugin for Kubernetes,558,2365,https://avatars.githubusercontent.com/u/1728152?v=4
-783038627,redka,nalgeon/redka,Go,395,Redis re-implemented with SQLite,18,1310,https://avatars.githubusercontent.com/u/2946182?u=dfc259f08c3eb0c99a77587fe5908923ca5855dc&v=4
+106473613,k8s-device-plugin,NVIDIA/k8s-device-plugin,Go,10,NVIDIA device plugin for Kubernetes,558,2367,https://avatars.githubusercontent.com/u/1728152?v=4
+783038627,redka,nalgeon/redka,Go,395,Redis re-implemented with SQLite,19,1360,https://avatars.githubusercontent.com/u/2946182?u=dfc259f08c3eb0c99a77587fe5908923ca5855dc&v=4
