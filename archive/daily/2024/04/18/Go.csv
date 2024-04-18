@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,22,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7820,75367,https://avatars.githubusercontent.com/u/7894478?v=4
-658928958,ollama,ollama/ollama,Go,483,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",3922,55788,https://avatars.githubusercontent.com/u/151674099?v=4
-13855476,gorm,go-gorm/gorm,Go,10,"The fantastic ORM library for Golang, aims to be developer friendly",3819,35380,https://avatars.githubusercontent.com/u/15127678?v=4
-15045751,compose,docker/compose,Go,14,Define and run multi-container applications with Docker,5043,32308,https://avatars.githubusercontent.com/u/5429470?v=4
-31504491,echo,labstack/echo,Go,11,"High performance, minimalist Go web framework",2202,28460,https://avatars.githubusercontent.com/u/2624634?v=4
-56353740,minikube,kubernetes/minikube,Go,6,Run Kubernetes locally,4746,28323,https://avatars.githubusercontent.com/u/13629408?v=4
-50613991,harbor,goharbor/harbor,Go,116,"An open source trusted cloud native registry project that stores, signs, and scans content.",4567,22318,https://avatars.githubusercontent.com/u/40275816?v=4
-180687624,trivy,aquasecurity/trivy,Go,25,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2094,21278,https://avatars.githubusercontent.com/u/12783832?v=4
-21827146,seaweedfs,seaweedfs/seaweedfs,Go,8,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2163,20992,https://avatars.githubusercontent.com/u/11985425?v=4
-5179099,go-redis,redis/go-redis,Go,6,Redis Go client,2277,19254,https://avatars.githubusercontent.com/u/1529926?v=4
-48109239,cilium,cilium/cilium,Go,12,"eBPF-based Networking, Security, and Observability",2693,18480,https://avatars.githubusercontent.com/u/21054566?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,92,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1598,17678,https://avatars.githubusercontent.com/u/109613420?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,9,gRPC to JSON proxy generator following the gRPC HTTP spec,2154,17340,https://avatars.githubusercontent.com/u/19352526?v=4
-403020531,colima,abiosoft/colima,Go,33,Container runtimes on macOS (and Linux) with minimal setup,343,16719,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-66573241,fabric,hyperledger/fabric,Go,6,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,8735,15367,https://avatars.githubusercontent.com/u/7657900?v=4
-53356367,skopeo,containers/skopeo,Go,5,"Work with remote images registries - retrieving information, images, signing content",732,7345,https://avatars.githubusercontent.com/u/5874934?v=4
-31333618,decimal,shopspring/decimal,Go,16,Arbitrary-precision fixed-point decimal numbers in Go,600,5901,https://avatars.githubusercontent.com/u/11196412?v=4
-247350713,neko,m1k1o/neko,Go,26,A self hosted virtual browser that runs in docker and uses WebRTC.,410,5380,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
-169108858,kyverno,kyverno/kyverno,Go,2,Kubernetes Native Policy Management,756,5094,https://avatars.githubusercontent.com/u/68448710?v=4
-58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,6,Add-on agent to generate and expose cluster-level metrics.,1847,5083,https://avatars.githubusercontent.com/u/13629408?v=4
-201546443,assets,trustwallet/assets,Go,4,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",21907,4334,https://avatars.githubusercontent.com/u/32179889?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,6,Kubernetes controller for GitHub Actions self-hosted runners,996,4205,https://avatars.githubusercontent.com/u/44036562?v=4
-240039769,gost,go-gost/gost,Go,15,GO Simple Tunnel - a simple tunnel written in golang,443,3373,https://avatars.githubusercontent.com/u/33850973?v=4
-783038627,redka,nalgeon/redka,Go,303,Redis re-implemented with SQLite,55,1930,https://avatars.githubusercontent.com/u/2946182?u=dfc259f08c3eb0c99a77587fe5908923ca5855dc&v=4
-786905655,otel-profiling-agent,elastic/otel-profiling-agent,Go,96,The production-scale datacenter profiler,79,1011,https://avatars.githubusercontent.com/u/6764390?v=4
+658928958,ollama,ollama/ollama,Go,483,"Get up and running with Llama 2, Mistral, Gemma, and other large language models.",3928,55822,https://avatars.githubusercontent.com/u/151674099?v=4
+31288958,vault,hashicorp/vault,Go,2,"A tool for secrets management, encryption as a service, and privileged access management",4037,29607,https://avatars.githubusercontent.com/u/761456?v=4
+208728772,milvus,milvus-io/milvus,Go,38,"A cloud-native vector database, storage for next generation AI applications",2561,26648,https://avatars.githubusercontent.com/u/51735404?v=4
+43723161,helm,helm/helm,Go,10,The Kubernetes Package Manager,6923,25995,https://avatars.githubusercontent.com/u/15859888?v=4
+192632000,dapr,dapr/dapr,Go,9,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1824,23247,https://avatars.githubusercontent.com/u/51932459?v=4
+50613991,harbor,goharbor/harbor,Go,116,"An open source trusted cloud native registry project that stores, signs, and scans content.",4568,22327,https://avatars.githubusercontent.com/u/40275816?v=4
+273871859,headscale,juanfont/headscale,Go,17,"An open source, self-hosted implementation of the Tailscale control server",1070,19417,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,92,🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。,1598,17689,https://avatars.githubusercontent.com/u/109613420?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,9,gRPC to JSON proxy generator following the gRPC HTTP spec,2154,17341,https://avatars.githubusercontent.com/u/19352526?v=4
+515619101,vhs,charmbracelet/vhs,Go,18,Your CLI home video recorder 📼,228,13657,https://avatars.githubusercontent.com/u/57376114?v=4
+4925652,cron,robfig/cron,Go,6,a cron library for go,1568,12474,https://avatars.githubusercontent.com/u/536325?v=4
+13021798,git-lfs,git-lfs/git-lfs,Go,4,Git extension for versioning large files,1987,12427,https://avatars.githubusercontent.com/u/20246716?v=4
+542931741,incubator-answer,apache/incubator-answer,Go,14,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",792,11371,https://avatars.githubusercontent.com/u/47359?v=4
+139727567,Reloader,stakater/Reloader,Go,8,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",451,6687,https://avatars.githubusercontent.com/u/15930712?v=4
+110027931,metallb,metallb/metallb,Go,3,A network load-balancer implementation for Kubernetes using standard routing protocols,870,6605,https://avatars.githubusercontent.com/u/60239468?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,3,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3322,5909,https://avatars.githubusercontent.com/u/228843?v=4
+355946670,vcluster,loft-sh/vcluster,Go,32,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,350,5549,https://avatars.githubusercontent.com/u/65466868?v=4
+140958903,expr,expr-lang/expr,Go,9,Expression language and expression evaluation for Go,360,5523,https://avatars.githubusercontent.com/u/144815908?v=4
+262126497,syft,anchore/syft,Go,11,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,496,5433,https://avatars.githubusercontent.com/u/16208487?v=4
+247350713,neko,m1k1o/neko,Go,26,A self hosted virtual browser that runs in docker and uses WebRTC.,410,5383,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
+238797860,optimism,ethereum-optimism/optimism,Go,4,"Optimism is Ethereum, scaled.",2693,5027,https://avatars.githubusercontent.com/u/58791460?v=4
+501372599,openfga,openfga/openfga,Go,8,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,150,2225,https://avatars.githubusercontent.com/u/103602580?v=4
+783038627,redka,nalgeon/redka,Go,349,Redis re-implemented with SQLite,56,1954,https://avatars.githubusercontent.com/u/2946182?u=dfc259f08c3eb0c99a77587fe5908923ca5855dc&v=4
+786905655,otel-profiling-agent,elastic/otel-profiling-agent,Go,804,The production-scale datacenter profiler,82,1062,https://avatars.githubusercontent.com/u/6764390?v=4
+732048952,omni,omni-network/omni,Go,2,"Monorepo for Omni node, contracts and other related tools",12,39,https://avatars.githubusercontent.com/u/129912432?v=4
