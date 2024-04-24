@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,22,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7827,75461,https://avatars.githubusercontent.com/u/7894478?v=4
-658928958,ollama,ollama/ollama,Go,736,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",4227,59325,https://avatars.githubusercontent.com/u/151674099?v=4
-14125254,consul,hashicorp/consul,Go,4,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4364,27789,https://avatars.githubusercontent.com/u/761456?v=4
-135516270,k3s,k3s-io/k3s,Go,15,Lightweight Kubernetes,2230,26441,https://avatars.githubusercontent.com/u/49319725?v=4
-13628513,logrus,sirupsen/logrus,Go,12,"Structured, pluggable logging for Go.",2252,24049,https://avatars.githubusercontent.com/u/97400?v=4
-52034309,zap,uber-go/zap,Go,11,"Blazing fast, structured, leveled logging in Go.",1397,20938,https://avatars.githubusercontent.com/u/19262598?v=4
+23096959,go,golang/go,Go,36,The Go programming language,17169,119562,https://avatars.githubusercontent.com/u/4314092?v=4
+658928958,ollama,ollama/ollama,Go,736,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",4236,59409,https://avatars.githubusercontent.com/u/151674099?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,32,A node.js version management utility for Windows. Ironically written in Go.,3177,34594,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+56353740,minikube,kubernetes/minikube,Go,7,Run Kubernetes locally,4760,28342,https://avatars.githubusercontent.com/u/13629408?v=4
+135516270,k3s,k3s-io/k3s,Go,15,Lightweight Kubernetes,2230,26442,https://avatars.githubusercontent.com/u/49319725?v=4
+26337322,rancher,rancher/rancher,Go,8,Complete container management platform,2881,22531,https://avatars.githubusercontent.com/u/9343010?v=4
+109145553,podman,containers/podman,Go,18,Podman: A tool for managing OCI containers and pods.,2237,21684,https://avatars.githubusercontent.com/u/5874934?v=4
+52034309,zap,uber-go/zap,Go,11,"Blazing fast, structured, leveled logging in Go.",1397,20937,https://avatars.githubusercontent.com/u/19262598?v=4
+27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4205,19861,https://avatars.githubusercontent.com/u/7802525?v=4
 7877397,sqlx,jmoiron/sqlx,Go,7,general purpose extensions to golang's database/sql,1062,15361,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
 8966356,packer,hashicorp/packer,Go,6,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3299,14887,https://avatars.githubusercontent.com/u/761456?v=4
-119419195,kaniko,GoogleContainerTools/kaniko,Go,8,Build Container Images In Kubernetes,1374,13908,https://avatars.githubusercontent.com/u/38444003?v=4
-109162639,thanos,thanos-io/thanos,Go,1,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2001,12582,https://avatars.githubusercontent.com/u/49725059?v=4
-11206255,sarama,IBM/sarama,Go,5,Sarama is a Go library for Apache Kafka.,1713,10979,https://avatars.githubusercontent.com/u/1459110?v=4
-43225113,yq,mikefarah/yq,Go,13,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",541,10780,https://avatars.githubusercontent.com/u/1151925?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1310,9949,https://avatars.githubusercontent.com/u/126152966?v=4
-93928882,swag,swaggo/swag,Go,4,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1140,9782,https://avatars.githubusercontent.com/u/29616670?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,6,A Kubernetes controller and tool for one-way encrypted Secrets,650,7144,https://avatars.githubusercontent.com/u/34656521?v=4
-90798757,kafka-go,segmentio/kafka-go,Go,6,Kafka library in Go,747,7119,https://avatars.githubusercontent.com/u/819518?v=4
-276822250,kubevela,kubevela/kubevela,Go,7,The Modern Application Platform.,853,6087,https://avatars.githubusercontent.com/u/74584788?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,4,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3351,5936,https://avatars.githubusercontent.com/u/228843?v=4
-206649463,ebpf,cilium/ebpf,Go,2,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",636,5746,https://avatars.githubusercontent.com/u/21054566?v=4
-52555254,goose,pressly/goose,Go,21,A database migration tool. Supports SQL migrations and Go functions. ,480,5635,https://avatars.githubusercontent.com/u/18835?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,3,OpenTelemetry Go API and SDK,980,4768,https://avatars.githubusercontent.com/u/49998002?v=4
-235320869,naabu,projectdiscovery/naabu,Go,9,A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests,498,4259,https://avatars.githubusercontent.com/u/50994705?v=4
-729446906,vfox,version-fox/vfox,Go,111,"A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more",66,2023,https://avatars.githubusercontent.com/u/154070718?v=4
-242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,0,Collection of extensions for OpenTelemetry-Go.,485,998,https://avatars.githubusercontent.com/u/49998002?v=4
-771961521,amprobe,amuluze/amprobe,Go,19,轻量级主机及容器监控服务,22,300,https://avatars.githubusercontent.com/u/16292237?u=926476ed91e0b0359806f5c9d9687f218aa4b980&v=4
+6443435,nats-server,nats-io/nats-server,Go,7,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1352,14742,https://avatars.githubusercontent.com/u/10203055?v=4
+118105436,migrate,golang-migrate/migrate,Go,6,Database migrations. CLI and Golang library.,1315,13960,https://avatars.githubusercontent.com/u/35595841?v=4
+62921553,rook,rook/rook,Go,7,Storage Orchestration for Kubernetes,2642,11917,https://avatars.githubusercontent.com/u/22860722?v=4
+11206255,sarama,IBM/sarama,Go,5,Sarama is a Go library for Apache Kafka.,1713,10980,https://avatars.githubusercontent.com/u/1459110?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,12,Code AI platform with Code Search & Cody,1185,9709,https://avatars.githubusercontent.com/u/3979584?v=4
+172292744,gnet,panjf2000/gnet,Go,14,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",967,8814,https://avatars.githubusercontent.com/u/7496278?u=e371dfcbca24dfb03857fda897c04e6a7fc3781a&v=4
+90798757,kafka-go,segmentio/kafka-go,Go,6,Kafka library in Go,747,7120,https://avatars.githubusercontent.com/u/819518?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,4,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3351,5939,https://avatars.githubusercontent.com/u/228843?v=4
+22485114,hcl,hashicorp/hcl,Go,13,HCL is the HashiCorp configuration language.,578,5074,https://avatars.githubusercontent.com/u/761456?v=4
+39808208,env,caarlos0/env,Go,14,A simple and zero-dependencies library to parse environment variables into structs,234,4352,https://avatars.githubusercontent.com/u/245435?v=4
+272663924,simplebank,techschool/simplebank,Go,2,Backend master class: build a simple bank service in Go,843,3942,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
+385634291,mimir,grafana/mimir,Go,4,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",447,3713,https://avatars.githubusercontent.com/u/7195757?v=4
+527612250,coroot,coroot/coroot,Go,103,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",129,3625,https://avatars.githubusercontent.com/u/66906464?v=4
+124157517,cluster-api,kubernetes-sigs/cluster-api,Go,3,"Home for Cluster API, a subproject of sig-cluster-lifecycle",1254,3354,https://avatars.githubusercontent.com/u/36015203?v=4
