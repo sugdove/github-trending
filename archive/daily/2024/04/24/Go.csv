@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,36,The Go programming language,17169,119562,https://avatars.githubusercontent.com/u/4314092?v=4
-658928958,ollama,ollama/ollama,Go,736,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",4236,59409,https://avatars.githubusercontent.com/u/151674099?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,32,A node.js version management utility for Windows. Ironically written in Go.,3177,34594,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-56353740,minikube,kubernetes/minikube,Go,7,Run Kubernetes locally,4760,28342,https://avatars.githubusercontent.com/u/13629408?v=4
-135516270,k3s,k3s-io/k3s,Go,15,Lightweight Kubernetes,2230,26442,https://avatars.githubusercontent.com/u/49319725?v=4
-26337322,rancher,rancher/rancher,Go,8,Complete container management platform,2881,22531,https://avatars.githubusercontent.com/u/9343010?v=4
-109145553,podman,containers/podman,Go,18,Podman: A tool for managing OCI containers and pods.,2237,21684,https://avatars.githubusercontent.com/u/5874934?v=4
-52034309,zap,uber-go/zap,Go,11,"Blazing fast, structured, leveled logging in Go.",1397,20937,https://avatars.githubusercontent.com/u/19262598?v=4
+23096959,go,golang/go,Go,36,The Go programming language,17169,119572,https://avatars.githubusercontent.com/u/4314092?v=4
+658928958,ollama,ollama/ollama,Go,710,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",4247,59512,https://avatars.githubusercontent.com/u/151674099?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,32,A node.js version management utility for Windows. Ironically written in Go.,3176,34600,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+56353740,minikube,kubernetes/minikube,Go,7,Run Kubernetes locally,4759,28343,https://avatars.githubusercontent.com/u/13629408?v=4
+135516270,k3s,k3s-io/k3s,Go,19,Lightweight Kubernetes,2230,26444,https://avatars.githubusercontent.com/u/49319725?v=4
+26337322,rancher,rancher/rancher,Go,8,Complete container management platform,2881,22532,https://avatars.githubusercontent.com/u/9343010?v=4
+109145553,podman,containers/podman,Go,18,Podman: A tool for managing OCI containers and pods.,2237,21685,https://avatars.githubusercontent.com/u/5874934?v=4
+52034309,zap,uber-go/zap,Go,17,"Blazing fast, structured, leveled logging in Go.",1397,20940,https://avatars.githubusercontent.com/u/19262598?v=4
 27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4205,19861,https://avatars.githubusercontent.com/u/7802525?v=4
-7877397,sqlx,jmoiron/sqlx,Go,7,general purpose extensions to golang's database/sql,1062,15361,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
-8966356,packer,hashicorp/packer,Go,6,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3299,14887,https://avatars.githubusercontent.com/u/761456?v=4
-6443435,nats-server,nats-io/nats-server,Go,7,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1352,14742,https://avatars.githubusercontent.com/u/10203055?v=4
-118105436,migrate,golang-migrate/migrate,Go,6,Database migrations. CLI and Golang library.,1315,13960,https://avatars.githubusercontent.com/u/35595841?v=4
-62921553,rook,rook/rook,Go,7,Storage Orchestration for Kubernetes,2642,11917,https://avatars.githubusercontent.com/u/22860722?v=4
-11206255,sarama,IBM/sarama,Go,5,Sarama is a Go library for Apache Kafka.,1713,10980,https://avatars.githubusercontent.com/u/1459110?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,12,Code AI platform with Code Search & Cody,1185,9709,https://avatars.githubusercontent.com/u/3979584?v=4
-172292744,gnet,panjf2000/gnet,Go,14,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",967,8814,https://avatars.githubusercontent.com/u/7496278?u=e371dfcbca24dfb03857fda897c04e6a7fc3781a&v=4
-90798757,kafka-go,segmentio/kafka-go,Go,6,Kafka library in Go,747,7120,https://avatars.githubusercontent.com/u/819518?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,4,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3351,5939,https://avatars.githubusercontent.com/u/228843?v=4
-22485114,hcl,hashicorp/hcl,Go,13,HCL is the HashiCorp configuration language.,578,5074,https://avatars.githubusercontent.com/u/761456?v=4
-39808208,env,caarlos0/env,Go,14,A simple and zero-dependencies library to parse environment variables into structs,234,4352,https://avatars.githubusercontent.com/u/245435?v=4
-272663924,simplebank,techschool/simplebank,Go,2,Backend master class: build a simple bank service in Go,843,3942,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
-385634291,mimir,grafana/mimir,Go,4,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",447,3713,https://avatars.githubusercontent.com/u/7195757?v=4
-527612250,coroot,coroot/coroot,Go,103,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",129,3625,https://avatars.githubusercontent.com/u/66906464?v=4
+7877397,sqlx,jmoiron/sqlx,Go,11,general purpose extensions to golang's database/sql,1062,15362,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
+8966356,packer,hashicorp/packer,Go,5,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3299,14887,https://avatars.githubusercontent.com/u/761456?v=4
+6443435,nats-server,nats-io/nats-server,Go,7,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1352,14744,https://avatars.githubusercontent.com/u/10203055?v=4
+118105436,migrate,golang-migrate/migrate,Go,6,Database migrations. CLI and Golang library.,1315,13961,https://avatars.githubusercontent.com/u/35595841?v=4
+62921553,rook,rook/rook,Go,7,Storage Orchestration for Kubernetes,2642,11919,https://avatars.githubusercontent.com/u/22860722?v=4
+11206255,sarama,IBM/sarama,Go,7,Sarama is a Go library for Apache Kafka.,1713,10980,https://avatars.githubusercontent.com/u/1459110?v=4
+41288708,sourcegraph,sourcegraph/sourcegraph,Go,12,Code AI platform with Code Search & Cody,1185,9708,https://avatars.githubusercontent.com/u/3979584?v=4
+172292744,gnet,panjf2000/gnet,Go,14,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",968,8818,https://avatars.githubusercontent.com/u/7496278?u=e371dfcbca24dfb03857fda897c04e6a7fc3781a&v=4
+90798757,kafka-go,segmentio/kafka-go,Go,5,Kafka library in Go,747,7120,https://avatars.githubusercontent.com/u/819518?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,9,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3351,5940,https://avatars.githubusercontent.com/u/228843?v=4
+22485114,hcl,hashicorp/hcl,Go,13,HCL is the HashiCorp configuration language.,578,5076,https://avatars.githubusercontent.com/u/761456?v=4
+39808208,env,caarlos0/env,Go,14,A simple and zero-dependencies library to parse environment variables into structs,234,4355,https://avatars.githubusercontent.com/u/245435?v=4
+272663924,simplebank,techschool/simplebank,Go,2,Backend master class: build a simple bank service in Go,843,3946,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
+385634291,mimir,grafana/mimir,Go,4,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",448,3713,https://avatars.githubusercontent.com/u/7195757?v=4
+527612250,coroot,coroot/coroot,Go,103,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",128,3640,https://avatars.githubusercontent.com/u/66906464?v=4
 124157517,cluster-api,kubernetes-sigs/cluster-api,Go,3,"Home for Cluster API, a subproject of sig-cluster-lifecycle",1254,3354,https://avatars.githubusercontent.com/u/36015203?v=4
