@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-2325298,linux,torvalds/linux,C,2344,Linux kernel source tree,51780,170199,https://avatars.githubusercontent.com/u/1024025?v=4
-156018,redis,redis/redis,C,967,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23455,64814,https://avatars.githubusercontent.com/u/1529926?v=4
-36502,git,git/git,C,807,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,25072,49963,https://avatars.githubusercontent.com/u/18133?v=4
-1614410,FFmpeg,FFmpeg/FFmpeg,C,780,Mirror of https://git.ffmpeg.org/ffmpeg.git,11687,42361,https://avatars.githubusercontent.com/u/729418?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,2159,Port of OpenAI's Whisper model in C/C++,3071,31107,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-20159867,stb,nothings/stb,C,321,stb single-file public domain libraries for C/C++,7620,25071,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
-7634677,openssl,openssl/openssl,C,277,TLS/SSL and crypto library,9764,24167,https://avatars.githubusercontent.com/u/3279138?v=4
-196353673,TDengine,taosdata/TDengine,C,151,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4799,22798,https://avatars.githubusercontent.com/u/48876650?v=4
-29759715,zstd,facebook/zstd,C,373,Zstandard - Fast real-time compression algorithm,1994,22389,https://avatars.githubusercontent.com/u/69631?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,626,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1562,20495,https://avatars.githubusercontent.com/u/51009775?v=4
-13836499,raylib,raysan5/raylib,C,536,A simple and easy-to-use library to enjoy videogames programming,1978,18865,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-45821540,openwrt,openwrt/openwrt,C,343,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,9720,18281,https://avatars.githubusercontent.com/u/2528830?v=4
-669686044,llama2.c,karpathy/llama2.c,C,1181,Inference Llama 2 in one file of pure C,1798,15846,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
-272457606,cosmopolitan,jart/cosmopolitan,C,692,build-once run-anywhere c library,501,15091,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
-775743011,valkey,valkey-io/valkey,C,12457,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",438,12676,https://avatars.githubusercontent.com/u/164458127?v=4
-90961634,wcdb,Tencent/wcdb,C,477,WCDB is a cross-platform database framework developed by WeChat.,1379,10464,https://avatars.githubusercontent.com/u/18461506?v=4
-54280778,cJSON,DaveGamble/cJSON,C,140,Ultralightweight JSON parser in ANSI C,3108,10013,https://avatars.githubusercontent.com/u/118247?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,222,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5918,9595,https://avatars.githubusercontent.com/u/19595895?v=4
-7408108,rt-thread,RT-Thread/rt-thread,C,158,RT-Thread is an open source IoT real-time operating system (RTOS).,4823,9556,https://avatars.githubusercontent.com/u/1783729?v=4
-359952601,pgvector,pgvector/pgvector,C,545,Open-source vector similarity search for Postgres,399,9182,https://avatars.githubusercontent.com/u/98363230?v=4
-97212490,sokol,floooh/sokol,C,261,minimal cross-platform standalone C headers,436,5921,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
-203759896,immortalwrt,immortalwrt/immortalwrt,C,312,An opensource OpenWrt variant for mainland China users.,1427,4550,https://avatars.githubusercontent.com/u/53193414?v=4
-15991457,openssh-portable,openssh/openssh-portable,C,68,Portable OpenSSH,1677,2806,https://avatars.githubusercontent.com/u/2387206?v=4
-775151369,CVE-2024-1086,Notselwyn/CVE-2024-1086,C,1897,"Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",231,1876,https://avatars.githubusercontent.com/u/68616630?u=b7ff25f9e7ab8d1b9a2b696e1326036e7f6614b3&v=4
-776121034,Friend,BasedHardware/Friend,C,910,AI wearable with 24h+ battery,89,909,https://avatars.githubusercontent.com/u/162546372?v=4
+2325298,linux,torvalds/linux,C,2356,Linux kernel source tree,51778,170212,https://avatars.githubusercontent.com/u/1024025?v=4
+156018,redis,redis/redis,C,897,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23453,64815,https://avatars.githubusercontent.com/u/1529926?v=4
+36502,git,git/git,C,818,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,25075,49964,https://avatars.githubusercontent.com/u/18133?v=4
+1614410,FFmpeg,FFmpeg/FFmpeg,C,779,Mirror of https://git.ffmpeg.org/ffmpeg.git,11688,42365,https://avatars.githubusercontent.com/u/729418?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,2172,Port of OpenAI's Whisper model in C/C++,3071,31112,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+20159867,stb,nothings/stb,C,317,stb single-file public domain libraries for C/C++,7620,25072,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
+7634677,openssl,openssl/openssl,C,274,TLS/SSL and crypto library,9762,24168,https://avatars.githubusercontent.com/u/3279138?v=4
+196353673,TDengine,taosdata/TDengine,C,150,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4799,22799,https://avatars.githubusercontent.com/u/48876650?v=4
+29759715,zstd,facebook/zstd,C,379,Zstandard - Fast real-time compression algorithm,1994,22392,https://avatars.githubusercontent.com/u/69631?v=4
+214011414,WindTerm,kingToolbox/WindTerm,C,624,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1563,20503,https://avatars.githubusercontent.com/u/51009775?v=4
+13836499,raylib,raysan5/raylib,C,542,A simple and easy-to-use library to enjoy videogames programming,1978,18868,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
+45821540,openwrt,openwrt/openwrt,C,343,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,9720,18282,https://avatars.githubusercontent.com/u/2528830?v=4
+669686044,llama2.c,karpathy/llama2.c,C,1210,Inference Llama 2 in one file of pure C,1798,15855,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
+272457606,cosmopolitan,jart/cosmopolitan,C,698,build-once run-anywhere c library,501,15095,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+775743011,valkey,valkey-io/valkey,C,12497,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",440,12695,https://avatars.githubusercontent.com/u/164458127?v=4
+90961634,wcdb,Tencent/wcdb,C,476,WCDB is a cross-platform database framework developed by WeChat.,1379,10469,https://avatars.githubusercontent.com/u/18461506?v=4
+54280778,cJSON,DaveGamble/cJSON,C,138,Ultralightweight JSON parser in ANSI C,3108,10014,https://avatars.githubusercontent.com/u/118247?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,223,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",5918,9596,https://avatars.githubusercontent.com/u/19595895?v=4
+7408108,rt-thread,RT-Thread/rt-thread,C,167,RT-Thread is an open source IoT real-time operating system (RTOS).,4823,9558,https://avatars.githubusercontent.com/u/1783729?v=4
+359952601,pgvector,pgvector/pgvector,C,571,Open-source vector similarity search for Postgres,399,9186,https://avatars.githubusercontent.com/u/98363230?v=4
+97212490,sokol,floooh/sokol,C,259,minimal cross-platform standalone C headers,436,5921,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
+203759896,immortalwrt,immortalwrt/immortalwrt,C,309,An opensource OpenWrt variant for mainland China users.,1427,4552,https://avatars.githubusercontent.com/u/53193414?v=4
+15991457,openssh-portable,openssh/openssh-portable,C,70,Portable OpenSSH,1679,2807,https://avatars.githubusercontent.com/u/2387206?v=4
+775151369,CVE-2024-1086,Notselwyn/CVE-2024-1086,C,1896,"Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",231,1876,https://avatars.githubusercontent.com/u/68616630?u=b7ff25f9e7ab8d1b9a2b696e1326036e7f6614b3&v=4
+776121034,Friend,BasedHardware/Friend,C,914,AI wearable with 24h+ battery,89,910,https://avatars.githubusercontent.com/u/162546372?v=4
