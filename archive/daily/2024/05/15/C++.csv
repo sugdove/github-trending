@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,26,A framework for building native applications using React,23985,116184,https://avatars.githubusercontent.com/u/69631?v=4
-9384267,electron,electron/electron,C++,19,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",14981,112159,https://avatars.githubusercontent.com/u/13409222?v=4
-22887094,tesseract,tesseract-ocr/tesseract,C++,35,Tesseract Open Source OCR Engine (main repository),9098,58430,https://avatars.githubusercontent.com/u/8401422?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,82,LLM inference in C/C++,8254,58225,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-11171548,json,nlohmann/json,C++,20,JSON for Modern C++,6520,40525,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,9927,33212,https://avatars.githubusercontent.com/u/1342004?v=4
-197275130,winget-cli,microsoft/winget-cli,C++,4,"WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",1379,22269,https://avatars.githubusercontent.com/u/6154722?v=4
-1062572,Catch2,catchorg/Catch2,C++,9,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2998,18066,https://avatars.githubusercontent.com/u/33321405?v=4
-143455116,filament,google/filament,C++,6,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",1808,17194,https://avatars.githubusercontent.com/u/1342004?v=4
-626896474,SafeLine,chaitin/SafeLine,C++,91,"一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it operates as a reverse proxy to protect your website from hacker attacks.",550,8920,https://avatars.githubusercontent.com/u/7302766?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,33,An Open Source Machine Learning Framework for Everyone,73913,182827,https://avatars.githubusercontent.com/u/15658638?v=4
+9384267,electron,electron/electron,C++,26,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",14979,112160,https://avatars.githubusercontent.com/u/13409222?v=4
+619959033,gpt4all,nomic-ai/gpt4all,C++,34,gpt4all: run open-source LLMs anywhere,7196,65095,https://avatars.githubusercontent.com/u/102670180?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,14,Protocol Buffers - Google's data interchange format,15285,63827,https://avatars.githubusercontent.com/u/26310541?v=4
+11171548,json,nlohmann/json,C++,20,JSON for Modern C++,6520,40526,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,9927,33211,https://avatars.githubusercontent.com/u/1342004?v=4
+19953044,flatbuffers,google/flatbuffers,C++,8,FlatBuffers: Memory Efficient Serialization Library,3167,22111,https://avatars.githubusercontent.com/u/1342004?v=4
+7056202,fmt,fmtlib/fmt,C++,6,A modern formatting library,2378,19454,https://avatars.githubusercontent.com/u/7280830?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,5,A C++ header-only HTTP/HTTPS server and client library,2175,11942,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+626896474,SafeLine,chaitin/SafeLine,C++,91,"一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it operates as a reverse proxy to protect your website from hacker attacks.",550,8929,https://avatars.githubusercontent.com/u/7302766?v=4
 64561753,jetson-inference,dusty-nv/jetson-inference,C++,14,Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.,2922,7401,https://avatars.githubusercontent.com/u/15352619?u=c27bbf52912216b6bfe653967e4a994aaab45ea9&v=4
-153097643,openvino,openvinotoolkit/openvino,C++,6,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,2025,6024,https://avatars.githubusercontent.com/u/55443902?v=4
-61980658,azerothcore-wotlk,azerothcore/azerothcore-wotlk,C++,20,Complete Open Source and Modular solution for MMO,2389,5940,https://avatars.githubusercontent.com/u/20147732?v=4
-124166804,flutter-webrtc,flutter-webrtc/flutter-webrtc,C++,1,WebRTC plugin for Flutter Mobile/Desktop/Web,1068,3968,https://avatars.githubusercontent.com/u/50282063?v=4
-566578350,N64Recomp,Mr-Wiseguy/N64Recomp,C++,1365,Tool to statically recompile N64 games into native executables,198,3342,https://avatars.githubusercontent.com/u/68165316?v=4
-708994262,Zelda64Recomp,Mr-Wiseguy/Zelda64Recomp,C++,1009,Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux),149,3053,https://avatars.githubusercontent.com/u/68165316?v=4
-767152575,citra,PabloMK7/citra,C++,18,A Nintendo 3DS Emulator,547,2611,https://avatars.githubusercontent.com/u/10946643?u=a33e723a444f71ce477daa17fd9ce7065e5586a7&v=4
-158065193,code-library,ShahjalalShohag/code-library,C++,1,"Templates, algorithms and data structures implemented and collected for programming contests.",702,2599,https://avatars.githubusercontent.com/u/33003206?u=ef6b111c32c9150b540ab5fe3af2202a003a89b1&v=4
-206946371,ton,ton-blockchain/ton,C++,5,Main TON monorepo,654,2424,https://avatars.githubusercontent.com/u/55018343?v=4
-135363400,navigation2,ros-navigation/navigation2,C++,2,ROS 2 Navigation Framework and System,1160,2128,https://avatars.githubusercontent.com/u/150733807?v=4
-511797274,BambuStudio,bambulab/BambuStudio,C++,8,PC Software for BambuLab's 3D printers,206,1552,https://avatars.githubusercontent.com/u/96461528?v=4
-531380835,sherpa-onnx,k2-fsa/sherpa-onnx,C++,6,"Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift",173,915,https://avatars.githubusercontent.com/u/71431748?v=4
-745908488,rt64,rt64/rt64,C++,174,RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.,27,636,https://avatars.githubusercontent.com/u/131293817?v=4
-797553215,mirage,mirage-project/mirage,C++,21,A multi-level tensor algebra superoptimizer,12,211,https://avatars.githubusercontent.com/u/168696122?v=4
-796768691,PPPwn_cpp,xfangfang/PPPwn_cpp,C++,35,C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE),22,208,https://avatars.githubusercontent.com/u/16631584?u=61ec67a2a0ef561b2a8e9b01d49833f9906f78ee&v=4
+39211337,engine,flutter/engine,C++,4,The Flutter engine,5844,7141,https://avatars.githubusercontent.com/u/14101776?v=4
+1764646,wxWidgets,wxWidgets/wxWidgets,C++,2,Cross-Platform C++ GUI Library,1698,5768,https://avatars.githubusercontent.com/u/791023?v=4
+22660515,doctest,doctest/doctest,C++,3,The fastest feature-rich C++11/14/17/20/23 single-header testing framework,619,5614,https://avatars.githubusercontent.com/u/70880936?v=4
+15667250,ceres-solver,ceres-solver/ceres-solver,C++,4,A large scale non-linear optimization library,1009,3628,https://avatars.githubusercontent.com/u/6327561?v=4
+566578350,N64Recomp,Mr-Wiseguy/N64Recomp,C++,937,Tool to statically recompile N64 games into native executables,205,3456,https://avatars.githubusercontent.com/u/68165316?v=4
+708994262,Zelda64Recomp,Mr-Wiseguy/Zelda64Recomp,C++,432,Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux),154,3094,https://avatars.githubusercontent.com/u/68165316?v=4
+2567844,qgroundcontrol,mavlink/qgroundcontrol,C++,1,"Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",3370,2976,https://avatars.githubusercontent.com/u/961247?v=4
+191842184,verilator,verilator/verilator,C++,43,Verilator open-source SystemVerilog simulator and lint system,529,2181,https://avatars.githubusercontent.com/u/51796581?v=4
+356055024,tflite-micro,tensorflow/tflite-micro,C++,1,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).,744,1676,https://avatars.githubusercontent.com/u/15658638?v=4
+37287688,mfem,mfem/mfem,C++,4,"Lightweight, general, scalable C++ library for finite element methods",468,1569,https://avatars.githubusercontent.com/u/12879105?v=4
+511797274,BambuStudio,bambulab/BambuStudio,C++,8,PC Software for BambuLab's 3D printers,206,1553,https://avatars.githubusercontent.com/u/96461528?v=4
+796768691,PPPwn_cpp,xfangfang/PPPwn_cpp,C++,35,C++ rewrite of PPPwn (PlayStation 4 PPPoE RCE),22,210,https://avatars.githubusercontent.com/u/16631584?u=61ec67a2a0ef561b2a8e9b01d49833f9906f78ee&v=4
+675487210,VerletIntegration,marichardson137/VerletIntegration,C++,9,,10,120,https://avatars.githubusercontent.com/u/77594556?u=c7ebf6275d9cfd76e689468bf92dfd5ba81ec28d&v=4
+799925352,calamidade,Flutterando/calamidade,C++,16,,58,55,https://avatars.githubusercontent.com/u/48289443?v=4
