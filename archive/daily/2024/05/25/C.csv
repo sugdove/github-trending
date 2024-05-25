@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1903522,php-src,php/php-src,C,4,The PHP Interpreter,7664,37426,https://avatars.githubusercontent.com/u/25158?v=4
-569041,curl,curl/curl,C,13,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6193,34449,https://avatars.githubusercontent.com/u/16928085?v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C,32,Port of OpenAI's Whisper model in C/C++,3169,31968,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-34921116,bcc,iovisor/bcc,C,5,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3755,19620,https://avatars.githubusercontent.com/u/12766186?v=4
-18496166,mimikatz,gentilkiwi/mimikatz,C,6,A little tool to play with Windows security,3583,18826,https://avatars.githubusercontent.com/u/2307945?v=4
-215530281,ffmpeg.wasm,ffmpegwasm/ffmpeg.wasm,C,8,"FFmpeg for browser, powered by WebAssembly",752,13191,https://avatars.githubusercontent.com/u/56998921?v=4
-32873313,systemd,systemd/systemd,C,3,The systemd System and Service Manager ,3633,12619,https://avatars.githubusercontent.com/u/1918868?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,5,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6029,9799,https://avatars.githubusercontent.com/u/19595895?v=4
-325724738,pyroscope,grafana/pyroscope,C,5,Continuous Profiling Platform. Debug performance issues down to a single line of code,564,9511,https://avatars.githubusercontent.com/u/7195757?v=4
-40556106,wazuh,wazuh/wazuh,C,7,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1485,9374,https://avatars.githubusercontent.com/u/13752566?v=4
-5870069,librdkafka,confluentinc/librdkafka,C,3,The Apache Kafka C/C++ library,3110,7329,https://avatars.githubusercontent.com/u/9439498?v=4
+727213319,my-tv,lizongying/my-tv,C,60,我的电视 电视直播软件，安装即可使用,3005,26793,https://avatars.githubusercontent.com/u/16871545?u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4
+29759715,zstd,facebook/zstd,C,6,Zstandard - Fast real-time compression algorithm,2009,22556,https://avatars.githubusercontent.com/u/69631?v=4
+60667730,lvgl,lvgl/lvgl,C,3,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",3001,15175,https://avatars.githubusercontent.com/u/19811762?v=4
+775743011,valkey,valkey-io/valkey,C,20,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",484,13882,https://avatars.githubusercontent.com/u/164458127?v=4
+1856976,libevent,libevent/libevent,C,4,Event notification library,3344,10798,https://avatars.githubusercontent.com/u/833750?v=4
+538180525,ggml,ggerganov/ggml,C,11,Tensor library for machine learning,903,9960,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+359952601,pgvector,pgvector/pgvector,C,18,Open-source vector similarity search for Postgres,428,9745,https://avatars.githubusercontent.com/u/98363230?v=4
+40556106,wazuh,wazuh/wazuh,C,7,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1485,9376,https://avatars.githubusercontent.com/u/13752566?v=4
+59676171,klipper,Klipper3d/klipper,C,3,Klipper is a 3d-printer firmware,5120,8844,https://avatars.githubusercontent.com/u/90982958?v=4
+5805256,lua,lua/lua,C,2,"A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html",1559,8080,https://avatars.githubusercontent.com/u/2319114?v=4
+68063511,ttyd,tsl0922/ttyd,C,11,Share your terminal over the web,841,7457,https://avatars.githubusercontent.com/u/1680515?u=88e57a57c6bac5f53ad0486360d054d6e08c26e5&v=4
+62994219,kilo,antirez/kilo,C,3,A text editor in less than 1000 LOC with syntax highlight and search.,792,7165,https://avatars.githubusercontent.com/u/65632?v=4
+38617,sqlcipher,sqlcipher/sqlcipher,C,3,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1254,5982,https://avatars.githubusercontent.com/u/649049?v=4
 127023441,cuda-samples,NVIDIA/cuda-samples,C,5,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1653,5474,https://avatars.githubusercontent.com/u/1728152?v=4
-29933948,fluent-bit,fluent/fluent-bit,C,6,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1482,5421,https://avatars.githubusercontent.com/u/859518?v=4
-83160811,littlefs,littlefs-project/littlefs,C,1,A little fail-safe filesystem designed for microcontrollers,763,4823,https://avatars.githubusercontent.com/u/60944974?v=4
-8046269,libwebsockets,warmcat/libwebsockets,C,3,canonical libwebsockets.org networking library,1448,4617,https://avatars.githubusercontent.com/u/1497695?v=4
-34807561,nanopb,nanopb/nanopb,C,1,Protocol Buffers with small code size,816,4113,https://avatars.githubusercontent.com/u/12173937?v=4
-4434428,tiny-AES-c,kokke/tiny-AES-c,C,0,Small portable AES128/192/256 in C,1282,4065,https://avatars.githubusercontent.com/u/1774646?v=4
-283149635,ffmpeg-kit,arthenica/ffmpeg-kit,C,5,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",528,3870,https://avatars.githubusercontent.com/u/113347484?v=4
-149233191,Reader,binbyu/Reader,C,3,A win32 txt file reader,517,3396,https://avatars.githubusercontent.com/u/16300473?v=4
-7730829,psycopg2,psycopg/psycopg2,C,0,PostgreSQL database adapter for the Python programming language,498,3234,https://avatars.githubusercontent.com/u/2947270?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,1,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",1017,2412,https://avatars.githubusercontent.com/u/54647343?v=4
-799645136,OpenGlass,BasedHardware/OpenGlass,C,74,Turn any glasses into AI-powered smart glasses,215,1959,https://avatars.githubusercontent.com/u/162546372?v=4
-65514205,liboqs,open-quantum-safe/liboqs,C,2,C library for prototyping and experimenting with quantum-resistant cryptography,408,1644,https://avatars.githubusercontent.com/u/20689385?v=4
+8046269,libwebsockets,warmcat/libwebsockets,C,3,canonical libwebsockets.org networking library,1448,4618,https://avatars.githubusercontent.com/u/1497695?v=4
+187042471,bytehound,koute/bytehound,C,70,A memory profiler for Linux.,182,4247,https://avatars.githubusercontent.com/u/246574?v=4
+154525111,freeswitch,signalwire/freeswitch,C,3,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",1352,3211,https://avatars.githubusercontent.com/u/34925332?v=4
+741625310,raddebugger,EpicGamesExt/raddebugger,C,7,"A native, user-mode, multi-process, graphical debugger.",155,2910,https://avatars.githubusercontent.com/u/161372141?v=4
+207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,1,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",1018,2412,https://avatars.githubusercontent.com/u/54647343?v=4
+799645136,OpenGlass,BasedHardware/OpenGlass,C,74,Turn any glasses into AI-powered smart glasses,216,1964,https://avatars.githubusercontent.com/u/162546372?v=4
+50272879,pjproject,pjsip/pjproject,C,2,PJSIP project,740,1874,https://avatars.githubusercontent.com/u/6085234?v=4
+580717139,wxhelper,ttttupup/wxhelper,C,7,Hook  WeChat  / 微信逆向,526,1784,https://avatars.githubusercontent.com/u/31303661?v=4
+739562545,ComfyUI-3D-Pack,MrForExample/ComfyUI-3D-Pack,C,13,"An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",151,1509,https://avatars.githubusercontent.com/u/62230687?u=b0d0adad2510bf2273abe98e799a5a68d27fc1cd&v=4
 121516035,sdk-nrf,nrfconnect/sdk-nrf,C,1,nRF Connect SDK main repository,1138,855,https://avatars.githubusercontent.com/u/40860733?v=4
-696280459,rknn-toolkit2,airockchip/rknn-toolkit2,C,5,,46,374,https://avatars.githubusercontent.com/u/57983059?v=4
+803528385,agi,lanceewing/agi,C,14,Original source code of Sierra On-Line's AGI adventure game interpreter.,2,67,https://avatars.githubusercontent.com/u/8688804?v=4
