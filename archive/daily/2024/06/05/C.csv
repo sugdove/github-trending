@@ -1,26 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-569041,curl,curl/curl,C,23,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6211,34560,https://avatars.githubusercontent.com/u/16928085?v=4
-5101141,jq,jqlang/jq,C,6,Command-line JSON processor,1532,29312,https://avatars.githubusercontent.com/u/104800540?v=4
-727213319,my-tv,lizongying/my-tv,C,72,我的电视 电视直播软件，安装即可使用,3079,27465,https://avatars.githubusercontent.com/u/16871545?u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4
-6201092,mpv,mpv-player/mpv,C,14,🎥 Command line video player,2816,26358,https://avatars.githubusercontent.com/u/2550273?v=4
-7634677,openssl,openssl/openssl,C,14,TLS/SSL and crypto library,9856,24486,https://avatars.githubusercontent.com/u/3279138?v=4
-14812739,libuv,libuv/libuv,C,6,Cross-platform asynchronous I/O,3535,23434,https://avatars.githubusercontent.com/u/4030929?v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,22,Open-source keyboard firmware for Atmel AVR and Arm USB families,37365,17307,https://avatars.githubusercontent.com/u/25358678?v=4
-1856976,libevent,libevent/libevent,C,2,Event notification library,3347,10825,https://avatars.githubusercontent.com/u/833750?v=4
-40556106,wazuh,wazuh/wazuh,C,9,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1499,9462,https://avatars.githubusercontent.com/u/13752566?v=4
-537699,CMake,Kitware/CMake,C,2,Mirror of CMake upstream repository,2494,6514,https://avatars.githubusercontent.com/u/87549?v=4
-578839,ctags,universal-ctags/ctags,C,2,A maintained ctags implementation,615,6341,https://avatars.githubusercontent.com/u/9616766?v=4
-127023441,cuda-samples,NVIDIA/cuda-samples,C,10,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1661,5542,https://avatars.githubusercontent.com/u/1728152?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2491,4986,https://avatars.githubusercontent.com/u/97226525?v=4
-83160811,littlefs,littlefs-project/littlefs,C,1,A little fail-safe filesystem designed for microcontrollers,767,4843,https://avatars.githubusercontent.com/u/60944974?v=4
-4434428,tiny-AES-c,kokke/tiny-AES-c,C,2,Small portable AES128/192/256 in C,1281,4080,https://avatars.githubusercontent.com/u/1774646?v=4
-481977,libmodbus,stephane/libmodbus,C,2,"A Modbus library for Linux, Mac OS, FreeBSD and Windows",1697,3248,https://avatars.githubusercontent.com/u/1815?u=5ba41e06415bb6c84df4ddbd902466fb59d8948b&v=4
-154525111,freeswitch,signalwire/freeswitch,C,3,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",1353,3240,https://avatars.githubusercontent.com/u/34925332?v=4
-32202165,httrack,xroche/httrack,C,1,"HTTrack Website Copier, copy websites to your computer (Official repository)",612,3069,https://avatars.githubusercontent.com/u/4313143?u=6654239a3b10c8155a29487188f5c642b66bd25d&v=4
-158113416,MemProcFS,ufrisk/MemProcFS,C,5,MemProcFS,338,2739,https://avatars.githubusercontent.com/u/18221464?u=a3c3b6e1b5621fe92cfa9eb82cab30a8fdce9520&v=4
-15333809,open62541,open62541/open62541,C,2,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,1195,2456,https://avatars.githubusercontent.com/u/16096536?v=4
-775151369,CVE-2024-1086,Notselwyn/CVE-2024-1086,C,23,"Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",257,2044,https://avatars.githubusercontent.com/u/68616630?u=b7ff25f9e7ab8d1b9a2b696e1326036e7f6614b3&v=4
-9642428,riscv-tests,riscv-software-src/riscv-tests,C,0,,430,808,https://avatars.githubusercontent.com/u/89536631?v=4
-684322132,musializer,tsoding/musializer,C,25,Music Visualizer,88,806,https://avatars.githubusercontent.com/u/18597647?v=4
-282057462,AM32-MultiRotor-ESC-firmware,AlkaMotors/AM32-MultiRotor-ESC-firmware,C,6,Firmware for stm32f051 based speed controllers for use with mutirotors,257,699,https://avatars.githubusercontent.com/u/37931458?v=4
-794344871,COMP9024,sheisc/COMP9024,C,1,,14,38,https://avatars.githubusercontent.com/u/24311923?u=8a98c428469ddf99ed8f8f0f1fb16022f3cb0eae&v=4
+569041,curl,curl/curl,C,23,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6212,34564,https://avatars.githubusercontent.com/u/16928085?v=4
+5101141,jq,jqlang/jq,C,6,Command-line JSON processor,1532,29313,https://avatars.githubusercontent.com/u/104800540?v=4
+727213319,my-tv,lizongying/my-tv,C,134,我的电视 电视直播软件，安装即可使用,3079,27473,https://avatars.githubusercontent.com/u/16871545?u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4
+6201092,mpv,mpv-player/mpv,C,14,🎥 Command line video player,2816,26367,https://avatars.githubusercontent.com/u/2550273?v=4
+7634677,openssl,openssl/openssl,C,14,TLS/SSL and crypto library,9858,24489,https://avatars.githubusercontent.com/u/3279138?v=4
+14812739,libuv,libuv/libuv,C,6,Cross-platform asynchronous I/O,3535,23436,https://avatars.githubusercontent.com/u/4030929?v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,22,Open-source keyboard firmware for Atmel AVR and Arm USB families,37369,17308,https://avatars.githubusercontent.com/u/25358678?v=4
+1856976,libevent,libevent/libevent,C,2,Event notification library,3347,10826,https://avatars.githubusercontent.com/u/833750?v=4
+40556106,wazuh,wazuh/wazuh,C,14,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1499,9466,https://avatars.githubusercontent.com/u/13752566?v=4
+578839,ctags,universal-ctags/ctags,C,2,A maintained ctags implementation,615,6342,https://avatars.githubusercontent.com/u/9616766?v=4
+127023441,cuda-samples,NVIDIA/cuda-samples,C,10,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1662,5544,https://avatars.githubusercontent.com/u/1728152?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2491,4988,https://avatars.githubusercontent.com/u/97226525?v=4
+83160811,littlefs,littlefs-project/littlefs,C,4,A little fail-safe filesystem designed for microcontrollers,767,4844,https://avatars.githubusercontent.com/u/60944974?v=4
+4434428,tiny-AES-c,kokke/tiny-AES-c,C,2,Small portable AES128/192/256 in C,1281,4082,https://avatars.githubusercontent.com/u/1774646?v=4
+481977,libmodbus,stephane/libmodbus,C,2,"A Modbus library for Linux, Mac OS, FreeBSD and Windows",1697,3249,https://avatars.githubusercontent.com/u/1815?u=5ba41e06415bb6c84df4ddbd902466fb59d8948b&v=4
+154525111,freeswitch,signalwire/freeswitch,C,3,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",1353,3242,https://avatars.githubusercontent.com/u/34925332?v=4
+32202165,httrack,xroche/httrack,C,1,"HTTrack Website Copier, copy websites to your computer (Official repository)",612,3070,https://avatars.githubusercontent.com/u/4313143?u=6654239a3b10c8155a29487188f5c642b66bd25d&v=4
+15333809,open62541,open62541/open62541,C,1,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,1194,2458,https://avatars.githubusercontent.com/u/16096536?v=4
+684322132,musializer,tsoding/musializer,C,25,Music Visualizer,87,811,https://avatars.githubusercontent.com/u/18597647?v=4
+9642428,riscv-tests,riscv-software-src/riscv-tests,C,0,,430,809,https://avatars.githubusercontent.com/u/89536631?v=4
+282057462,AM32-MultiRotor-ESC-firmware,AlkaMotors/AM32-MultiRotor-ESC-firmware,C,6,Firmware for stm32f051 based speed controllers for use with mutirotors,257,700,https://avatars.githubusercontent.com/u/37931458?v=4
