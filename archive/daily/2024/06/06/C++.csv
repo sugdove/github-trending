@@ -1,22 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,23,A framework for building native applications using React,24019,116545,https://avatars.githubusercontent.com/u/69631?v=4
-22067521,imgui,ocornut/imgui,C++,33,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,9822,56863,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
-160083795,serenity,SerenityOS/serenity,C++,26,The Serenity Operating System 🐞,3126,29173,https://avatars.githubusercontent.com/u/50811782?v=4
-81227005,faiss,facebookresearch/faiss,C++,32,A library for efficient similarity search and clustering of dense vectors.,3450,28856,https://avatars.githubusercontent.com/u/16943930?v=4
-6934395,rocksdb,facebook/rocksdb,C++,9,"A library that provides an embeddable, persistent key-value store for fast storage.",6138,27609,https://avatars.githubusercontent.com/u/69631?v=4
-1357796,emscripten,emscripten-core/emscripten,C++,9,Emscripten: An LLVM-to-WebAssembly Compiler,3239,25277,https://avatars.githubusercontent.com/u/46011144?v=4
-65214191,envoy,envoyproxy/envoy,C++,4,Cloud-native high-performance edge/middle/service proxy,4654,24127,https://avatars.githubusercontent.com/u/30125649?v=4
-138754790,duckdb,duckdb/duckdb,C++,126,DuckDB is an analytical in-process SQL database management system,1543,18428,https://avatars.githubusercontent.com/u/82039556?v=4
-38581626,pybind11,pybind/pybind11,C++,5,Seamless operability between C++11 and Python,2032,14982,https://avatars.githubusercontent.com/u/17565521?v=4
-31102092,or-tools,google/or-tools,C++,24,Google's Operations Research tools:,2077,10642,https://avatars.githubusercontent.com/u/1342004?v=4
-8162615,pcl,PointCloudLibrary/pcl,C++,3,Point Cloud Library (PCL),4589,9571,https://avatars.githubusercontent.com/u/2059451?v=4
-372536760,oceanbase,oceanbase/oceanbase,C++,2,"OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",1527,7516,https://avatars.githubusercontent.com/u/82347605?v=4
-46374199,librealsense,IntelRealSense/librealsense,C++,23,Intel® RealSense™ SDK,4794,7364,https://avatars.githubusercontent.com/u/14095512?v=4
-244694174,connectedhomeip,project-chip/connectedhomeip,C++,3,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",1868,7086,https://avatars.githubusercontent.com/u/61027988?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,8,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,2050,6148,https://avatars.githubusercontent.com/u/55443902?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,36,An Open Source Machine Learning Framework for Everyone,73996,183270,https://avatars.githubusercontent.com/u/15658638?v=4
+1181927,bitcoin,bitcoin/bitcoin,C++,33,Bitcoin Core integration/staging tree,35476,76736,https://avatars.githubusercontent.com/u/528860?v=4
+120887835,interview,huihut/interview,C++,15,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",7873,33481,https://avatars.githubusercontent.com/u/23519480?u=26a7af910c0edb7be47b9a2f4241b22bb26e3607&v=4
+4524181,folly,facebook/folly,C++,11,An open-source C++ library developed and used at Facebook.,5442,27284,https://avatars.githubusercontent.com/u/69631?v=4
+191820100,mediapipe,google-ai-edge/mediapipe,C++,9,"Cross-platform, customizable ML solutions for live and streaming media.",5013,25858,https://avatars.githubusercontent.com/u/150697620?v=4
+96246170,apollo,ApolloAuto/apollo,C++,10,An open autonomous driving platform,9600,24599,https://avatars.githubusercontent.com/u/28768304?v=4
+26038648,spdlog,gabime/spdlog,C++,14,Fast C++ logging library.,4308,22693,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+138754790,duckdb,duckdb/duckdb,C++,126,DuckDB is an analytical in-process SQL database management system,1545,18459,https://avatars.githubusercontent.com/u/82039556?v=4
+438803890,Sunshine,LizardByte/Sunshine,C++,106,Self-hosted game stream host for Moonlight.,681,14064,https://avatars.githubusercontent.com/u/84790584?v=4
+2310495,ceph,ceph/ceph,C++,5,"Ceph is a distributed object, block, and file storage platform ",5853,13379,https://avatars.githubusercontent.com/u/1015767?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C++,4,Arduino core for the ESP32,7244,12810,https://avatars.githubusercontent.com/u/9460735?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,10,A C++ header-only HTTP/HTTPS server and client library,2192,12089,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+1605598,bullet3,bulletphysics/bullet3,C++,4,"Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",2845,12071,https://avatars.githubusercontent.com/u/6955508?v=4
+75413130,Open3D,isl-org/Open3D,C++,2,Open3D: A Modern Library for 3D Data Processing,2216,10663,https://avatars.githubusercontent.com/u/23507030?v=4
+31102092,or-tools,google/or-tools,C++,24,Google's Operations Research tools:,2077,10645,https://avatars.githubusercontent.com/u/1342004?v=4
+15122806,benchmark,google/benchmark,C++,4,A microbenchmark support library,1562,8499,https://avatars.githubusercontent.com/u/1342004?v=4
+46374199,librealsense,IntelRealSense/librealsense,C++,23,Intel® RealSense™ SDK,4794,7365,https://avatars.githubusercontent.com/u/14095512?v=4
+22660515,doctest,doctest/doctest,C++,5,The fastest feature-rich C++11/14/17/20/23 single-header testing framework,620,5653,https://avatars.githubusercontent.com/u/70880936?v=4
 112542515,cutlass,NVIDIA/cutlass,C++,8,CUDA Templates for Linear Algebra Subroutines,819,4717,https://avatars.githubusercontent.com/u/1728152?v=4
-10726510,beast,boostorg/beast,C++,7,HTTP and WebSocket built on Boost.Asio in C++11,633,4221,https://avatars.githubusercontent.com/u/3170529?v=4
-96431386,hnswlib,nmslib/hnswlib,C++,0,Header-only C++/python library for fast approximate nearest neighbors,600,4081,https://avatars.githubusercontent.com/u/37882366?v=4
-152616802,cuml,rapidsai/cuml,C++,7,cuML - RAPIDS Machine Learning Library,513,3993,https://avatars.githubusercontent.com/u/43887749?v=4
+24747723,cxxopts,jarro2783/cxxopts,C++,3,Lightweight C++ command line option parser,577,4042,https://avatars.githubusercontent.com/u/1456242?v=4
 227091502,perfetto,google/perfetto,C++,5,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",321,2506,https://avatars.githubusercontent.com/u/1342004?v=4
-718314761,onnxruntime-genai,microsoft/onnxruntime-genai,C++,7,Generative AI extensions for onnxruntime,60,228,https://avatars.githubusercontent.com/u/6154722?v=4
+581145740,ByConity,ByConity/ByConity,C++,142,ByConity is an open source cloud data warehouse,306,1975,https://avatars.githubusercontent.com/u/114223545?v=4
+245352386,FEX,FEX-Emu/FEX,C++,20,A fast usermode x86 and x86-64 emulator for Arm64 Linux,103,1911,https://avatars.githubusercontent.com/u/61863475?v=4
