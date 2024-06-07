@@ -1,24 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,220,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",5312,72055,https://avatars.githubusercontent.com/u/151674099?v=4
-7691631,moby,moby/moby,Go,10,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18562,67934,https://avatars.githubusercontent.com/u/27259197?v=4
-14712850,syncthing,syncthing/syncthing,Go,203,Open Source Continuous File Synchronization,4084,61162,https://avatars.githubusercontent.com/u/7628018?v=4
-12574344,cobra,spf13/cobra,Go,16,A Commander for modern Go CLI interactions,2787,36479,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-13855476,gorm,go-gorm/gorm,Go,17,"The fantastic ORM library for Golang, aims to be developer friendly",3850,35817,https://avatars.githubusercontent.com/u/15127678?v=4
-56353740,minikube,kubernetes/minikube,Go,11,Run Kubernetes locally,4798,28592,https://avatars.githubusercontent.com/u/13629408?v=4
+658928958,ollama,ollama/ollama,Go,220,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",5314,72075,https://avatars.githubusercontent.com/u/151674099?v=4
+7691631,moby,moby/moby,Go,10,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18562,67935,https://avatars.githubusercontent.com/u/27259197?v=4
+14712850,syncthing,syncthing/syncthing,Go,203,Open Source Continuous File Synchronization,4085,61166,https://avatars.githubusercontent.com/u/7628018?v=4
+12574344,cobra,spf13/cobra,Go,16,A Commander for modern Go CLI interactions,2787,36480,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+13855476,gorm,go-gorm/gorm,Go,17,"The fantastic ORM library for Golang, aims to be developer friendly",3851,35817,https://avatars.githubusercontent.com/u/15127678?v=4
+56353740,minikube,kubernetes/minikube,Go,11,Run Kubernetes locally,4798,28593,https://avatars.githubusercontent.com/u/13629408?v=4
 56342508,jaeger,jaegertracing/jaeger,Go,6,"CNCF Jaeger, a Distributed Tracing Platform",2347,19696,https://avatars.githubusercontent.com/u/28545596?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,11,gRPC to JSON proxy generator following the gRPC HTTP spec,2175,17560,https://avatars.githubusercontent.com/u/19352526?v=4
-46089560,containerd,containerd/containerd,Go,7,An open and reliable container runtime,3293,16554,https://avatars.githubusercontent.com/u/14037953?v=4
-30711774,validator,go-playground/validator,Go,14,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1281,15838,https://avatars.githubusercontent.com/u/14768796?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,8,Protect and discover secrets using Gitleaks 🔑,1332,15510,https://avatars.githubusercontent.com/u/90395851?v=4
-135321861,kratos,ory/kratos,Go,47,"Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!",931,10744,https://avatars.githubusercontent.com/u/25334553?v=4
-9120526,pgx,jackc/pgx,Go,8,PostgreSQL driver and toolkit for Go,796,9683,https://avatars.githubusercontent.com/u/94130?v=4
-357897199,netbird,netbirdio/netbird,Go,12,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,410,9562,https://avatars.githubusercontent.com/u/100464677?v=4
-299832860,livekit,livekit/livekit,Go,146,End-to-end stack for WebRTC. SFU media server and SDKs.,657,8103,https://avatars.githubusercontent.com/u/69438833?v=4
-170411418,keda,kedacore/keda,Go,8, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,996,7925,https://avatars.githubusercontent.com/u/49917779?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,11,gRPC to JSON proxy generator following the gRPC HTTP spec,2175,17562,https://avatars.githubusercontent.com/u/19352526?v=4
+46089560,containerd,containerd/containerd,Go,7,An open and reliable container runtime,3294,16554,https://avatars.githubusercontent.com/u/14037953?v=4
+30711774,validator,go-playground/validator,Go,14,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1281,15839,https://avatars.githubusercontent.com/u/14768796?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,23,Protect and discover secrets using Gitleaks 🔑,1333,15513,https://avatars.githubusercontent.com/u/90395851?v=4
+135321861,kratos,ory/kratos,Go,47,"Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!",931,10747,https://avatars.githubusercontent.com/u/25334553?v=4
+9120526,pgx,jackc/pgx,Go,8,PostgreSQL driver and toolkit for Go,796,9685,https://avatars.githubusercontent.com/u/94130?v=4
+357897199,netbird,netbirdio/netbird,Go,12,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,410,9564,https://avatars.githubusercontent.com/u/100464677?v=4
+299832860,livekit,livekit/livekit,Go,146,End-to-end stack for WebRTC. SFU media server and SDKs.,660,8129,https://avatars.githubusercontent.com/u/69438833?v=4
 59522149,terragrunt,gruntwork-io/terragrunt,Go,3,Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.,955,7710,https://avatars.githubusercontent.com/u/17118990?v=4
-565629124,osv-scanner,google/osv-scanner,Go,2,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,327,5925,https://avatars.githubusercontent.com/u/1342004?v=4
-262126497,syft,anchore/syft,Go,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,517,5639,https://avatars.githubusercontent.com/u/16208487?v=4
+565629124,osv-scanner,google/osv-scanner,Go,2,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,327,5926,https://avatars.githubusercontent.com/u/1342004?v=4
+262126497,syft,anchore/syft,Go,6,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,517,5641,https://avatars.githubusercontent.com/u/16208487?v=4
 63882194,calico,projectcalico/calico,Go,7,Cloud native networking and network security,1255,5597,https://avatars.githubusercontent.com/u/12304728?v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,5,OpenTelemetry Go API and SDK,999,4918,https://avatars.githubusercontent.com/u/49998002?v=4
 134539560,eksctl,eksctl-io/eksctl,Go,1,The official CLI for Amazon EKS,1388,4817,https://avatars.githubusercontent.com/u/126004790?v=4
-201546443,assets,trustwallet/assets,Go,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22103,4393,https://avatars.githubusercontent.com/u/32179889?v=4
+201546443,assets,trustwallet/assets,Go,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22103,4394,https://avatars.githubusercontent.com/u/32179889?v=4
