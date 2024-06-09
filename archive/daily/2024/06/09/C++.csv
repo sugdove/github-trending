@@ -1,25 +1,21 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,10,A framework for building native applications using React,24031,116587,https://avatars.githubusercontent.com/u/69631?v=4
-1181927,bitcoin,bitcoin/bitcoin,C++,15,Bitcoin Core integration/staging tree,35487,76824,https://avatars.githubusercontent.com/u/528860?v=4
-11171548,json,nlohmann/json,C++,11,JSON for Modern C++,6542,40863,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-6934395,rocksdb,facebook/rocksdb,C++,9,"A library that provides an embeddable, persistent key-value store for fast storage.",6143,27639,https://avatars.githubusercontent.com/u/69631?v=4
-4524181,folly,facebook/folly,C++,4,An open-source C++ library developed and used at Facebook.,5443,27299,https://avatars.githubusercontent.com/u/69631?v=4
-108110,mongo,mongodb/mongo,C++,3,The MongoDB Database,5490,25652,https://avatars.githubusercontent.com/u/45120?v=4
-65214191,envoy,envoyproxy/envoy,C++,4,Cloud-native high-performance edge/middle/service proxy,4661,24140,https://avatars.githubusercontent.com/u/30125649?v=4
-19953044,flatbuffers,google/flatbuffers,C++,7,FlatBuffers: Memory Efficient Serialization Library,3172,22229,https://avatars.githubusercontent.com/u/1342004?v=4
-7056202,fmt,fmtlib/fmt,C++,11,A modern formatting library,2407,19657,https://avatars.githubusercontent.com/u/7280830?v=4
-29397594,tinyrenderer,ssloy/tinyrenderer,C++,8,A brief computer graphics / rendering course,1927,19634,https://avatars.githubusercontent.com/u/1029298?u=ed979742dfae8d1d3967488b6ff50de727aa9ae4&v=4
-1062572,Catch2,catchorg/Catch2,C++,5,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",2999,18144,https://avatars.githubusercontent.com/u/33321405?v=4
-724854743,mlx,ml-explore/mlx,C++,13,MLX: An array framework for Apple silicon,859,15094,https://avatars.githubusercontent.com/u/102832242?v=4
-38581626,pybind11,pybind/pybind11,C++,4,Seamless operability between C++11 and Python,2032,15001,https://avatars.githubusercontent.com/u/17565521?v=4
-438803890,Sunshine,LizardByte/Sunshine,C++,52,Self-hosted game stream host for Moonlight.,691,14353,https://avatars.githubusercontent.com/u/84790584?v=4
-104231541,abseil-cpp,abseil/abseil-cpp,C++,1,Abseil Common Libraries (C++),2490,14137,https://avatars.githubusercontent.com/u/26718316?v=4
-12756992,opencv_contrib,opencv/opencv_contrib,C++,3,Repository for OpenCV's extra modules,5735,9154,https://avatars.githubusercontent.com/u/5009934?v=4
-15122806,benchmark,google/benchmark,C++,4,A microbenchmark support library,1562,8508,https://avatars.githubusercontent.com/u/1342004?v=4
-537085161,workerd,cloudflare/workerd,C++,4,The JavaScript / Wasm runtime that powers Cloudflare Workers,252,5822,https://avatars.githubusercontent.com/u/314135?v=4
-8243074,rpi-rgb-led-matrix,hzeller/rpi-rgb-led-matrix,C++,4,"Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO",1140,3547,https://avatars.githubusercontent.com/u/140937?v=4
-354476107,jellyfin-media-player,jellyfin/jellyfin-media-player,C++,14,Jellyfin Desktop Client based on Plex Media Player,291,2808,https://avatars.githubusercontent.com/u/45698031?v=4
-303308200,FAST_LIO,hku-mars/FAST_LIO,C++,2,A computationally efficient and robust LiDAR-inertial odometry (LIO) package,807,2354,https://avatars.githubusercontent.com/u/51474179?v=4
-531380835,sherpa-onnx,k2-fsa/sherpa-onnx,C++,36,"Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift",212,1354,https://avatars.githubusercontent.com/u/71431748?v=4
-356404407,onnxruntime-inference-examples,microsoft/onnxruntime-inference-examples,C++,2,Examples for using ONNX Runtime for machine learning inferencing.,303,986,https://avatars.githubusercontent.com/u/6154722?v=4
-718314761,onnxruntime-genai,microsoft/onnxruntime-genai,C++,2,Generative AI extensions for onnxruntime,64,234,https://avatars.githubusercontent.com/u/6154722?v=4
+100060912,terminal,microsoft/terminal,C++,15,"The new Windows Terminal and the original Windows console host, all in the same place!",8121,93978,https://avatars.githubusercontent.com/u/6154722?v=4
+22067521,imgui,ocornut/imgui,C++,28,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,9830,56934,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
+67702184,Magisk,topjohnwu/Magisk,C++,20,The Magic Mask for Android,11198,45019,https://avatars.githubusercontent.com/u/7337301?v=4
+1116542,aria2,aria2/aria2,C++,10,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",3432,33914,https://avatars.githubusercontent.com/u/13545224?v=4
+3351871,qBittorrent,qbittorrent/qBittorrent,C++,22,qBittorrent BitTorrent client,3802,25625,https://avatars.githubusercontent.com/u/2131270?v=4
+1217614,xbmc,xbmc/xbmc,C++,4,"Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",6249,17816,https://avatars.githubusercontent.com/u/199122?v=4
+470730648,Hyprland,hyprwm/Hyprland,C++,21,Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.,727,17516,https://avatars.githubusercontent.com/u/107882187?v=4
+438803890,Sunshine,LizardByte/Sunshine,C++,52,Self-hosted game stream host for Moonlight.,691,14358,https://avatars.githubusercontent.com/u/84790584?v=4
+384520418,MaaAssistantArknights,MaaAssistantArknights/MaaAssistantArknights,C++,16,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",1627,12329,https://avatars.githubusercontent.com/u/97677443?v=4
+488177011,nekoray,MatsuriDayo/nekoray,C++,14,Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box),1085,10968,https://avatars.githubusercontent.com/u/95122236?v=4
+23202799,cpprestsdk,microsoft/cpprestsdk,C++,2,The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.,1632,7853,https://avatars.githubusercontent.com/u/6154722?v=4
+14303048,mame,mamedev/mame,C++,3,MAME,1942,7696,https://avatars.githubusercontent.com/u/9024458?v=4
+1764646,wxWidgets,wxWidgets/wxWidgets,C++,16,Cross-Platform C++ GUI Library,1714,5834,https://avatars.githubusercontent.com/u/791023?v=4
+514553345,OrcaSlicer,SoftFever/OrcaSlicer,C++,15,"G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",632,5559,https://avatars.githubusercontent.com/u/103989404?u=5ce996a351ee08333a2e41329d5f7a09823b3724&v=4
+237647258,firmware,meshtastic/firmware,C++,6,Meshtastic device firmware,680,2906,https://avatars.githubusercontent.com/u/61627050?v=4
+112370765,texstudio,texstudio-org/texstudio,C++,2,TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.,341,2658,https://avatars.githubusercontent.com/u/34044341?v=4
+293816245,ac-library,atcoder/ac-library,C++,5,AtCoder Library,226,1720,https://avatars.githubusercontent.com/u/7151918?v=4
+531380835,sherpa-onnx,k2-fsa/sherpa-onnx,C++,152,"Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift",213,1360,https://avatars.githubusercontent.com/u/71431748?v=4
+279067598,Interview_DS_Algo,MAZHARMIK/Interview_DS_Algo,C++,13,Super Repository for Coding Interview Preperation,762,1222,https://avatars.githubusercontent.com/u/17107752?u=801f3912768eba988dceebc72fe4c682a0feff34&v=4
+324569839,YimMenu,YimMenu/YimMenu,C++,1,"YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.",872,1109,https://avatars.githubusercontent.com/u/106739674?v=4
