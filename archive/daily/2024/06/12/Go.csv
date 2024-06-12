@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6838921,prometheus,prometheus/prometheus,Go,16,The Prometheus monitoring system and time series database.,8852,53417,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,7,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9382,41480,https://avatars.githubusercontent.com/u/761456?v=4
-323965659,alist,alist-org/alist,Go,105,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5029,38835,https://avatars.githubusercontent.com/u/97389433?v=4
-212613049,cli,cli/cli,Go,12,GitHub’s official command line tool,5333,35844,https://avatars.githubusercontent.com/u/59704711?v=4
-436297812,memos,usememos/memos,Go,28,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",2076,28152,https://avatars.githubusercontent.com/u/95764151?v=4
-14125254,consul,hashicorp/consul,Go,6,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",4389,27948,https://avatars.githubusercontent.com/u/761456?v=4
-180687624,trivy,aquasecurity/trivy,Go,19,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2150,21835,https://avatars.githubusercontent.com/u/12783832?v=4
-143460965,microservices-demo,GoogleCloudPlatform/microservices-demo,Go,7,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",6698,16022,https://avatars.githubusercontent.com/u/2810941?v=4
-21233191,kubo,ipfs/kubo,Go,4,An IPFS implementation in Go,2966,15857,https://avatars.githubusercontent.com/u/10536621?v=4
-118105436,migrate,golang-migrate/migrate,Go,11,Database migrations. CLI and Golang library.,1340,14324,https://avatars.githubusercontent.com/u/35595841?v=4
-109162639,thanos,thanos-io/thanos,Go,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2034,12702,https://avatars.githubusercontent.com/u/49725059?v=4
+21540759,awesome-go,avelino/awesome-go,Go,75,"A curated list of awesome Go frameworks, libraries and software",11669,123422,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+323965659,alist,alist-org/alist,Go,105,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5030,38847,https://avatars.githubusercontent.com/u/97389433?v=4
+12574344,cobra,spf13/cobra,Go,18,A Commander for modern Go CLI interactions,2791,36534,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+208728772,milvus,milvus-io/milvus,Go,27,"A cloud-native vector database, storage for next generation AI applications",2670,27735,https://avatars.githubusercontent.com/u/51735404?v=4
+50613991,harbor,goharbor/harbor,Go,19,"An open source trusted cloud native registry project that stores, signs, and scans content.",4634,22817,https://avatars.githubusercontent.com/u/40275816?v=4
+26337322,rancher,rancher/rancher,Go,9,Complete container management platform,2905,22688,https://avatars.githubusercontent.com/u/9343010?v=4
+165041732,kratos,go-kratos/kratos,Go,5,Your ultimate Go microservices framework for the cloud-native era.,3945,22584,https://avatars.githubusercontent.com/u/62791634?v=4
+180687624,trivy,aquasecurity/trivy,Go,19,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2151,21837,https://avatars.githubusercontent.com/u/12783832?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,8,"CNCF Jaeger, a Distributed Tracing Platform",2354,19721,https://avatars.githubusercontent.com/u/28545596?v=4
+40684033,sops,getsops/sops,Go,18,Simple and flexible tool for managing secrets,834,15432,https://avatars.githubusercontent.com/u/129185620?v=4
+44350607,dashboard,kubernetes/dashboard,Go,5,General-purpose web UI for Kubernetes clusters,4104,13984,https://avatars.githubusercontent.com/u/13629408?v=4
+52595226,kcptun,xtaci/kcptun,Go,9,"A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.",2518,13748,https://avatars.githubusercontent.com/u/2346725?u=73a07790d0e146ded04cf1de4a1f6428f5d1c848&v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,3,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1113,11129,https://avatars.githubusercontent.com/u/43720803?v=4
+43225113,yq,mikefarah/yq,Go,11,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",555,11072,https://avatars.githubusercontent.com/u/1151925?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1373,10480,https://avatars.githubusercontent.com/u/126152966?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,12,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1482,8922,https://avatars.githubusercontent.com/u/62798169?v=4
+312629343,fscan,shadow1ng/fscan,Go,36,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1403,8779,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+14128006,raft,hashicorp/raft,Go,12,Golang implementation of the Raft consensus protocol,971,7960,https://avatars.githubusercontent.com/u/761456?v=4
 120519269,atlantis,runatlantis/atlantis,Go,6,Terraform Pull Request Automation,1008,7438,https://avatars.githubusercontent.com/u/32311288?v=4
-48299818,kopia,kopia/kopia,Go,13,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",341,6581,https://avatars.githubusercontent.com/u/16365723?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,3,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3456,6039,https://avatars.githubusercontent.com/u/228843?v=4
-16607984,go-sqlmock,DATA-DOG/go-sqlmock,Go,2,Sql mock driver for golang to test database interactions,403,5901,https://avatars.githubusercontent.com/u/6613360?v=4
-617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,11,Giving Kubernetes Superpowers to everyone,568,5075,https://avatars.githubusercontent.com/u/128535266?v=4
-385634291,mimir,grafana/mimir,Go,6,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",460,3814,https://avatars.githubusercontent.com/u/7195757?v=4
+11452538,alertmanager,prometheus/alertmanager,Go,4,Prometheus Alertmanager,2104,6385,https://avatars.githubusercontent.com/u/3380462?v=4
 19608522,google-cloud-go,googleapis/google-cloud-go,Go,3,Google Cloud Client Libraries for Go.,1231,3640,https://avatars.githubusercontent.com/u/16785467?v=4
-202018792,copilot-cli,aws/copilot-cli,Go,3,"The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate. ",394,3393,https://avatars.githubusercontent.com/u/2232217?v=4
-96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,1,AWS SDK for the Go programming language. ,598,2466,https://avatars.githubusercontent.com/u/2232217?v=4
-80669528,ddev,ddev/ddev,Go,4,Docker-based local PHP+Node.js web development environments,585,2458,https://avatars.githubusercontent.com/u/595986?v=4
-136494223,controller-runtime,kubernetes-sigs/controller-runtime,Go,3,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),1102,2355,https://avatars.githubusercontent.com/u/36015203?v=4
-163906733,secrets-store-csi-driver,kubernetes-sigs/secrets-store-csi-driver,Go,0,Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.  ,278,1196,https://avatars.githubusercontent.com/u/36015203?v=4
-764670636,alloy,grafana/alloy,Go,2,OpenTelemetry Collector distribution with programmable pipelines,92,921,https://avatars.githubusercontent.com/u/7195757?v=4
+117377862,gardener,gardener/gardener,Go,1,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,456,2780,https://avatars.githubusercontent.com/u/33683699?v=4
+80669528,ddev,ddev/ddev,Go,4,Docker-based local PHP+Node.js web development environments,585,2459,https://avatars.githubusercontent.com/u/595986?v=4
+552781178,crproxy,wzshiming/crproxy,Go,22,CRProxy (Container Registry Proxy),29,106,https://avatars.githubusercontent.com/u/6565744?u=12823507e2a33a5222b82da2af060c3dbbf54723&v=4
