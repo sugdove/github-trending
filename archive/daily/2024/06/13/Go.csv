@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,64,"A curated list of awesome Go frameworks, libraries and software",11670,123464,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-323965659,alist,alist-org/alist,Go,40,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5033,38871,https://avatars.githubusercontent.com/u/97389433?v=4
-12574344,cobra,spf13/cobra,Go,15,A Commander for modern Go CLI interactions,2791,36548,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-208728772,milvus,milvus-io/milvus,Go,31,"A cloud-native vector database, storage for next generation AI applications",2669,27745,https://avatars.githubusercontent.com/u/51735404?v=4
-50613991,harbor,goharbor/harbor,Go,19,"An open source trusted cloud native registry project that stores, signs, and scans content.",4633,22829,https://avatars.githubusercontent.com/u/40275816?v=4
-26337322,rancher,rancher/rancher,Go,10,Complete container management platform,2907,22694,https://avatars.githubusercontent.com/u/9343010?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,33,Production-Grade Container Scheduling and Management,38731,107835,https://avatars.githubusercontent.com/u/13629408?v=4
+13855476,gorm,go-gorm/gorm,Go,10,"The fantastic ORM library for Golang, aims to be developer friendly",3854,35865,https://avatars.githubusercontent.com/u/15127678?v=4
+15045751,compose,docker/compose,Go,12,Define and run multi-container applications with Docker,5089,32770,https://avatars.githubusercontent.com/u/5429470?v=4
+208728772,milvus,milvus-io/milvus,Go,31,"A cloud-native vector database, storage for next generation AI applications",2669,27747,https://avatars.githubusercontent.com/u/51735404?v=4
+43723161,helm,helm/helm,Go,8,The Kubernetes Package Manager,6983,26219,https://avatars.githubusercontent.com/u/15859888?v=4
+50613991,harbor,goharbor/harbor,Go,19,"An open source trusted cloud native registry project that stores, signs, and scans content.",4633,22830,https://avatars.githubusercontent.com/u/40275816?v=4
+26337322,rancher,rancher/rancher,Go,10,Complete container management platform,2907,22695,https://avatars.githubusercontent.com/u/9343010?v=4
 165041732,kratos,go-kratos/kratos,Go,7,Your ultimate Go microservices framework for the cloud-native era.,3943,22589,https://avatars.githubusercontent.com/u/62791634?v=4
-180687624,trivy,aquasecurity/trivy,Go,22,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2154,21853,https://avatars.githubusercontent.com/u/12783832?v=4
-56342508,jaeger,jaegertracing/jaeger,Go,7,"CNCF Jaeger, a Distributed Tracing Platform",2355,19727,https://avatars.githubusercontent.com/u/28545596?v=4
-40684033,sops,getsops/sops,Go,15,Simple and flexible tool for managing secrets,835,15451,https://avatars.githubusercontent.com/u/129185620?v=4
-44350607,dashboard,kubernetes/dashboard,Go,8,General-purpose web UI for Kubernetes clusters,4105,13987,https://avatars.githubusercontent.com/u/13629408?v=4
-52595226,kcptun,xtaci/kcptun,Go,8,"A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC.",2518,13751,https://avatars.githubusercontent.com/u/2346725?u=73a07790d0e146ded04cf1de4a1f6428f5d1c848&v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,3,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1115,11140,https://avatars.githubusercontent.com/u/43720803?v=4
-43225113,yq,mikefarah/yq,Go,14,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",555,11087,https://avatars.githubusercontent.com/u/1151925?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,14,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1375,10489,https://avatars.githubusercontent.com/u/126152966?v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,15,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1482,8930,https://avatars.githubusercontent.com/u/62798169?v=4
-312629343,fscan,shadow1ng/fscan,Go,34,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1404,8794,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-14128006,raft,hashicorp/raft,Go,16,Golang implementation of the Raft consensus protocol,970,7974,https://avatars.githubusercontent.com/u/761456?v=4
-120519269,atlantis,runatlantis/atlantis,Go,7,Terraform Pull Request Automation,1009,7441,https://avatars.githubusercontent.com/u/32311288?v=4
-11452538,alertmanager,prometheus/alertmanager,Go,3,Prometheus Alertmanager,2104,6385,https://avatars.githubusercontent.com/u/3380462?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1231,3639,https://avatars.githubusercontent.com/u/16785467?v=4
-117377862,gardener,gardener/gardener,Go,5,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,457,2790,https://avatars.githubusercontent.com/u/33683699?v=4
-80669528,ddev,ddev/ddev,Go,3,Docker-based local PHP+Node.js web development environments,585,2462,https://avatars.githubusercontent.com/u/595986?v=4
-552781178,crproxy,wzshiming/crproxy,Go,21,CRProxy (Container Registry Proxy),39,126,https://avatars.githubusercontent.com/u/6565744?u=12823507e2a33a5222b82da2af060c3dbbf54723&v=4
+6247705,testify,stretchr/testify,Go,15,A toolkit with common assertions and mocks that plays nicely with the standard library,1561,22357,https://avatars.githubusercontent.com/u/1841476?v=4
+205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,12,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。,6072,20424,https://avatars.githubusercontent.com/u/63276650?v=4
+30711774,validator,go-playground/validator,Go,8,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1283,15882,https://avatars.githubusercontent.com/u/14768796?v=4
+21233191,kubo,ipfs/kubo,Go,10,An IPFS implementation in Go,2968,15861,https://avatars.githubusercontent.com/u/10536621?v=4
+465303307,lo,samber/lo,Go,14,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",715,15721,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+40684033,sops,getsops/sops,Go,15,Simple and flexible tool for managing secrets,835,15453,https://avatars.githubusercontent.com/u/129185620?v=4
+4925652,cron,robfig/cron,Go,5,a cron library for go,1587,12685,https://avatars.githubusercontent.com/u/536325?v=4
+247032621,go-admin,go-admin-team/go-admin,Go,10,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro,2305,10993,https://avatars.githubusercontent.com/u/70429007?v=4
+327859577,juicefs,juicedata/juicefs,Go,6,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,883,9962,https://avatars.githubusercontent.com/u/27241737?v=4
+48714685,opa,open-policy-agent/opa,Go,3,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",1279,9254,https://avatars.githubusercontent.com/u/16468693?v=4
+14128006,raft,hashicorp/raft,Go,16,Golang implementation of the Raft consensus protocol,970,7975,https://avatars.githubusercontent.com/u/761456?v=4
+43465675,go-libp2p,libp2p/go-libp2p,Go,4,libp2p implementation in Go,1031,5804,https://avatars.githubusercontent.com/u/14838238?v=4
+76686583,kubevirt,kubevirt/kubevirt,Go,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1275,5217,https://avatars.githubusercontent.com/u/18700703?v=4
+527612250,coroot,coroot/coroot,Go,21,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",168,4382,https://avatars.githubusercontent.com/u/66906464?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,6,OpenTelemetry Collector,1346,4015,https://avatars.githubusercontent.com/u/49998002?v=4
+103307180,azure-storage-fuse,Azure/azure-storage-fuse,Go,2,A virtual file system adapter for Azure Blob storage,200,642,https://avatars.githubusercontent.com/u/6844498?v=4
+552781178,crproxy,wzshiming/crproxy,Go,21,CRProxy (Container Registry Proxy),42,130,https://avatars.githubusercontent.com/u/6565744?u=12823507e2a33a5222b82da2af060c3dbbf54723&v=4
