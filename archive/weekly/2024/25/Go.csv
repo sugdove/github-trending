@@ -1,25 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,234,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7892,76459,https://avatars.githubusercontent.com/u/7894478?v=4
-658928958,ollama,ollama/ollama,Go,1465,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",5556,74544,https://avatars.githubusercontent.com/u/151674099?v=4
+20904437,gin,gin-gonic/gin,Go,234,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7893,76460,https://avatars.githubusercontent.com/u/7894478?v=4
+658928958,ollama,ollama/ollama,Go,1465,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",5557,74572,https://avatars.githubusercontent.com/u/151674099?v=4
+133251103,dive,wagoodman/dive,Go,153,A tool for exploring each layer in a docker image,1685,44323,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
+12574344,cobra,spf13/cobra,Go,94,A Commander for modern Go CLI interactions,2794,36618,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
 41986369,tidb,pingcap/tidb,Go,39,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/",5733,36420,https://avatars.githubusercontent.com/u/11855343?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,721,Open Source realtime backend in 1 file,1587,35419,https://avatars.githubusercontent.com/u/101000011?v=4
-16607898,gitness,harness/gitness,Go,104,"Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.",2774,31788,https://avatars.githubusercontent.com/u/34780278?v=4
-48003886,go-patterns,tmrts/go-patterns,Go,82,"Curated list of Go design patterns, recipes and idioms",2163,24446,https://avatars.githubusercontent.com/u/5067495?v=4
-165041732,kratos,go-kratos/kratos,Go,51,Your ultimate Go microservices framework for the cloud-native era.,3948,22632,https://avatars.githubusercontent.com/u/62791634?v=4
-13624859,websocket,gorilla/websocket,Go,88,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3451,21554,https://avatars.githubusercontent.com/u/489566?v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,193,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,3333,17609,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-30711774,validator,go-playground/validator,Go,64,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1287,15946,https://avatars.githubusercontent.com/u/14768796?v=4
-465303307,lo,samber/lo,Go,69,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",717,15782,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,174,Protect and discover secrets using Gitleaks 🔑,1347,15780,https://avatars.githubusercontent.com/u/90395851?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,278,The most customisable and low-latency cross platform/shell prompt renderer,2277,15425,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
-222172014,nebula,slackhq/nebula,Go,46,"A scalable overlay networking tool with a focus on performance, simplicity and security",936,13950,https://avatars.githubusercontent.com/u/6911160?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,50,The AWS Provider enables Terraform to manage AWS resources.,8977,9592,https://avatars.githubusercontent.com/u/761456?v=4
-326228917,katana,projectdiscovery/katana,Go,436,A next-generation crawling and spidering framework.,496,9422,https://avatars.githubusercontent.com/u/50994705?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,721,Open Source realtime backend in 1 file,1587,35431,https://avatars.githubusercontent.com/u/101000011?v=4
+165041732,kratos,go-kratos/kratos,Go,51,Your ultimate Go microservices framework for the cloud-native era.,3948,22635,https://avatars.githubusercontent.com/u/62791634?v=4
+13624859,websocket,gorilla/websocket,Go,88,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3451,21553,https://avatars.githubusercontent.com/u/489566?v=4
+30711774,validator,go-playground/validator,Go,64,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1287,15947,https://avatars.githubusercontent.com/u/14768796?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,174,Protect and discover secrets using Gitleaks 🔑,1348,15790,https://avatars.githubusercontent.com/u/90395851?v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,278,The most customisable and low-latency cross platform/shell prompt renderer,2277,15429,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
+222172014,nebula,slackhq/nebula,Go,46,"A scalable overlay networking tool with a focus on performance, simplicity and security",936,13951,https://avatars.githubusercontent.com/u/6911160?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,56,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1122,11192,https://avatars.githubusercontent.com/u/43720803?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,50,The AWS Provider enables Terraform to manage AWS resources.,8978,9592,https://avatars.githubusercontent.com/u/761456?v=4
+326228917,katana,projectdiscovery/katana,Go,436,A next-generation crawling and spidering framework.,497,9427,https://avatars.githubusercontent.com/u/50994705?v=4
+753490180,daytona,daytonaio/daytona,Go,269,The Open Source Dev Environment Manager.,356,5923,https://avatars.githubusercontent.com/u/130513197?v=4
 63882194,calico,projectcalico/calico,Go,36,Cloud native networking and network security,1262,5653,https://avatars.githubusercontent.com/u/12304728?v=4
-206214867,gatus,TwiN/gatus,Go,53,⛑ Automated developer-oriented status page,390,5632,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
-58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,15,Add-on agent to generate and expose cluster-level metrics.,1905,5187,https://avatars.githubusercontent.com/u/13629408?v=4
+206214867,gatus,TwiN/gatus,Go,53,⛑ Automated developer-oriented status page,390,5633,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
 617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,37,Giving Kubernetes Superpowers to everyone,576,5113,https://avatars.githubusercontent.com/u/128535266?v=4
-527612250,coroot,coroot/coroot,Go,132,"Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.",173,4508,https://avatars.githubusercontent.com/u/66906464?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,25,OpenTelemetry Collector,1347,4038,https://avatars.githubusercontent.com/u/49998002?v=4
+603535454,langchaingo,tmc/langchaingo,Go,141,"LangChain for Go, the easiest way to write LLM-based programs in Go",504,3617,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
 309820286,fleet,fleetdm/fleet,Go,314,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",371,2587,https://avatars.githubusercontent.com/u/70264713?v=4
 552781178,crproxy,DaoCloud/crproxy,Go,83,CRProxy (Container Registry Proxy),55,196,https://avatars.githubusercontent.com/u/9465053?v=4
