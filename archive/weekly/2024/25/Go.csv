@@ -1,24 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,246,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7900,76508,https://avatars.githubusercontent.com/u/7894478?v=4
-658928958,ollama,ollama/ollama,Go,1529,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",5608,75009,https://avatars.githubusercontent.com/u/151674099?v=4
-12574344,cobra,spf13/cobra,Go,93,A Commander for modern Go CLI interactions,2796,36646,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+21540759,awesome-go,avelino/awesome-go,Go,412,"A curated list of awesome Go frameworks, libraries and software",11693,123974,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+20904437,gin,gin-gonic/gin,Go,246,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7900,76515,https://avatars.githubusercontent.com/u/7894478?v=4
+658928958,ollama,ollama/ollama,Go,1529,"Get up and running with Llama 3, Mistral, Gemma, and other large language models.",5613,75032,https://avatars.githubusercontent.com/u/151674099?v=4
+11225014,etcd,etcd-io/etcd,Go,69,Distributed reliable key-value store for the most critical data of a distributed system,9633,46720,https://avatars.githubusercontent.com/u/41972792?v=4
+12574344,cobra,spf13/cobra,Go,93,A Commander for modern Go CLI interactions,2796,36649,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
 41986369,tidb,pingcap/tidb,Go,56,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/",5734,36434,https://avatars.githubusercontent.com/u/11855343?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,929,Open Source realtime backend in 1 file,1594,35558,https://avatars.githubusercontent.com/u/101000011?v=4
-48003886,go-patterns,tmrts/go-patterns,Go,100,"Curated list of Go design patterns, recipes and idioms",2163,24475,https://avatars.githubusercontent.com/u/5067495?v=4
-165041732,kratos,go-kratos/kratos,Go,61,Your ultimate Go microservices framework for the cloud-native era.,3947,22648,https://avatars.githubusercontent.com/u/62791634?v=4
-123572362,learn-go-with-tests,quii/learn-go-with-tests,Go,40,Learn Go with test-driven development,2743,21500,https://avatars.githubusercontent.com/u/631756?u=123f719ea9c1d667afedfef562c6b1b3b929d483&v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,456,Protect and discover secrets using Gitleaks 🔑,1357,16208,https://avatars.githubusercontent.com/u/90395851?v=4
-30711774,validator,go-playground/validator,Go,68,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1287,15970,https://avatars.githubusercontent.com/u/14768796?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,254,The most customisable and low-latency cross platform/shell prompt renderer,2280,15519,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
-193160679,sqlc,sqlc-dev/sqlc,Go,80,Generate type-safe code from SQL,738,11466,https://avatars.githubusercontent.com/u/136738596?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,73,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1123,11226,https://avatars.githubusercontent.com/u/43720803?v=4
-326228917,katana,projectdiscovery/katana,Go,553,A next-generation crawling and spidering framework.,498,9555,https://avatars.githubusercontent.com/u/50994705?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,929,Open Source realtime backend in 1 file,1594,35563,https://avatars.githubusercontent.com/u/101000011?v=4
+16563587,cockroach,cockroachdb/cockroach,Go,59,"CockroachDB - the open source, cloud-native distributed SQL database.",3685,29439,https://avatars.githubusercontent.com/u/6748139?v=4
+48003886,go-patterns,tmrts/go-patterns,Go,100,"Curated list of Go design patterns, recipes and idioms",2163,24477,https://avatars.githubusercontent.com/u/5067495?v=4
+165041732,kratos,go-kratos/kratos,Go,61,Your ultimate Go microservices framework for the cloud-native era.,3948,22648,https://avatars.githubusercontent.com/u/62791634?v=4
+123572362,learn-go-with-tests,quii/learn-go-with-tests,Go,40,Learn Go with test-driven development,2743,21506,https://avatars.githubusercontent.com/u/631756?u=123f719ea9c1d667afedfef562c6b1b3b929d483&v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,456,Protect and discover secrets using Gitleaks 🔑,1357,16218,https://avatars.githubusercontent.com/u/90395851?v=4
+30711774,validator,go-playground/validator,Go,68,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1287,15971,https://avatars.githubusercontent.com/u/14768796?v=4
+175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,254,The most customisable and low-latency cross platform/shell prompt renderer,2280,15521,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
+193160679,sqlc,sqlc-dev/sqlc,Go,80,Generate type-safe code from SQL,738,11467,https://avatars.githubusercontent.com/u/136738596?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,73,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1123,11227,https://avatars.githubusercontent.com/u/43720803?v=4
+43225113,yq,mikefarah/yq,Go,59,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",561,11165,https://avatars.githubusercontent.com/u/1151925?v=4
+326228917,katana,projectdiscovery/katana,Go,553,A next-generation crawling and spidering framework.,498,9564,https://avatars.githubusercontent.com/u/50994705?v=4
 87990209,autoscaler,kubernetes/autoscaler,Go,85,Autoscaling components for Kubernetes,3862,7789,https://avatars.githubusercontent.com/u/13629408?v=4
 120519269,atlantis,runatlantis/atlantis,Go,42,Terraform Pull Request Automation,1015,7486,https://avatars.githubusercontent.com/u/32311288?v=4
-753490180,daytona,daytonaio/daytona,Go,674,The Open Source Dev Environment Manager.,750,6489,https://avatars.githubusercontent.com/u/130513197?v=4
-206214867,gatus,TwiN/gatus,Go,52,⛑ Automated developer-oriented status page,390,5653,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
-201546443,assets,trustwallet/assets,Go,16,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22185,4427,https://avatars.githubusercontent.com/u/32179889?v=4
-98671007,descheduler,kubernetes-sigs/descheduler,Go,46,Descheduler for Kubernetes,645,4198,https://avatars.githubusercontent.com/u/36015203?v=4
-526081371,go2rtc,AlexxIT/go2rtc,Go,128,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",302,3679,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
-603535454,langchaingo,tmc/langchaingo,Go,155,"LangChain for Go, the easiest way to write LLM-based programs in Go",509,3651,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
-309820286,fleet,fleetdm/fleet,Go,89,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",373,2613,https://avatars.githubusercontent.com/u/70264713?v=4
+753490180,daytona,daytonaio/daytona,Go,674,The Open Source Dev Environment Manager.,754,6519,https://avatars.githubusercontent.com/u/130513197?v=4
+603535454,langchaingo,tmc/langchaingo,Go,155,"LangChain for Go, the easiest way to write LLM-based programs in Go",509,3656,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+463027648,afrog,zan8in/afrog,Go,44,"A Security Tool for Bug Bounty, Pentest and Red Teaming.",351,2985,https://avatars.githubusercontent.com/u/4088460?u=5bf62831907dc85b2050698b72ad38851b5aeee2&v=4
+558188628,higress,alibaba/higress,Go,35,Cloud Native API Gateway | 云原生API网关,389,2431,https://avatars.githubusercontent.com/u/1961952?v=4
