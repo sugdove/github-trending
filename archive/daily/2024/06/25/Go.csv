@@ -1,25 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29261473,minio,minio/minio,Go,23,The Object Store for AI Data Infrastructure,5285,45226,https://avatars.githubusercontent.com/u/695951?v=4
-17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9399,41570,https://avatars.githubusercontent.com/u/761456?v=4
-13855476,gorm,go-gorm/gorm,Go,17,"The fantastic ORM library for Golang, aims to be developer friendly",3858,35968,https://avatars.githubusercontent.com/u/15127678?v=4
-208728772,milvus,milvus-io/milvus,Go,31,"A cloud-native vector database, storage for next generation AI applications",2693,27942,https://avatars.githubusercontent.com/u/51735404?v=4
+29261473,minio,minio/minio,Go,23,The Object Store for AI Data Infrastructure,5285,45230,https://avatars.githubusercontent.com/u/695951?v=4
+17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9400,41569,https://avatars.githubusercontent.com/u/761456?v=4
+13855476,gorm,go-gorm/gorm,Go,17,"The fantastic ORM library for Golang, aims to be developer friendly",3858,35969,https://avatars.githubusercontent.com/u/15127678?v=4
+208728772,milvus,milvus-io/milvus,Go,31,"A cloud-native vector database, storage for next generation AI applications",2693,27943,https://avatars.githubusercontent.com/u/51735404?v=4
 18369373,viper,spf13/viper,Go,11,Go configuration with fangs,1997,26207,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-13628513,logrus,sirupsen/logrus,Go,8,"Structured, pluggable logging for Go.",2257,24265,https://avatars.githubusercontent.com/u/97400?v=4
-50613991,harbor,goharbor/harbor,Go,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",4640,22936,https://avatars.githubusercontent.com/u/40275816?v=4
-6247705,testify,stretchr/testify,Go,13,A toolkit with common assertions and mocks that plays nicely with the standard library,1559,22436,https://avatars.githubusercontent.com/u/1841476?v=4
-52034309,zap,uber-go/zap,Go,8,"Blazing fast, structured, leveled logging in Go.",1406,21233,https://avatars.githubusercontent.com/u/19262598?v=4
-11008207,vitess,vitessio/vitess,Go,14,Vitess is a database clustering system for horizontal scaling of MySQL.,2051,18125,https://avatars.githubusercontent.com/u/33043890?v=4
-509091576,sing-box,SagerNet/sing-box,Go,89,The universal proxy platform,1874,15316,https://avatars.githubusercontent.com/u/83217677?v=4
+13628513,logrus,sirupsen/logrus,Go,8,"Structured, pluggable logging for Go.",2257,24267,https://avatars.githubusercontent.com/u/97400?v=4
+50613991,harbor,goharbor/harbor,Go,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",4640,22937,https://avatars.githubusercontent.com/u/40275816?v=4
+6247705,testify,stretchr/testify,Go,13,A toolkit with common assertions and mocks that plays nicely with the standard library,1559,22437,https://avatars.githubusercontent.com/u/1841476?v=4
+52034309,zap,uber-go/zap,Go,8,"Blazing fast, structured, leveled logging in Go.",1406,21234,https://avatars.githubusercontent.com/u/19262598?v=4
+11008207,vitess,vitessio/vitess,Go,14,Vitess is a database clustering system for horizontal scaling of MySQL.,2051,18126,https://avatars.githubusercontent.com/u/33043890?v=4
+509091576,sing-box,SagerNet/sing-box,Go,150,The universal proxy platform,1875,15326,https://avatars.githubusercontent.com/u/83217677?v=4
 130430977,kubesphere,kubesphere/kubesphere,Go,6,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",2103,14605,https://avatars.githubusercontent.com/u/37326490?v=4
 148545807,kind,kubernetes-sigs/kind,Go,6,Kubernetes IN Docker - local clusters for testing Kubernetes,1501,12979,https://avatars.githubusercontent.com/u/36015203?v=4
-197914161,sftpgo,drakkan/sftpgo,Go,5,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",689,8467,https://avatars.githubusercontent.com/u/553263?u=383412442399c019c1f9678ff569695ca184ccdb&v=4
+197914161,sftpgo,drakkan/sftpgo,Go,5,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",691,8469,https://avatars.githubusercontent.com/u/553263?u=383412442399c019c1f9678ff569695ca184ccdb&v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2508,7398,https://avatars.githubusercontent.com/u/36015203?v=4
-54539060,bigcache,allegro/bigcache,Go,1,Efficient cache for gigabytes of data written in Go.,584,7310,https://avatars.githubusercontent.com/u/562236?v=4
-220588935,nezha,naiba/nezha,Go,13,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool",1180,6542,https://avatars.githubusercontent.com/u/29243953?u=9881a6f1a488312e0e597c065a1de318148743ea&v=4
-58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,5,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",684,6142,https://avatars.githubusercontent.com/u/19352526?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,4,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3473,6060,https://avatars.githubusercontent.com/u/228843?v=4
-169108858,kyverno,kyverno/kyverno,Go,4,Kubernetes Native Policy Management,795,5292,https://avatars.githubusercontent.com/u/68448710?v=4
-558188628,higress,alibaba/higress,Go,22,Cloud Native API Gateway | 云原生API网关,395,2462,https://avatars.githubusercontent.com/u/1961952?v=4
-219058535,gateway-api,kubernetes-sigs/gateway-api,Go,1,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,437,1663,https://avatars.githubusercontent.com/u/36015203?v=4
-242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,3,Collection of extensions for OpenTelemetry-Go.,504,1068,https://avatars.githubusercontent.com/u/49998002?v=4
-764670636,alloy,grafana/alloy,Go,6,OpenTelemetry Collector distribution with programmable pipelines,100,956,https://avatars.githubusercontent.com/u/7195757?v=4
+54539060,bigcache,allegro/bigcache,Go,1,Efficient cache for gigabytes of data written in Go.,585,7311,https://avatars.githubusercontent.com/u/562236?v=4
+58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,5,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",684,6143,https://avatars.githubusercontent.com/u/19352526?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,4,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3473,6061,https://avatars.githubusercontent.com/u/228843?v=4
+169108858,kyverno,kyverno/kyverno,Go,4,Kubernetes Native Policy Management,795,5294,https://avatars.githubusercontent.com/u/68448710?v=4
+558188628,higress,alibaba/higress,Go,8,Cloud Native API Gateway | 云原生API网关,396,2462,https://avatars.githubusercontent.com/u/1961952?v=4
+219058535,gateway-api,kubernetes-sigs/gateway-api,Go,1,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,437,1664,https://avatars.githubusercontent.com/u/36015203?v=4
+242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,3,Collection of extensions for OpenTelemetry-Go.,504,1069,https://avatars.githubusercontent.com/u/49998002?v=4
+764670636,alloy,grafana/alloy,Go,6,OpenTelemetry Collector distribution with programmable pipelines,100,957,https://avatars.githubusercontent.com/u/7195757?v=4
