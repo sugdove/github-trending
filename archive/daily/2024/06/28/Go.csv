@@ -1,24 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-48378947,frp,fatedier/frp,Go,50,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12874,81857,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-658928958,ollama,ollama/ollama,Go,180,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",5700,75873,https://avatars.githubusercontent.com/u/151674099?v=4
-18369373,viper,spf13/viper,Go,13,Go configuration with fangs,2001,26231,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-27729907,grpc-go,grpc/grpc-go,Go,13,The Go language implementation of gRPC. HTTP/2 based RPC,4245,20195,https://avatars.githubusercontent.com/u/7802525?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,17,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2307,18103,https://avatars.githubusercontent.com/u/50994705?v=4
-66841911,excelize,qax-os/excelize,Go,6,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1678,17581,https://avatars.githubusercontent.com/u/29733149?v=4
-333303663,bytebase,bytebase/bytebase,Go,15,"The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",675,10457,https://avatars.githubusercontent.com/u/74386897?v=4
-93928882,swag,swaggo/swag,Go,11,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1161,10064,https://avatars.githubusercontent.com/u/29616670?v=4
-299832860,livekit,livekit/livekit,Go,29,End-to-end stack for WebRTC. SFU media server and SDKs.,707,8852,https://avatars.githubusercontent.com/u/69438833?v=4
-99143276,velero,vmware-tanzu/velero,Go,2,Backup and migrate Kubernetes applications and their persistent volumes,1369,8396,https://avatars.githubusercontent.com/u/54452117?v=4
-53356367,skopeo,containers/skopeo,Go,3,"Work with remote images registries - retrieving information, images, signing content",754,7729,https://avatars.githubusercontent.com/u/5874934?v=4
-440752086,coder,coder/coder,Go,15,Provision remote development environments via Terraform,592,7338,https://avatars.githubusercontent.com/u/95932066?v=4
-11452538,alertmanager,prometheus/alertmanager,Go,4,Prometheus Alertmanager,2118,6415,https://avatars.githubusercontent.com/u/3380462?v=4
-155658556,certificates,smallstep/certificates,Go,10,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",415,6328,https://avatars.githubusercontent.com/u/23183426?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,5,OpenTelemetry Go API and SDK,1008,4966,https://avatars.githubusercontent.com/u/49998002?v=4
-501045649,waveterm,wavetermdev/waveterm,Go,104,"An open-source, cross-platform terminal for seamless workflows",71,3056,https://avatars.githubusercontent.com/u/120279640?v=4
-703404066,go-blueprint,Melkeydev/go-blueprint,Go,21,Go-blueprint allows users to spin up a quick Go project using a popular framework,189,2914,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
-29329884,mc,minio/mc,Go,8,Simple | Fast tool to manage MinIO clusters :cloud:,527,2769,https://avatars.githubusercontent.com/u/695951?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,5,Main repository for Datadog Agent,1173,2727,https://avatars.githubusercontent.com/u/365230?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,2142,2709,https://avatars.githubusercontent.com/u/49998002?v=4
-83623770,helm-diff,databus23/helm-diff,Go,2,A helm plugin that shows a diff explaining what a helm upgrade would change,274,2576,https://avatars.githubusercontent.com/u/439223?v=4
-742106639,glasskube,glasskube/glasskube,Go,210,"🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.",117,2062,https://avatars.githubusercontent.com/u/102465810?v=4
-764670636,alloy,grafana/alloy,Go,7,OpenTelemetry Collector distribution with programmable pipelines,103,975,https://avatars.githubusercontent.com/u/7195757?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,34,Production-Grade Container Scheduling and Management,38822,108134,https://avatars.githubusercontent.com/u/13629408?v=4
+658928958,ollama,ollama/ollama,Go,180,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",5704,75912,https://avatars.githubusercontent.com/u/151674099?v=4
+72495579,gitea,go-gitea/gitea,Go,25,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5293,42933,https://avatars.githubusercontent.com/u/12724356?v=4
+43723161,helm,helm/helm,Go,1,The Kubernetes Package Manager,6995,26288,https://avatars.githubusercontent.com/u/15859888?v=4
+27729907,grpc-go,grpc/grpc-go,Go,13,The Go language implementation of gRPC. HTTP/2 based RPC,4245,20196,https://avatars.githubusercontent.com/u/7802525?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,27,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1805,20114,https://avatars.githubusercontent.com/u/109613420?v=4
+5179099,go-redis,redis/go-redis,Go,7,Redis Go client,2309,19563,https://avatars.githubusercontent.com/u/1529926?v=4
+11008207,vitess,vitessio/vitess,Go,9,Vitess is a database clustering system for horizontal scaling of MySQL.,2054,18142,https://avatars.githubusercontent.com/u/33043890?v=4
+465303307,lo,samber/lo,Go,13,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",716,15826,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+6443435,nats-server,nats-io/nats-server,Go,19,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1364,15080,https://avatars.githubusercontent.com/u/10203055?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,8,Find and verify secrets,1572,14335,https://avatars.githubusercontent.com/u/79229934?v=4
+4925652,cron,robfig/cron,Go,5,a cron library for go,1587,12733,https://avatars.githubusercontent.com/u/536325?v=4
+55072677,weaviate,weaviate/weaviate,Go,11,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",693,10138,https://avatars.githubusercontent.com/u/37794290?v=4
+9120526,pgx,jackc/pgx,Go,9,PostgreSQL driver and toolkit for Go,800,9801,https://avatars.githubusercontent.com/u/94130?v=4
+244694886,nightingale,ccfos/nightingale,Go,12,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1347,9091,https://avatars.githubusercontent.com/u/96813578?v=4
+299832860,livekit,livekit/livekit,Go,29,End-to-end stack for WebRTC. SFU media server and SDKs.,707,8857,https://avatars.githubusercontent.com/u/69438833?v=4
+28366058,distribution,distribution/distribution,Go,1,"The toolkit to pack, ship, store, and deliver container content",2406,8607,https://avatars.githubusercontent.com/u/78096003?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,5,OpenTelemetry Go API and SDK,1008,4970,https://avatars.githubusercontent.com/u/49998002?v=4
+210268863,codeforces-go,EndlessCheng/codeforces-go,Go,14,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,512,4499,https://avatars.githubusercontent.com/u/7086966?u=ac53cc01d8798356e5702e8291cb7ddb838ee823&v=4
+175592968,volcano,volcano-sh/volcano,Go,1,A Cloud Native Batch System (Project under CNCF),902,3890,https://avatars.githubusercontent.com/u/47214749?v=4
+385634291,mimir,grafana/mimir,Go,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",463,3849,https://avatars.githubusercontent.com/u/7195757?v=4
+501045649,waveterm,wavetermdev/waveterm,Go,104,"An open-source, cross-platform terminal for seamless workflows",71,3068,https://avatars.githubusercontent.com/u/120279640?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,2142,2710,https://avatars.githubusercontent.com/u/49998002?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,2,Progressive Delivery for Kubernetes,808,2562,https://avatars.githubusercontent.com/u/30269780?v=4
+674367771,BloodHound,SpecterOps/BloodHound,Go,3,Six Degrees of Domain Admin,84,873,https://avatars.githubusercontent.com/u/25406560?v=4
