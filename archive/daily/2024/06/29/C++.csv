@@ -1,23 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 9384267,electron,electron/electron,C++,23,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15100,112650,https://avatars.githubusercontent.com/u/13409222?v=4
-100060912,terminal,microsoft/terminal,C++,14,"The new Windows Terminal and the original Windows console host, all in the same place!",8152,94147,https://avatars.githubusercontent.com/u/6154722?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,20,Protocol Buffers - Google's data interchange format,15346,64430,https://avatars.githubusercontent.com/u/26310541?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,79,LLM inference in C/C++,8698,60953,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-11171548,json,nlohmann/json,C++,21,JSON for Modern C++,6570,41157,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-27729880,grpc,grpc/grpc,C++,7,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10428,41120,https://avatars.githubusercontent.com/u/7802525?v=4
+1181927,bitcoin,bitcoin/bitcoin,C++,23,Bitcoin Core integration/staging tree,35583,77010,https://avatars.githubusercontent.com/u/528860?v=4
+11171548,json,nlohmann/json,C++,65,JSON for Modern C++,6571,41168,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
 39840932,googletest,google/googletest,C++,3,GoogleTest - Google Testing and Mocking Framework,9970,33646,https://avatars.githubusercontent.com/u/1342004?v=4
-16587283,xgboost,dmlc/xgboost,C++,1,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8685,25754,https://avatars.githubusercontent.com/u/11508361?v=4
-7056202,fmt,fmtlib/fmt,C++,4,A modern formatting library,2413,19795,https://avatars.githubusercontent.com/u/7280830?v=4
-689773665,llamafile,Mozilla-Ocho/llamafile,C++,38,Distribute and run LLMs with a single file.,827,16714,https://avatars.githubusercontent.com/u/117940224?v=4
-104231541,abseil-cpp,abseil/abseil-cpp,C++,9,Abseil Common Libraries (C++),2509,14244,https://avatars.githubusercontent.com/u/26718316?v=4
-5909706,cpp-httplib,yhirose/cpp-httplib,C++,3,A C++ header-only HTTP/HTTPS server and client library,2201,12225,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
-1204412,TrinityCore,TrinityCore/TrinityCore,C++,3,"TrinityCore Open Source MMO Framework (master = 10.2.7.55261, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)",5993,9248,https://avatars.githubusercontent.com/u/539602?v=4
-7232856,git-crypt,AGWA/git-crypt,C++,5,Transparent file encryption in git,471,8084,https://avatars.githubusercontent.com/u/321605?u=aa3da3f652578f78de9a60d7b07d9cd875e34ec3&v=4
-90506918,cudf,rapidsai/cudf,C++,6,cuDF - GPU DataFrame Library ,865,7979,https://avatars.githubusercontent.com/u/43887749?v=4
-5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,5,PX4 Autopilot Software,13217,7826,https://avatars.githubusercontent.com/u/2096014?v=4
-354743391,o3de,o3de/o3de,C++,3,"Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",2163,7520,https://avatars.githubusercontent.com/u/68126246?v=4
-679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,12,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,794,7339,https://avatars.githubusercontent.com/u/1728152?v=4
-23007417,colmap,colmap/colmap,C++,7,COLMAP - Structure-from-Motion and Multi-View Stereo,1448,7076,https://avatars.githubusercontent.com/u/8461936?v=4
-4930716,zeek,zeek/zeek,C++,17,Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.,1189,6182,https://avatars.githubusercontent.com/u/1194067?v=4
-10126031,mixxx,mixxxdj/mixxx,C++,2,Mixxx is Free DJ software that gives you everything you need to perform live mixes.,1236,4246,https://avatars.githubusercontent.com/u/1743769?v=4
-324569839,YimMenu,YimMenu/YimMenu,C++,9,"YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.",928,1154,https://avatars.githubusercontent.com/u/106739674?v=4
+6934395,rocksdb,facebook/rocksdb,C++,8,"A library that provides an embeddable, persistent key-value store for fast storage.",6182,27803,https://avatars.githubusercontent.com/u/69631?v=4
+26038648,spdlog,gabime/spdlog,C++,8,Fast C++ logging library.,4344,22907,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+689773665,llamafile,Mozilla-Ocho/llamafile,C++,38,Distribute and run LLMs with a single file.,827,16715,https://avatars.githubusercontent.com/u/117940224?v=4
+724854743,mlx,ml-explore/mlx,C++,17,MLX: An array framework for Apple silicon,887,15600,https://avatars.githubusercontent.com/u/102832242?v=4
+156939672,onnxruntime,microsoft/onnxruntime,C++,13,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",2744,13403,https://avatars.githubusercontent.com/u/6154722?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C++,5,Arduino core for the ESP32,7282,12941,https://avatars.githubusercontent.com/u/9460735?v=4
+130068982,taskflow,taskflow/taskflow,C++,4,A General-purpose Task-parallel Programming System using Modern C++,1158,9724,https://avatars.githubusercontent.com/u/40002981?v=4
+248058818,tracy,wolfpld/tracy,C++,21,Frame profiler,584,8194,https://avatars.githubusercontent.com/u/600573?u=d1ac7f58bc1671dd2a99ada35ddd21fa936a0f88&v=4
+183564981,OpenArk,BlackINT3/OpenArk,C++,82,The Next Generation of Anti-Rookit(ARK) tool for Windows.,822,8042,https://avatars.githubusercontent.com/u/35478470?u=9a4e334f27006694d927294e112ffe98950ae62e&v=4
+90506918,cudf,rapidsai/cudf,C++,6,cuDF - GPU DataFrame Library ,866,7979,https://avatars.githubusercontent.com/u/43887749?v=4
+46374199,librealsense,IntelRealSense/librealsense,C++,6,Intel® RealSense™ SDK,4800,7425,https://avatars.githubusercontent.com/u/14095512?v=4
+33157169,cpr,libcpr/cpr,C++,1,"C++ Requests: Curl for People, a spiritual port of Python Requests.",903,6285,https://avatars.githubusercontent.com/u/55407394?v=4
+756673810,gemma.cpp,google/gemma.cpp,C++,13,"lightweight, standalone C++ inference engine for Google's Gemma models.",479,5705,https://avatars.githubusercontent.com/u/1342004?v=4
+47440536,cocos-engine,cocos/cocos-engine,C++,1,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",1576,5486,https://avatars.githubusercontent.com/u/6937061?v=4
+388946490,velox,facebookincubator/velox,C++,4,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,1077,3267,https://avatars.githubusercontent.com/u/19538647?v=4
+605987525,FluentUI,zhuzichu520/FluentUI,C++,6,FluentUI for QML,416,3096,https://avatars.githubusercontent.com/u/56627161?u=3b7d071077308b92222ac2551f243d669b934ef5&v=4
+523007292,xla,openxla/xla,C++,1,"A machine learning compiler for GPUs, CPUs, and ML accelerators",355,2382,https://avatars.githubusercontent.com/u/107584881?v=4
+638661163,strato,strato-emu/strato,C++,3,Run Nintendo Switch homebrew & games on your Android device!,255,1968,https://avatars.githubusercontent.com/u/133053931?v=4
+324569839,YimMenu,YimMenu/YimMenu,C++,9,"YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.",931,1160,https://avatars.githubusercontent.com/u/106739674?v=4
+718314761,onnxruntime-genai,microsoft/onnxruntime-genai,C++,3,Generative AI extensions for onnxruntime,69,287,https://avatars.githubusercontent.com/u/6154722?v=4

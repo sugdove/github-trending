@@ -1,23 +1,21 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,10,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23568,65509,https://avatars.githubusercontent.com/u/1529926?v=4
+5101141,jq,jqlang/jq,C,15,Command-line JSON processor,1537,29511,https://avatars.githubusercontent.com/u/104800540?v=4
 7634677,openssl,openssl/openssl,C,15,TLS/SSL and crypto library,9916,24840,https://avatars.githubusercontent.com/u/3279138?v=4
-14812739,libuv,libuv/libuv,C,4,Cross-platform asynchronous I/O,3548,23524,https://avatars.githubusercontent.com/u/4030929?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,24,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1645,21417,https://avatars.githubusercontent.com/u/51009775?v=4
-60667730,lvgl,lvgl/lvgl,C,8,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",3055,15545,https://avatars.githubusercontent.com/u/19811762?v=4
-775743011,valkey,valkey-io/valkey,C,17,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",516,14505,https://avatars.githubusercontent.com/u/164458127?v=4
-23641816,sanitizers,google/sanitizers,C,4,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",997,10988,https://avatars.githubusercontent.com/u/1342004?v=4
-36749153,react-native-code-push,microsoft/react-native-code-push,C,1,React Native module for CodePush,1443,8864,https://avatars.githubusercontent.com/u/6154722?v=4
-53614190,mosquitto,eclipse/mosquitto,C,9,Eclipse Mosquitto - An open source MQTT broker,2328,8603,https://avatars.githubusercontent.com/u/56974?v=4
-7037996,yara,VirusTotal/yara,C,5,The pattern matching swiss knife,1414,7890,https://avatars.githubusercontent.com/u/7701252?v=4
-2328181,freebsd-src,freebsd/freebsd-src,C,2,The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....,2809,7620,https://avatars.githubusercontent.com/u/811839?v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,0,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",975,4796,https://avatars.githubusercontent.com/u/62360046?v=4
-114948816,h3,uber/h3,C,2,Hexagonal hierarchical geospatial indexing system,450,4691,https://avatars.githubusercontent.com/u/538264?v=4
-6860771,tinyusb,hathach/tinyusb,C,1,An open source  cross-platform USB stack for embedded system,995,4653,https://avatars.githubusercontent.com/u/249515?u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4
-184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,0,WebAssembly Micro Runtime (WAMR),575,4647,https://avatars.githubusercontent.com/u/54038801?v=4
-1377037,glusterfs,gluster/glusterfs,C,4,Gluster Filesystem : Build your distributed storage in minutes,1072,4561,https://avatars.githubusercontent.com/u/622644?v=4
-34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,827,4156,https://avatars.githubusercontent.com/u/12173937?v=4
+41215835,HandBrake,HandBrake/HandBrake,C,34,HandBrake's main development repository ,1280,16298,https://avatars.githubusercontent.com/u/627269?v=4
+775743011,valkey,valkey-io/valkey,C,17,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",516,14507,https://avatars.githubusercontent.com/u/164458127?v=4
+215530281,ffmpeg.wasm,ffmpegwasm/ffmpeg.wasm,C,4,"FFmpeg for browser, powered by WebAssembly",771,13417,https://avatars.githubusercontent.com/u/56998921?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,3,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6148,9984,https://avatars.githubusercontent.com/u/19595895?v=4
+192805335,mimalloc,microsoft/mimalloc,C,6,mimalloc is a compact general purpose allocator with excellent performance.,790,9712,https://avatars.githubusercontent.com/u/6154722?v=4
+40556106,wazuh,wazuh/wazuh,C,6,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1517,9599,https://avatars.githubusercontent.com/u/13752566?v=4
+18106269,lz4,lz4/lz4,C,6,Extremely Fast Compression algorithm,1337,9400,https://avatars.githubusercontent.com/u/11667224?v=4
+106586124,atomic-red-team,redcanaryco/atomic-red-team,C,4,Small and highly portable detection tests based on MITRE's ATT&CK.,2712,9317,https://avatars.githubusercontent.com/u/6877001?v=4
+5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,3114,7365,https://avatars.githubusercontent.com/u/9439498?v=4
+671061529,winlator,brunodev85/winlator,C,25,Android application for running Windows applications with Wine and Box86/Box64,276,6561,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
+29933948,fluent-bit,fluent/fluent-bit,C,0,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1503,5507,https://avatars.githubusercontent.com/u/859518?v=4
+124678204,aircrack-ng,aircrack-ng/aircrack-ng,C,5,WiFi security auditing tools suite,892,4976,https://avatars.githubusercontent.com/u/4042925?u=2e4aed03769fc637d27c21e223a530d4240e59e0&v=4
+5410234,suricata,OISF/suricata,C,5,"Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",1400,4235,https://avatars.githubusercontent.com/u/2188963?v=4
+34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,828,4156,https://avatars.githubusercontent.com/u/12173937?v=4
 283149635,ffmpeg-kit,arthenica/ffmpeg-kit,C,2,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",539,3970,https://avatars.githubusercontent.com/u/113347484?v=4
-76599439,frr,FRRouting/frr,C,2,The FRRouting Protocol Suite,1201,3109,https://avatars.githubusercontent.com/u/24592672?v=4
-646423,pgbouncer,pgbouncer/pgbouncer,C,2,lightweight connection pooler for PostgreSQL,432,2756,https://avatars.githubusercontent.com/u/11858179?v=4
-15101579,kamailio,kamailio/kamailio,C,1,Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -,916,2184,https://avatars.githubusercontent.com/u/5348744?v=4
-282057462,AM32-MultiRotor-ESC-firmware,AlkaMotors/AM32-MultiRotor-ESC-firmware,C,5,Firmware for stm32f051 based speed controllers for use with mutirotors,262,730,https://avatars.githubusercontent.com/u/37931458?v=4
+741625310,raddebugger,EpicGamesExt/raddebugger,C,11,"A native, user-mode, multi-process, graphical debugger.",161,3066,https://avatars.githubusercontent.com/u/161372141?v=4
+228103273,nuttx,apache/nuttx,C,4,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1048,2479,https://avatars.githubusercontent.com/u/47359?v=4
+53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,1342,696,https://avatars.githubusercontent.com/u/102750714?v=4
