@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,196,The Go programming language,17358,120986,https://avatars.githubusercontent.com/u/4314092?v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,183,Production-Grade Container Scheduling and Management,38829,108165,https://avatars.githubusercontent.com/u/13629408?v=4
-13855476,gorm,go-gorm/gorm,Go,85,"The fantastic ORM library for Golang, aims to be developer friendly",3858,36010,https://avatars.githubusercontent.com/u/15127678?v=4
-18369373,viper,spf13/viper,Go,69,Go configuration with fangs,2001,26250,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+21540759,awesome-go,avelino/awesome-go,Go,450,"A curated list of awesome Go frameworks, libraries and software",11694,124383,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+23096959,go,golang/go,Go,196,The Go programming language,17358,120988,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,183,Production-Grade Container Scheduling and Management,38829,108167,https://avatars.githubusercontent.com/u/13629408?v=4
+48378947,frp,fatedier/frp,Go,276,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12878,81907,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+11180687,hugo,gohugoio/hugo,Go,159,The world’s fastest framework for building websites.,7375,73494,https://avatars.githubusercontent.com/u/29385237?v=4
+13855476,gorm,go-gorm/gorm,Go,85,"The fantastic ORM library for Golang, aims to be developer friendly",3857,36010,https://avatars.githubusercontent.com/u/15127678?v=4
+208728772,milvus,milvus-io/milvus,Go,172,"A cloud-native vector database, storage for next generation AI applications",2703,28032,https://avatars.githubusercontent.com/u/51735404?v=4
+18369373,viper,spf13/viper,Go,69,Go configuration with fangs,2001,26251,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
 33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,43,gRPC to JSON proxy generator following the gRPC HTTP spec,2179,17646,https://avatars.githubusercontent.com/u/19352526?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,375,Protect and discover secrets using Gitleaks 🔑,1368,16466,https://avatars.githubusercontent.com/u/90395851?v=4
-509091576,sing-box,SagerNet/sing-box,Go,527,The universal proxy platform,1904,15539,https://avatars.githubusercontent.com/u/83217677?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,375,Protect and discover secrets using Gitleaks 🔑,1368,16472,https://avatars.githubusercontent.com/u/90395851?v=4
+509091576,sing-box,SagerNet/sing-box,Go,527,The universal proxy platform,1904,15540,https://avatars.githubusercontent.com/u/83217677?v=4
 33258973,telegraf,influxdata/telegraf,Go,124,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5514,14102,https://avatars.githubusercontent.com/u/5713248?v=4
 95761244,gf,gogf/gf,Go,31,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1519,11071,https://avatars.githubusercontent.com/u/46776614?v=4
-326228917,katana,projectdiscovery/katana,Go,497,A next-generation crawling and spidering framework.,515,10026,https://avatars.githubusercontent.com/u/50994705?v=4
+326228917,katana,projectdiscovery/katana,Go,497,A next-generation crawling and spidering framework.,515,10029,https://avatars.githubusercontent.com/u/50994705?v=4
 244694886,nightingale,ccfos/nightingale,Go,54,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1347,9098,https://avatars.githubusercontent.com/u/96813578?v=4
-197914161,sftpgo,drakkan/sftpgo,Go,74,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",693,8518,https://avatars.githubusercontent.com/u/553263?u=383412442399c019c1f9678ff569695ca184ccdb&v=4
-50629145,pprof,google/pprof,Go,35,pprof is a tool for visualization and analysis of profiling data,594,7661,https://avatars.githubusercontent.com/u/1342004?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,24,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2514,7412,https://avatars.githubusercontent.com/u/36015203?v=4
-753490180,daytona,daytonaio/daytona,Go,490,The Open Source Dev Environment Manager.,753,6807,https://avatars.githubusercontent.com/u/130513197?v=4
-58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,28,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",684,6162,https://avatars.githubusercontent.com/u/19352526?v=4
+197914161,sftpgo,drakkan/sftpgo,Go,74,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",693,8521,https://avatars.githubusercontent.com/u/553263?u=383412442399c019c1f9678ff569695ca184ccdb&v=4
+592748160,devpod,loft-sh/devpod,Go,357,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",305,8398,https://avatars.githubusercontent.com/u/65466868?v=4
+50629145,pprof,google/pprof,Go,35,pprof is a tool for visualization and analysis of profiling data,594,7663,https://avatars.githubusercontent.com/u/1342004?v=4
+276822250,kubevela,kubevela/kubevela,Go,13,The Modern Application Platform.,872,6205,https://avatars.githubusercontent.com/u/74584788?v=4
+58821882,go-grpc-middleware,grpc-ecosystem/go-grpc-middleware,Go,28,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.",684,6163,https://avatars.githubusercontent.com/u/19352526?v=4
+355946670,vcluster,loft-sh/vcluster,Go,332,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,369,6156,https://avatars.githubusercontent.com/u/65466868?v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,27,OpenTelemetry Go API and SDK,1008,4977,https://avatars.githubusercontent.com/u/49998002?v=4
-96570421,go-cmp,google/go-cmp,Go,18,Package for comparing Go values in tests,210,4075,https://avatars.githubusercontent.com/u/1342004?v=4
 175592968,volcano,volcano-sh/volcano,Go,23,A Cloud Native Batch System (Project under CNCF),902,3902,https://avatars.githubusercontent.com/u/47214749?v=4
-133827809,tbls,k1LoW/tbls,Go,52,"tbls is a CI-Friendly tool for document a database, written in Go.",163,3313,https://avatars.githubusercontent.com/u/57114?u=5522499f6546a5c8307460a18653178b6b454780&v=4
-750068254,gptscript,gptscript-ai/gptscript,Go,42,Build AI assistants that interact with your systems,242,2772,https://avatars.githubusercontent.com/u/158112119?v=4
-384111310,incubator-devlake,apache/incubator-devlake,Go,14,"Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",493,2500,https://avatars.githubusercontent.com/u/47359?v=4
-558188628,higress,alibaba/higress,Go,73,Cloud Native API Gateway | 云原生API网关,405,2497,https://avatars.githubusercontent.com/u/1961952?v=4
-742106639,glasskube,glasskube/glasskube,Go,921,"🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.",119,2132,https://avatars.githubusercontent.com/u/102465810?v=4
+558188628,higress,alibaba/higress,Go,73,Cloud Native API Gateway | 云原生API网关,406,2497,https://avatars.githubusercontent.com/u/1961952?v=4
+742106639,glasskube,glasskube/glasskube,Go,921,"🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.",119,2142,https://avatars.githubusercontent.com/u/102465810?v=4
