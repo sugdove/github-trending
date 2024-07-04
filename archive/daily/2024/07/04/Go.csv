@@ -1,23 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,55,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18575,68118,https://avatars.githubusercontent.com/u/27259197?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,14,Go implementation of the Ethereum protocol,19667,46664,https://avatars.githubusercontent.com/u/6250754?v=4
-12574344,cobra,spf13/cobra,Go,13,A Commander for modern Go CLI interactions,2800,36758,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-74175805,istio,istio/istio,Go,15,"Connect, secure, control, and observe services.",7632,35366,https://avatars.githubusercontent.com/u/23534644?v=4
-56353740,minikube,kubernetes/minikube,Go,10,Run Kubernetes locally,4807,28760,https://avatars.githubusercontent.com/u/13629408?v=4
-436297812,memos,usememos/memos,Go,14,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",2126,28592,https://avatars.githubusercontent.com/u/95764151?v=4
-19205896,restic,restic/restic,Go,204,"Fast, secure, efficient backup program",1501,24687,https://avatars.githubusercontent.com/u/10073512?v=4
-42194129,slim,slimtoolkit/slim,Go,56,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),700,18819,https://avatars.githubusercontent.com/u/20057356?v=4
-143460965,microservices-demo,GoogleCloudPlatform/microservices-demo,Go,10,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",6774,16155,https://avatars.githubusercontent.com/u/2810941?v=4
+20904437,gin,gin-gonic/gin,Go,26,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7908,76696,https://avatars.githubusercontent.com/u/7894478?v=4
+11180687,hugo,gohugoio/hugo,Go,23,The world’s fastest framework for building websites.,7386,73562,https://avatars.githubusercontent.com/u/29385237?v=4
+42408804,traefik,traefik/traefik,Go,23,The Cloud Native Application Proxy,4926,49056,https://avatars.githubusercontent.com/u/14280338?v=4
+29261473,minio,minio/minio,Go,26,The Object Store for AI Data Infrastructure,5301,45394,https://avatars.githubusercontent.com/u/695951?v=4
+133251103,dive,wagoodman/dive,Go,17,A tool for exploring each layer in a docker image,1692,44521,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
+17728164,terraform,hashicorp/terraform,Go,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9408,41646,https://avatars.githubusercontent.com/u/761456?v=4
+19205896,restic,restic/restic,Go,204,"Fast, secure, efficient backup program",1501,24707,https://avatars.githubusercontent.com/u/10073512?v=4
+5179099,go-redis,redis/go-redis,Go,7,Redis Go client,2314,19592,https://avatars.githubusercontent.com/u/1529926?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,40,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2322,18223,https://avatars.githubusercontent.com/u/50994705?v=4
+44344606,chi,go-chi/chi,Go,9,"lightweight, idiomatic and composable router for building Go HTTP services",967,17575,https://avatars.githubusercontent.com/u/29575368?v=4
+20653934,cadvisor,google/cadvisor,Go,5,Analyzes resource usage and performance characteristics of running containers.,2288,16607,https://avatars.githubusercontent.com/u/1342004?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,38,Protect and discover secrets using Gitleaks 🔑,1373,16586,https://avatars.githubusercontent.com/u/90395851?v=4
 30711774,validator,go-playground/validator,Go,11,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1287,16045,https://avatars.githubusercontent.com/u/14768796?v=4
-465303307,lo,samber/lo,Go,51,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",722,15969,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-9524057,node_exporter,prometheus/node_exporter,Go,8,Exporter for machine metrics,2304,10630,https://avatars.githubusercontent.com/u/3380462?v=4
-357897199,netbird,netbirdio/netbird,Go,9,Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.,425,9819,https://avatars.githubusercontent.com/u/100464677?v=4
-170411418,keda,kedacore/keda,Go,3, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1009,8030,https://avatars.githubusercontent.com/u/49917779?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,2,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,959,7772,https://avatars.githubusercontent.com/u/17118990?v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,2,"node of the decentralized oracle network, bridging on and off-chain computation",1649,6832,https://avatars.githubusercontent.com/u/25111032?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,10,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",849,6157,https://avatars.githubusercontent.com/u/2232217?v=4
-7823926,client_golang,prometheus/client_golang,Go,1,Prometheus instrumentation library for Go applications,1152,5219,https://avatars.githubusercontent.com/u/3380462?v=4
-201546443,assets,trustwallet/assets,Go,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22234,4442,https://avatars.githubusercontent.com/u/32179889?v=4
-319848237,doggo,mr-karan/doggo,Go,177,:dog: Command-line DNS Client for Humans. Written in Golang,85,2255,https://avatars.githubusercontent.com/u/5689132?u=141688ed68b89eaefb09f580e9cdb15284a2745a&v=4
+132145189,golangci-lint,golangci/golangci-lint,Go,10,Fast linters runner for Go,1344,14853,https://avatars.githubusercontent.com/u/35628013?v=4
+109162639,thanos,thanos-io/thanos,Go,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2041,12735,https://avatars.githubusercontent.com/u/49725059?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,5,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1128,11307,https://avatars.githubusercontent.com/u/43720803?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,16,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1399,10729,https://avatars.githubusercontent.com/u/126152966?v=4
+267054247,grype,anchore/grype,Go,9,A vulnerability scanner for container images and filesystems,528,8154,https://avatars.githubusercontent.com/u/16208487?v=4
+170411418,keda,kedacore/keda,Go,3, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1009,8032,https://avatars.githubusercontent.com/u/49917779?v=4
+302670797,scorecard,ossf/scorecard,Go,1,OpenSSF Scorecard - Security health metrics for Open Source,461,4253,https://avatars.githubusercontent.com/u/67707773?v=4
 172803655,gpu-operator,NVIDIA/gpu-operator,Go,216,NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes,274,1615,https://avatars.githubusercontent.com/u/1728152?v=4
-364269021,singularity,sylabs/singularity,Go,1,"SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.",91,708,https://avatars.githubusercontent.com/u/32401844?v=4
+242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,0,Collection of extensions for OpenTelemetry-Go.,508,1075,https://avatars.githubusercontent.com/u/49998002?v=4
+622907471,karpor,KusionStack/karpor,Go,15,Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams. ,23,202,https://avatars.githubusercontent.com/u/104968284?v=4
