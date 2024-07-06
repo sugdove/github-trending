@@ -1,22 +1,20 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,80,A framework for building native applications using React,24071,117098,https://avatars.githubusercontent.com/u/69631?v=4
-15634981,godot,godotengine/godot,C++,42,Godot Engine – Multi-platform 2D and 3D game engine,19244,86404,https://avatars.githubusercontent.com/u/6318500?v=4
-5108051,opencv,opencv/opencv,C++,21,Open Source Computer Vision Library,55666,76819,https://avatars.githubusercontent.com/u/5009934?v=4
-619959033,gpt4all,nomic-ai/gpt4all,C++,152,GPT4All: Chat with Local LLMs on Any Device,7341,66799,https://avatars.githubusercontent.com/u/102670180?v=4
-196813750,CPlusPlusThings,Light-City/CPlusPlusThings,C++,19,C++那些事,8367,38034,https://avatars.githubusercontent.com/u/25699850?u=ae1ceddf2cd1d69488bc3132d29b5ca3bb57ee26&v=4
-160083795,serenity,SerenityOS/serenity,C++,58,The Serenity Operating System 🐞,3146,29647,https://avatars.githubusercontent.com/u/50811782?v=4
-26038648,spdlog,gabime/spdlog,C++,15,Fast C++ logging library.,4358,22983,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+29028775,react-native,facebook/react-native,C++,80,A framework for building native applications using React,24071,117100,https://avatars.githubusercontent.com/u/69631?v=4
+619959033,gpt4all,nomic-ai/gpt4all,C++,246,GPT4All: Chat with Local LLMs on Any Device,7341,66819,https://avatars.githubusercontent.com/u/102670180?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C++,41,LLM inference in C/C++,8750,61248,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+60246359,ClickHouse,ClickHouse/ClickHouse,C++,20,ClickHouse® is a real-time analytics DBMS,6609,35415,https://avatars.githubusercontent.com/u/54801242?v=4
+26038648,spdlog,gabime/spdlog,C++,15,Fast C++ logging library.,4358,22984,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+7056202,fmt,fmtlib/fmt,C++,3,A modern formatting library,2421,19834,https://avatars.githubusercontent.com/u/7280830?v=4
+126412363,simdjson,simdjson/simdjson,C++,7,"Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",985,18772,https://avatars.githubusercontent.com/u/62337925?v=4
 1062572,Catch2,catchorg/Catch2,C++,7,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3008,18241,https://avatars.githubusercontent.com/u/33321405?v=4
-102343794,brpc,apache/brpc,C++,5,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3917,16039,https://avatars.githubusercontent.com/u/47359?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,5,A fast JSON parser/generator for C++ with both SAX/DOM style API,3500,14014,https://avatars.githubusercontent.com/u/18461506?v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,10,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,3260,13217,https://avatars.githubusercontent.com/u/84565724?v=4
-28449431,scylladb,scylladb/scylladb,C++,5,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",1241,12947,https://avatars.githubusercontent.com/u/14364730?v=4
-75413130,Open3D,isl-org/Open3D,C++,12,Open3D: A Modern Library for 3D Data Processing,2236,10819,https://avatars.githubusercontent.com/u/23507030?v=4
-5973855,Cataclysm-DDA,CleverRaven/Cataclysm-DDA,C++,1,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.,4081,9948,https://avatars.githubusercontent.com/u/4367009?v=4
-679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,18,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,800,7401,https://avatars.githubusercontent.com/u/1728152?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,3,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,2084,6330,https://avatars.githubusercontent.com/u/55443902?v=4
-587499842,piper,rhasspy/piper,C++,28,"A fast, local neural text to speech system",352,5020,https://avatars.githubusercontent.com/u/59055969?v=4
-456549280,ydb,ydb-platform/ydb,C++,14,YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions,501,3681,https://avatars.githubusercontent.com/u/88314308?v=4
-436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,1,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,2303,3134,https://avatars.githubusercontent.com/u/29489915?u=fcf37f59ad74d0389bcb06a49c324a4cab771e4e&v=4
-463628495,executorch,pytorch/executorch,C++,2,"On-device AI across mobile, embedded and edge for PyTorch",234,1432,https://avatars.githubusercontent.com/u/21003710?v=4
-324569839,YimMenu,YimMenu/YimMenu,C++,8,"YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.",982,1230,https://avatars.githubusercontent.com/u/106739674?v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,10,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,3260,13219,https://avatars.githubusercontent.com/u/84565724?v=4
+131236938,drogon,drogonframework/drogon,C++,5,Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows,1063,11073,https://avatars.githubusercontent.com/u/48876018?v=4
+108102826,carla,carla-simulator/carla,C++,7,Open-source simulator for autonomous driving research.,3479,10820,https://avatars.githubusercontent.com/u/33029185?v=4
+184657328,TensorRT,NVIDIA/TensorRT,C++,11,NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.,2078,10173,https://avatars.githubusercontent.com/u/1728152?v=4
+23007417,colmap,colmap/colmap,C++,6,COLMAP - Structure-from-Motion and Multi-View Stereo,1455,7112,https://avatars.githubusercontent.com/u/8461936?v=4
+61980658,azerothcore-wotlk,azerothcore/azerothcore-wotlk,C++,41,Complete Open Source and Modular solution for MMO,2467,6184,https://avatars.githubusercontent.com/u/20147732?v=4
+587499842,piper,rhasspy/piper,C++,28,"A fast, local neural text to speech system",352,5023,https://avatars.githubusercontent.com/u/59055969?v=4
+79160357,fivem,citizenfx/fivem,C++,3,"The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.",1988,3388,https://avatars.githubusercontent.com/u/25160833?v=4
+388946490,velox,facebookincubator/velox,C++,1,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,1082,3278,https://avatars.githubusercontent.com/u/19538647?v=4
+27425638,gem5,gem5/gem5,C++,3,The official repository for the gem5 computer-system architecture simulator.,1106,1506,https://avatars.githubusercontent.com/u/1524926?v=4
+322041910,keyhunt,albertobsd/keyhunt,C++,22,privkey hunt for crypto currencies that use secp256k1  elliptic curve,261,419,https://avatars.githubusercontent.com/u/17832765?u=3d7088ab2965c9997a075fa4bfd00728eb4f7983&v=4
