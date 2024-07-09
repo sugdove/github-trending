@@ -1,22 +1,21 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-13233158,obs-studio,obsproject/obs-studio,C,24,OBS Studio - Free and open source software for live streaming and screen recording,7721,57282,https://avatars.githubusercontent.com/u/7725691?v=4
-6201092,mpv,mpv-player/mpv,C,16,🎥 Command line video player,2838,26753,https://avatars.githubusercontent.com/u/2550273?v=4
-80286288,Tasmota,arendst/Tasmota,C,6,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4718,21722,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-13836499,raylib,raysan5/raylib,C,23,A simple and easy-to-use library to enjoy videogames programming,2100,20472,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-47409672,hashcat,hashcat/hashcat,C,13,World's fastest and most advanced password recovery utility,2805,20355,https://avatars.githubusercontent.com/u/15949799?v=4
-45821540,openwrt,openwrt/openwrt,C,13,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,10021,18937,https://avatars.githubusercontent.com/u/2528830?v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,10,Open-source keyboard firmware for Atmel AVR and Arm USB families,37751,17499,https://avatars.githubusercontent.com/u/25358678?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,17,Flipper Zero Unleashed Firmware,1335,15794,https://avatars.githubusercontent.com/u/115378555?v=4
-65899476,esp-idf,espressif/esp-idf,C,4,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7097,12931,https://avatars.githubusercontent.com/u/9460735?v=4
-9524997,glfw,glfw/glfw,C,2,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",5047,12556,https://avatars.githubusercontent.com/u/3905364?v=4
-2997204,john,openwall/john,C,6,"John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",2044,9645,https://avatars.githubusercontent.com/u/1579552?v=4
-59676171,klipper,Klipper3d/klipper,C,4,Klipper is a 3d-printer firmware,5186,9026,https://avatars.githubusercontent.com/u/90982958?v=4
-37060852,betaflight,betaflight/betaflight,C,6,Open Source Flight Controller Firmware,2904,8179,https://avatars.githubusercontent.com/u/19597933?v=4
-671061529,winlator,brunodev85/winlator,C,16,Android application for running Windows applications with Wine and Box86/Box64,284,6853,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,1,,841,3257,https://avatars.githubusercontent.com/u/1294177?v=4
-272394704,security-research,google/security-research,C,10,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,387,3147,https://avatars.githubusercontent.com/u/1342004?v=4
-595813523,Dopamine,opa334/Dopamine,C,2,Dopamine is a semi-untethered jailbreak for iOS 15 and 16,1245,3086,https://avatars.githubusercontent.com/u/18235760?v=4
-58894582,melonDS,melonDS-emu/melonDS,C,2,"DS emulator, sorta",498,2999,https://avatars.githubusercontent.com/u/94202166?v=4
-19881421,dosbox-x,joncampbell123/dosbox-x,C,4,DOSBox-X fork of the DOSBox project,373,2556,https://avatars.githubusercontent.com/u/6245486?u=af4426463edef2eb241f2c8c7e59a801efa67472&v=4
-43677244,pokeemerald,pret/pokeemerald,C,4,Decompilation of Pokémon Emerald,2133,2128,https://avatars.githubusercontent.com/u/10761592?v=4
-152787888,lwip,lwip-tcpip/lwip,C,2,lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git,352,904,https://avatars.githubusercontent.com/u/43779666?v=4
+10744183,netdata,netdata/netdata,C,14,The open-source observability platform everyone needs!,5800,69487,https://avatars.githubusercontent.com/u/43390781?v=4
+156018,redis,redis/redis,C,17,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23583,65611,https://avatars.githubusercontent.com/u/1529926?v=4
+36836475,tmux,tmux/tmux,C,20,tmux source code,2058,33779,https://avatars.githubusercontent.com/u/12054114?v=4
+5101141,jq,jqlang/jq,C,17,Command-line JSON processor,1539,29605,https://avatars.githubusercontent.com/u/104800540?v=4
+7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,9931,24930,https://avatars.githubusercontent.com/u/3279138?v=4
+84240850,timescaledb,timescale/timescaledb,C,15,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,853,16852,https://avatars.githubusercontent.com/u/8986001?v=4
+775743011,valkey,valkey-io/valkey,C,22,"A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",520,14658,https://avatars.githubusercontent.com/u/164458127?v=4
+359952601,pgvector,pgvector/pgvector,C,18,Open-source vector similarity search for Postgres,472,10506,https://avatars.githubusercontent.com/u/98363230?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,29,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6190,10080,https://avatars.githubusercontent.com/u/19595895?v=4
+40556106,wazuh,wazuh/wazuh,C,5,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1528,9656,https://avatars.githubusercontent.com/u/13752566?v=4
+106586124,atomic-red-team,redcanaryco/atomic-red-team,C,3,Small and highly portable detection tests based on MITRE's ATT&CK.,2730,9352,https://avatars.githubusercontent.com/u/6877001?v=4
+53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,2332,8641,https://avatars.githubusercontent.com/u/56974?v=4
+671061529,winlator,brunodev85/winlator,C,163,Android application for running Windows applications with Wine and Box86/Box64,284,6856,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
+3568543,8cc,rui314/8cc,C,6,A Small C Compiler,743,6102,https://avatars.githubusercontent.com/u/47400?v=4
+1613176,edk2,tianocore/edk2,C,7,EDK II,2397,4382,https://avatars.githubusercontent.com/u/352162?v=4
+34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,830,4181,https://avatars.githubusercontent.com/u/12173937?v=4
+3276860,Unity,ThrowTheSwitch/Unity,C,3,Simple Unit Testing for C,939,3859,https://avatars.githubusercontent.com/u/1049138?v=4
+525383681,firedancer,firedancer-io/firedancer,C,6,Firedancer is Jump Crypto's Solana consensus node implementation.,133,777,https://avatars.githubusercontent.com/u/111004351?v=4
+644742603,cloudberrydb,cloudberrydb/cloudberrydb,C,2,Cloudberry Database - Open source alternative to Greenplum Database. Created by the original Greenplum developers.,72,245,https://avatars.githubusercontent.com/u/119398105?v=4
+52276186,vde-2,virtualsquare/vde-2,C,30,,33,201,https://avatars.githubusercontent.com/u/17407669?v=4
