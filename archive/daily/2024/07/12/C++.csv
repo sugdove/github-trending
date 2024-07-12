@@ -1,19 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-44838949,swift,swiftlang/swift,C++,19,The Swift Programming Language,10309,66958,https://avatars.githubusercontent.com/u/42816656?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,18,Protocol Buffers - Google's data interchange format,15369,64569,https://avatars.githubusercontent.com/u/26310541?v=4
-11171548,json,nlohmann/json,C++,21,JSON for Modern C++,6580,41403,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-27729880,grpc,grpc/grpc,C++,11,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10432,41210,https://avatars.githubusercontent.com/u/7802525?v=4
-19953044,flatbuffers,google/flatbuffers,C++,14,FlatBuffers: Memory Efficient Serialization Library,3192,22557,https://avatars.githubusercontent.com/u/1342004?v=4
-189205663,TinyWebServer,qinguoyi/TinyWebServer,C++,17,:fire: Linux下C++轻量级WebServer服务器,3807,15865,https://avatars.githubusercontent.com/u/25760295?u=a4474a249cca515146041e4b6bfaf5f448d9a113&v=4
-38581626,pybind11,pybind/pybind11,C++,5,Seamless operability between C++11 and Python,2059,15131,https://avatars.githubusercontent.com/u/17565521?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,4,A fast JSON parser/generator for C++ with both SAX/DOM style API,3505,14028,https://avatars.githubusercontent.com/u/18461506?v=4
-51905353,arrow,apache/arrow,C++,7,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,3388,13910,https://avatars.githubusercontent.com/u/47359?v=4
-106558568,dxvk,doitsujin/dxvk,C++,16,"Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",788,12332,https://avatars.githubusercontent.com/u/25567304?u=e753c1eafb0e81504b6ab74883303565cdfa66b2&v=4
-7512484,ardupilot,ArduPilot/ardupilot,C++,4,"ArduPlane, ArduCopter, ArduRover, ArduSub source",16805,10211,https://avatars.githubusercontent.com/u/17919847?v=4
-15122806,benchmark,google/benchmark,C++,4,A microbenchmark support library,1573,8611,https://avatars.githubusercontent.com/u/1342004?v=4
-5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,8,PX4 Autopilot Software,13249,7890,https://avatars.githubusercontent.com/u/2096014?v=4
-98470332,AI4Animation,sebastianstarke/AI4Animation,C++,7,Bringing Characters to Life with Computer Brains in Unity,1029,7431,https://avatars.githubusercontent.com/u/20269775?u=a7d683a8196f9c609cf17e922ff9f7da99df53dc&v=4
-3884981,JUCE,juce-framework/JUCE,C++,7,"JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",1677,6331,https://avatars.githubusercontent.com/u/62880632?v=4
-89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,2,Firebase SDK for Apple App Development,1430,5463,https://avatars.githubusercontent.com/u/1335026?v=4
-227091502,perfetto,google/perfetto,C++,5,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",329,2608,https://avatars.githubusercontent.com/u/1342004?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,39,An Open Source Machine Learning Framework for Everyone,74063,184037,https://avatars.githubusercontent.com/u/15658638?v=4
+100060912,terminal,microsoft/terminal,C++,18,"The new Windows Terminal and the original Windows console host, all in the same place!",8162,94287,https://avatars.githubusercontent.com/u/6154722?v=4
+5108051,opencv,opencv/opencv,C++,26,Open Source Computer Vision Library,55672,76932,https://avatars.githubusercontent.com/u/5009934?v=4
+44838949,swift,swiftlang/swift,C++,84,The Swift Programming Language,10310,66962,https://avatars.githubusercontent.com/u/42816656?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,18,Protocol Buffers - Google's data interchange format,15369,64571,https://avatars.githubusercontent.com/u/26310541?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C++,75,LLM inference in C/C++,8800,61561,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+39840932,googletest,google/googletest,C++,16,GoogleTest - Google Testing and Mocking Framework,9989,33739,https://avatars.githubusercontent.com/u/1342004?v=4
+81227005,faiss,facebookresearch/faiss,C++,20,A library for efficient similarity search and clustering of dense vectors.,3488,29455,https://avatars.githubusercontent.com/u/16943930?v=4
+4524181,folly,facebook/folly,C++,17,An open-source C++ library developed and used at Facebook.,5471,27554,https://avatars.githubusercontent.com/u/69631?v=4
+96246170,apollo,ApolloAuto/apollo,C++,12,An open autonomous driving platform,9637,24752,https://avatars.githubusercontent.com/u/28768304?v=4
+437245741,dragonfly,dragonflydb/dragonfly,C++,29,A modern replacement for Redis and Memcached,889,24576,https://avatars.githubusercontent.com/u/104819355?v=4
+26038648,spdlog,gabime/spdlog,C++,9,Fast C++ logging library.,4375,23049,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+65711522,Paddle,PaddlePaddle/Paddle,C++,7,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,5477,21814,https://avatars.githubusercontent.com/u/23534030?v=4
+1062572,Catch2,catchorg/Catch2,C++,8,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3009,18260,https://avatars.githubusercontent.com/u/33321405?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,4,A fast JSON parser/generator for C++ with both SAX/DOM style API,3505,14029,https://avatars.githubusercontent.com/u/18461506?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,7,A C++ header-only HTTP/HTTPS server and client library,2208,12327,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+244694174,connectedhomeip,project-chip/connectedhomeip,C++,36,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",1912,7208,https://avatars.githubusercontent.com/u/61027988?v=4
+33100064,yaml-cpp,jbeder/yaml-cpp,C++,4,A YAML parser and emitter in C++,1783,4942,https://avatars.githubusercontent.com/u/1059334?u=c1a1d6555522380d9c818e51048f24b29c3dae09&v=4
+112542515,cutlass,NVIDIA/cutlass,C++,13,CUDA Templates for Linear Algebra Subroutines,842,4882,https://avatars.githubusercontent.com/u/1728152?v=4
+436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,4,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,2306,3150,https://avatars.githubusercontent.com/u/29489915?u=fcf37f59ad74d0389bcb06a49c324a4cab771e4e&v=4
 169164539,habitat-sim,facebookresearch/habitat-sim,C++,7,"A flexible, high-performance 3D simulator for Embodied AI research.",404,2461,https://avatars.githubusercontent.com/u/16943930?v=4
+523007292,xla,openxla/xla,C++,2,"A machine learning compiler for GPUs, CPUs, and ML accelerators",364,2422,https://avatars.githubusercontent.com/u/107584881?v=4
+314553426,maplibre-native,maplibre/maplibre-native,C++,6,"MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.",277,910,https://avatars.githubusercontent.com/u/75709127?v=4
+506852195,legged_control,qiayuanl/legged_control,C++,3,Nonlinear MPC and WBC framework  for legged robot based on OCS2 and ros-controls,204,784,https://avatars.githubusercontent.com/u/21256355?u=b6ba570e83545f71adcfa3e668918ca1ef7b3617&v=4
