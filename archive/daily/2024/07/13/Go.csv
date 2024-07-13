@@ -1,22 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,194,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",5927,78253,https://avatars.githubusercontent.com/u/151674099?v=4
-7691631,moby,moby/moby,Go,12,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18575,68175,https://avatars.githubusercontent.com/u/27259197?v=4
-6838921,prometheus,prometheus/prometheus,Go,22,The Prometheus monitoring system and time series database.,8919,53839,https://avatars.githubusercontent.com/u/3380462?v=4
-138547797,mkcert,FiloSottile/mkcert,Go,59,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2454,47336,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+658928958,ollama,ollama/ollama,Go,194,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",5928,78268,https://avatars.githubusercontent.com/u/151674099?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,80,simple terminal UI for git commands,1734,48332,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+41986369,tidb,pingcap/tidb,Go,8,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/",5757,36567,https://avatars.githubusercontent.com/u/11855343?v=4
 31288958,vault,hashicorp/vault,Go,11,"A tool for secrets management, encryption as a service, and privileged access management",4125,30081,https://avatars.githubusercontent.com/u/761456?v=4
-156084530,nps,ehang-io/nps,Go,6,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",5383,29824,https://avatars.githubusercontent.com/u/59558731?v=4
-43723161,helm,helm/helm,Go,12,The Kubernetes Package Manager,7012,26462,https://avatars.githubusercontent.com/u/15859888?v=4
-129717717,loki,grafana/loki,Go,12,"Like Prometheus, but for logs.",3315,22823,https://avatars.githubusercontent.com/u/7195757?v=4
-27729907,grpc-go,grpc/grpc-go,Go,82,The Go language implementation of gRPC. HTTP/2 based RPC,4285,20498,https://avatars.githubusercontent.com/u/7802525?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,5,Ingress-NGINX Controller for Kubernetes,8141,16973,https://avatars.githubusercontent.com/u/13629408?v=4
-40684033,sops,getsops/sops,Go,11,Simple and flexible tool for managing secrets,844,15842,https://avatars.githubusercontent.com/u/129185620?v=4
-215654064,temporal,temporalio/temporal,Go,15,Temporal service,776,10669,https://avatars.githubusercontent.com/u/56493103?v=4
-709538270,plandex,plandex-ai/plandex,Go,27,"AI driven development in your terminal. Designed for large, real-world tasks.",714,9964,https://avatars.githubusercontent.com/u/148917357?v=4
-19537979,tyk,TykTechnologies/tyk,Go,7,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",1068,9415,https://avatars.githubusercontent.com/u/16121529?v=4
-212465715,buf,bufbuild/buf,Go,16,The best way of working with Protocol Buffers.,255,8617,https://avatars.githubusercontent.com/u/54191850?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,40,"Optimism is Ethereum, scaled.",3043,5433,https://avatars.githubusercontent.com/u/58791460?v=4
-169108858,kyverno,kyverno/kyverno,Go,7,Kubernetes Native Policy Management,801,5347,https://avatars.githubusercontent.com/u/68448710?v=4
-617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,5,Giving Kubernetes Superpowers to everyone,594,5206,https://avatars.githubusercontent.com/u/128535266?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,1,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,761,4141,https://avatars.githubusercontent.com/u/68335991?v=4
-177210627,buildx,docker/buildx,Go,5,Docker CLI plugin for extended build capabilities with BuildKit,451,3348,https://avatars.githubusercontent.com/u/5429470?v=4
-716228772,river,riverqueue/river,Go,35,Fast and reliable background jobs in Go,67,2780,https://avatars.githubusercontent.com/u/136755925?v=4
+167596393,k9s,derailed/k9s,Go,14,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1612,25734,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+6247705,testify,stretchr/testify,Go,8,A toolkit with common assertions and mocks that plays nicely with the standard library,1566,22549,https://avatars.githubusercontent.com/u/1841476?v=4
+109145553,podman,containers/podman,Go,10,Podman: A tool for managing OCI containers and pods.,2307,22470,https://avatars.githubusercontent.com/u/5874934?v=4
+27729907,grpc-go,grpc/grpc-go,Go,42,The Go language implementation of gRPC. HTTP/2 based RPC,4289,20499,https://avatars.githubusercontent.com/u/7802525?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,13,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1831,20444,https://avatars.githubusercontent.com/u/109613420?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,6,"CNCF Jaeger, a Distributed Tracing Platform",2367,19877,https://avatars.githubusercontent.com/u/28545596?v=4
+71297170,chaosmonkey,Netflix/chaosmonkey,Go,4,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,1123,14762,https://avatars.githubusercontent.com/u/913567?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1409,10835,https://avatars.githubusercontent.com/u/126152966?v=4
+222824662,dagger,dagger/dagger,Go,4,An engine to run your pipelines in containers,563,10594,https://avatars.githubusercontent.com/u/78824383?v=4
+327859577,juicefs,juicedata/juicefs,Go,7,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,899,10154,https://avatars.githubusercontent.com/u/27241737?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,3,The AWS Provider enables Terraform to manage AWS resources.,9005,9616,https://avatars.githubusercontent.com/u/761456?v=4
+53356367,skopeo,containers/skopeo,Go,5,"Work with remote images registries - retrieving information, images, signing content",758,7796,https://avatars.githubusercontent.com/u/5874934?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,2,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3512,6086,https://avatars.githubusercontent.com/u/228843?v=4
+43465675,go-libp2p,libp2p/go-libp2p,Go,5,libp2p implementation in Go,1040,5849,https://avatars.githubusercontent.com/u/14838238?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,37,"Optimism is Ethereum, scaled.",3046,5435,https://avatars.githubusercontent.com/u/58791460?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,4,OpenTelemetry Go API and SDK,1013,5005,https://avatars.githubusercontent.com/u/49998002?v=4
+175592968,volcano,volcano-sh/volcano,Go,0,A Cloud Native Batch System (Project under CNCF),904,3924,https://avatars.githubusercontent.com/u/47214749?v=4
+309820286,fleet,fleetdm/fleet,Go,6,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",383,2683,https://avatars.githubusercontent.com/u/70264713?v=4
+22883982,govmomi,vmware/govmomi,Go,0,Go library for the VMware vSphere API,901,2270,https://avatars.githubusercontent.com/u/473334?v=4
