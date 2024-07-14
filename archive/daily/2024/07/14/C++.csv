@@ -1,24 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-45717250,tensorflow,tensorflow/tensorflow,C++,28,An Open Source Machine Learning Framework for Everyone,74060,184068,https://avatars.githubusercontent.com/u/15658638?v=4
-5108051,opencv,opencv/opencv,C++,15,Open Source Computer Vision Library,55669,76954,https://avatars.githubusercontent.com/u/5009934?v=4
-11171548,json,nlohmann/json,C++,15,JSON for Modern C++,6581,41428,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-27729880,grpc,grpc/grpc,C++,5,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10435,41220,https://avatars.githubusercontent.com/u/7802525?v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,15,ClickHouse® is a real-time analytics DBMS,6632,35534,https://avatars.githubusercontent.com/u/54801242?v=4
-4524181,folly,facebook/folly,C++,3,An open-source C++ library developed and used at Facebook.,5472,27555,https://avatars.githubusercontent.com/u/69631?v=4
-191820100,mediapipe,google-ai-edge/mediapipe,C++,7,"Cross-platform, customizable ML solutions for live and streaming media.",5044,26212,https://avatars.githubusercontent.com/u/150697620?v=4
-96246170,apollo,ApolloAuto/apollo,C++,3,An open autonomous driving platform,9637,24759,https://avatars.githubusercontent.com/u/28768304?v=4
-437245741,dragonfly,dragonflydb/dragonfly,C++,30,A modern replacement for Redis and Memcached,891,24624,https://avatars.githubusercontent.com/u/104819355?v=4
-19953044,flatbuffers,google/flatbuffers,C++,3,FlatBuffers: Memory Efficient Serialization Library,3193,22566,https://avatars.githubusercontent.com/u/1342004?v=4
-104231541,abseil-cpp,abseil/abseil-cpp,C++,1,Abseil Common Libraries (C++),2521,14307,https://avatars.githubusercontent.com/u/26718316?v=4
-108102826,carla,carla-simulator/carla,C++,6,Open-source simulator for autonomous driving research.,3491,10857,https://avatars.githubusercontent.com/u/33029185?v=4
-204593825,STL,microsoft/STL,C++,2,MSVC's implementation of the C++ Standard Library.,1454,9936,https://avatars.githubusercontent.com/u/6154722?v=4
-15122806,benchmark,google/benchmark,C++,2,A microbenchmark support library,1576,8619,https://avatars.githubusercontent.com/u/1342004?v=4
-109291007,perspective,finos/perspective,C++,127,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",1056,7913,https://avatars.githubusercontent.com/u/35377814?v=4
-1320594,ModSecurity,owasp-modsecurity/ModSecurity,C++,3,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",1558,7838,https://avatars.githubusercontent.com/u/157431874?v=4
-244694174,connectedhomeip,project-chip/connectedhomeip,C++,5,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",1913,7216,https://avatars.githubusercontent.com/u/61027988?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,22,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,2109,6465,https://avatars.githubusercontent.com/u/55443902?v=4
-33157169,cpr,libcpr/cpr,C++,2,"C++ Requests: Curl for People, a spiritual port of Python Requests.",906,6317,https://avatars.githubusercontent.com/u/55407394?v=4
-41005795,GSL,microsoft/GSL,C++,0,Guidelines Support Library,737,6057,https://avatars.githubusercontent.com/u/6154722?v=4
-143131,cppcheck,danmar/cppcheck,C++,2,static analysis of C/C++ code,1428,5578,https://avatars.githubusercontent.com/u/60195?v=4
-112542515,cutlass,NVIDIA/cutlass,C++,6,CUDA Templates for Linear Algebra Subroutines,844,4895,https://avatars.githubusercontent.com/u/1728152?v=4
-46153892,nccl,NVIDIA/nccl,C++,1,Optimized primitives for collective multi-GPU communication,760,2985,https://avatars.githubusercontent.com/u/1728152?v=4
+100060912,terminal,microsoft/terminal,C++,18,"The new Windows Terminal and the original Windows console host, all in the same place!",8166,94310,https://avatars.githubusercontent.com/u/6154722?v=4
+22067521,imgui,ocornut/imgui,C++,19,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,9937,58022,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
+67702184,Magisk,topjohnwu/Magisk,C++,30,The Magic Mask for Android,11473,45686,https://avatars.githubusercontent.com/u/7337301?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C++,25,Port of OpenAI's Whisper model in C/C++,3318,33119,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+81227005,faiss,facebookresearch/faiss,C++,18,A library for efficient similarity search and clustering of dense vectors.,3490,29482,https://avatars.githubusercontent.com/u/16943930?v=4
+23129458,aseprite,aseprite/aseprite,C++,15,"Animated sprite editor & pixel art tool (Windows, macOS, Linux)",5093,27702,https://avatars.githubusercontent.com/u/3853896?v=4
+3351871,qBittorrent,qbittorrent/qBittorrent,C++,15,qBittorrent BitTorrent client,3831,26031,https://avatars.githubusercontent.com/u/2131270?v=4
+16587283,xgboost,dmlc/xgboost,C++,3,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8687,25808,https://avatars.githubusercontent.com/u/11508361?v=4
+1357796,emscripten,emscripten-core/emscripten,C++,2,Emscripten: An LLVM-to-WebAssembly Compiler,3254,25380,https://avatars.githubusercontent.com/u/46011144?v=4
+437245741,dragonfly,dragonflydb/dragonfly,C++,30,A modern replacement for Redis and Memcached,891,24627,https://avatars.githubusercontent.com/u/104819355?v=4
+5736080,FreeCAD,FreeCAD/FreeCAD,C++,6,"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",3879,18301,https://avatars.githubusercontent.com/u/2306237?v=4
+470730648,Hyprland,hyprwm/Hyprland,C++,22,Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.,756,18159,https://avatars.githubusercontent.com/u/107882187?v=4
+2200856,Marlin,MarlinFirmware/Marlin,C++,2,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,19135,16041,https://avatars.githubusercontent.com/u/10418365?v=4
+438803890,Sunshine,LizardByte/Sunshine,C++,33,Self-hosted game stream host for Moonlight.,752,15746,https://avatars.githubusercontent.com/u/84790584?v=4
+488177011,nekoray,MatsuriDayo/nekoray,C++,12,Qt based cross-platform GUI proxy configuration manager (backend: sing-box),1121,11380,https://avatars.githubusercontent.com/u/95122236?v=4
+15379620,pcsx2,PCSX2/pcsx2,C++,25,PCSX2 - The Playstation 2 Emulator,1551,10711,https://avatars.githubusercontent.com/u/6278711?v=4
+109291007,perspective,finos/perspective,C++,127,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",1056,7914,https://avatars.githubusercontent.com/u/35377814?v=4
+39211337,engine,flutter/engine,C++,1,The Flutter engine,5887,7261,https://avatars.githubusercontent.com/u/14101776?v=4
+153097643,openvino,openvinotoolkit/openvino,C++,78,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,2110,6471,https://avatars.githubusercontent.com/u/55443902?v=4
+553135896,PrismLauncher,PrismLauncher/PrismLauncher,C++,4,A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC),602,5271,https://avatars.githubusercontent.com/u/116031705?v=4
+10126031,mixxx,mixxxdj/mixxx,C++,3,Mixxx is Free DJ software that gives you everything you need to perform live mixes.,1242,4267,https://avatars.githubusercontent.com/u/1743769?v=4
+436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,5,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,2309,3158,https://avatars.githubusercontent.com/u/29489915?u=fcf37f59ad74d0389bcb06a49c324a4cab771e4e&v=4
+237647258,firmware,meshtastic/firmware,C++,2,Meshtastic device firmware,725,3020,https://avatars.githubusercontent.com/u/61627050?v=4
+511797274,BambuStudio,bambulab/BambuStudio,C++,2,PC Software for BambuLab and other 3D printers,239,1731,https://avatars.githubusercontent.com/u/96461528?v=4
