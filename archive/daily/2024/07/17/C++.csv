@@ -1,22 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-45717250,tensorflow,tensorflow/tensorflow,C++,32,An Open Source Machine Learning Framework for Everyone,74073,184125,https://avatars.githubusercontent.com/u/15658638?v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,16,ClickHouse® is a real-time analytics DBMS,6645,35574,https://avatars.githubusercontent.com/u/54801242?v=4
-168008797,calculator,microsoft/calculator,C++,13,Windows Calculator: A simple yet powerful calculator that ships with Windows,5291,29311,https://avatars.githubusercontent.com/u/6154722?v=4
-4524181,folly,facebook/folly,C++,7,An open-source C++ library developed and used at Facebook.,5474,27572,https://avatars.githubusercontent.com/u/69631?v=4
-16587283,xgboost,dmlc/xgboost,C++,3,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8688,25819,https://avatars.githubusercontent.com/u/11508361?v=4
-96246170,apollo,ApolloAuto/apollo,C++,11,An open autonomous driving platform,9639,24788,https://avatars.githubusercontent.com/u/28768304?v=4
-65711522,Paddle,PaddlePaddle/Paddle,C++,4,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,5492,21896,https://avatars.githubusercontent.com/u/23534030?v=4
-95879426,ncnn,Tencent/ncnn,C++,12,ncnn is a high-performance neural network inference framework optimized for the mobile platform,4100,19775,https://avatars.githubusercontent.com/u/18461506?v=4
-102343794,brpc,apache/brpc,C++,29,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3933,16174,https://avatars.githubusercontent.com/u/47359?v=4
-438803890,Sunshine,LizardByte/Sunshine,C++,41,Self-hosted game stream host for Moonlight.,770,15985,https://avatars.githubusercontent.com/u/84790584?v=4
-51905353,arrow,apache/arrow,C++,4,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,3398,13939,https://avatars.githubusercontent.com/u/47359?v=4
-15379620,pcsx2,PCSX2/pcsx2,C++,141,PCSX2 - The Playstation 2 Emulator,1564,10940,https://avatars.githubusercontent.com/u/6278711?v=4
-263379,libzmq,zeromq/libzmq,C++,10,"ZeroMQ core engine in C++, implements ZMTP/3.1",2339,9487,https://avatars.githubusercontent.com/u/109777?v=4
-15122806,benchmark,google/benchmark,C++,9,A microbenchmark support library,1579,8637,https://avatars.githubusercontent.com/u/1342004?v=4
-679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,9,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,815,7497,https://avatars.githubusercontent.com/u/1728152?v=4
-514553345,OrcaSlicer,SoftFever/OrcaSlicer,C++,60,"G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",706,6142,https://avatars.githubusercontent.com/u/103989404?u=5ce996a351ee08333a2e41329d5f7a09823b3724&v=4
-24677392,cgal,CGAL/cgal,C++,9,"The public CGAL repository, see the README below",1352,4707,https://avatars.githubusercontent.com/u/5746664?v=4
-49220157,HIP,ROCm/HIP,C++,29,HIP: C++ Heterogeneous-Compute Interface for Portability,521,3604,https://avatars.githubusercontent.com/u/21157610?v=4
-28609243,strawberry,strawberrymusicplayer/strawberry,C++,2,:strawberry: Strawberry Music Player,170,2549,https://avatars.githubusercontent.com/u/60241412?v=4
-463628495,executorch,pytorch/executorch,C++,5,"On-device AI across mobile, embedded and edge for PyTorch",237,1451,https://avatars.githubusercontent.com/u/21003710?v=4
-279067598,Interview_DS_Algo,MAZHARMIK/Interview_DS_Algo,C++,4,Super Repository for Coding Interview Preperation,816,1376,https://avatars.githubusercontent.com/u/17107752?u=801f3912768eba988dceebc72fe4c682a0feff34&v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,25,Protocol Buffers - Google's data interchange format,15371,64642,https://avatars.githubusercontent.com/u/26310541?v=4
+22067521,imgui,ocornut/imgui,C++,45,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,9951,58102,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
+11171548,json,nlohmann/json,C++,14,JSON for Modern C++,6587,41461,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+27729880,grpc,grpc/grpc,C++,12,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10437,41246,https://avatars.githubusercontent.com/u/7802525?v=4
+311683390,ImHex,WerWolv/ImHex,C++,123,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",1811,41187,https://avatars.githubusercontent.com/u/10835354?u=df34a21c99e8b5470fb39a106d328372e7abc115&v=4
+39840932,googletest,google/googletest,C++,8,GoogleTest - Google Testing and Mocking Framework,9997,33765,https://avatars.githubusercontent.com/u/1342004?v=4
+65711522,Paddle,PaddlePaddle/Paddle,C++,66,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,5493,21899,https://avatars.githubusercontent.com/u/23534030?v=4
+143455116,filament,google/filament,C++,11,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",1839,17388,https://avatars.githubusercontent.com/u/1342004?v=4
+102343794,brpc,apache/brpc,C++,29,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",3934,16178,https://avatars.githubusercontent.com/u/47359?v=4
+438803890,Sunshine,LizardByte/Sunshine,C++,115,Self-hosted game stream host for Moonlight.,770,15992,https://avatars.githubusercontent.com/u/84790584?v=4
+104231541,abseil-cpp,abseil/abseil-cpp,C++,21,Abseil Common Libraries (C++),2532,14335,https://avatars.githubusercontent.com/u/26718316?v=4
+51905353,arrow,apache/arrow,C++,4,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,3399,13943,https://avatars.githubusercontent.com/u/47359?v=4
+15379620,pcsx2,PCSX2/pcsx2,C++,141,PCSX2 - The Playstation 2 Emulator,1562,10942,https://avatars.githubusercontent.com/u/6278711?v=4
+1204412,TrinityCore,TrinityCore/TrinityCore,C++,2,"TrinityCore Open Source MMO Framework (master = 10.2.7.55664, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)",6005,9296,https://avatars.githubusercontent.com/u/539602?v=4
+248058818,tracy,wolfpld/tracy,C++,8,Frame profiler,604,8743,https://avatars.githubusercontent.com/u/600573?u=d1ac7f58bc1671dd2a99ada35ddd21fa936a0f88&v=4
+15122806,benchmark,google/benchmark,C++,9,A microbenchmark support library,1579,8638,https://avatars.githubusercontent.com/u/1342004?v=4
+372536760,oceanbase,oceanbase/oceanbase,C++,7,"OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",1609,7827,https://avatars.githubusercontent.com/u/82347605?v=4
+98470332,AI4Animation,sebastianstarke/AI4Animation,C++,14,Bringing Characters to Life with Computer Brains in Unity,1036,7521,https://avatars.githubusercontent.com/u/20269775?u=a7d683a8196f9c609cf17e922ff9f7da99df53dc&v=4
+514553345,OrcaSlicer,SoftFever/OrcaSlicer,C++,38,"G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",706,6143,https://avatars.githubusercontent.com/u/103989404?u=5ce996a351ee08333a2e41329d5f7a09823b3724&v=4
+58168143,OpenUSD,PixarAnimationStudios/OpenUSD,C++,4,Universal Scene Description,1158,5581,https://avatars.githubusercontent.com/u/1672744?v=4
+89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,3,Firebase SDK for Apple App Development,1433,5471,https://avatars.githubusercontent.com/u/1335026?v=4
+52909975,PlotJuggler,facontidavide/PlotJuggler,C++,2,The Time Series Visualization Tool that you deserve.,590,4238,https://avatars.githubusercontent.com/u/2822888?u=32673e6491cf92b7717752a53d9d0cfc949a2c50&v=4
+436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,3,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,2317,3170,https://avatars.githubusercontent.com/u/29489915?u=fcf37f59ad74d0389bcb06a49c324a4cab771e4e&v=4
+205404938,fheroes2,ihhub/fheroes2,C++,5,fheroes2 is a recreation of Heroes of Might and Magic II game engine.,364,2595,https://avatars.githubusercontent.com/u/19829520?v=4
