@@ -1,23 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-10744183,netdata,netdata/netdata,C,28,The open-source observability platform everyone needs!,5811,69645,https://avatars.githubusercontent.com/u/43390781?v=4
-196353673,TDengine,taosdata/TDengine,C,5,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4834,23061,https://avatars.githubusercontent.com/u/48876650?v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,12,Open-source keyboard firmware for Atmel AVR and Arm USB families,37835,17558,https://avatars.githubusercontent.com/u/25358678?v=4
-90320494,ish,ish-app/ish,C,9,Linux shell for iOS,870,16565,https://avatars.githubusercontent.com/u/38895825?v=4
-359952601,pgvector,pgvector/pgvector,C,12,Open-source vector similarity search for Postgres,478,10619,https://avatars.githubusercontent.com/u/98363230?v=4
-50874442,citus,citusdata/citus,C,10,Distributed PostgreSQL as an extension,652,10152,https://avatars.githubusercontent.com/u/2545424?v=4
-18106269,lz4,lz4/lz4,C,4,Extremely Fast Compression algorithm,1339,9458,https://avatars.githubusercontent.com/u/11667224?v=4
-543276238,libsql,tursodatabase/libsql,C,19,"libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",234,8758,https://avatars.githubusercontent.com/u/139391156?v=4
-2755696,go-sqlite3,mattn/go-sqlite3,C,4,sqlite3 driver for go using database/sql,1084,7689,https://avatars.githubusercontent.com/u/10111?u=4fb5caa72429300200740387758d9905611ab377&v=4
-14735429,capstone,capstone-engine/capstone,C,3,"Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",1528,7209,https://avatars.githubusercontent.com/u/13388937?v=4
-673267,hiredis,redis/hiredis,C,1,Minimalistic C client for Redis >= 1.2,1805,6168,https://avatars.githubusercontent.com/u/1529926?v=4
-38617,sqlcipher,sqlcipher/sqlcipher,C,0,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1268,6048,https://avatars.githubusercontent.com/u/649049?v=4
+156018,redis,redis/redis,C,21,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23603,65709,https://avatars.githubusercontent.com/u/1529926?v=4
+246335987,Ventoy,ventoy/Ventoy,C,40,A new bootable USB solution.,3957,60547,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
+45821540,openwrt,openwrt/openwrt,C,11,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,10042,19018,https://avatars.githubusercontent.com/u/2528830?v=4
+669686044,llama2.c,karpathy/llama2.c,C,16,Inference Llama 2 in one file of pure C,1969,16844,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
+488002779,open-gpu-kernel-modules,NVIDIA/open-gpu-kernel-modules,C,44,NVIDIA Linux open GPU kernel module source,1182,14257,https://avatars.githubusercontent.com/u/1728152?v=4
+32921736,audacity,audacity/audacity,C,12,Audio Editor                                     ,2225,11872,https://avatars.githubusercontent.com/u/11648186?v=4
+35780977,ImageMagick,ImageMagick/ImageMagick,C,10,🧙‍♂️ ImageMagick 7,1314,11609,https://avatars.githubusercontent.com/u/12486768?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,12,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6225,10141,https://avatars.githubusercontent.com/u/19595895?v=4
 2359378,zlib,madler/zlib,C,3,A massively spiffy yet delicately unobtrusive compression library.,2414,5465,https://avatars.githubusercontent.com/u/240717?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,1,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2519,5070,https://avatars.githubusercontent.com/u/97226525?v=4
-92203868,ly,fairyglade/ly,C,159,display manager with console UI,301,5001,https://avatars.githubusercontent.com/u/99976890?v=4
-1613176,edk2,tianocore/edk2,C,3,EDK II,2400,4404,https://avatars.githubusercontent.com/u/352162?v=4
-154525111,freeswitch,signalwire/freeswitch,C,1,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",1378,3360,https://avatars.githubusercontent.com/u/34925332?v=4
+6331631,fio,axboe/fio,C,5,Flexible I/O Tester,1231,5030,https://avatars.githubusercontent.com/u/2619634?v=4
+92203868,ly,fairyglade/ly,C,159,display manager with console UI,301,5005,https://avatars.githubusercontent.com/u/99976890?v=4
+21977691,seL4,seL4/seL4,C,2,The seL4 microkernel,650,4621,https://avatars.githubusercontent.com/u/6878957?v=4
+283149635,ffmpeg-kit,arthenica/ffmpeg-kit,C,4,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",546,4038,https://avatars.githubusercontent.com/u/113347484?v=4
 481977,libmodbus,stephane/libmodbus,C,9,"A Modbus library for Linux, Mac OS, FreeBSD and Windows",1713,3317,https://avatars.githubusercontent.com/u/1815?u=5ba41e06415bb6c84df4ddbd902466fb59d8948b&v=4
-2339555,util-linux,util-linux/util-linux,C,2,,1173,2579,https://avatars.githubusercontent.com/u/93589837?v=4
-37978718,mupdf,ArtifexSoftware/mupdf,C,5,mupdf mirror,274,1269,https://avatars.githubusercontent.com/u/13031723?v=4
+3219804,libarchive,libarchive/libarchive,C,7,Multi-format archive and compression library,757,2948,https://avatars.githubusercontent.com/u/1354741?v=4
+263076869,threadx,eclipse-threadx/threadx,C,4,Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.,774,2814,https://avatars.githubusercontent.com/u/156018450?v=4
+15999638,criu,checkpoint-restore/criu,C,3,Checkpoint/Restore tool,562,2777,https://avatars.githubusercontent.com/u/32352560?v=4
+270692521,zmk,zmkfirmware/zmk,C,2,ZMK Firmware Repository,2575,2506,https://avatars.githubusercontent.com/u/66629601?v=4
+387449953,chadwm,siduck/chadwm,C,118,Making dwm as beautiful as possible! ,172,2054,https://avatars.githubusercontent.com/u/59060246?u=19636012195f0b5e641cff888f471cf173591373&v=4
+30383208,nvme-cli,linux-nvme/nvme-cli,C,1,NVMe management command line interface.,640,1414,https://avatars.githubusercontent.com/u/10873541?v=4
+43038779,njs,nginx/njs,C,4,A subset of JavaScript language to use in nginx,124,873,https://avatars.githubusercontent.com/u/1412239?v=4
 423810080,IvorySQL,IvorySQL/IvorySQL,C,17,Open Source Oracle Compatible PostgreSQL.,139,803,https://avatars.githubusercontent.com/u/93546772?v=4
-533917104,os,wolfi-dev/os,C,2,Main package repository for production Wolfi images,193,756,https://avatars.githubusercontent.com/u/112963370?v=4
