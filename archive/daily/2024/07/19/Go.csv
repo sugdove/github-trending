@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,38,The Go programming language,17394,121405,https://avatars.githubusercontent.com/u/4314092?v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,27,Production-Grade Container Scheduling and Management,38954,108600,https://avatars.githubusercontent.com/u/13629408?v=4
-658928958,ollama,ollama/ollama,Go,175,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",6039,79210,https://avatars.githubusercontent.com/u/151674099?v=4
-20904437,gin,gin-gonic/gin,Go,29,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7919,76954,https://avatars.githubusercontent.com/u/7894478?v=4
-7691631,moby,moby/moby,Go,5,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18578,68218,https://avatars.githubusercontent.com/u/27259197?v=4
-31288958,vault,hashicorp/vault,Go,21,"A tool for secrets management, encryption as a service, and privileged access management",4133,30283,https://avatars.githubusercontent.com/u/761456?v=4
-208728772,milvus,milvus-io/milvus,Go,58,"A cloud-native vector database, storage for next generation AI applications",2732,28380,https://avatars.githubusercontent.com/u/51735404?v=4
-192632000,dapr,dapr/dapr,Go,6,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1856,23621,https://avatars.githubusercontent.com/u/51932459?v=4
-165041732,kratos,go-kratos/kratos,Go,18,Your ultimate Go microservices framework for the cloud-native era.,3957,22843,https://avatars.githubusercontent.com/u/62791634?v=4
-56342508,jaeger,jaegertracing/jaeger,Go,8,"CNCF Jaeger, a Distributed Tracing Platform",2369,19907,https://avatars.githubusercontent.com/u/28545596?v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,36,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,3479,18177,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-20653934,cadvisor,google/cadvisor,Go,5,Analyzes resource usage and performance characteristics of running containers.,2295,16684,https://avatars.githubusercontent.com/u/1342004?v=4
-30711774,validator,go-playground/validator,Go,10,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1295,16157,https://avatars.githubusercontent.com/u/14768796?v=4
-118105436,migrate,golang-migrate/migrate,Go,13,Database migrations. CLI and Golang library.,1354,14604,https://avatars.githubusercontent.com/u/35595841?v=4
-326228917,katana,projectdiscovery/katana,Go,18,A next-generation crawling and spidering framework.,550,10457,https://avatars.githubusercontent.com/u/50994705?v=4
-111431261,grpcurl,fullstorydev/grpcurl,Go,8,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",496,10426,https://avatars.githubusercontent.com/u/33756472?v=4
-357897199,netbird,netbirdio/netbird,Go,21,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",439,10003,https://avatars.githubusercontent.com/u/100464677?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,2,The AWS Provider enables Terraform to manage AWS resources.,9013,9632,https://avatars.githubusercontent.com/u/761456?v=4
-66509131,client-go,kubernetes/client-go,Go,8,Go client for Kubernetes.,2910,8811,https://avatars.githubusercontent.com/u/13629408?v=4
-120519269,atlantis,runatlantis/atlantis,Go,4,Terraform Pull Request Automation,1022,7550,https://avatars.githubusercontent.com/u/32311288?v=4
+23096959,go,golang/go,Go,38,The Go programming language,17395,121409,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,27,Production-Grade Container Scheduling and Management,38952,108605,https://avatars.githubusercontent.com/u/13629408?v=4
+658928958,ollama,ollama/ollama,Go,175,"Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.",6040,79220,https://avatars.githubusercontent.com/u/151674099?v=4
+212613049,cli,cli/cli,Go,12,GitHub’s official command line tool,5452,36148,https://avatars.githubusercontent.com/u/59704711?v=4
+31288958,vault,hashicorp/vault,Go,168,"A tool for secrets management, encryption as a service, and privileged access management",4133,30303,https://avatars.githubusercontent.com/u/761456?v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,44,A powerful little TUI framework 🏗,744,25638,https://avatars.githubusercontent.com/u/57376114?v=4
+13628513,logrus,sirupsen/logrus,Go,6,"Structured, pluggable logging for Go.",2261,24349,https://avatars.githubusercontent.com/u/97400?v=4
+52034309,zap,uber-go/zap,Go,9,"Blazing fast, structured, leveled logging in Go.",1413,21373,https://avatars.githubusercontent.com/u/19262598?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,11,Protect and discover secrets using Gitleaks 🔑,1380,16794,https://avatars.githubusercontent.com/u/90395851?v=4
+46089560,containerd,containerd/containerd,Go,7,An open and reliable container runtime,3334,16790,https://avatars.githubusercontent.com/u/14037953?v=4
+465303307,lo,samber/lo,Go,43,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",741,16220,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+30711774,validator,go-playground/validator,Go,10,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1295,16156,https://avatars.githubusercontent.com/u/14768796?v=4
+36653430,nomad,hashicorp/nomad,Go,4,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1925,14604,https://avatars.githubusercontent.com/u/761456?v=4
+33258973,telegraf,influxdata/telegraf,Go,3,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5522,14180,https://avatars.githubusercontent.com/u/5713248?v=4
+135321861,kratos,ory/kratos,Go,7,"Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!",941,10884,https://avatars.githubusercontent.com/u/25334553?v=4
+91054480,zerolog,rs/zerolog,Go,6,Zero Allocation JSON Logger,558,10149,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+23267883,semaphore,semaphoreui/semaphore,Go,39,"Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.",1013,9784,https://avatars.githubusercontent.com/u/98574287?v=4
+66509131,client-go,kubernetes/client-go,Go,8,Go client for Kubernetes.,2910,8812,https://avatars.githubusercontent.com/u/13629408?v=4
+37038121,lego,go-acme/lego,Go,15,Let's Encrypt/ACME client and library written in Go,992,7538,https://avatars.githubusercontent.com/u/48337471?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,0,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2525,7460,https://avatars.githubusercontent.com/u/36015203?v=4
+88705168,mindoc,mindoc-org/mindoc,Go,10,Golang实现的基于beego框架的接口在线文档管理系统,1876,7125,https://avatars.githubusercontent.com/u/81214864?v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,11,OpenTelemetry Go API and SDK,1017,5027,https://avatars.githubusercontent.com/u/49998002?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,2,Kubernetes controller for GitHub Actions self-hosted runners,1049,4443,https://avatars.githubusercontent.com/u/44036562?v=4
-98671007,descheduler,kubernetes-sigs/descheduler,Go,2,Descheduler for Kubernetes,650,4259,https://avatars.githubusercontent.com/u/36015203?v=4
-526081371,go2rtc,AlexxIT/go2rtc,Go,15,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",318,3891,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
-177659629,franz-go,twmb/franz-go,Go,12,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",163,1656,https://avatars.githubusercontent.com/u/1283109?u=7a4ab80124f2c8604c67039784e4963302a825d2&v=4
+43332504,golang-samples,GoogleCloudPlatform/golang-samples,Go,1,Sample apps and code written for Google Cloud in the Go programming language.,1712,4223,https://avatars.githubusercontent.com/u/2810941?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,5,Progressive Delivery for Kubernetes,819,2596,https://avatars.githubusercontent.com/u/30269780?v=4
+177659629,franz-go,twmb/franz-go,Go,12,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.",163,1658,https://avatars.githubusercontent.com/u/1283109?u=7a4ab80124f2c8604c67039784e4963302a825d2&v=4
