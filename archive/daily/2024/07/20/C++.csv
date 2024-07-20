@@ -1,21 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-45717250,tensorflow,tensorflow/tensorflow,C++,40,An Open Source Machine Learning Framework for Everyone,74080,184174,https://avatars.githubusercontent.com/u/15658638?v=4
-11171548,json,nlohmann/json,C++,20,JSON for Modern C++,6589,41513,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,9995,33797,https://avatars.githubusercontent.com/u/1342004?v=4
-4524181,folly,facebook/folly,C++,7,An open-source C++ library developed and used at Facebook.,5478,27597,https://avatars.githubusercontent.com/u/69631?v=4
-191820100,mediapipe,google-ai-edge/mediapipe,C++,13,"Cross-platform, customizable ML solutions for live and streaming media.",5051,26287,https://avatars.githubusercontent.com/u/150697620?v=4
-16587283,xgboost,dmlc/xgboost,C++,7,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8687,25830,https://avatars.githubusercontent.com/u/11508361?v=4
-143455116,filament,google/filament,C++,3,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",1840,17405,https://avatars.githubusercontent.com/u/1342004?v=4
-689773665,llamafile,Mozilla-Ocho/llamafile,C++,67,Distribute and run LLMs with a single file.,859,17237,https://avatars.githubusercontent.com/u/117940224?v=4
-27500243,libphonenumber,google/libphonenumber,C++,8,"Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",2022,16278,https://avatars.githubusercontent.com/u/1342004?v=4
-38581626,pybind11,pybind/pybind11,C++,4,Seamless operability between C++11 and Python,2060,15179,https://avatars.githubusercontent.com/u/17565521?v=4
-104231541,abseil-cpp,abseil/abseil-cpp,C++,80,Abseil Common Libraries (C++),2545,14477,https://avatars.githubusercontent.com/u/26718316?v=4
-51905353,arrow,apache/arrow,C++,5,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,3406,13961,https://avatars.githubusercontent.com/u/47359?v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,10,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",2777,13633,https://avatars.githubusercontent.com/u/6154722?v=4
-384520418,MaaAssistantArknights,MaaAssistantArknights/MaaAssistantArknights,C++,33,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",1687,12719,https://avatars.githubusercontent.com/u/97677443?v=4
-7512484,ardupilot,ArduPilot/ardupilot,C++,7,"ArduPlane, ArduCopter, ArduRover, ArduSub source",16867,10248,https://avatars.githubusercontent.com/u/17919847?v=4
-98470332,AI4Animation,sebastianstarke/AI4Animation,C++,13,Bringing Characters to Life with Computer Brains in Unity,1044,7667,https://avatars.githubusercontent.com/u/20269775?u=a7d683a8196f9c609cf17e922ff9f7da99df53dc&v=4
-679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,29,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,829,7604,https://avatars.githubusercontent.com/u/1728152?v=4
-89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,2,Firebase SDK for Apple App Development,1434,5480,https://avatars.githubusercontent.com/u/1335026?v=4
+29028775,react-native,facebook/react-native,C++,20,A framework for building native applications using React,24102,117264,https://avatars.githubusercontent.com/u/69631?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C++,35,LLM inference in C/C++,8886,61917,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+11171548,json,nlohmann/json,C++,20,JSON for Modern C++,6591,41517,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,9995,33798,https://avatars.githubusercontent.com/u/1342004?v=4
+4524181,folly,facebook/folly,C++,7,An open-source C++ library developed and used at Facebook.,5478,27596,https://avatars.githubusercontent.com/u/69631?v=4
+34777562,srs,ossrs/srs,C++,12,"SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.",5297,24883,https://avatars.githubusercontent.com/u/12165287?v=4
+1062572,Catch2,catchorg/Catch2,C++,1,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3012,18278,https://avatars.githubusercontent.com/u/33321405?v=4
+27500243,libphonenumber,google/libphonenumber,C++,8,"Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",2022,16279,https://avatars.githubusercontent.com/u/1342004?v=4
+104231541,abseil-cpp,abseil/abseil-cpp,C++,36,Abseil Common Libraries (C++),2545,14478,https://avatars.githubusercontent.com/u/26718316?v=4
+384520418,MaaAssistantArknights,MaaAssistantArknights/MaaAssistantArknights,C++,33,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",1688,12721,https://avatars.githubusercontent.com/u/97677443?v=4
+11986447,xournalpp,xournalpp/xournalpp,C++,8,"Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",778,10623,https://avatars.githubusercontent.com/u/5192682?v=4
+538180525,ggml,ggerganov/ggml,C++,6,Tensor library for machine learning,960,10383,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+15122806,benchmark,google/benchmark,C++,4,A microbenchmark support library,1582,8650,https://avatars.githubusercontent.com/u/1342004?v=4
+90506918,cudf,rapidsai/cudf,C++,7,cuDF - GPU DataFrame Library ,873,8059,https://avatars.githubusercontent.com/u/43887749?v=4
+5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,41,PX4 Autopilot Software,13261,7959,https://avatars.githubusercontent.com/u/2096014?v=4
+679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,75,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,829,7610,https://avatars.githubusercontent.com/u/1728152?v=4
+23007417,colmap,colmap/colmap,C++,2,COLMAP - Structure-from-Motion and Multi-View Stereo,1461,7179,https://avatars.githubusercontent.com/u/8461936?v=4
+31197250,glog,google/glog,C++,3,C++ implementation of the Google logging module,2046,6929,https://avatars.githubusercontent.com/u/1342004?v=4
+18490421,vcmi,vcmi/vcmi,C++,3,Open-source engine for Heroes of Might and Magic III,453,4079,https://avatars.githubusercontent.com/u/2861395?v=4
+15667250,ceres-solver,ceres-solver/ceres-solver,C++,2,A large scale non-linear optimization library,1020,3726,https://avatars.githubusercontent.com/u/6327561?v=4
 456549280,ydb,ydb-platform/ydb,C++,0,YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions,507,3710,https://avatars.githubusercontent.com/u/88314308?v=4
-520106141,livox_ros_driver2,Livox-SDK/livox_ros_driver2,C++,1,"Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.",173,207,https://avatars.githubusercontent.com/u/45850995?u=c2eb0f78dac38d86eea614f282a906f2a261025c&v=4
+538979582,WeChatFerry,lich0821/WeChatFerry,C++,13,微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.,588,3263,https://avatars.githubusercontent.com/u/87742696?u=6d1e2829e0a96a0eebce49089ff3f7e0a788e76f&v=4
+87443396,srt,Haivision/srt,C++,1,"Secure, Reliable, Transport",825,3010,https://avatars.githubusercontent.com/u/1405927?v=4
+131630299,onnx-tensorrt,onnx/onnx-tensorrt,C++,2,ONNX-TensorRT: TensorRT backend for ONNX,540,2854,https://avatars.githubusercontent.com/u/31675368?v=4
