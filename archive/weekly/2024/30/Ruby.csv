@@ -1,24 +1,16 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-65252,jekyll,jekyll/jekyll,Ruby,40,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,9923,48680,https://avatars.githubusercontent.com/u/3083652?v=4
-7569578,discourse,discourse/discourse,Ruby,94,"A platform for community discussion. Free, open, simple.",8214,41283,https://avatars.githubusercontent.com/u/3220138?v=4
-53238813,brew,Homebrew/brew,Ruby,95,🍺 The missing package manager for macOS (or Linux),9443,40277,https://avatars.githubusercontent.com/u/1503512?v=4
-27442967,fastlane,fastlane/fastlane,Ruby,32,🚀 The easiest way to automate building and releasing your iOS and Android apps,5649,38881,https://avatars.githubusercontent.com/u/11098337?v=4
-13840241,devdocs,freeCodeCamp/devdocs,Ruby,41,API Documentation Browser,2291,34359,https://avatars.githubusercontent.com/u/9892522?v=4
-2293158,metasploit-framework,rapid7/metasploit-framework,Ruby,56,Metasploit Framework,13821,33377,https://avatars.githubusercontent.com/u/1013671?v=4
-37382858,engineering-blogs,kilimchoi/engineering-blogs,Ruby,227,A curated list of engineering blogs,1508,30359,https://avatars.githubusercontent.com/u/1356007?u=c1ae28679aee148c3e9984e00497968cf419e284&v=4
-308770,devise,heartcombo/devise,Ruby,18,Flexible authentication solution for Rails with Warden.,5531,23854,https://avatars.githubusercontent.com/u/59584037?v=4
+65252,jekyll,jekyll/jekyll,Ruby,40,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,9923,48681,https://avatars.githubusercontent.com/u/3083652?v=4
+7569578,discourse,discourse/discourse,Ruby,94,"A platform for community discussion. Free, open, simple.",8215,41285,https://avatars.githubusercontent.com/u/3220138?v=4
+53238813,brew,Homebrew/brew,Ruby,95,🍺 The missing package manager for macOS (or Linux),9445,40279,https://avatars.githubusercontent.com/u/1503512?v=4
+27442967,fastlane,fastlane/fastlane,Ruby,32,🚀 The easiest way to automate building and releasing your iOS and Android apps,5649,38882,https://avatars.githubusercontent.com/u/11098337?v=4
+2293158,metasploit-framework,rapid7/metasploit-framework,Ruby,56,Metasploit Framework,13821,33380,https://avatars.githubusercontent.com/u/1013671?v=4
+37382858,engineering-blogs,kilimchoi/engineering-blogs,Ruby,227,A curated list of engineering blogs,1508,30365,https://avatars.githubusercontent.com/u/1356007?u=c1ae28679aee148c3e9984e00497968cf419e284&v=4
 3623050,homebrew-cask,Homebrew/homebrew-cask,Ruby,32,🍻 A CLI workflow for the administration of macOS applications distributed as binaries,10607,20725,https://avatars.githubusercontent.com/u/1503512?v=4
-202291859,chatwoot,chatwoot/chatwoot,Ruby,65,"Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",3170,19761,https://avatars.githubusercontent.com/u/23416667?v=4
-52855516,homebrew-core,Homebrew/homebrew-core,Ruby,55,🍻 Default formulae for the missing package manager for macOS (or Linux),12206,13447,https://avatars.githubusercontent.com/u/1503512?v=4
-4095287,rubocop,rubocop/rubocop,Ruby,2,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.",3045,12549,https://avatars.githubusercontent.com/u/10871348?v=4
-96395,faker,faker-ruby/faker,Ruby,7,"A library for generating fake data such as names, addresses, and phone numbers.",3176,11194,https://avatars.githubusercontent.com/u/47637297?v=4
-15435,liquid,Shopify/liquid,Ruby,11,"Liquid markup language. Safe, customer facing template language for flexible web apps. ",1370,10943,https://avatars.githubusercontent.com/u/8085?v=4
-6899875,openproject,opf/openproject,Ruby,39,OpenProject is the leading open source project management software.,2229,8774,https://avatars.githubusercontent.com/u/1756674?v=4
-451035,simple_form,heartcombo/simple_form,Ruby,2,"Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",1315,8207,https://avatars.githubusercontent.com/u/59584037?v=4
-810796,rails_admin,railsadminteam/rails_admin,Ruby,4,RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data,2250,7873,https://avatars.githubusercontent.com/u/93148377?v=4
-211588,paper_trail,paper-trail-gem/paper_trail,Ruby,3,Track changes to your rails models,884,6741,https://avatars.githubusercontent.com/u/38986600?v=4
-950915,WhatWeb,urbanadventurer/WhatWeb,Ruby,43,Next generation web scanner,888,5342,https://avatars.githubusercontent.com/u/101783?u=e3d47c1e85f83e392e6ab5e82219353814948583&v=4
+52855516,homebrew-core,Homebrew/homebrew-core,Ruby,55,🍻 Default formulae for the missing package manager for macOS (or Linux),12205,13448,https://avatars.githubusercontent.com/u/1503512?v=4
+96395,faker,faker-ruby/faker,Ruby,7,"A library for generating fake data such as names, addresses, and phone numbers.",3176,11195,https://avatars.githubusercontent.com/u/47637297?v=4
+15435,liquid,Shopify/liquid,Ruby,11,"Liquid markup language. Safe, customer facing template language for flexible web apps. ",1371,10944,https://avatars.githubusercontent.com/u/8085?v=4
+1548802,ransack,activerecord-hackery/ransack,Ruby,8,Object-based searching. ,787,5628,https://avatars.githubusercontent.com/u/5951504?v=4
+16994115,cancancan,CanCanCommunity/cancancan,Ruby,6,The authorization Gem for Ruby on Rails.,634,5546,https://avatars.githubusercontent.com/u/6765080?v=4
+7050,prawn,prawnpdf/prawn,Ruby,2,"Fast, Nimble PDF Writer for Ruby",686,4634,https://avatars.githubusercontent.com/u/1440292?v=4
 10088951,theodinproject,TheOdinProject/theodinproject,Ruby,18,Main Website for The Odin Project,2059,3581,https://avatars.githubusercontent.com/u/4441966?v=4
-21333814,devise_token_auth,lynndylanhurley/devise_token_auth,Ruby,2,Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.,1134,3519,https://avatars.githubusercontent.com/u/468037?u=463dfbb32fa29779cafc2633fc3c82b1997dc0a0&v=4
-61203,shopify_app,Shopify/shopify_app,Ruby,4,A Rails Engine for building Shopify Apps,684,1741,https://avatars.githubusercontent.com/u/8085?v=4
-463648726,ruby-lsp,Shopify/ruby-lsp,Ruby,14,An opinionated language server for Ruby,130,1429,https://avatars.githubusercontent.com/u/8085?v=4
+2725544,Xcodeproj,CocoaPods/Xcodeproj,Ruby,3,Create and modify Xcode projects from Ruby.,454,2324,https://avatars.githubusercontent.com/u/1189714?v=4
