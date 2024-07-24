@@ -1,24 +1,19 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
 27442967,fastlane,fastlane/fastlane,Ruby,3,🚀 The easiest way to automate building and releasing your iOS and Android apps,5649,38882,https://avatars.githubusercontent.com/u/11098337?v=4
-37382858,engineering-blogs,kilimchoi/engineering-blogs,Ruby,49,A curated list of engineering blogs,1509,30378,https://avatars.githubusercontent.com/u/1356007?u=c1ae28679aee148c3e9984e00497968cf419e284&v=4
-737898780,maybe,maybe-finance/maybe,Ruby,13,The OS for your personal finances,2190,28837,https://avatars.githubusercontent.com/u/80786585?v=4
-481872,vagrant,hashicorp/vagrant,Ruby,6,Vagrant is a tool for building and distributing development environments.,4422,26052,https://avatars.githubusercontent.com/u/761456?v=4
-73648678,forem,forem/forem,Ruby,7,For empowering community 🌱,3973,21777,https://avatars.githubusercontent.com/u/65030610?v=4
-3195124,sidekiq,sidekiq/sidekiq,Ruby,2,"Simple, efficient background processing for Ruby",2394,13060,https://avatars.githubusercontent.com/u/124714131?v=4
-1918677,fluentd,fluent/fluentd,Ruby,2,Fluentd: Unified Logging Layer (project under CNCF),1327,12724,https://avatars.githubusercontent.com/u/859518?v=4
-47087,carrierwave,carrierwaveuploader/carrierwave,Ruby,0,"Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",1651,8783,https://avatars.githubusercontent.com/u/3982589?v=4
-6899875,openproject,opf/openproject,Ruby,7,OpenProject is the leading open source project management software.,2230,8780,https://avatars.githubusercontent.com/u/1756674?v=4
-910744,puppet,puppetlabs/puppet,Ruby,0,Server automation framework and application,2186,7335,https://avatars.githubusercontent.com/u/234268?v=4
-5160706,dotenv,bkeepers/dotenv,Ruby,0,A Ruby gem to load environment variables from `.env`. ,500,6544,https://avatars.githubusercontent.com/u/173?u=ac9aaace45a2160526833001803d7d659eb7bd1b&v=4
-535266,vcr,vcr/vcr,Ruby,2,"Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",502,5791,https://avatars.githubusercontent.com/u/2902977?v=4
-16994115,cancancan,CanCanCommunity/cancancan,Ruby,0,The authorization Gem for Ruby on Rails.,634,5548,https://avatars.githubusercontent.com/u/6765080?v=4
+481872,vagrant,hashicorp/vagrant,Ruby,5,Vagrant is a tool for building and distributing development environments.,4422,26053,https://avatars.githubusercontent.com/u/761456?v=4
+2500088,gitlabhq,gitlabhq/gitlabhq,Ruby,3,GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com,5719,23694,https://avatars.githubusercontent.com/u/1086321?v=4
+73648678,forem,forem/forem,Ruby,3,For empowering community 🌱,3973,21777,https://avatars.githubusercontent.com/u/65030610?v=4
+202291859,chatwoot,chatwoot/chatwoot,Ruby,15,"Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",3171,19778,https://avatars.githubusercontent.com/u/23416667?v=4
+2203645,CocoaPods,CocoaPods/CocoaPods,Ruby,0,The Cocoa Dependency Manager.,2618,14498,https://avatars.githubusercontent.com/u/1189714?v=4
+52855516,homebrew-core,Homebrew/homebrew-core,Ruby,6,🍻 Default formulae for the missing package manager for macOS (or Linux),12210,13452,https://avatars.githubusercontent.com/u/1503512?v=4
+3195124,sidekiq,sidekiq/sidekiq,Ruby,5,"Simple, efficient background processing for Ruby",2394,13060,https://avatars.githubusercontent.com/u/124714131?v=4
+1918677,fluentd,fluent/fluentd,Ruby,1,Fluentd: Unified Logging Layer (project under CNCF),1327,12724,https://avatars.githubusercontent.com/u/859518?v=4
+15435,liquid,Shopify/liquid,Ruby,3,"Liquid markup language. Safe, customer facing template language for flexible web apps. ",1372,10945,https://avatars.githubusercontent.com/u/8085?v=4
+4994614,wpscan,wpscanteam/wpscan,Ruby,4,WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com,1248,8410,https://avatars.githubusercontent.com/u/1872249?v=4
 2889230,active_model_serializers,rails-api/active_model_serializers,Ruby,0,ActiveModel::Serializer implementation and Rails hooks,1390,5324,https://avatars.githubusercontent.com/u/2820360?v=4
-2802565,doorkeeper,doorkeeper-gem/doorkeeper,Ruby,2,Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.,1060,5286,https://avatars.githubusercontent.com/u/7275750?v=4
-93163073,dependabot-core,dependabot/dependabot-core,Ruby,3,🤖 Dependabot's core logic for creating update PRs.,954,4551,https://avatars.githubusercontent.com/u/27347476?v=4
-46698467,strong_migrations,ankane/strong_migrations,Ruby,0,Catch unsafe migrations in development,173,3951,https://avatars.githubusercontent.com/u/220358?u=ba13f3240d7992dc4124a33a4fc65bf4924e5375&v=4
-5144181,flipper,flippercloud/flipper,Ruby,0,"🐬 Beautiful, performant feature flags for Ruby.",410,3625,https://avatars.githubusercontent.com/u/130090392?v=4
-1172597,shoulda-matchers,thoughtbot/shoulda-matchers,Ruby,0,Simple one-liner tests for common Rails functionality,910,3493,https://avatars.githubusercontent.com/u/6183?v=4
-9500075,oxidized,ytti/oxidized,Ruby,1,Oxidized is a network device configuration backup tool. It's a RANCID replacement!,911,2703,https://avatars.githubusercontent.com/u/200527?v=4
-238983,rspec-mocks,rspec/rspec-mocks,Ruby,0,"RSpec's 'test double' framework, with support for stubbing and mocking",357,1157,https://avatars.githubusercontent.com/u/22388?v=4
-66497320,dd-trace-rb,DataDog/dd-trace-rb,Ruby,0,Datadog Tracing Ruby Client,368,302,https://avatars.githubusercontent.com/u/365230?v=4
-77154536,mobile-dependencies_whitelist,mercadolibre/mobile-dependencies_whitelist,Ruby,0,Whitelist dependencies files for mobile teams,585,22,https://avatars.githubusercontent.com/u/245516?v=4
+5144181,flipper,flippercloud/flipper,Ruby,5,"🐬 Beautiful, performant feature flags for Ruby.",410,3625,https://avatars.githubusercontent.com/u/130090392?v=4
+1172597,shoulda-matchers,thoughtbot/shoulda-matchers,Ruby,1,Simple one-liner tests for common Rails functionality,910,3493,https://avatars.githubusercontent.com/u/6183?v=4
+188828946,endoflife.date,endoflife-date/endoflife.date,Ruby,1,Informative site with EoL dates of everything,697,2327,https://avatars.githubusercontent.com/u/62706925?v=4
+317981738,turbo-rails,hotwired/turbo-rails,Ruby,1,Use Turbo in your Ruby on Rails app,308,2039,https://avatars.githubusercontent.com/u/75388917?v=4
+3276877,Ceedling,ThrowTheSwitch/Ceedling,Ruby,0,Ruby-based unit testing and build system for C projects,240,569,https://avatars.githubusercontent.com/u/1049138?v=4
+62409417,vets-api,department-of-veterans-affairs/vets-api,Ruby,0,API powering VA.gov,61,197,https://avatars.githubusercontent.com/u/5421563?v=4
