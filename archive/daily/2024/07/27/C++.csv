@@ -1,24 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,18,A framework for building native applications using React,24119,117356,https://avatars.githubusercontent.com/u/69631?v=4
-9384267,electron,electron/electron,C++,11,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15166,113003,https://avatars.githubusercontent.com/u/13409222?v=4
-619959033,gpt4all,nomic-ai/gpt4all,C++,58,GPT4All: Chat with Local LLMs on Any Device,7456,67860,https://avatars.githubusercontent.com/u/102670180?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,8,Protocol Buffers - Google's data interchange format,15379,64735,https://avatars.githubusercontent.com/u/26310541?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,143,LLM inference in C/C++,8971,62568,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-67702184,Magisk,topjohnwu/Magisk,C++,20,The Magic Mask for Android,11572,45924,https://avatars.githubusercontent.com/u/7337301?v=4
-39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,9997,33819,https://avatars.githubusercontent.com/u/1342004?v=4
-4524181,folly,facebook/folly,C++,24,An open-source C++ library developed and used at Facebook.,5488,27693,https://avatars.githubusercontent.com/u/69631?v=4
-16587283,xgboost,dmlc/xgboost,C++,9,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8689,25877,https://avatars.githubusercontent.com/u/11508361?v=4
+619959033,gpt4all,nomic-ai/gpt4all,C++,58,GPT4All: Chat with Local LLMs on Any Device,7457,67868,https://avatars.githubusercontent.com/u/102670180?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C++,143,LLM inference in C/C++,8969,62576,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+60246359,ClickHouse,ClickHouse/ClickHouse,C++,19,ClickHouse® is a real-time analytics DBMS,6662,35704,https://avatars.githubusercontent.com/u/54801242?v=4
+39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,9997,33820,https://avatars.githubusercontent.com/u/1342004?v=4
+4524181,folly,facebook/folly,C++,47,An open-source C++ library developed and used at Facebook.,5489,27694,https://avatars.githubusercontent.com/u/69631?v=4
 65214191,envoy,envoyproxy/envoy,C++,9,Cloud-native high-performance edge/middle/service proxy,4703,24345,https://avatars.githubusercontent.com/u/30125649?v=4
-26038648,spdlog,gabime/spdlog,C++,63,Fast C++ logging library.,4413,23322,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-19953044,flatbuffers,google/flatbuffers,C++,6,FlatBuffers: Memory Efficient Serialization Library,3196,22625,https://avatars.githubusercontent.com/u/1342004?v=4
-138754790,duckdb,duckdb/duckdb,C++,34,DuckDB is an analytical in-process SQL database management system,1709,21177,https://avatars.githubusercontent.com/u/82039556?v=4
-1062572,Catch2,catchorg/Catch2,C++,4,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3015,18307,https://avatars.githubusercontent.com/u/33321405?v=4
-75413130,Open3D,isl-org/Open3D,C++,4,Open3D: A Modern Library for 3D Data Processing,2243,10924,https://avatars.githubusercontent.com/u/23507030?v=4
-310611,thrift,apache/thrift,C++,1,Apache Thrift,4002,10261,https://avatars.githubusercontent.com/u/47359?v=4
-33157169,cpr,libcpr/cpr,C++,3,"C++ Requests: Curl for People, a spiritual port of Python Requests.",910,6346,https://avatars.githubusercontent.com/u/55407394?v=4
-341816758,react-native-mmkv,mrousavy/react-native-mmkv,C++,7,⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!,242,5590,https://avatars.githubusercontent.com/u/15199031?u=5a82dcb32237282ff576c0446567a1e2fe49b868&v=4
-436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,3,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,2330,3189,https://avatars.githubusercontent.com/u/29489915?u=fcf37f59ad74d0389bcb06a49c324a4cab771e4e&v=4
-153316914,BehaviorTree.CPP,BehaviorTree/BehaviorTree.CPP,C++,3,Behavior Trees Library in C++. Batteries included.,636,2852,https://avatars.githubusercontent.com/u/44158496?v=4
-531380835,sherpa-onnx,k2-fsa/sherpa-onnx,C++,11,"Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter",298,2618,https://avatars.githubusercontent.com/u/71431748?v=4
-150154628,FBGEMM,pytorch/FBGEMM,C++,2,FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/,457,1134,https://avatars.githubusercontent.com/u/21003710?v=4
-429651616,autoware.universe,autowarefoundation/autoware.universe,C++,1,,586,895,https://avatars.githubusercontent.com/u/48420599?v=4
+26038648,spdlog,gabime/spdlog,C++,44,Fast C++ logging library.,4413,23322,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+95879426,ncnn,Tencent/ncnn,C++,2,ncnn is a high-performance neural network inference framework optimized for the mobile platform,4113,19846,https://avatars.githubusercontent.com/u/18461506?v=4
+5736080,FreeCAD,FreeCAD/FreeCAD,C++,8,"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",3897,18416,https://avatars.githubusercontent.com/u/2306237?v=4
+1062572,Catch2,catchorg/Catch2,C++,4,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3015,18308,https://avatars.githubusercontent.com/u/33321405?v=4
+2310495,ceph,ceph/ceph,C++,20,"Ceph is a distributed object, block, and file storage platform ",5893,13594,https://avatars.githubusercontent.com/u/1015767?v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,4,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,3297,13353,https://avatars.githubusercontent.com/u/84565724?v=4
+70127218,arduino-esp32,espressif/arduino-esp32,C++,11,Arduino core for the ESP32,7312,13066,https://avatars.githubusercontent.com/u/9460735?v=4
+108102826,carla,carla-simulator/carla,C++,2,Open-source simulator for autonomous driving research.,3511,10917,https://avatars.githubusercontent.com/u/33029185?v=4
+1204412,TrinityCore,TrinityCore/TrinityCore,C++,2,"TrinityCore Open Source MMO Framework (master = 10.2.7.55664, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)",6008,9306,https://avatars.githubusercontent.com/u/539602?v=4
+46374199,librealsense,IntelRealSense/librealsense,C++,2,Intel® RealSense™ SDK,4807,7453,https://avatars.githubusercontent.com/u/14095512?v=4
+31197250,glog,google/glog,C++,0,C++ implementation of the Google logging module,2049,6933,https://avatars.githubusercontent.com/u/1342004?v=4
+587499842,piper,rhasspy/piper,C++,8,"A fast, local neural text to speech system",372,5266,https://avatars.githubusercontent.com/u/59055969?v=4
+112542515,cutlass,NVIDIA/cutlass,C++,8,CUDA Templates for Linear Algebra Subroutines,852,4995,https://avatars.githubusercontent.com/u/1728152?v=4
+49244766,icu,unicode-org/icu,C++,3,The home of the ICU project source code.,721,2668,https://avatars.githubusercontent.com/u/13873561?v=4
+356055024,tflite-micro,tensorflow/tflite-micro,C++,1,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).,780,1767,https://avatars.githubusercontent.com/u/15658638?v=4
+279067598,Interview_DS_Algo,MAZHARMIK/Interview_DS_Algo,C++,4,Super Repository for Coding Interview Preperation,838,1408,https://avatars.githubusercontent.com/u/17107752?u=801f3912768eba988dceebc72fe4c682a0feff34&v=4
