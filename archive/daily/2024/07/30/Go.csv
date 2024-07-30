@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,409,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6290,82286,https://avatars.githubusercontent.com/u/151674099?v=4
-20904437,gin,gin-gonic/gin,Go,24,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7934,77176,https://avatars.githubusercontent.com/u/7894478?v=4
-11180687,hugo,gohugoio/hugo,Go,21,The world’s fastest framework for building websites.,7408,73964,https://avatars.githubusercontent.com/u/29385237?v=4
-12574344,cobra,spf13/cobra,Go,11,A Commander for modern Go CLI interactions,2821,37033,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+658928958,ollama,ollama/ollama,Go,409,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6290,82326,https://avatars.githubusercontent.com/u/151674099?v=4
+20904437,gin,gin-gonic/gin,Go,24,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7934,77177,https://avatars.githubusercontent.com/u/7894478?v=4
+11180687,hugo,gohugoio/hugo,Go,21,The world’s fastest framework for building websites.,7408,73962,https://avatars.githubusercontent.com/u/29385237?v=4
+12574344,cobra,spf13/cobra,Go,11,A Commander for modern Go CLI interactions,2821,37035,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
 679421146,opentofu,opentofu/opentofu,Go,29,OpenTofu lets you declaratively manage your cloud infrastructure.,820,21977,https://avatars.githubusercontent.com/u/142061836?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,9,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2221,21904,https://avatars.githubusercontent.com/u/11985425?v=4
-273871859,headscale,juanfont/headscale,Go,34,"An open source, self-hosted implementation of the Tailscale control server",1172,21279,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-27729907,grpc-go,grpc/grpc-go,Go,3,The Go language implementation of gRPC. HTTP/2 based RPC,4297,20600,https://avatars.githubusercontent.com/u/7802525?v=4
+273871859,headscale,juanfont/headscale,Go,34,"An open source, self-hosted implementation of the Tailscale control server",1172,21281,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+27729907,grpc-go,grpc/grpc-go,Go,3,The Go language implementation of gRPC. HTTP/2 based RPC,4297,20602,https://avatars.githubusercontent.com/u/7802525?v=4
 5179099,go-redis,redis/go-redis,Go,8,Redis Go client,2331,19691,https://avatars.githubusercontent.com/u/1529926?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,15,Declarative Continuous Deployment for Kubernetes,5140,16923,https://avatars.githubusercontent.com/u/30269780?v=4
-20653934,cadvisor,google/cadvisor,Go,8,Analyzes resource usage and performance characteristics of running containers.,2296,16719,https://avatars.githubusercontent.com/u/1342004?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,15,Declarative Continuous Deployment for Kubernetes,5140,16925,https://avatars.githubusercontent.com/u/30269780?v=4
+20653934,cadvisor,google/cadvisor,Go,8,Analyzes resource usage and performance characteristics of running containers.,2296,16721,https://avatars.githubusercontent.com/u/1342004?v=4
 30711774,validator,go-playground/validator,Go,10,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1294,16223,https://avatars.githubusercontent.com/u/14768796?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,53,Find and verify secrets,1584,14769,https://avatars.githubusercontent.com/u/79229934?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,43,Find and verify secrets,1585,14777,https://avatars.githubusercontent.com/u/79229934?v=4
 119419195,kaniko,GoogleContainerTools/kaniko,Go,7,Build Container Images In Kubernetes,1405,14371,https://avatars.githubusercontent.com/u/38444003?v=4
-159540440,wire,google/wire,Go,4,Compile-time Dependency Injection for Go,613,12687,https://avatars.githubusercontent.com/u/1342004?v=4
+159540440,wire,google/wire,Go,4,Compile-time Dependency Injection for Go,613,12690,https://avatars.githubusercontent.com/u/1342004?v=4
 18906266,gopsutil,shirou/gopsutil,Go,5,psutil for golang,1566,10337,https://avatars.githubusercontent.com/u/177213?u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4
 244694886,nightingale,ccfos/nightingale,Go,12,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1359,9244,https://avatars.githubusercontent.com/u/96813578?v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,3,"node of the decentralized oracle network, bridging on and off-chain computation",1667,6879,https://avatars.githubusercontent.com/u/25111032?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,3,"node of the decentralized oracle network, bridging on and off-chain computation",1667,6880,https://avatars.githubusercontent.com/u/25111032?v=4
 31333618,decimal,shopspring/decimal,Go,10,Arbitrary-precision fixed-point decimal numbers in Go,616,6149,https://avatars.githubusercontent.com/u/11196412?v=4
 92132038,metrics-server,kubernetes-sigs/metrics-server,Go,4,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,1850,5639,https://avatars.githubusercontent.com/u/36015203?v=4
-299054922,mosint,alpkeskin/mosint,Go,181,An automated e-mail OSINT tool,544,4586,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
+299054922,mosint,alpkeskin/mosint,Go,181,An automated e-mail OSINT tool,545,4588,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
 248386471,kubekey,kubesphere/kubekey,Go,5,"Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳",524,2217,https://avatars.githubusercontent.com/u/37326490?v=4
-622384161,cyclops,cyclops-ui/cyclops,Go,162,Developer Friendly Kubernetes 👁️,474,1702,https://avatars.githubusercontent.com/u/125922403?v=4
+622384161,cyclops,cyclops-ui/cyclops,Go,162,Developer Friendly Kubernetes 👁️,670,1946,https://avatars.githubusercontent.com/u/125922403?v=4
