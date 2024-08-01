@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,361,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6321,82695,https://avatars.githubusercontent.com/u/151674099?v=4
-7691631,moby,moby/moby,Go,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18586,68276,https://avatars.githubusercontent.com/u/27259197?v=4
+658928958,ollama,ollama/ollama,Go,361,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6325,82790,https://avatars.githubusercontent.com/u/151674099?v=4
+7691631,moby,moby/moby,Go,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18587,68281,https://avatars.githubusercontent.com/u/27259197?v=4
 17728164,terraform,hashicorp/terraform,Go,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9437,41834,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,22,A Commander for modern Go CLI interactions,2822,37055,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,111,Open Source realtime backend in 1 file,1666,37032,https://avatars.githubusercontent.com/u/101000011?v=4
-436297812,memos,usememos/memos,Go,39,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",2174,29177,https://avatars.githubusercontent.com/u/95764151?v=4
-208728772,milvus,milvus-io/milvus,Go,45,"A cloud-native vector database, storage for next generation AI applications",2756,28638,https://avatars.githubusercontent.com/u/51735404?v=4
-18369373,viper,spf13/viper,Go,12,Go configuration with fangs,2012,26501,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-109145553,podman,containers/podman,Go,9,Podman: A tool for managing OCI containers and pods.,2317,22636,https://avatars.githubusercontent.com/u/5874934?v=4
-180687624,trivy,aquasecurity/trivy,Go,20,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2211,22380,https://avatars.githubusercontent.com/u/12783832?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,32,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2357,18666,https://avatars.githubusercontent.com/u/50994705?v=4
-143460965,microservices-demo,GoogleCloudPlatform/microservices-demo,Go,11,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",6916,16435,https://avatars.githubusercontent.com/u/2810941?v=4
-159540440,wire,google/wire,Go,22,Compile-time Dependency Injection for Go,613,12707,https://avatars.githubusercontent.com/u/1342004?v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,5,Customization of kubernetes YAML configurations,2227,10786,https://avatars.githubusercontent.com/u/36015203?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,111,Open Source realtime backend in 1 file,1667,37116,https://avatars.githubusercontent.com/u/101000011?v=4
+12574344,cobra,spf13/cobra,Go,22,A Commander for modern Go CLI interactions,2822,37060,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+436297812,memos,usememos/memos,Go,39,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",2173,29185,https://avatars.githubusercontent.com/u/95764151?v=4
+208728772,milvus,milvus-io/milvus,Go,45,"A cloud-native vector database, storage for next generation AI applications",2758,28642,https://avatars.githubusercontent.com/u/51735404?v=4
+18369373,viper,spf13/viper,Go,12,Go configuration with fangs,2011,26502,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+109145553,podman,containers/podman,Go,9,Podman: A tool for managing OCI containers and pods.,2317,22640,https://avatars.githubusercontent.com/u/5874934?v=4
+180687624,trivy,aquasecurity/trivy,Go,20,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2211,22388,https://avatars.githubusercontent.com/u/12783832?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,32,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2359,18705,https://avatars.githubusercontent.com/u/50994705?v=4
+143460965,microservices-demo,GoogleCloudPlatform/microservices-demo,Go,11,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",6921,16438,https://avatars.githubusercontent.com/u/2810941?v=4
+159540440,wire,google/wire,Go,22,Compile-time Dependency Injection for Go,613,12710,https://avatars.githubusercontent.com/u/1342004?v=4
+133067498,kustomize,kubernetes-sigs/kustomize,Go,5,Customization of kubernetes YAML configurations,2227,10790,https://avatars.githubusercontent.com/u/36015203?v=4
 18906266,gopsutil,shirou/gopsutil,Go,11,psutil for golang,1566,10345,https://avatars.githubusercontent.com/u/177213?u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,4,The AWS Provider enables Terraform to manage AWS resources.,9037,9658,https://avatars.githubusercontent.com/u/761456?v=4
-21306961,fsnotify,fsnotify/fsnotify,Go,4,Cross-platform filesystem notifications for Go.,891,9364,https://avatars.githubusercontent.com/u/8013877?v=4
-244694886,nightingale,ccfos/nightingale,Go,19,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1361,9268,https://avatars.githubusercontent.com/u/96813578?v=4
-28366058,distribution,distribution/distribution,Go,2,"The toolkit to pack, ship, store, and deliver container content",2427,8719,https://avatars.githubusercontent.com/u/78096003?v=4
-267054247,grype,anchore/grype,Go,4,A vulnerability scanner for container images and filesystems,537,8262,https://avatars.githubusercontent.com/u/16208487?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3885,7853,https://avatars.githubusercontent.com/u/13629408?v=4
-299054922,mosint,alpkeskin/mosint,Go,19,An automated e-mail OSINT tool,545,4608,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
-622384161,cyclops,cyclops-ui/cyclops,Go,575,Developer Friendly Kubernetes 👁️,810,2192,https://avatars.githubusercontent.com/u/125922403?v=4
-531220682,dice,DiceDB/dice,Go,207,A drop-in replacement of Redis with SQL-based realtime reactivity.,250,1639,https://avatars.githubusercontent.com/u/112580013?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,4,The AWS Provider enables Terraform to manage AWS resources.,9039,9658,https://avatars.githubusercontent.com/u/761456?v=4
+21306961,fsnotify,fsnotify/fsnotify,Go,4,Cross-platform filesystem notifications for Go.,891,9369,https://avatars.githubusercontent.com/u/8013877?v=4
+244694886,nightingale,ccfos/nightingale,Go,19,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1363,9270,https://avatars.githubusercontent.com/u/96813578?v=4
+28366058,distribution,distribution/distribution,Go,2,"The toolkit to pack, ship, store, and deliver container content",2427,8720,https://avatars.githubusercontent.com/u/78096003?v=4
+267054247,grype,anchore/grype,Go,4,A vulnerability scanner for container images and filesystems,537,8267,https://avatars.githubusercontent.com/u/16208487?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3884,7852,https://avatars.githubusercontent.com/u/13629408?v=4
+299054922,mosint,alpkeskin/mosint,Go,19,An automated e-mail OSINT tool,545,4611,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
+622384161,cyclops,cyclops-ui/cyclops,Go,575,Developer Friendly Kubernetes 👁️,812,2203,https://avatars.githubusercontent.com/u/125922403?v=4
+531220682,dice,DiceDB/dice,Go,207,A drop-in replacement of Redis with SQL-based realtime reactivity.,264,1873,https://avatars.githubusercontent.com/u/112580013?v=4
