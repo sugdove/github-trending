@@ -1,24 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,2385,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6364,83161,https://avatars.githubusercontent.com/u/151674099?v=4
-20904437,gin,gin-gonic/gin,Go,148,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7938,77247,https://avatars.githubusercontent.com/u/7894478?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,251,Go implementation of the Ethereum protocol,20072,47167,https://avatars.githubusercontent.com/u/6250754?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,635,Open Source realtime backend in 1 file,1681,37431,https://avatars.githubusercontent.com/u/101000011?v=4
-122734569,lux,iawia002/lux,Go,177,👾 Fast and simple video download library and CLI tool written in Go,2908,26378,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-120227732,fyne,fyne-io/fyne,Go,87,Cross platform GUI toolkit in Go inspired by Material Design,1348,24191,https://avatars.githubusercontent.com/u/36045855?v=4
-26337322,rancher,rancher/rancher,Go,47,Complete container management platform,2925,22947,https://avatars.githubusercontent.com/u/9343010?v=4
-180687624,trivy,aquasecurity/trivy,Go,97,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2214,22412,https://avatars.githubusercontent.com/u/12783832?v=4
-679421146,opentofu,opentofu/opentofu,Go,118,OpenTofu lets you declaratively manage your cloud infrastructure.,824,22042,https://avatars.githubusercontent.com/u/142061836?v=4
-273871859,headscale,juanfont/headscale,Go,194,"An open source, self-hosted implementation of the Tailscale control server",1178,21361,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,249,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2372,18854,https://avatars.githubusercontent.com/u/50994705?v=4
-509091576,sing-box,SagerNet/sing-box,Go,357,The universal proxy platform,2070,17066,https://avatars.githubusercontent.com/u/83217677?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,77,Declarative Continuous Deployment for Kubernetes,5163,16966,https://avatars.githubusercontent.com/u/30269780?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,291,Find and verify secrets,1589,14915,https://avatars.githubusercontent.com/u/79229934?v=4
+658928958,ollama,ollama/ollama,Go,2385,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6366,83212,https://avatars.githubusercontent.com/u/151674099?v=4
+48378947,frp,fatedier/frp,Go,274,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,12991,82980,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,251,Go implementation of the Ethereum protocol,20099,47193,https://avatars.githubusercontent.com/u/6250754?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,635,Open Source realtime backend in 1 file,1682,37447,https://avatars.githubusercontent.com/u/101000011?v=4
+208728772,milvus,milvus-io/milvus,Go,197,"A cloud-native vector database, storage for next generation AI applications",2762,28672,https://avatars.githubusercontent.com/u/51735404?v=4
+122734569,lux,iawia002/lux,Go,177,👾 Fast and simple video download library and CLI tool written in Go,2909,26385,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+26337322,rancher,rancher/rancher,Go,47,Complete container management platform,2925,22975,https://avatars.githubusercontent.com/u/9343010?v=4
+180687624,trivy,aquasecurity/trivy,Go,97,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2214,22414,https://avatars.githubusercontent.com/u/12783832?v=4
+679421146,opentofu,opentofu/opentofu,Go,118,OpenTofu lets you declaratively manage your cloud infrastructure.,824,22049,https://avatars.githubusercontent.com/u/142061836?v=4
+273871859,headscale,juanfont/headscale,Go,194,"An open source, self-hosted implementation of the Tailscale control server",1179,21365,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,249,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2372,18863,https://avatars.githubusercontent.com/u/50994705?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,77,Declarative Continuous Deployment for Kubernetes,5163,16967,https://avatars.githubusercontent.com/u/30269780?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,291,Find and verify secrets,1590,14924,https://avatars.githubusercontent.com/u/79229934?v=4
 100982449,argo-workflows,argoproj/argo-workflows,Go,33,Workflow Engine for Kubernetes,3143,14681,https://avatars.githubusercontent.com/u/30269780?v=4
-33258973,telegraf,influxdata/telegraf,Go,146,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5535,14358,https://avatars.githubusercontent.com/u/5713248?v=4
-18906266,gopsutil,shirou/gopsutil,Go,37,psutil for golang,1566,10352,https://avatars.githubusercontent.com/u/177213?u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4
-312629343,fscan,shadow1ng/fscan,Go,123,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1468,9430,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-244694886,nightingale,ccfos/nightingale,Go,105,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1364,9295,https://avatars.githubusercontent.com/u/96813578?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,43,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",868,6287,https://avatars.githubusercontent.com/u/2232217?v=4
-299054922,mosint,alpkeskin/mosint,Go,450,An automated e-mail OSINT tool,545,4625,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
-531220682,dice,DiceDB/dice,Go,1300,A drop-in replacement of Redis with SQL-based realtime reactivity.,317,2396,https://avatars.githubusercontent.com/u/112580013?v=4
-764670636,alloy,grafana/alloy,Go,34,OpenTelemetry Collector distribution with programmable pipelines,122,1094,https://avatars.githubusercontent.com/u/7195757?v=4
+18906266,gopsutil,shirou/gopsutil,Go,37,psutil for golang,1566,10354,https://avatars.githubusercontent.com/u/177213?u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4
+312629343,fscan,shadow1ng/fscan,Go,123,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1468,9434,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+244694886,nightingale,ccfos/nightingale,Go,105,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1365,9297,https://avatars.githubusercontent.com/u/96813578?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,28,"node of the decentralized oracle network, bridging on and off-chain computation",1670,6894,https://avatars.githubusercontent.com/u/25111032?v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,13,Kubernetes Native Edge Computing Framework (project under CNCF),1707,6579,https://avatars.githubusercontent.com/u/41812520?v=4
+299054922,mosint,alpkeskin/mosint,Go,450,An automated e-mail OSINT tool,545,4627,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,27,OpenTelemetry Collector,1379,4152,https://avatars.githubusercontent.com/u/49998002?v=4
+531220682,dice,DiceDB/dice,Go,1300,A drop-in replacement of Redis with SQL-based realtime reactivity.,320,2408,https://avatars.githubusercontent.com/u/112580013?v=4
