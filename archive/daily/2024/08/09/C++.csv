@@ -1,23 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,24,A framework for building native applications using React,24143,117509,https://avatars.githubusercontent.com/u/69631?v=4
-9384267,electron,electron/electron,C++,29,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15198,113141,https://avatars.githubusercontent.com/u/13409222?v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,18,Protocol Buffers - Google's data interchange format,15392,64860,https://avatars.githubusercontent.com/u/26310541?v=4
-81227005,faiss,facebookresearch/faiss,C++,14,A library for efficient similarity search and clustering of dense vectors.,3515,29890,https://avatars.githubusercontent.com/u/16943930?v=4
-65214191,envoy,envoyproxy/envoy,C++,10,Cloud-native high-performance edge/middle/service proxy,4717,24426,https://avatars.githubusercontent.com/u/30125649?v=4
-26038648,spdlog,gabime/spdlog,C++,13,Fast C++ logging library.,4424,23485,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-138754790,duckdb,duckdb/duckdb,C++,31,DuckDB is an analytical in-process SQL database management system,1733,21571,https://avatars.githubusercontent.com/u/82039556?v=4
-1062572,Catch2,catchorg/Catch2,C++,5,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3019,18353,https://avatars.githubusercontent.com/u/33321405?v=4
-189205663,TinyWebServer,qinguoyi/TinyWebServer,C++,9,:fire: Linux下C++轻量级WebServer服务器,3828,16101,https://avatars.githubusercontent.com/u/25760295?u=a4474a249cca515146041e4b6bfaf5f448d9a113&v=4
-38581626,pybind11,pybind/pybind11,C++,5,Seamless operability between C++11 and Python,2065,15290,https://avatars.githubusercontent.com/u/17565521?v=4
-47690142,Sourcetrail,CoatiSoftware/Sourcetrail,C++,12,Sourcetrail - free and open-source interactive source explorer,1343,14492,https://avatars.githubusercontent.com/u/16224233?v=4
-51905353,arrow,apache/arrow,C++,4,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,3434,14044,https://avatars.githubusercontent.com/u/47359?v=4
-299510783,mold,rui314/mold,C++,11,Mold: A Modern Linker 🦠,457,13914,https://avatars.githubusercontent.com/u/47400?v=4
-5909706,cpp-httplib,yhirose/cpp-httplib,C++,7,A C++ header-only HTTP/HTTPS server and client library,2223,12490,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
-224468265,NotepadNext,dail8859/NotepadNext,C++,8,"A cross-platform, reimplementation of Notepad++",539,8856,https://avatars.githubusercontent.com/u/3694843?v=4
-5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,2,PX4 Autopilot Software,13308,8048,https://avatars.githubusercontent.com/u/2096014?v=4
-4930716,zeek,zeek/zeek,C++,3,Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.,1196,6269,https://avatars.githubusercontent.com/u/1194067?v=4
-10160141,doxygen,doxygen/doxygen,C++,1,Official doxygen git repository,1258,5528,https://avatars.githubusercontent.com/u/1300762?v=4
-6148317,gdal,OSGeo/gdal,C++,6,GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.,2481,4711,https://avatars.githubusercontent.com/u/1058467?v=4
+9384267,electron,electron/electron,C++,29,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15199,113143,https://avatars.githubusercontent.com/u/13409222?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,18,Protocol Buffers - Google's data interchange format,15392,64862,https://avatars.githubusercontent.com/u/26310541?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C++,58,LLM inference in C/C++,9067,63255,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+11171548,json,nlohmann/json,C++,14,JSON for Modern C++,6608,41777,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+27729880,grpc,grpc/grpc,C++,8,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",10453,41402,https://avatars.githubusercontent.com/u/7802525?v=4
+6934395,rocksdb,facebook/rocksdb,C++,13,"A library that provides an embeddable, persistent key-value store for fast storage.",6238,28049,https://avatars.githubusercontent.com/u/69631?v=4
+4524181,folly,facebook/folly,C++,6,An open-source C++ library developed and used at Facebook.,5511,27807,https://avatars.githubusercontent.com/u/69631?v=4
+1357796,emscripten,emscripten-core/emscripten,C++,10,Emscripten: An LLVM-to-WebAssembly Compiler,3263,25495,https://avatars.githubusercontent.com/u/46011144?v=4
+96246170,apollo,ApolloAuto/apollo,C++,4,An open autonomous driving platform,9654,24865,https://avatars.githubusercontent.com/u/28768304?v=4
+65214191,envoy,envoyproxy/envoy,C++,10,Cloud-native high-performance edge/middle/service proxy,4717,24427,https://avatars.githubusercontent.com/u/30125649?v=4
+19953044,flatbuffers,google/flatbuffers,C++,5,FlatBuffers: Memory Efficient Serialization Library,3201,22684,https://avatars.githubusercontent.com/u/1342004?v=4
+7056202,fmt,fmtlib/fmt,C++,10,A modern formatting library,2438,20047,https://avatars.githubusercontent.com/u/7280830?v=4
+76990209,WLED,Aircoookie/WLED,C++,16,Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!,3079,14417,https://avatars.githubusercontent.com/u/21045690?u=b6ef8107e15c7fc6c160235afba9c3813117a768&v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,12,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,3322,13444,https://avatars.githubusercontent.com/u/84565724?v=4
+40556106,wazuh,wazuh/wazuh,C++,9,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1543,9902,https://avatars.githubusercontent.com/u/13752566?v=4
+309512982,redpanda,redpanda-data/redpanda,C++,3,Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!,573,9264,https://avatars.githubusercontent.com/u/49406389?v=4
+679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,14,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,859,7869,https://avatars.githubusercontent.com/u/1728152?v=4
+46374199,librealsense,IntelRealSense/librealsense,C++,4,Intel® RealSense™ SDK,4810,7478,https://avatars.githubusercontent.com/u/14095512?v=4
+47440536,cocos-engine,cocos/cocos-engine,C++,35,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",1602,5641,https://avatars.githubusercontent.com/u/6937061?v=4
+587499842,piper,rhasspy/piper,C++,16,"A fast, local neural text to speech system",382,5390,https://avatars.githubusercontent.com/u/59055969?v=4
 388946490,velox,facebookincubator/velox,C++,8,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,1105,3364,https://avatars.githubusercontent.com/u/19538647?v=4
-46153892,nccl,NVIDIA/nccl,C++,4,Optimized primitives for collective multi-GPU communication,772,3045,https://avatars.githubusercontent.com/u/1728152?v=4
-387587839,multiplier,trailofbits/multiplier,C++,68,Code auditing productivity multiplier.,23,383,https://avatars.githubusercontent.com/u/2314423?v=4
+580717139,wxhelper,ttttupup/wxhelper,C++,4,Hook  WeChat  / 微信逆向,581,2051,https://avatars.githubusercontent.com/u/31303661?v=4
+387587839,multiplier,trailofbits/multiplier,C++,54,Code auditing productivity multiplier.,23,384,https://avatars.githubusercontent.com/u/2314423?v=4
