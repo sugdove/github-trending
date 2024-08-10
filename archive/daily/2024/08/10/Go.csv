@@ -1,23 +1,21 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,11,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18587,68305,https://avatars.githubusercontent.com/u/27259197?v=4
-6838921,prometheus,prometheus/prometheus,Go,19,The Prometheus monitoring system and time series database.,8978,54218,https://avatars.githubusercontent.com/u/3380462?v=4
-11225014,etcd,etcd-io/etcd,Go,10,Distributed reliable key-value store for the most critical data of a distributed system,9679,47041,https://avatars.githubusercontent.com/u/41972792?v=4
-16563587,cockroach,cockroachdb/cockroach,Go,9,"CockroachDB - the open source, cloud-native distributed SQL database.",3717,29659,https://avatars.githubusercontent.com/u/6748139?v=4
-13628513,logrus,sirupsen/logrus,Go,12,"Structured, pluggable logging for Go.",2262,24410,https://avatars.githubusercontent.com/u/97400?v=4
-50613991,harbor,goharbor/harbor,Go,7,"An open source trusted cloud native registry project that stores, signs, and scans content.",4676,23280,https://avatars.githubusercontent.com/u/40275816?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,6,gRPC to JSON proxy generator following the gRPC HTTP spec,2199,17855,https://avatars.githubusercontent.com/u/19352526?v=4
-30711774,validator,go-playground/validator,Go,5,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1298,16290,https://avatars.githubusercontent.com/u/14768796?v=4
-7877397,sqlx,jmoiron/sqlx,Go,6,general purpose extensions to golang's database/sql,1068,15842,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
-11206255,sarama,IBM/sarama,Go,3,Sarama is a Go library for Apache Kafka.,1745,11314,https://avatars.githubusercontent.com/u/1459110?v=4
-41288708,sourcegraph,sourcegraph/sourcegraph,Go,3,Code AI platform with Code Search & Cody,1212,10007,https://avatars.githubusercontent.com/u/3979584?v=4
-48714685,opa,open-policy-agent/opa,Go,9,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",1309,9415,https://avatars.githubusercontent.com/u/16468693?v=4
-288482469,go-openai,sashabaranov/go-openai,Go,8,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",1336,8807,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-170411418,keda,kedacore/keda,Go,9, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1030,8189,https://avatars.githubusercontent.com/u/49917779?v=4
-12332444,ginkgo,onsi/ginkgo,Go,2,A Modern Testing Framework for Go,647,8154,https://avatars.githubusercontent.com/u/558230?v=4
-94702367,pdfcpu,pdfcpu/pdfcpu,Go,7,A PDF processor written in Go.,459,6590,https://avatars.githubusercontent.com/u/53127365?v=4
-473949053,frankenphp,dunglas/frankenphp,Go,11,🧟 The modern PHP app server,213,6524,https://avatars.githubusercontent.com/u/57224?u=a7ed2cf3f0ae84c9e06925b94091b85a7d6324b0&v=4
-169108858,kyverno,kyverno/kyverno,Go,6,Cloud Native Policy Management,819,5423,https://avatars.githubusercontent.com/u/68448710?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,1,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,786,4201,https://avatars.githubusercontent.com/u/68335991?v=4
-558188628,higress,alibaba/higress,Go,17,🤖 AI Gateway | AI Native API Gateway,443,2704,https://avatars.githubusercontent.com/u/1961952?v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,3,Progressive Delivery for Kubernetes,829,2639,https://avatars.githubusercontent.com/u/30269780?v=4
-93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,1,Terraform Provider for Google Cloud Platform,1711,2262,https://avatars.githubusercontent.com/u/761456?v=4
+23096959,go,golang/go,Go,30,The Go programming language,17422,121884,https://avatars.githubusercontent.com/u/4314092?v=4
+7691631,moby,moby/moby,Go,11,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18587,68306,https://avatars.githubusercontent.com/u/27259197?v=4
+14712850,syncthing,syncthing/syncthing,Go,30,Open Source Continuous File Synchronization,4182,62943,https://avatars.githubusercontent.com/u/7628018?v=4
+17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9444,41906,https://avatars.githubusercontent.com/u/761456?v=4
+156084530,nps,ehang-io/nps,Go,12,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",5415,30039,https://avatars.githubusercontent.com/u/59558731?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,15,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1883,20975,https://avatars.githubusercontent.com/u/109613420?v=4
+27729907,grpc-go,grpc/grpc-go,Go,4,The Go language implementation of gRPC. HTTP/2 based RPC,4312,20657,https://avatars.githubusercontent.com/u/7802525?v=4
+16554739,beats,elastic/beats,Go,0,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4898,12088,https://avatars.githubusercontent.com/u/6764390?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,6,Automatically provision and manage TLS certificates in Kubernetes,2042,11814,https://avatars.githubusercontent.com/u/39950598?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,4,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1154,11624,https://avatars.githubusercontent.com/u/43720803?v=4
+215654064,temporal,temporalio/temporal,Go,25,Temporal service,793,10972,https://avatars.githubusercontent.com/u/56493103?v=4
+222824662,dagger,dagger/dagger,Go,9,An engine to run your pipelines in containers,577,10753,https://avatars.githubusercontent.com/u/78824383?v=4
+9120526,pgx,jackc/pgx,Go,8,PostgreSQL driver and toolkit for Go,810,10113,https://avatars.githubusercontent.com/u/94130?v=4
+82700090,cadence,uber/cadence,Go,2,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",782,8052,https://avatars.githubusercontent.com/u/538264?v=4
+440752086,coder,coder/coder,Go,20,Provision remote development environments via Terraform,629,7646,https://avatars.githubusercontent.com/u/95932066?v=4
+44087204,syzkaller,google/syzkaller,Go,0,syzkaller is an unsupervised coverage-guided kernel fuzzer,1200,5247,https://avatars.githubusercontent.com/u/1342004?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,3,OpenTelemetry Go API and SDK,1026,5064,https://avatars.githubusercontent.com/u/49998002?v=4
+603535454,langchaingo,tmc/langchaingo,Go,8,"LangChain for Go, the easiest way to write LLM-based programs in Go",553,3988,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,5,Contrib repository for the OpenTelemetry Collector,2203,2805,https://avatars.githubusercontent.com/u/49998002?v=4
+558188628,higress,alibaba/higress,Go,17,🤖 AI Gateway | AI Native API Gateway,443,2705,https://avatars.githubusercontent.com/u/1961952?v=4
