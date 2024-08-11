@@ -1,21 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,22,The Go programming language,17422,121901,https://avatars.githubusercontent.com/u/4314092?v=4
-7691631,moby,moby/moby,Go,6,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18587,68316,https://avatars.githubusercontent.com/u/27259197?v=4
-14712850,syncthing,syncthing/syncthing,Go,22,Open Source Continuous File Synchronization,4183,62956,https://avatars.githubusercontent.com/u/7628018?v=4
-17728164,terraform,hashicorp/terraform,Go,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9446,41911,https://avatars.githubusercontent.com/u/761456?v=4
-156084530,nps,ehang-io/nps,Go,9,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",5416,30046,https://avatars.githubusercontent.com/u/59558731?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,13,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1884,20995,https://avatars.githubusercontent.com/u/109613420?v=4
-27729907,grpc-go,grpc/grpc-go,Go,4,The Go language implementation of gRPC. HTTP/2 based RPC,4313,20659,https://avatars.githubusercontent.com/u/7802525?v=4
-16554739,beats,elastic/beats,Go,2,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4898,12089,https://avatars.githubusercontent.com/u/6764390?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,6,Automatically provision and manage TLS certificates in Kubernetes,2042,11816,https://avatars.githubusercontent.com/u/39950598?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,3,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1154,11634,https://avatars.githubusercontent.com/u/43720803?v=4
-215654064,temporal,temporalio/temporal,Go,17,Temporal service,793,10981,https://avatars.githubusercontent.com/u/56493103?v=4
-222824662,dagger,dagger/dagger,Go,8,An engine to run your pipelines in containers,577,10757,https://avatars.githubusercontent.com/u/78824383?v=4
-9120526,pgx,jackc/pgx,Go,6,PostgreSQL driver and toolkit for Go,810,10118,https://avatars.githubusercontent.com/u/94130?v=4
-82700090,cadence,uber/cadence,Go,2,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",782,8061,https://avatars.githubusercontent.com/u/538264?v=4
-440752086,coder,coder/coder,Go,11,Provision remote development environments via Terraform,631,7657,https://avatars.githubusercontent.com/u/95932066?v=4
-44087204,syzkaller,google/syzkaller,Go,0,syzkaller is an unsupervised coverage-guided kernel fuzzer,1200,5247,https://avatars.githubusercontent.com/u/1342004?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,4,OpenTelemetry Go API and SDK,1026,5065,https://avatars.githubusercontent.com/u/49998002?v=4
-603535454,langchaingo,tmc/langchaingo,Go,10,"LangChain for Go, the easiest way to write LLM-based programs in Go",554,3997,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,2203,2806,https://avatars.githubusercontent.com/u/49998002?v=4
-558188628,higress,alibaba/higress,Go,8,🤖 AI Gateway | AI Native API Gateway,443,2713,https://avatars.githubusercontent.com/u/1961952?v=4
+11180687,hugo,gohugoio/hugo,Go,24,The world’s fastest framework for building websites.,7416,74178,https://avatars.githubusercontent.com/u/29385237?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,47,simple terminal UI for git commands,1756,49308,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+138547797,mkcert,FiloSottile/mkcert,Go,54,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2472,47871,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+436297812,memos,usememos/memos,Go,20,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",2198,29383,https://avatars.githubusercontent.com/u/95764151?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,15,A platform for building proxies to bypass network restrictions.,4561,28644,https://avatars.githubusercontent.com/u/49637375?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,33,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3746,23560,https://avatars.githubusercontent.com/u/71564206?v=4
+109145553,podman,containers/podman,Go,11,Podman: A tool for managing OCI containers and pods.,2319,22719,https://avatars.githubusercontent.com/u/5874934?v=4
+198683574,dolt,dolthub/dolt,Go,3,Dolt – Git for Data,497,17478,https://avatars.githubusercontent.com/u/42156961?v=4
+23247808,rqlite,rqlite/rqlite,Go,28,"The lightweight, user-friendly, distributed relational database built on SQLite.",703,15407,https://avatars.githubusercontent.com/u/18683023?v=4
+193833307,listmonk,knadh/listmonk,Go,5,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",1291,14290,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
+154643390,phoneinfoga,sundowndev/phoneinfoga,Go,10,Information gathering framework for phone numbers,3501,12621,https://avatars.githubusercontent.com/u/16480203?u=27b8958fdc114d7e7703404441bb611a59d0321f&v=4
+140457254,amass,owasp-amass/amass,Go,8,In-depth attack surface mapping and asset discovery,1849,11653,https://avatars.githubusercontent.com/u/128647419?v=4
+78869430,nakama,heroiclabs/nakama,Go,2,Distributed server for social and realtime games and apps.,1076,8719,https://avatars.githubusercontent.com/u/12753245?v=4
+49765480,lnd,lightningnetwork/lnd,Go,0,Lightning Network Daemon ⚡️,2065,7596,https://avatars.githubusercontent.com/u/13424735?v=4
+320818962,100-go-mistakes,teivah/100-go-mistakes,Go,9,📖 100 Go Mistakes and How to Avoid Them,406,6571,https://avatars.githubusercontent.com/u/934784?u=227613cb18fdee717ff7fc61360dddc542a55cab&v=4
+272663924,simplebank,techschool/simplebank,Go,9,Backend master class: build a simple bank service in Go,915,5054,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
+732124850,hatchet,hatchet-dev/hatchet,Go,2,"A distributed, fault-tolerant task queue",133,3915,https://avatars.githubusercontent.com/u/118301880?v=4
+473137633,tetragon,cilium/tetragon,Go,0,eBPF-based Security Observability and Runtime Enforcement,336,3488,https://avatars.githubusercontent.com/u/21054566?v=4
+666084768,tau,taubyte/tau,Go,20,Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.,76,2932,https://avatars.githubusercontent.com/u/120687264?v=4
+558188628,higress,alibaba/higress,Go,8,🤖 AI Gateway | AI Native API Gateway,443,2714,https://avatars.githubusercontent.com/u/1961952?v=4
+352879222,dblab,danvergara/dblab,Go,14,The database client every command line junkie deserves.,55,2205,https://avatars.githubusercontent.com/u/12239167?u=89c6391e05925c4cad2e343d684202fde6f81cb6&v=4
