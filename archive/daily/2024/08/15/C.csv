@@ -1,21 +1,19 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-5101141,jq,jqlang/jq,C,15,Command-line JSON processor,1547,29858,https://avatars.githubusercontent.com/u/104800540?v=4
-394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,23,This project aims to enhance the working environment on Windows,1014,23331,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
-196353673,TDengine,taosdata/TDengine,C,6,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",4842,23139,https://avatars.githubusercontent.com/u/48876650?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,22,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,1714,22237,https://avatars.githubusercontent.com/u/51009775?v=4
-13836499,raylib,raysan5/raylib,C,16,A simple and easy-to-use library to enjoy videogames programming,2150,21031,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-490465859,Flipper,UberGuidoZ/Flipper,C,9,Playground (and dump) of stuff I make or modify for the Flipper Zero,3114,13159,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
-32921736,audacity,audacity/audacity,C,10,Audio Editor                                     ,2236,12046,https://avatars.githubusercontent.com/u/11648186?v=4
-1856976,libevent,libevent/libevent,C,3,Event notification library,3362,10998,https://avatars.githubusercontent.com/u/833750?v=4
-14049216,cockpit,cockpit-project/cockpit,C,7,Cockpit is a web-based graphical interface for servers.,1080,10806,https://avatars.githubusercontent.com/u/5765104?v=4
-54280778,cJSON,DaveGamble/cJSON,C,6,Ultralightweight JSON parser in ANSI C,3168,10498,https://avatars.githubusercontent.com/u/118247?v=4
+5101141,jq,jqlang/jq,C,15,Command-line JSON processor,1547,29859,https://avatars.githubusercontent.com/u/104800540?v=4
+14812739,libuv,libuv/libuv,C,5,Cross-platform asynchronous I/O,3563,23760,https://avatars.githubusercontent.com/u/4030929?v=4
+394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,23,This project aims to enhance the working environment on Windows,1014,23334,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
+775743011,valkey,valkey-io/valkey,C,21,A flexible distributed key-value datastore that supports both caching and beyond caching workloads.,547,15096,https://avatars.githubusercontent.com/u/164458127?v=4
+23641816,sanitizers,google/sanitizers,C,2,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",1016,11261,https://avatars.githubusercontent.com/u/1342004?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,10,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6305,10297,https://avatars.githubusercontent.com/u/19595895?v=4
 192805335,mimalloc,microsoft/mimalloc,C,4,mimalloc is a compact general purpose allocator with excellent performance.,810,9882,https://avatars.githubusercontent.com/u/6154722?v=4
-32222044,box2d,erincatto/box2d,C,114,Box2D is a 2D physics engine for games,1491,7812,https://avatars.githubusercontent.com/u/7284063?u=1b7798b1dc7fa1c4167a4e110686094a3fad37ae&v=4
-2359378,zlib,madler/zlib,C,2,A massively spiffy yet delicately unobtrusive compression library.,2424,5535,https://avatars.githubusercontent.com/u/240717?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,0,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2531,5145,https://avatars.githubusercontent.com/u/97226525?v=4
-83160811,littlefs,littlefs-project/littlefs,C,10,A little fail-safe filesystem designed for microcontrollers,782,4999,https://avatars.githubusercontent.com/u/60944974?v=4
-283149635,ffmpeg-kit,arthenica/ffmpeg-kit,C,5,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",562,4173,https://avatars.githubusercontent.com/u/113347484?v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,3,Simple Unit Testing for C,952,3935,https://avatars.githubusercontent.com/u/1049138?v=4
-23780138,riscv-gnu-toolchain,riscv-collab/riscv-gnu-toolchain,C,2,"GNU toolchain for RISC-V, including GCC",1121,3348,https://avatars.githubusercontent.com/u/89536104?v=4
-14313288,pgbackrest,pgbackrest/pgbackrest,C,4,Reliable PostgreSQL Backup & Restore,211,2405,https://avatars.githubusercontent.com/u/18493692?v=4
-464199088,rp2040-doom,kilograham/rp2040-doom,C,16,Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller,84,681,https://avatars.githubusercontent.com/u/575810?u=301250dd5071bc99a79b55a5d1ec92340c06706e&v=4
+53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,2356,8792,https://avatars.githubusercontent.com/u/56974?v=4
+32222044,box2d,erincatto/box2d,C,114,Box2D is a 2D physics engine for games,1492,7822,https://avatars.githubusercontent.com/u/7284063?u=1b7798b1dc7fa1c4167a4e110686094a3fad37ae&v=4
+29933948,fluent-bit,fluent/fluent-bit,C,2,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1534,5610,https://avatars.githubusercontent.com/u/859518?v=4
+83160811,littlefs,littlefs-project/littlefs,C,10,A little fail-safe filesystem designed for microcontrollers,782,5000,https://avatars.githubusercontent.com/u/60944974?v=4
+184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,0,WebAssembly Micro Runtime (WAMR),596,4741,https://avatars.githubusercontent.com/u/54038801?v=4
+128791889,haproxy,haproxy/haproxy,C,2,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),778,4724,https://avatars.githubusercontent.com/u/38220289?v=4
+3276860,Unity,ThrowTheSwitch/Unity,C,3,Simple Unit Testing for C,952,3937,https://avatars.githubusercontent.com/u/1049138?v=4
+144465372,proxmark3,RfidResearchGroup/proxmark3,C,2,Iceman Fork - Proxmark3,994,3712,https://avatars.githubusercontent.com/u/40314039?v=4
+589514195,audioFlux,libAudioFlux/audioFlux,C,59,"A library for audio and music analysis, feature extraction.",114,2645,https://avatars.githubusercontent.com/u/105165315?v=4
+1031235,strongswan,strongswan/strongswan,C,2,strongSwan - IPsec-based VPN,763,2194,https://avatars.githubusercontent.com/u/457671?v=4
+53026685,edk2-platforms,tianocore/edk2-platforms,C,0,EDK II sample platform branches and tags,469,538,https://avatars.githubusercontent.com/u/352162?v=4
