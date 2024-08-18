@@ -1,26 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,198,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6583,85480,https://avatars.githubusercontent.com/u/151674099?v=4
-48378947,frp,fatedier/frp,Go,33,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13036,83527,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9464,41963,https://avatars.githubusercontent.com/u/761456?v=4
-74175805,istio,istio/istio,Go,7,"Connect, secure, control, and observe services.",7664,35575,https://avatars.githubusercontent.com/u/23534644?v=4
-31504491,echo,labstack/echo,Go,13,"High performance, minimalist Go web framework",2211,29258,https://avatars.githubusercontent.com/u/2624634?v=4
-135516270,k3s,k3s-io/k3s,Go,14,Lightweight Kubernetes,2300,27333,https://avatars.githubusercontent.com/u/49319725?v=4
-30215630,kit,go-kit/kit,Go,4,A standard library for microservices.,2419,26431,https://avatars.githubusercontent.com/u/10981023?v=4
-129717717,loki,grafana/loki,Go,10,"Like Prometheus, but for logs.",3356,23119,https://avatars.githubusercontent.com/u/7195757?v=4
-6247705,testify,stretchr/testify,Go,2,A toolkit with common assertions and mocks that plays nicely with the standard library,1578,22859,https://avatars.githubusercontent.com/u/1841476?v=4
-52034309,zap,uber-go/zap,Go,13,"Blazing fast, structured, leveled logging in Go.",1419,21527,https://avatars.githubusercontent.com/u/19262598?v=4
-738733003,fabric,danielmiessler/fabric,Go,37,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2133,20452,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,3,gRPC to JSON proxy generator following the gRPC HTTP spec,2204,17884,https://avatars.githubusercontent.com/u/19352526?v=4
-30711774,validator,go-playground/validator,Go,1,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1300,16325,https://avatars.githubusercontent.com/u/14768796?v=4
-131212638,gvisor,google/gvisor,Go,1,Application Kernel for Containers,1271,15460,https://avatars.githubusercontent.com/u/1342004?v=4
-109162639,thanos,thanos-io/thanos,Go,2,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2063,12862,https://avatars.githubusercontent.com/u/49725059?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,2,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1157,11692,https://avatars.githubusercontent.com/u/43720803?v=4
-95761244,gf,gogf/gf,Go,57,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1551,11340,https://avatars.githubusercontent.com/u/46776614?v=4
-11452538,alertmanager,prometheus/alertmanager,Go,2,Prometheus Alertmanager,2127,6519,https://avatars.githubusercontent.com/u/3380462?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,76,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",889,6494,https://avatars.githubusercontent.com/u/2232217?v=4
-23586998,mockery,vektra/mockery,Go,3,A mock code autogenerator for Go,399,5899,https://avatars.githubusercontent.com/u/5193687?v=4
-155297903,dozzle,amir20/dozzle,Go,22,Realtime log viewer for docker containers. ,279,5327,https://avatars.githubusercontent.com/u/260667?u=e184f47fa8a05899a86e8a4de86fc7a5e90207f1&v=4
-178079595,opencost,opencost/opencost,Go,16,Cost monitoring for Kubernetes workloads and cloud costs,534,5003,https://avatars.githubusercontent.com/u/105945214?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,3,Kubernetes controller for GitHub Actions self-hosted runners,1067,4510,https://avatars.githubusercontent.com/u/44036562?v=4
-84610043,aws-load-balancer-controller,kubernetes-sigs/aws-load-balancer-controller,Go,1,A Kubernetes controller for Elastic Load Balancers,1432,3857,https://avatars.githubusercontent.com/u/36015203?v=4
-188836864,erigon,erigontech/erigon,Go,4,Ethereum implementation on the efficiency frontier https://erigon.gitbook.io,1077,3066,https://avatars.githubusercontent.com/u/66788158?v=4
+29207621,caddy,caddyserver/caddy,Go,41,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3948,56314,https://avatars.githubusercontent.com/u/12955528?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,33,simple terminal UI for git commands,1759,49531,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+61137153,esbuild,evanw/esbuild,Go,7,An extremely fast bundler for the web,1118,37826,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
+107286889,croc,schollz/croc,Go,65,Easily and securely send things from one computer to another :crocodile: :package:,1092,27261,https://avatars.githubusercontent.com/u/6550035?u=991583b3f086b7f4cef5d2b4629e1440fd73f00b&v=4
+311315731,Xray-core,XTLS/Xray-core,Go,32,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3756,23718,https://avatars.githubusercontent.com/u/71564206?v=4
+75785240,authelia,authelia/authelia,Go,7,The Single Sign-On Multi-Factor portal for web apps,1078,20842,https://avatars.githubusercontent.com/u/59122411?v=4
+72477752,pulumi,pulumi/pulumi,Go,9,Pulumi - Infrastructure as Code in any programming language 🚀,1077,20757,https://avatars.githubusercontent.com/u/21992475?v=4
+738733003,fabric,danielmiessler/fabric,Go,85,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2140,20504,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+237523442,tailscale,tailscale/tailscale,Go,19,"The easiest, most secure way to use WireGuard and 2FA.",1401,18190,https://avatars.githubusercontent.com/u/48932923?v=4
+509091576,sing-box,SagerNet/sing-box,Go,46,The universal proxy platform,2122,17631,https://avatars.githubusercontent.com/u/83217677?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,45,"Find, verify, and analyze leaked credentials",1608,15256,https://avatars.githubusercontent.com/u/79229934?v=4
+136505169,tinygo,tinygo-org/tinygo,Go,6,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",880,14889,https://avatars.githubusercontent.com/u/45223613?v=4
+257434373,hysteria,apernet/hysteria,Go,12,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1594,14246,https://avatars.githubusercontent.com/u/79422552?v=4
+148545807,kind,kubernetes-sigs/kind,Go,4,Kubernetes IN Docker - local clusters for testing Kubernetes,1527,13172,https://avatars.githubusercontent.com/u/36015203?v=4
+95761244,gf,gogf/gf,Go,8,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1551,11342,https://avatars.githubusercontent.com/u/46776614?v=4
+192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,2,,4010,5167,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
+45356931,discordgo,bwmarrin/discordgo,Go,5, (Golang) Go bindings for Discord,791,4963,https://avatars.githubusercontent.com/u/7683654?u=e4dc29e0f9aaf1753827bbfd47ebbd002593fc4a&v=4
+201546443,assets,trustwallet/assets,Go,1,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22396,4499,https://avatars.githubusercontent.com/u/32179889?v=4
+531220682,dice,DiceDB/dice,Go,20,A drop-in replacement of Redis with SQL-based realtime reactivity.,376,2787,https://avatars.githubusercontent.com/u/112580013?v=4
+486038209,XrayR,XrayR-project/XrayR,Go,3,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",792,1955,https://avatars.githubusercontent.com/u/80372356?v=4
+629049442,tgpt,aandrew-me/tgpt,Go,2,AI Chatbots in terminal without needing API keys,147,1760,https://avatars.githubusercontent.com/u/66430340?u=0884dc64c9410003311d83a3240a4de2bda396ff&v=4
+423075524,slackdump,rusq/slackdump,Go,278,"Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.",63,1239,https://avatars.githubusercontent.com/u/16064414?u=40514fa829d28dafe4e2ea308f37354c6b82640e&v=4
