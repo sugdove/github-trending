@@ -1,24 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,852,Production-Grade Container Scheduling and Management,39136,109300,https://avatars.githubusercontent.com/u/13629408?v=4
-658928958,ollama,ollama/ollama,Go,6828,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6637,85991,https://avatars.githubusercontent.com/u/151674099?v=4
-323965659,alist,alist-org/alist,Go,1324,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5319,41231,https://avatars.githubusercontent.com/u/97389433?v=4
-510607652,pocketbase,pocketbase/pocketbase,Go,1740,Open Source realtime backend in 1 file,1720,38130,https://avatars.githubusercontent.com/u/101000011?v=4
-3577919,beego,beego/beego,Go,253,"beego is an open-source, high-performance web framework for the Go programming language.",5601,31338,https://avatars.githubusercontent.com/u/3884041?v=4
+21540759,awesome-go,avelino/awesome-go,Go,2028,"A curated list of awesome Go frameworks, libraries and software",11750,127354,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,852,Production-Grade Container Scheduling and Management,39136,109304,https://avatars.githubusercontent.com/u/13629408?v=4
+658928958,ollama,ollama/ollama,Go,6828,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6640,86004,https://avatars.githubusercontent.com/u/151674099?v=4
+323965659,alist,alist-org/alist,Go,1324,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5320,41231,https://avatars.githubusercontent.com/u/97389433?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,1740,Open Source realtime backend in 1 file,1720,38136,https://avatars.githubusercontent.com/u/101000011?v=4
+16563587,cockroach,cockroachdb/cockroach,Go,216,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",3747,29721,https://avatars.githubusercontent.com/u/6748139?v=4
 122734569,lux,iawia002/lux,Go,538,👾 Fast and simple video download library and CLI tool written in Go,2920,26592,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-311315731,Xray-core,XTLS/Xray-core,Go,829,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3759,23771,https://avatars.githubusercontent.com/u/71564206?v=4
-129717717,loki,grafana/loki,Go,292,"Like Prometheus, but for logs.",3359,23149,https://avatars.githubusercontent.com/u/7195757?v=4
-26337322,rancher,rancher/rancher,Go,344,Complete container management platform,2940,23119,https://avatars.githubusercontent.com/u/9343010?v=4
-6247705,testify,stretchr/testify,Go,332,A toolkit with common assertions and mocks that plays nicely with the standard library,1578,22879,https://avatars.githubusercontent.com/u/1841476?v=4
-509091576,sing-box,SagerNet/sing-box,Go,1354,The universal proxy platform,2134,17787,https://avatars.githubusercontent.com/u/83217677?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,314,Declarative Continuous Deployment for Kubernetes,5211,17136,https://avatars.githubusercontent.com/u/30269780?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,875,"Find, verify, and analyze leaked credentials",1609,15346,https://avatars.githubusercontent.com/u/79229934?v=4
-109162639,thanos,thanos-io/thanos,Go,109,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2065,12881,https://avatars.githubusercontent.com/u/49725059?v=4
-95761244,gf,gogf/gf,Go,237,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1551,11355,https://avatars.githubusercontent.com/u/46776614?v=4
-333303663,bytebase,bytebase/bytebase,Go,295,"The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",701,10876,https://avatars.githubusercontent.com/u/74386897?v=4
-244694886,nightingale,ccfos/nightingale,Go,230,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1379,9394,https://avatars.githubusercontent.com/u/96813578?v=4
-170411418,keda,kedacore/keda,Go,134, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1039,8212,https://avatars.githubusercontent.com/u/49917779?v=4
-299054922,mosint,alpkeskin/mosint,Go,586,An automated e-mail OSINT tool,549,4720,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
+311315731,Xray-core,XTLS/Xray-core,Go,829,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3759,23774,https://avatars.githubusercontent.com/u/71564206?v=4
+129717717,loki,grafana/loki,Go,292,"Like Prometheus, but for logs.",3360,23150,https://avatars.githubusercontent.com/u/7195757?v=4
+26337322,rancher,rancher/rancher,Go,344,Complete container management platform,2940,23121,https://avatars.githubusercontent.com/u/9343010?v=4
+509091576,sing-box,SagerNet/sing-box,Go,1354,The universal proxy platform,2133,17792,https://avatars.githubusercontent.com/u/83217677?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,314,Declarative Continuous Deployment for Kubernetes,5212,17137,https://avatars.githubusercontent.com/u/30269780?v=4
+66156850,Go,TheAlgorithms/Go,Go,826,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",2552,15681,https://avatars.githubusercontent.com/u/20487725?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,875,"Find, verify, and analyze leaked credentials",1609,15347,https://avatars.githubusercontent.com/u/79229934?v=4
+95761244,gf,gogf/gf,Go,237,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1551,11356,https://avatars.githubusercontent.com/u/46776614?v=4
+333303663,bytebase,bytebase/bytebase,Go,295,"The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.",701,10880,https://avatars.githubusercontent.com/u/74386897?v=4
+41288708,sourcegraph-public-snapshot,sourcegraph/sourcegraph-public-snapshot,Go,135,Code AI platform with Code Search & Cody,1250,10068,https://avatars.githubusercontent.com/u/3979584?v=4
+244694886,nightingale,ccfos/nightingale,Go,230,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1379,9397,https://avatars.githubusercontent.com/u/96813578?v=4
+299054922,mosint,alpkeskin/mosint,Go,586,An automated e-mail OSINT tool,549,4721,https://avatars.githubusercontent.com/u/49457057?u=5966502646e98a3f7c70ccac34ad001233659b3e&v=4
 280658081,domain-list-community,v2fly/domain-list-community,Go,181,Community managed domain list. Generate geosite.dat for V2Ray.,833,4541,https://avatars.githubusercontent.com/u/49637375?v=4
-531220682,dice,DiceDB/dice,Go,2079,A drop-in replacement of Redis with SQL-based realtime reactivity.,387,3035,https://avatars.githubusercontent.com/u/112580013?v=4
+586427117,go-backend-clean-architecture,amitshekhariitbhu/go-backend-clean-architecture,Go,266,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",422,4152,https://avatars.githubusercontent.com/u/9877145?u=3827ad395dfc458321f9b65944406cfdd26055dd&v=4
+531220682,dice,DiceDB/dice,Go,2079,A drop-in replacement of Redis with SQL-based realtime reactivity.,387,3037,https://avatars.githubusercontent.com/u/112580013?v=4
 423075524,slackdump,rusq/slackdump,Go,513,"Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.",64,1349,https://avatars.githubusercontent.com/u/16064414?u=40514fa829d28dafe4e2ea308f37354c6b82640e&v=4
 764670636,alloy,grafana/alloy,Go,146,OpenTelemetry Collector distribution with programmable pipelines,141,1184,https://avatars.githubusercontent.com/u/7195757?v=4
