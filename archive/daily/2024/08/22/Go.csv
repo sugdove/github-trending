@@ -1,20 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,80,"A curated list of awesome Go frameworks, libraries and software",11752,127405,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-658928958,ollama,ollama/ollama,Go,160,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6656,86142,https://avatars.githubusercontent.com/u/151674099?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,37,A powerful little TUI framework 🏗,757,26179,https://avatars.githubusercontent.com/u/57376114?v=4
-273871859,headscale,juanfont/headscale,Go,26,"An open source, self-hosted implementation of the Tailscale control server",1193,21699,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-52034309,zap,uber-go/zap,Go,13,"Blazing fast, structured, leveled logging in Go.",1420,21555,https://avatars.githubusercontent.com/u/19262598?v=4
-738733003,fabric,danielmiessler/fabric,Go,104,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2211,21251,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-120896210,argo-cd,argoproj/argo-cd,Go,10,Declarative Continuous Deployment for Kubernetes,5219,17149,https://avatars.githubusercontent.com/u/30269780?v=4
-465303307,lo,samber/lo,Go,30,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",770,16826,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,12,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1440,11271,https://avatars.githubusercontent.com/u/126152966?v=4
+658928958,ollama,ollama/ollama,Go,160,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6657,86162,https://avatars.githubusercontent.com/u/151674099?v=4
+6838921,prometheus,prometheus/prometheus,Go,18,The Prometheus monitoring system and time series database.,9002,54405,https://avatars.githubusercontent.com/u/3380462?v=4
+17728164,terraform,hashicorp/terraform,Go,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9466,41993,https://avatars.githubusercontent.com/u/761456?v=4
+56353740,minikube,kubernetes/minikube,Go,18,Run Kubernetes locally,4857,29052,https://avatars.githubusercontent.com/u/13629408?v=4
+54400687,k6,grafana/k6,Go,14,"A modern load testing tool, using Go and JavaScript - https://k6.io",1214,24324,https://avatars.githubusercontent.com/u/7195757?v=4
+50613991,harbor,goharbor/harbor,Go,15,"An open source trusted cloud native registry project that stores, signs, and scans content.",4692,23381,https://avatars.githubusercontent.com/u/40275816?v=4
+165041732,kratos,go-kratos/kratos,Go,4,Your ultimate Go microservices framework for the cloud-native era.,3970,23022,https://avatars.githubusercontent.com/u/62791634?v=4
+109145553,podman,containers/podman,Go,5,Podman: A tool for managing OCI containers and pods.,2330,22809,https://avatars.githubusercontent.com/u/5874934?v=4
+27729907,grpc-go,grpc/grpc-go,Go,3,The Go language implementation of gRPC. HTTP/2 based RPC,4321,20699,https://avatars.githubusercontent.com/u/7802525?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,10,Declarative Continuous Deployment for Kubernetes,5218,17153,https://avatars.githubusercontent.com/u/30269780?v=4
+465303307,lo,samber/lo,Go,30,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",770,16831,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+20653934,cadvisor,google/cadvisor,Go,9,Analyzes resource usage and performance characteristics of running containers.,2305,16811,https://avatars.githubusercontent.com/u/1342004?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,20,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1160,11731,https://avatars.githubusercontent.com/u/43720803?v=4
 9524057,node_exporter,prometheus/node_exporter,Go,3,Exporter for machine metrics,2322,10853,https://avatars.githubusercontent.com/u/3380462?v=4
-29156642,webhook,adnanh/webhook,Go,8,webhook is a lightweight incoming webhook server to run shell commands,817,10176,https://avatars.githubusercontent.com/u/82367?u=d8460b1a01895dc3d11e0b0fcc8d0d1fd58e67ab&v=4
-41288708,sourcegraph-public-snapshot,sourcegraph/sourcegraph-public-snapshot,Go,18,Code AI platform with Code Search & Cody,1253,10072,https://avatars.githubusercontent.com/u/3979584?v=4
-306366900,casdoor,casdoor/casdoor,Go,9,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",1135,9570,https://avatars.githubusercontent.com/u/72992104?v=4
-244694886,nightingale,ccfos/nightingale,Go,24,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1379,9419,https://avatars.githubusercontent.com/u/96813578?v=4
-120519269,atlantis,runatlantis/atlantis,Go,4,Terraform Pull Request Automation,1034,7627,https://avatars.githubusercontent.com/u/32311288?v=4
-201546443,assets,trustwallet/assets,Go,5,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22420,4507,https://avatars.githubusercontent.com/u/32179889?v=4
-586427117,go-backend-clean-architecture,amitshekhariitbhu/go-backend-clean-architecture,Go,36,"A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",424,4175,https://avatars.githubusercontent.com/u/9877145?u=3827ad395dfc458321f9b65944406cfdd26055dd&v=4
-226368338,evcc,evcc-io/evcc,Go,17,Sonne tanken ☀️🚘,553,2990,https://avatars.githubusercontent.com/u/81383504?v=4
-177659629,franz-go,twmb/franz-go,Go,5,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.7+. Producing, consuming, transacting, administrating, etc.",170,1717,https://avatars.githubusercontent.com/u/1283109?u=7a4ab80124f2c8604c67039784e4963302a825d2&v=4
+357897199,netbird,netbirdio/netbird,Go,18,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",464,10349,https://avatars.githubusercontent.com/u/100464677?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,3,The AWS Provider enables Terraform to manage AWS resources.,9068,9695,https://avatars.githubusercontent.com/u/761456?v=4
+244694886,nightingale,ccfos/nightingale,Go,24,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1379,9421,https://avatars.githubusercontent.com/u/96813578?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,6,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1533,9247,https://avatars.githubusercontent.com/u/62798169?v=4
+12332444,ginkgo,onsi/ginkgo,Go,11,A Modern Testing Framework for Go,650,8192,https://avatars.githubusercontent.com/u/558230?v=4
+753490180,daytona,daytonaio/daytona,Go,6,The Open Source Dev Environment Manager.,743,7200,https://avatars.githubusercontent.com/u/130513197?v=4
+272663924,simplebank,techschool/simplebank,Go,8,Backend master class: build a simple bank service in Go,926,5097,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
+41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,1,Blackbox prober exporter,1038,4529,https://avatars.githubusercontent.com/u/3380462?v=4
+175592968,volcano,volcano-sh/volcano,Go,10,A Cloud Native Batch System (Project under CNCF),929,4018,https://avatars.githubusercontent.com/u/47214749?v=4
+513870749,permify,Permify/permify,Go,90,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",150,3041,https://avatars.githubusercontent.com/u/87805264?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,1,Main repository for Datadog Agent,1181,2783,https://avatars.githubusercontent.com/u/365230?v=4

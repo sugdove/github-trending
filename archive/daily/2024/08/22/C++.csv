@@ -1,23 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-45717250,tensorflow,tensorflow/tensorflow,C++,33,An Open Source Machine Learning Framework for Everyone,74125,184822,https://avatars.githubusercontent.com/u/15658638?v=4
-100060912,terminal,microsoft/terminal,C++,21,"The new Windows Terminal and the original Windows console host, all in the same place!",8192,94698,https://avatars.githubusercontent.com/u/6154722?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,44,LLM inference in C/C++,9154,63864,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,33,ClickHouse® is a real-time analytics DBMS,6735,36326,https://avatars.githubusercontent.com/u/54801242?v=4
-39840932,googletest,google/googletest,C++,16,GoogleTest - Google Testing and Mocking Framework,10038,34095,https://avatars.githubusercontent.com/u/1342004?v=4
-26038648,spdlog,gabime/spdlog,C++,10,Fast C++ logging library.,4434,23594,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-19953044,flatbuffers,google/flatbuffers,C++,9,FlatBuffers: Memory Efficient Serialization Library,3211,22729,https://avatars.githubusercontent.com/u/1342004?v=4
-95879426,ncnn,Tencent/ncnn,C++,8,ncnn is a high-performance neural network inference framework optimized for the mobile platform,4126,19998,https://avatars.githubusercontent.com/u/18461506?v=4
-689773665,llamafile,Mozilla-Ocho/llamafile,C++,41,Distribute and run LLMs with a single file.,940,18552,https://avatars.githubusercontent.com/u/117940224?v=4
-2310495,ceph,ceph/ceph,C++,6,"Ceph is a distributed object, block, and file storage platform ",5925,13727,https://avatars.githubusercontent.com/u/1015767?v=4
-28449431,scylladb,scylladb/scylladb,C++,4,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",1248,13144,https://avatars.githubusercontent.com/u/14364730?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,33,An Open Source Machine Learning Framework for Everyone,74124,184822,https://avatars.githubusercontent.com/u/15658638?v=4
+100060912,terminal,microsoft/terminal,C++,21,"The new Windows Terminal and the original Windows console host, all in the same place!",8191,94701,https://avatars.githubusercontent.com/u/6154722?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,21,Protocol Buffers - Google's data interchange format,15406,64989,https://avatars.githubusercontent.com/u/26310541?v=4
+60246359,ClickHouse,ClickHouse/ClickHouse,C++,33,ClickHouse® is a real-time analytics DBMS,6736,36329,https://avatars.githubusercontent.com/u/54801242?v=4
+1116542,aria2,aria2/aria2,C++,42,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",3516,34766,https://avatars.githubusercontent.com/u/13545224?v=4
+39840932,googletest,google/googletest,C++,16,GoogleTest - Google Testing and Mocking Framework,10037,34094,https://avatars.githubusercontent.com/u/1342004?v=4
+6934395,rocksdb,facebook/rocksdb,C++,15,"A library that provides an embeddable, persistent key-value store for fast storage.",6256,28124,https://avatars.githubusercontent.com/u/69631?v=4
+65214191,envoy,envoyproxy/envoy,C++,4,Cloud-native high-performance edge/middle/service proxy,4728,24510,https://avatars.githubusercontent.com/u/30125649?v=4
+19953044,flatbuffers,google/flatbuffers,C++,9,FlatBuffers: Memory Efficient Serialization Library,3212,22748,https://avatars.githubusercontent.com/u/1342004?v=4
+138754790,duckdb,duckdb/duckdb,C++,53,DuckDB is an analytical in-process SQL database management system,1760,21932,https://avatars.githubusercontent.com/u/82039556?v=4
+7056202,fmt,fmtlib/fmt,C++,9,A modern formatting library,2444,20127,https://avatars.githubusercontent.com/u/7280830?v=4
+438803890,Sunshine,LizardByte/Sunshine,C++,57,Self-hosted game stream host for Moonlight.,846,17092,https://avatars.githubusercontent.com/u/84790584?v=4
+38581626,pybind11,pybind/pybind11,C++,8,Seamless operability between C++11 and Python,2068,15334,https://avatars.githubusercontent.com/u/17565521?v=4
 5909706,cpp-httplib,yhirose/cpp-httplib,C++,14,A C++ header-only HTTP/HTTPS server and client library,2232,12561,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
-108102826,carla,carla-simulator/carla,C++,23,Open-source simulator for autonomous driving research.,3547,11032,https://avatars.githubusercontent.com/u/33029185?v=4
-184657328,TensorRT,NVIDIA/TensorRT,C++,4,NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.,2098,10467,https://avatars.githubusercontent.com/u/1728152?v=4
-7512484,ardupilot,ArduPilot/ardupilot,C++,13,"ArduPlane, ArduCopter, ArduRover, ArduSub source",17025,10395,https://avatars.githubusercontent.com/u/17919847?v=4
-31197250,glog,google/glog,C++,1,C++ implementation of the Google logging module,2051,6975,https://avatars.githubusercontent.com/u/1342004?v=4
-280608729,ORB_SLAM3,UZ-SLAMLab/ORB_SLAM3,C++,4,"ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",2497,6343,https://avatars.githubusercontent.com/u/25055183?v=4
-112542515,cutlass,NVIDIA/cutlass,C++,20,CUDA Templates for Linear Algebra Subroutines,876,5212,https://avatars.githubusercontent.com/u/1728152?v=4
-2567844,qgroundcontrol,mavlink/qgroundcontrol,C++,1,"Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",3500,3151,https://avatars.githubusercontent.com/u/961247?v=4
-156293205,xla,pytorch/xla,C++,0,Enabling PyTorch on XLA Devices (e.g. Google TPU),441,2423,https://avatars.githubusercontent.com/u/21003710?v=4
-279067598,Interview_DS_Algo,MAZHARMIK/Interview_DS_Algo,C++,14,Super Repository for Coding Interview Preperation,896,1514,https://avatars.githubusercontent.com/u/17107752?u=801f3912768eba988dceebc72fe4c682a0feff34&v=4
-775009948,pg_duckdb,duckdb/pg_duckdb,C++,95,DuckDB-powered Postgres for high performance apps & analytics.,32,854,https://avatars.githubusercontent.com/u/82039556?v=4
+108102826,carla,carla-simulator/carla,C++,23,Open-source simulator for autonomous driving research.,3547,11033,https://avatars.githubusercontent.com/u/33029185?v=4
+7512484,ardupilot,ArduPilot/ardupilot,C++,13,"ArduPlane, ArduCopter, ArduRover, ArduSub source",17026,10395,https://avatars.githubusercontent.com/u/17919847?v=4
+128479644,esphome,esphome/esphome,C++,11,ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.,3468,8200,https://avatars.githubusercontent.com/u/45919759?v=4
+21530861,jsoncpp,open-source-parsers/jsoncpp,C++,5,A C++ library for interacting with JSON.,2617,8040,https://avatars.githubusercontent.com/u/8078093?v=4
+679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,11,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,869,7976,https://avatars.githubusercontent.com/u/1728152?v=4
+89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,1,Firebase SDK for Apple App Development,1441,5510,https://avatars.githubusercontent.com/u/1335026?v=4
+1368195,asio,chriskohlhoff/asio,C++,1,Asio C++ Library,1201,4803,https://avatars.githubusercontent.com/u/462538?v=4
+315035371,amnezia-client,amnezia-vpn/amnezia-client,C++,25,Amnezia VPN Client (Desktop+Mobile),221,2515,https://avatars.githubusercontent.com/u/74861536?v=4
+102971743,ros2_controllers,ros-controls/ros2_controllers,C++,0,Generic robotic controllers to accompany ros2_control,307,330,https://avatars.githubusercontent.com/u/4827547?v=4
