@@ -1,26 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,36,Production-Grade Container Scheduling and Management,39163,109368,https://avatars.githubusercontent.com/u/13629408?v=4
-138547797,mkcert,FiloSottile/mkcert,Go,20,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2484,48110,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
-187335810,lazydocker,jesseduffield/lazydocker,Go,62,The lazier way to manage everything docker,1164,35988,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-18369373,viper,spf13/viper,Go,8,Go configuration with fangs,2013,26670,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-167596393,k9s,derailed/k9s,Go,22,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1643,26260,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
-54400687,k6,grafana/k6,Go,154,"A modern load testing tool, using Go and JavaScript - https://k6.io",1219,24524,https://avatars.githubusercontent.com/u/7195757?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,19,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3766,23834,https://avatars.githubusercontent.com/u/71564206?v=4
-50613991,harbor,goharbor/harbor,Go,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",4694,23390,https://avatars.githubusercontent.com/u/40275816?v=4
-6247705,testify,stretchr/testify,Go,8,A toolkit with common assertions and mocks that plays nicely with the standard library,1578,22897,https://avatars.githubusercontent.com/u/1841476?v=4
-738733003,fabric,danielmiessler/fabric,Go,62,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2226,21375,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-56342508,jaeger,jaegertracing/jaeger,Go,8,"CNCF Jaeger, a Distributed Tracing Platform",2395,20084,https://avatars.githubusercontent.com/u/28545596?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,15,Declarative Continuous Deployment for Kubernetes,5218,17178,https://avatars.githubusercontent.com/u/30269780?v=4
-31660590,gods,emirpasic/gods,Go,4,"GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",1741,15982,https://avatars.githubusercontent.com/u/3115942?u=372d64800b424bfb2fe8a492c034b0a83ec213e7&v=4
-8966356,packer,hashicorp/packer,Go,3,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,3322,15016,https://avatars.githubusercontent.com/u/761456?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,15,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1162,11754,https://avatars.githubusercontent.com/u/43720803?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,9,Exporter for machine metrics,2322,10865,https://avatars.githubusercontent.com/u/3380462?v=4
-113106184,linkerd2,linkerd/linkerd2,Go,2,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",1269,10545,https://avatars.githubusercontent.com/u/25301026?v=4
-48714685,opa,open-policy-agent/opa,Go,4,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",1315,9456,https://avatars.githubusercontent.com/u/16468693?v=4
-28366058,distribution,distribution/distribution,Go,6,"The toolkit to pack, ship, store, and deliver container content",2438,8777,https://avatars.githubusercontent.com/u/78096003?v=4
-12332444,ginkgo,onsi/ginkgo,Go,6,A Modern Testing Framework for Go,650,8199,https://avatars.githubusercontent.com/u/558230?v=4
-169108858,kyverno,kyverno/kyverno,Go,7,Cloud Native Policy Management,829,5477,https://avatars.githubusercontent.com/u/68448710?v=4
-76686583,kubevirt,kubevirt/kubevirt,Go,4,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1297,5384,https://avatars.githubusercontent.com/u/18700703?v=4
-67828134,cri-o,cri-o/cri-o,Go,1,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,1058,5125,https://avatars.githubusercontent.com/u/29074118?v=4
-513870749,permify,Permify/permify,Go,97,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",152,3199,https://avatars.githubusercontent.com/u/87805264?v=4
-150468186,local-path-provisioner,rancher/local-path-provisioner,Go,0,Dynamically provisioning persistent local storage with Kubernetes,447,2135,https://avatars.githubusercontent.com/u/9343010?v=4
+29261473,minio,minio/minio,Go,22,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5378,46248,https://avatars.githubusercontent.com/u/695951?v=4
+97533102,LeetCode-Go,halfrost/LeetCode-Go,Go,8,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",5662,32602,https://avatars.githubusercontent.com/u/10825609?u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4
+54400687,k6,grafana/k6,Go,154,"A modern load testing tool, using Go and JavaScript - https://k6.io",1219,24546,https://avatars.githubusercontent.com/u/7195757?v=4
+12080551,vegeta,tsenart/vegeta,Go,32,HTTP load testing tool and library. It's over 9000!,1353,23211,https://avatars.githubusercontent.com/u/67471?u=6524a1de32b0e2bd55af5cc1af1a154e0ea71743&v=4
+27729907,grpc-go,grpc/grpc-go,Go,4,The Go language implementation of gRPC. HTTP/2 based RPC,4322,20707,https://avatars.githubusercontent.com/u/7802525?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,10,"CNCF Jaeger, a Distributed Tracing Platform",2395,20086,https://avatars.githubusercontent.com/u/28545596?v=4
+45363955,ip2region,lionsoul2014/ip2region,Go,33,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2761,16612,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
+367284699,lima,lima-vm/lima,Go,30,"Linux virtual machines, with a focus on running containers",579,14874,https://avatars.githubusercontent.com/u/88128539?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,3,Workflow Engine for Kubernetes,3155,14751,https://avatars.githubusercontent.com/u/30269780?v=4
+370977430,open-im-server,openimsdk/open-im-server,Go,4,IM Chat ,2401,13622,https://avatars.githubusercontent.com/u/84842645?v=4
+542931741,incubator-answer,apache/incubator-answer,Go,6,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",925,12421,https://avatars.githubusercontent.com/u/47359?v=4
+16554739,beats,elastic/beats,Go,2,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4906,12106,https://avatars.githubusercontent.com/u/6764390?v=4
+709538270,plandex,plandex-ai/plandex,Go,22,"AI driven development in your terminal. Designed for large, real-world tasks.",717,10391,https://avatars.githubusercontent.com/u/148917357?v=4
+9120526,pgx,jackc/pgx,Go,4,PostgreSQL driver and toolkit for Go,815,10200,https://avatars.githubusercontent.com/u/94130?v=4
+106867604,cloudflared,cloudflare/cloudflared,Go,6,Cloudflare Tunnel client (formerly Argo Tunnel),769,8711,https://avatars.githubusercontent.com/u/314135?v=4
+318476701,nerdctl,containerd/nerdctl,Go,7,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",585,7829,https://avatars.githubusercontent.com/u/14037953?v=4
+48299818,kopia,kopia/kopia,Go,24,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",368,7168,https://avatars.githubusercontent.com/u/16365723?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,1,"node of the decentralized oracle network, bridging on and off-chain computation",1685,6921,https://avatars.githubusercontent.com/u/25111032?v=4
+247350713,neko,m1k1o/neko,Go,35,A self hosted virtual browser that runs in docker and uses WebRTC.,477,6289,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,2,OpenTelemetry Go API and SDK,1027,5086,https://avatars.githubusercontent.com/u/49998002?v=4
+19608522,google-cloud-go,googleapis/google-cloud-go,Go,1,Google Cloud Client Libraries for Go.,1259,3683,https://avatars.githubusercontent.com/u/16785467?v=4
+513870749,permify,Permify/permify,Go,97,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",152,3208,https://avatars.githubusercontent.com/u/87805264?v=4
+717197250,new-api,Calcium-Ion/new-api,Go,8,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。,684,2712,https://avatars.githubusercontent.com/u/61247483?v=4
+448599559,deepflow,deepflowio/deepflow,Go,3,eBPF Observability - Distributed Tracing and Profiling,304,2709,https://avatars.githubusercontent.com/u/17284239?v=4
