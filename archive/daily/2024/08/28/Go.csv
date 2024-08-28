@@ -1,24 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,27,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7949,77658,https://avatars.githubusercontent.com/u/7894478?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,19,A node.js version management utility for Windows. Ironically written in Go.,3280,36694,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-30215630,kit,go-kit/kit,Go,7,A standard library for microservices.,2422,26467,https://avatars.githubusercontent.com/u/10981023?v=4
-50613991,harbor,goharbor/harbor,Go,14,"An open source trusted cloud native registry project that stores, signs, and scans content.",4703,23428,https://avatars.githubusercontent.com/u/40275816?v=4
-27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4322,20729,https://avatars.githubusercontent.com/u/7802525?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,217,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2407,19439,https://avatars.githubusercontent.com/u/50994705?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,13,Protect and discover secrets using Gitleaks 🔑,1400,17232,https://avatars.githubusercontent.com/u/90395851?v=4
-45363955,ip2region,lionsoul2014/ip2region,Go,24,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",2770,16733,https://avatars.githubusercontent.com/u/7111577?u=a51b0a2bb86351414783468b460723217636d785&v=4
-30711774,validator,go-playground/validator,Go,12,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1304,16393,https://avatars.githubusercontent.com/u/14768796?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,19,"Find, verify, and analyze leaked credentials",1618,15491,https://avatars.githubusercontent.com/u/79229934?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1624,12330,https://avatars.githubusercontent.com/u/2810941?v=4
-41561105,resty,go-resty/resty,Go,5,Simple HTTP and REST client library for Go,695,9858,https://avatars.githubusercontent.com/u/14019737?v=4
-306366900,casdoor,casdoor/casdoor,Go,13,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",1137,9622,https://avatars.githubusercontent.com/u/72992104?v=4
-21306961,fsnotify,fsnotify/fsnotify,Go,4,Cross-platform filesystem notifications for Go.,893,9442,https://avatars.githubusercontent.com/u/8013877?v=4
-66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2921,8901,https://avatars.githubusercontent.com/u/13629408?v=4
-267054247,grype,anchore/grype,Go,5,A vulnerability scanner for container images and filesystems,543,8399,https://avatars.githubusercontent.com/u/16208487?v=4
-368683828,jwt,golang-jwt/jwt,Go,7,Go implementation of JSON Web Tokens (JWT).,334,6911,https://avatars.githubusercontent.com/u/84194169?v=4
-76686583,kubevirt,kubevirt/kubevirt,Go,6,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1300,5398,https://avatars.githubusercontent.com/u/18700703?v=4
-7823926,client_golang,prometheus/client_golang,Go,1,Prometheus instrumentation library for Go applications,1160,5304,https://avatars.githubusercontent.com/u/3380462?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,1,OpenTelemetry Go API and SDK,1028,5098,https://avatars.githubusercontent.com/u/49998002?v=4
-513870749,permify,Permify/permify,Go,111,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",179,3933,https://avatars.githubusercontent.com/u/87805264?v=4
-441833482,SpoofDPI,xvzc/SpoofDPI,Go,54,A simple and fast anti-censorship tool written in Go,220,2971,https://avatars.githubusercontent.com/u/45588457?u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4
-96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,3,AWS SDK for the Go programming language. ,615,2552,https://avatars.githubusercontent.com/u/2232217?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,28,Production-Grade Container Scheduling and Management,39191,109436,https://avatars.githubusercontent.com/u/13629408?v=4
+7691631,moby,moby/moby,Go,14,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18604,68389,https://avatars.githubusercontent.com/u/27259197?v=4
+133251103,dive,wagoodman/dive,Go,63,A tool for exploring each layer in a docker image,1716,45259,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
+208728772,milvus,milvus-io/milvus,Go,22,"A cloud-native vector database, storage for next generation AI applications",2793,29094,https://avatars.githubusercontent.com/u/51735404?v=4
+285864199,go-zero,zeromicro/go-zero,Go,9,A cloud-native Go microservices framework with cli tool for productivity.,3895,28723,https://avatars.githubusercontent.com/u/74225106?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,34,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3776,23992,https://avatars.githubusercontent.com/u/71564206?v=4
+50613991,harbor,goharbor/harbor,Go,14,"An open source trusted cloud native registry project that stores, signs, and scans content.",4703,23429,https://avatars.githubusercontent.com/u/40275816?v=4
+679421146,opentofu,opentofu/opentofu,Go,11,OpenTofu lets you declaratively manage your cloud infrastructure.,843,22281,https://avatars.githubusercontent.com/u/142061836?v=4
+273871859,headscale,juanfont/headscale,Go,23,"An open source, self-hosted implementation of the Tailscale control server",1206,21818,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,217,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2409,19453,https://avatars.githubusercontent.com/u/50994705?v=4
+403020531,colima,abiosoft/colima,Go,12,Container runtimes on macOS (and Linux) with minimal setup,372,18371,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
+191655189,ent,ent/ent,Go,6,An entity framework for Go,904,15351,https://avatars.githubusercontent.com/u/66847655?v=4
+136505169,tinygo,tinygo-org/tinygo,Go,16,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",883,14973,https://avatars.githubusercontent.com/u/45223613?v=4
+33258973,telegraf,influxdata/telegraf,Go,2,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5545,14423,https://avatars.githubusercontent.com/u/5713248?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,5,Automatically provision and manage TLS certificates in Kubernetes,2044,11862,https://avatars.githubusercontent.com/u/39950598?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,43,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1446,11385,https://avatars.githubusercontent.com/u/126152966?v=4
+125275487,kubebuilder,kubernetes-sigs/kubebuilder,Go,3,Kubebuilder - SDK for building Kubernetes APIs using CRDs,1424,7701,https://avatars.githubusercontent.com/u/36015203?v=4
+753490180,daytona,daytonaio/daytona,Go,63,The Open Source Dev Environment Manager.,747,7389,https://avatars.githubusercontent.com/u/130513197?v=4
+52555254,goose,pressly/goose,Go,7,A database migration tool. Supports SQL migrations and Go functions. ,503,6494,https://avatars.githubusercontent.com/u/18835?v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,26,Giving Kubernetes Superpowers to everyone,617,5391,https://avatars.githubusercontent.com/u/128535266?v=4
+513870749,permify,Permify/permify,Go,111,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",179,3956,https://avatars.githubusercontent.com/u/87805264?v=4
+385634291,mimir,grafana/mimir,Go,5,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",496,3948,https://avatars.githubusercontent.com/u/7195757?v=4
+635979215,mock,uber-go/mock,Go,6,GoMock is a mocking framework for the Go programming language.,108,1995,https://avatars.githubusercontent.com/u/19262598?v=4
+67680905,dd-trace-go,DataDog/dd-trace-go,Go,0,"Datadog Go Library including APM tracing, profiling, and security monitoring.",425,621,https://avatars.githubusercontent.com/u/365230?v=4
