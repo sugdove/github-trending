@@ -1,24 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,892,The Go programming language,17470,122304,https://avatars.githubusercontent.com/u/4314092?v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,857,Production-Grade Container Scheduling and Management,39214,109487,https://avatars.githubusercontent.com/u/13629408?v=4
-16563587,cockroach,cockroachdb/cockroach,Go,232,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",3758,29781,https://avatars.githubusercontent.com/u/6748139?v=4
-107286889,croc,schollz/croc,Go,487,Easily and securely send things from one computer to another :crocodile: :package:,1096,27497,https://avatars.githubusercontent.com/u/6550035?u=991583b3f086b7f4cef5d2b4629e1440fd73f00b&v=4
-54400687,k6,grafana/k6,Go,754,"A modern load testing tool, using Go and JavaScript - https://k6.io",1226,24809,https://avatars.githubusercontent.com/u/7195757?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,844,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3781,24029,https://avatars.githubusercontent.com/u/71564206?v=4
+23096959,go,golang/go,Go,892,The Go programming language,17472,122311,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,857,Production-Grade Container Scheduling and Management,39214,109489,https://avatars.githubusercontent.com/u/13629408?v=4
+29207621,caddy,caddyserver/caddy,Go,764,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,3970,56649,https://avatars.githubusercontent.com/u/12955528?v=4
+16563587,cockroach,cockroachdb/cockroach,Go,232,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",3758,29782,https://avatars.githubusercontent.com/u/6748139?v=4
+107286889,croc,schollz/croc,Go,487,Easily and securely send things from one computer to another :crocodile: :package:,1095,27498,https://avatars.githubusercontent.com/u/6550035?u=991583b3f086b7f4cef5d2b4629e1440fd73f00b&v=4
+54400687,k6,grafana/k6,Go,754,"A modern load testing tool, using Go and JavaScript - https://k6.io",1226,24810,https://avatars.githubusercontent.com/u/7195757?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,844,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3781,24031,https://avatars.githubusercontent.com/u/71564206?v=4
 12080551,vegeta,tsenart/vegeta,Go,209,HTTP load testing tool and library. It's over 9000!,1353,23261,https://avatars.githubusercontent.com/u/67471?u=6524a1de32b0e2bd55af5cc1af1a154e0ea71743&v=4
-273871859,headscale,juanfont/headscale,Go,642,"An open source, self-hosted implementation of the Tailscale control server",1211,21853,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+273871859,headscale,juanfont/headscale,Go,642,"An open source, self-hosted implementation of the Tailscale control server",1211,21857,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
 252813491,nuclei,projectdiscovery/nuclei,Go,1099,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2427,19643,https://avatars.githubusercontent.com/u/50994705?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,813,"Find, verify, and analyze leaked credentials",1619,15511,https://avatars.githubusercontent.com/u/79229934?v=4
-132145189,golangci-lint,golangci/golangci-lint,Go,239,Fast linters runner for Go,1357,15230,https://avatars.githubusercontent.com/u/35628013?v=4
-136505169,tinygo,tinygo-org/tinygo,Go,312,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",888,15112,https://avatars.githubusercontent.com/u/45223613?v=4
-370977430,open-im-server,openimsdk/open-im-server,Go,205,IM Chat ,2407,13671,https://avatars.githubusercontent.com/u/84842645?v=4
-95761244,gf,gogf/gf,Go,227,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1555,11393,https://avatars.githubusercontent.com/u/46776614?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,813,"Find, verify, and analyze leaked credentials",1620,15512,https://avatars.githubusercontent.com/u/79229934?v=4
+136505169,tinygo,tinygo-org/tinygo,Go,312,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",888,15113,https://avatars.githubusercontent.com/u/45223613?v=4
+370977430,open-im-server,openimsdk/open-im-server,Go,205,IM Chat ,2407,13673,https://avatars.githubusercontent.com/u/84842645?v=4
+109162639,thanos,thanos-io/thanos,Go,112,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2074,12907,https://avatars.githubusercontent.com/u/49725059?v=4
+95761244,gf,gogf/gf,Go,227,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1555,11394,https://avatars.githubusercontent.com/u/46776614?v=4
 244694886,nightingale,ccfos/nightingale,Go,300,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1385,9486,https://avatars.githubusercontent.com/u/96813578?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,309,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",907,6551,https://avatars.githubusercontent.com/u/2232217?v=4
-178079595,opencost,opencost/opencost,Go,137,Cost monitoring for Kubernetes workloads and cloud costs,539,5048,https://avatars.githubusercontent.com/u/105945214?v=4
-280658081,domain-list-community,v2fly/domain-list-community,Go,193,Community managed domain list. Generate geosite.dat for V2Ray.,840,4591,https://avatars.githubusercontent.com/u/49637375?v=4
-513870749,permify,Permify/permify,Go,1282,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",184,4077,https://avatars.githubusercontent.com/u/87805264?v=4
-531220682,dice,DiceDB/dice,Go,2173,A drop-in replacement of Redis with SQL-based realtime reactivity.,407,3203,https://avatars.githubusercontent.com/u/112580013?v=4
-423075524,slackdump,rusq/slackdump,Go,601,"Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.",66,1438,https://avatars.githubusercontent.com/u/16064414?u=40514fa829d28dafe4e2ea308f37354c6b82640e&v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,309,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",907,6553,https://avatars.githubusercontent.com/u/2232217?v=4
+280658081,domain-list-community,v2fly/domain-list-community,Go,193,Community managed domain list. Generate geosite.dat for V2Ray.,840,4595,https://avatars.githubusercontent.com/u/49637375?v=4
+513870749,permify,Permify/permify,Go,1282,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",184,4088,https://avatars.githubusercontent.com/u/87805264?v=4
+531220682,dice,DiceDB/dice,Go,2173,A drop-in replacement of Redis with SQL-based realtime reactivity.,407,3204,https://avatars.githubusercontent.com/u/112580013?v=4
+423075524,slackdump,rusq/slackdump,Go,601,"Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.",66,1440,https://avatars.githubusercontent.com/u/16064414?u=40514fa829d28dafe4e2ea308f37354c6b82640e&v=4
 764670636,alloy,grafana/alloy,Go,155,OpenTelemetry Collector distribution with programmable pipelines,151,1231,https://avatars.githubusercontent.com/u/7195757?v=4
-442068623,kindling,KindlingProject/kindling,Go,386,eBPF-based Cloud Native Monitoring Tool,182,1102,https://avatars.githubusercontent.com/u/105688604?v=4
