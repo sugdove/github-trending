@@ -1,25 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-12574344,cobra,spf13/cobra,Go,17,A Commander for modern Go CLI interactions,2828,37412,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-31288958,vault,hashicorp/vault,Go,13,"A tool for secrets management, encryption as a service, and privileged access management",4167,30800,https://avatars.githubusercontent.com/u/761456?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,40,A powerful little TUI framework 🏗,763,26417,https://avatars.githubusercontent.com/u/57376114?v=4
-42332863,filebrowser,filebrowser/filebrowser,Go,10,📂 Web File Browser,2927,25515,https://avatars.githubusercontent.com/u/35781395?v=4
-72477752,pulumi,pulumi/pulumi,Go,5,Pulumi - Infrastructure as Code in any programming language 🚀,1085,20840,https://avatars.githubusercontent.com/u/21992475?v=4
-27729907,grpc-go,grpc/grpc-go,Go,6,The Go language implementation of gRPC. HTTP/2 based RPC,4325,20743,https://avatars.githubusercontent.com/u/7802525?v=4
-31558937,teleport,gravitational/teleport,Go,5,"The easiest, and most secure way to access and protect all of your infrastructure.",1731,17256,https://avatars.githubusercontent.com/u/10781132?v=4
-16554739,beats,elastic/beats,Go,1,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4914,12122,https://avatars.githubusercontent.com/u/6764390?v=4
-626896474,SafeLine,chaitin/SafeLine,Go,9,serve as a reverse proxy to protect your web services from attacks and exploits.,719,11781,https://avatars.githubusercontent.com/u/7302766?v=4
-95761244,gf,gogf/gf,Go,12,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1556,11410,https://avatars.githubusercontent.com/u/46776614?v=4
-135321861,kratos,ory/kratos,Go,2,"Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!",950,11002,https://avatars.githubusercontent.com/u/25334553?v=4
-93928882,swag,swaggo/swag,Go,4,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1185,10418,https://avatars.githubusercontent.com/u/29616670?v=4
-10270722,go-github,google/go-github,Go,2,Go library for accessing the GitHub v3 API,2036,10271,https://avatars.githubusercontent.com/u/1342004?v=4
-299832860,livekit,livekit/livekit,Go,20,End-to-end stack for WebRTC. SFU media server and SDKs.,765,9397,https://avatars.githubusercontent.com/u/69438833?v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,2,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1541,9327,https://avatars.githubusercontent.com/u/62798169?v=4
-147886080,crossplane,crossplane/crossplane,Go,3,The Cloud Native Control Plane,928,9260,https://avatars.githubusercontent.com/u/45158470?v=4
-92969352,buildkit,moby/buildkit,Go,4,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",1115,7987,https://avatars.githubusercontent.com/u/27259197?v=4
-753490180,daytona,daytonaio/daytona,Go,76,The Open Source Dev Environment Manager.,756,7918,https://avatars.githubusercontent.com/u/130513197?v=4
-262126497,syft,anchore/syft,Go,2,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,549,5948,https://avatars.githubusercontent.com/u/16208487?v=4
-51620247,uuid,google/uuid,Go,3,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.,363,5233,https://avatars.githubusercontent.com/u/1342004?v=4
-385634291,mimir,grafana/mimir,Go,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",500,3963,https://avatars.githubusercontent.com/u/7195757?v=4
-395039200,dcgm-exporter,NVIDIA/dcgm-exporter,Go,3,NVIDIA GPU metrics exporter for Prometheus leveraging DCGM,150,825,https://avatars.githubusercontent.com/u/1728152?v=4
-716710248,registry,opentofu/registry,Go,3,The all-new opentofu.org registry!,36,295,https://avatars.githubusercontent.com/u/142061836?v=4
-707913607,kubeai,substratusai/kubeai,Go,6,Private Open AI on Kubernetes,13,172,https://avatars.githubusercontent.com/u/134964205?v=4
+29261473,minio,minio/minio,Go,18,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5388,46421,https://avatars.githubusercontent.com/u/695951?v=4
+17803236,rclone,rclone/rclone,Go,8,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4101,45861,https://avatars.githubusercontent.com/u/24937341?v=4
+41912791,v2ray-core,v2ray/v2ray-core,Go,8,A platform for building proxies to bypass network restrictions.,8935,45215,https://avatars.githubusercontent.com/u/14110142?v=4
+323965659,alist,alist-org/alist,Go,29,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5353,41513,https://avatars.githubusercontent.com/u/97389433?v=4
+119160553,photoprism,photoprism/photoprism,Go,18,AI-Powered Photos App for the Decentralized Web 🌈💎✨,1890,34373,https://avatars.githubusercontent.com/u/32436079?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,15,A platform for building proxies to bypass network restrictions.,4575,28849,https://avatars.githubusercontent.com/u/49637375?v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,40,A powerful little TUI framework 🏗,763,26418,https://avatars.githubusercontent.com/u/57376114?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,19,Network-wide ads & trackers blocking DNS server,1770,24357,https://avatars.githubusercontent.com/u/8361145?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,33,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3785,24074,https://avatars.githubusercontent.com/u/71564206?v=4
+738733003,fabric,danielmiessler/fabric,Go,50,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2280,21732,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,18,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,3666,18886,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
+187403699,age,FiloSottile/age,Go,21,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",491,16752,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+257434373,hysteria,apernet/hysteria,Go,22,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1607,14393,https://avatars.githubusercontent.com/u/79422552?v=4
+95761244,gf,gogf/gf,Go,12,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ",1556,11411,https://avatars.githubusercontent.com/u/46776614?v=4
+52481933,navidrome,navidrome/navidrome,Go,15,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,833,11184,https://avatars.githubusercontent.com/u/26692192?v=4
+135321861,kratos,ory/kratos,Go,2,"Next-gen identity server replacing your Auth0, Okta, Firebase with hardened security and PassKeys, SMS, OIDC, Social Sign In, MFA, FIDO, TOTP and OTP, WebAuthn, passwordless and much more. Golang, headless, API-first. Available as a worry-free SaaS with the fairest pricing on the market!",950,11004,https://avatars.githubusercontent.com/u/25334553?v=4
+216103835,v2rayA,v2rayA/v2rayA,Go,14,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",1153,10823,https://avatars.githubusercontent.com/u/71894288?v=4
+117591846,server,gotify/server,Go,16,A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui),606,10820,https://avatars.githubusercontent.com/u/36410427?v=4
+173009358,oapi-codegen,oapi-codegen/oapi-codegen,Go,29,Generate Go client and server boilerplate from OpenAPI 3 specifications,829,5896,https://avatars.githubusercontent.com/u/142752710?v=4
+526081371,go2rtc,AlexxIT/go2rtc,Go,5,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",336,4152,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
+226368338,evcc,evcc-io/evcc,Go,5,Sonne tanken ☀️🚘,561,3074,https://avatars.githubusercontent.com/u/81383504?v=4
+133725375,wireguard-go,WireGuard/wireguard-go,Go,5,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,1007,3009,https://avatars.githubusercontent.com/u/13991055?v=4
+524859634,WatchYourLAN,aceberg/WatchYourLAN,Go,558,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,68,1947,https://avatars.githubusercontent.com/u/1502200?v=4
