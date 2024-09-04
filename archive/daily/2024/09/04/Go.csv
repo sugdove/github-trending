@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,153,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6835,87805,https://avatars.githubusercontent.com/u/151674099?v=4
-61137153,esbuild,evanw/esbuild,Go,6,An extremely fast bundler for the web,1123,37875,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
-12574344,cobra,spf13/cobra,Go,16,A Commander for modern Go CLI interactions,2828,37452,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+658928958,ollama,ollama/ollama,Go,160,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6838,87834,https://avatars.githubusercontent.com/u/151674099?v=4
+61137153,esbuild,evanw/esbuild,Go,6,An extremely fast bundler for the web,1124,37877,https://avatars.githubusercontent.com/u/406394?u=311ddafa2f676e0b821384e18b05f0f4e08bcacc&v=4
+12574344,cobra,spf13/cobra,Go,16,A Commander for modern Go CLI interactions,2829,37454,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
 74175805,istio,istio/istio,Go,11,"Connect, secure, control, and observe services.",7679,35654,https://avatars.githubusercontent.com/u/23534644?v=4
-208728772,milvus,milvus-io/milvus,Go,30,"A cloud-native vector database, storage for next generation AI applications",2805,29213,https://avatars.githubusercontent.com/u/51735404?v=4
-56353740,minikube,kubernetes/minikube,Go,6,Run Kubernetes locally,4862,29110,https://avatars.githubusercontent.com/u/13629408?v=4
-135516270,k3s,k3s-io/k3s,Go,13,Lightweight Kubernetes,2304,27471,https://avatars.githubusercontent.com/u/49319725?v=4
-180687624,trivy,aquasecurity/trivy,Go,18,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2242,22731,https://avatars.githubusercontent.com/u/12783832?v=4
-738733003,fabric,danielmiessler/fabric,Go,192,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2309,22086,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,5,gRPC to JSON proxy generator following the gRPC HTTP spec,2206,17937,https://avatars.githubusercontent.com/u/19352526?v=4
-40684033,sops,getsops/sops,Go,13,Simple and flexible tool for managing secrets,854,16219,https://avatars.githubusercontent.com/u/129185620?v=4
+208728772,milvus,milvus-io/milvus,Go,30,"A cloud-native vector database, storage for next generation AI applications",2807,29217,https://avatars.githubusercontent.com/u/51735404?v=4
+56353740,minikube,kubernetes/minikube,Go,6,Run Kubernetes locally,4862,29112,https://avatars.githubusercontent.com/u/13629408?v=4
+135516270,k3s,k3s-io/k3s,Go,13,Lightweight Kubernetes,2304,27472,https://avatars.githubusercontent.com/u/49319725?v=4
+180687624,trivy,aquasecurity/trivy,Go,18,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2242,22733,https://avatars.githubusercontent.com/u/12783832?v=4
+738733003,fabric,danielmiessler/fabric,Go,87,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2310,22117,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,5,gRPC to JSON proxy generator following the gRPC HTTP spec,2206,17939,https://avatars.githubusercontent.com/u/19352526?v=4
+40684033,sops,getsops/sops,Go,15,Simple and flexible tool for managing secrets,854,16222,https://avatars.githubusercontent.com/u/129185620?v=4
 55072677,weaviate,weaviate/weaviate,Go,7,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",735,10672,https://avatars.githubusercontent.com/u/37794290?v=4
-357897199,netbird,netbirdio/netbird,Go,16,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",469,10459,https://avatars.githubusercontent.com/u/100464677?v=4
-170411418,keda,kedacore/keda,Go,8, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1046,8254,https://avatars.githubusercontent.com/u/49917779?v=4
-155658556,certificates,smallstep/certificates,Go,8,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",427,6536,https://avatars.githubusercontent.com/u/23183426?v=4
+357897199,netbird,netbirdio/netbird,Go,16,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",469,10462,https://avatars.githubusercontent.com/u/100464677?v=4
+170411418,keda,kedacore/keda,Go,8, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1046,8256,https://avatars.githubusercontent.com/u/49917779?v=4
+155658556,certificates,smallstep/certificates,Go,21,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.",427,6538,https://avatars.githubusercontent.com/u/23183426?v=4
 258469100,flux2,fluxcd/flux2,Go,9,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,591,6323,https://avatars.githubusercontent.com/u/52158677?v=4
-339786950,encore,encoredev/encore,Go,38,Development Platform for building robust type-safe distributed systems with declarative infrastructure,265,6009,https://avatars.githubusercontent.com/u/50438175?v=4
+339786950,encore,encoredev/encore,Go,38,Development Platform for building robust type-safe distributed systems with declarative infrastructure,266,6012,https://avatars.githubusercontent.com/u/50438175?v=4
 7823926,client_golang,prometheus/client_golang,Go,2,Prometheus instrumentation library for Go applications,1165,5312,https://avatars.githubusercontent.com/u/3380462?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1268,3706,https://avatars.githubusercontent.com/u/16785467?v=4
-226368338,evcc,evcc-io/evcc,Go,18,Sonne tanken ☀️🚘,570,3167,https://avatars.githubusercontent.com/u/81383504?v=4
-524859634,WatchYourLAN,aceberg/WatchYourLAN,Go,306,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,89,3033,https://avatars.githubusercontent.com/u/1502200?v=4
-501372599,openfga,openfga/openfga,Go,14,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,181,2680,https://avatars.githubusercontent.com/u/103602580?v=4
-96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,13,AWS SDK for the Go programming language. ,619,2566,https://avatars.githubusercontent.com/u/2232217?v=4
+19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1268,3707,https://avatars.githubusercontent.com/u/16785467?v=4
+226368338,evcc,evcc-io/evcc,Go,18,Sonne tanken ☀️🚘,571,3169,https://avatars.githubusercontent.com/u/81383504?v=4
+524859634,WatchYourLAN,aceberg/WatchYourLAN,Go,306,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,89,3042,https://avatars.githubusercontent.com/u/1502200?v=4
+501372599,openfga,openfga/openfga,Go,14,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,181,2681,https://avatars.githubusercontent.com/u/103602580?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,2,AWS SDK for the Go programming language. ,619,2566,https://avatars.githubusercontent.com/u/2232217?v=4
 35890002,list,publicsuffix/list,Go,1,The Public Suffix List,1204,1987,https://avatars.githubusercontent.com/u/2463634?v=4
