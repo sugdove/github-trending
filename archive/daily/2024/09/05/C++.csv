@@ -1,17 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,68,A framework for building native applications using React,24171,117943,https://avatars.githubusercontent.com/u/69631?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,49,LLM inference in C/C++,9231,64502,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-11171548,json,nlohmann/json,C++,17,JSON for Modern C++,6644,42088,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-39840932,googletest,google/googletest,C++,11,GoogleTest - Google Testing and Mocking Framework,10047,34186,https://avatars.githubusercontent.com/u/1342004?v=4
-191820100,mediapipe,google-ai-edge/mediapipe,C++,16,"Cross-platform, customizable ML solutions for live and streaming media.",5073,26688,https://avatars.githubusercontent.com/u/150697620?v=4
-65214191,envoy,envoyproxy/envoy,C++,10,Cloud-native high-performance edge/middle/service proxy,4742,24636,https://avatars.githubusercontent.com/u/30125649?v=4
-1062572,Catch2,catchorg/Catch2,C++,9,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3021,18445,https://avatars.githubusercontent.com/u/33321405?v=4
-47690142,Sourcetrail,CoatiSoftware/Sourcetrail,C++,14,Sourcetrail - free and open-source interactive source explorer,1368,14709,https://avatars.githubusercontent.com/u/16224233?v=4
-1320594,ModSecurity,owasp-modsecurity/ModSecurity,C++,8,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",1575,8020,https://avatars.githubusercontent.com/u/157431874?v=4
-2345629,websocketpp,zaphoyd/websocketpp,C++,1,C++ websocket client/server library,1960,6950,https://avatars.githubusercontent.com/u/1006976?v=4
-153097643,openvino,openvinotoolkit/openvino,C++,13,OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference,2165,6774,https://avatars.githubusercontent.com/u/55443902?v=4
-36832736,cryptopp,weidai11/cryptopp,C++,3,free C++ class library of cryptographic schemes,1480,4780,https://avatars.githubusercontent.com/u/1622188?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,39,An Open Source Machine Learning Framework for Everyone,74163,185343,https://avatars.githubusercontent.com/u/15658638?v=4
+29028775,react-native,facebook/react-native,C++,68,A framework for building native applications using React,24173,117947,https://avatars.githubusercontent.com/u/69631?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,12,Protocol Buffers - Google's data interchange format,15428,65092,https://avatars.githubusercontent.com/u/26310541?v=4
+11171548,json,nlohmann/json,C++,17,JSON for Modern C++,6644,42090,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+39840932,googletest,google/googletest,C++,11,GoogleTest - Google Testing and Mocking Framework,10047,34187,https://avatars.githubusercontent.com/u/1342004?v=4
+259463685,carbon-lang,carbon-language/carbon-lang,C++,3,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",1468,32249,https://avatars.githubusercontent.com/u/63681715?v=4
+81227005,faiss,facebookresearch/faiss,C++,34,A library for efficient similarity search and clustering of dense vectors.,3544,30337,https://avatars.githubusercontent.com/u/16943930?v=4
+65214191,envoy,envoyproxy/envoy,C++,69,Cloud-native high-performance edge/middle/service proxy,4742,24639,https://avatars.githubusercontent.com/u/30125649?v=4
+26038648,spdlog,gabime/spdlog,C++,21,Fast C++ logging library.,4461,23743,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+38581626,pybind11,pybind/pybind11,C++,7,Seamless operability between C++11 and Python,2072,15386,https://avatars.githubusercontent.com/u/17565521?v=4
+156939672,onnxruntime,microsoft/onnxruntime,C++,18,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",2832,14043,https://avatars.githubusercontent.com/u/6154722?v=4
+384520418,MaaAssistantArknights,MaaAssistantArknights/MaaAssistantArknights,C++,60,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",1784,13523,https://avatars.githubusercontent.com/u/97677443?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,11,A C++ header-only HTTP/HTTPS server and client library,2242,12660,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+75413130,Open3D,isl-org/Open3D,C++,7,Open3D: A Modern Library for 3D Data Processing,2267,11147,https://avatars.githubusercontent.com/u/23507030?v=4
+108102826,carla,carla-simulator/carla,C++,7,Open-source simulator for autonomous driving research.,3565,11081,https://avatars.githubusercontent.com/u/33029185?v=4
+7512484,ardupilot,ArduPilot/ardupilot,C++,9,"ArduPlane, ArduCopter, ArduRover, ArduSub source",17098,10460,https://avatars.githubusercontent.com/u/17919847?v=4
+5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,6,PX4 Autopilot Software,13362,8166,https://avatars.githubusercontent.com/u/2096014?v=4
+42467830,wabt,WebAssembly/wabt,C++,2,The WebAssembly Binary Toolkit,684,6714,https://avatars.githubusercontent.com/u/11578470?v=4
+89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,3,Firebase SDK for Apple App Development,1442,5528,https://avatars.githubusercontent.com/u/1335026?v=4
+112542515,cutlass,NVIDIA/cutlass,C++,7,CUDA Templates for Linear Algebra Subroutines,888,5274,https://avatars.githubusercontent.com/u/1728152?v=4
 178613040,magic_enum,Neargye/magic_enum,C++,9,"Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",422,4737,https://avatars.githubusercontent.com/u/7997966?u=cc5d3a577c3b615ae5bad0c0c293363acf00acfe&v=4
-80064252,CLI11,CLIUtils/CLI11,C++,3,CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.,345,3277,https://avatars.githubusercontent.com/u/26603456?v=4
-68405620,vsomeip,COVESA/vsomeip,C++,2,An implementation of Scalable service-Oriented MiddlewarE over IP,676,1081,https://avatars.githubusercontent.com/u/90009755?v=4
-718314761,onnxruntime-genai,microsoft/onnxruntime-genai,C++,0,Generative AI extensions for onnxruntime,92,410,https://avatars.githubusercontent.com/u/6154722?v=4
+234192998,quill,odygrd/quill,C++,8,Asynchronous Low Latency C++ Logging Library,138,1255,https://avatars.githubusercontent.com/u/7397786?u=d842d98d58bb14084e90943632724c8530d5d697&v=4

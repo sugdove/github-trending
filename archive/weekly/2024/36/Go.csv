@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,419,The Go programming language,17487,122649,https://avatars.githubusercontent.com/u/4314092?v=4
-6838921,prometheus,prometheus/prometheus,Go,161,The Prometheus monitoring system and time series database.,9018,54710,https://avatars.githubusercontent.com/u/3380462?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,255,A powerful little TUI framework 🏗,766,26555,https://avatars.githubusercontent.com/u/57376114?v=4
-53632140,micro,zyedidia/micro,Go,86,A modern and intuitive terminal-based text editor,1160,24756,https://avatars.githubusercontent.com/u/5513065?u=15db609dac90ac481ec89b92bf02f59e91974fb7&v=4
-738733003,fabric,danielmiessler/fabric,Go,583,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2317,22250,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,326,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2439,19798,https://avatars.githubusercontent.com/u/50994705?v=4
-30711774,validator,go-playground/validator,Go,68,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1306,16471,https://avatars.githubusercontent.com/u/14768796?v=4
+23096959,go,golang/go,Go,419,The Go programming language,17486,122653,https://avatars.githubusercontent.com/u/4314092?v=4
+6838921,prometheus,prometheus/prometheus,Go,161,The Prometheus monitoring system and time series database.,9018,54716,https://avatars.githubusercontent.com/u/3380462?v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,255,A powerful little TUI framework 🏗,767,26558,https://avatars.githubusercontent.com/u/57376114?v=4
+53632140,micro,zyedidia/micro,Go,86,A modern and intuitive terminal-based text editor,1160,24758,https://avatars.githubusercontent.com/u/5513065?u=15db609dac90ac481ec89b92bf02f59e91974fb7&v=4
+679421146,opentofu,opentofu/opentofu,Go,101,OpenTofu lets you declaratively manage your cloud infrastructure.,852,22365,https://avatars.githubusercontent.com/u/142061836?v=4
+738733003,fabric,danielmiessler/fabric,Go,583,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2319,22259,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,326,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2439,19797,https://avatars.githubusercontent.com/u/50994705?v=4
 136505169,tinygo,tinygo-org/tinygo,Go,167,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",890,15152,https://avatars.githubusercontent.com/u/45223613?v=4
-71297170,chaosmonkey,Netflix/chaosmonkey,Go,41,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,1137,15013,https://avatars.githubusercontent.com/u/913567?v=4
 257434373,hysteria,apernet/hysteria,Go,118,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1616,14466,https://avatars.githubusercontent.com/u/79422552?v=4
-52481933,navidrome,navidrome/navidrome,Go,91,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,838,11228,https://avatars.githubusercontent.com/u/26692192?v=4
-117591846,server,gotify/server,Go,136,A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui),612,10893,https://avatars.githubusercontent.com/u/36410427?v=4
-312629343,fscan,shadow1ng/fscan,Go,118,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1515,9786,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-197914161,sftpgo,drakkan/sftpgo,Go,108,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",707,9004,https://avatars.githubusercontent.com/u/553263?u=383412442399c019c1f9678ff569695ca184ccdb&v=4
-753490180,daytona,daytonaio/daytona,Go,530,The Open Source Dev Environment Manager.,762,7960,https://avatars.githubusercontent.com/u/130513197?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,19,Autoscaling components for Kubernetes,3925,7923,https://avatars.githubusercontent.com/u/13629408?v=4
-94702367,pdfcpu,pdfcpu/pdfcpu,Go,83,A PDF processor written in Go.,462,6719,https://avatars.githubusercontent.com/u/53127365?v=4
-247350713,neko,m1k1o/neko,Go,208,A self hosted virtual browser that runs in docker and uses WebRTC.,487,6695,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
+52481933,navidrome,navidrome/navidrome,Go,91,🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic,838,11229,https://avatars.githubusercontent.com/u/26692192?v=4
+117591846,server,gotify/server,Go,136,A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui),612,10894,https://avatars.githubusercontent.com/u/36410427?v=4
+55072677,weaviate,weaviate/weaviate,Go,62,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",735,10678,https://avatars.githubusercontent.com/u/37794290?v=4
+299832860,livekit,livekit/livekit,Go,105,End-to-end stack for WebRTC. SFU media server and SDKs.,773,9445,https://avatars.githubusercontent.com/u/69438833?v=4
+147886080,crossplane,crossplane/crossplane,Go,33,The Cloud Native Control Plane,929,9278,https://avatars.githubusercontent.com/u/45158470?v=4
+197914161,sftpgo,drakkan/sftpgo,Go,108,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",707,9005,https://avatars.githubusercontent.com/u/553263?u=383412442399c019c1f9678ff569695ca184ccdb&v=4
+753490180,daytona,daytonaio/daytona,Go,530,The Open Source Dev Environment Manager.,762,7963,https://avatars.githubusercontent.com/u/130513197?v=4
 617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,79,Giving Kubernetes Superpowers to everyone,629,5474,https://avatars.githubusercontent.com/u/128535266?v=4
-234757030,bubbles,charmbracelet/bubbles,Go,36,TUI components for Bubble Tea 🫧,252,5322,https://avatars.githubusercontent.com/u/57376114?v=4
-513870749,permify,Permify/permify,Go,360,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",194,4333,https://avatars.githubusercontent.com/u/87805264?v=4
-385634291,mimir,grafana/mimir,Go,23,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",501,3976,https://avatars.githubusercontent.com/u/7195757?v=4
-226368338,evcc,evcc-io/evcc,Go,154,Sonne tanken ☀️🚘,572,3190,https://avatars.githubusercontent.com/u/81383504?v=4
-717197250,new-api,Calcium-Ion/new-api,Go,95,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。,710,2856,https://avatars.githubusercontent.com/u/61247483?v=4
+234757030,bubbles,charmbracelet/bubbles,Go,36,TUI components for Bubble Tea 🫧,252,5324,https://avatars.githubusercontent.com/u/57376114?v=4
+432717637,lancet,duke-git/lancet,Go,182,"A comprehensive, efficient, and reusable util function library of Go.",437,4346,https://avatars.githubusercontent.com/u/5037603?u=3f6c46718a716f0145b17534555c83c40ada42c8&v=4
+526081371,go2rtc,AlexxIT/go2rtc,Go,53,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",342,4193,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
+385634291,mimir,grafana/mimir,Go,23,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",502,3976,https://avatars.githubusercontent.com/u/7195757?v=4
+226368338,evcc,evcc-io/evcc,Go,154,Sonne tanken ☀️🚘,574,3192,https://avatars.githubusercontent.com/u/81383504?v=4
+717197250,new-api,Calcium-Ion/new-api,Go,95,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。,711,2857,https://avatars.githubusercontent.com/u/61247483?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,20,AWS SDK for the Go programming language. ,619,2567,https://avatars.githubusercontent.com/u/2232217?v=4
+750922635,dify-sandbox,langgenius/dify-sandbox,Go,25,"A lightweight, fast, and secure code execution environment that supports multiple programming languages",64,319,https://avatars.githubusercontent.com/u/127165244?v=4
