@@ -1,26 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,12,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18623,68462,https://avatars.githubusercontent.com/u/27259197?v=4
-17728164,terraform,hashicorp/terraform,Go,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9475,42168,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,16,A Commander for modern Go CLI interactions,2827,37544,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-13628513,logrus,sirupsen/logrus,Go,8,"Structured, pluggable logging for Go.",2261,24530,https://avatars.githubusercontent.com/u/97400?v=4
-6247705,testify,stretchr/testify,Go,8,A toolkit with common assertions and mocks that plays nicely with the standard library,1579,23006,https://avatars.githubusercontent.com/u/1841476?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,4,gRPC to JSON proxy generator following the gRPC HTTP spec,2212,17973,https://avatars.githubusercontent.com/u/19352526?v=4
-118105436,migrate,golang-migrate/migrate,Go,9,Database migrations. CLI and Golang library.,1376,14970,https://avatars.githubusercontent.com/u/35595841?v=4
-33258973,telegraf,influxdata/telegraf,Go,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5544,14471,https://avatars.githubusercontent.com/u/5713248?v=4
-16554739,beats,elastic/beats,Go,7,:tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash ,4912,12135,https://avatars.githubusercontent.com/u/6764390?v=4
-43225113,yq,mikefarah/yq,Go,25,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",583,11820,https://avatars.githubusercontent.com/u/1151925?v=4
-9120526,pgx,jackc/pgx,Go,7,PostgreSQL driver and toolkit for Go,817,10328,https://avatars.githubusercontent.com/u/94130?v=4
-312629343,fscan,shadow1ng/fscan,Go,33,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1547,10092,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-66509131,client-go,kubernetes/client-go,Go,0,Go client for Kubernetes.,2923,8923,https://avatars.githubusercontent.com/u/13629408?v=4
-12332444,ginkgo,onsi/ginkgo,Go,5,A Modern Testing Framework for Go,650,8231,https://avatars.githubusercontent.com/u/558230?v=4
-16019737,squirrel,Masterminds/squirrel,Go,4,Fluent SQL generation for golang,460,6827,https://avatars.githubusercontent.com/u/689082?v=4
-206213815,chaos-mesh,chaos-mesh/chaos-mesh,Go,5,A Chaos Engineering Platform for Kubernetes.,826,6669,https://avatars.githubusercontent.com/u/59082378?v=4
-52555254,goose,pressly/goose,Go,8,A database migration tool. Supports SQL migrations and Go functions. ,506,6622,https://avatars.githubusercontent.com/u/18835?v=4
-535304995,Havoc,HavocFramework/Havoc,Go,36,The Havoc Framework.,935,6593,https://avatars.githubusercontent.com/u/110123898?v=4
-169108858,kyverno,kyverno/kyverno,Go,5,Cloud Native Policy Management,841,5536,https://avatars.githubusercontent.com/u/68448710?v=4
+658928958,ollama,ollama/ollama,Go,180,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6931,88705,https://avatars.githubusercontent.com/u/151674099?v=4
+17728164,terraform,hashicorp/terraform,Go,19,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9475,42178,https://avatars.githubusercontent.com/u/761456?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,30,A node.js version management utility for Windows. Ironically written in Go.,3290,36919,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+6247705,testify,stretchr/testify,Go,8,A toolkit with common assertions and mocks that plays nicely with the standard library,1579,23010,https://avatars.githubusercontent.com/u/1841476?v=4
+21827146,seaweedfs,seaweedfs/seaweedfs,Go,17,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2244,22249,https://avatars.githubusercontent.com/u/11985425?v=4
+273871859,headscale,juanfont/headscale,Go,30,"An open source, self-hosted implementation of the Tailscale control server",1222,22072,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+120896210,argo-cd,argoproj/argo-cd,Go,13,Declarative Continuous Deployment for Kubernetes,5275,17363,https://avatars.githubusercontent.com/u/30269780?v=4
+31558937,teleport,gravitational/teleport,Go,13,"The easiest, and most secure way to access and protect all of your infrastructure.",1737,17309,https://avatars.githubusercontent.com/u/10781132?v=4
+118105436,migrate,golang-migrate/migrate,Go,9,Database migrations. CLI and Golang library.,1375,14972,https://avatars.githubusercontent.com/u/35595841?v=4
+43225113,yq,mikefarah/yq,Go,139,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",583,11829,https://avatars.githubusercontent.com/u/1151925?v=4
+246903803,earthly,earthly/earthly,Go,6,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",396,11252,https://avatars.githubusercontent.com/u/63060917?v=4
+299832860,livekit,livekit/livekit,Go,10,End-to-end stack for WebRTC. SFU media server and SDKs.,780,9496,https://avatars.githubusercontent.com/u/69438833?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,6,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,965,7923,https://avatars.githubusercontent.com/u/17118990?v=4
+52193726,sqlboiler,volatiletech/sqlboiler,Go,5,Generate a Go ORM tailored to your database schema.,539,6675,https://avatars.githubusercontent.com/u/22513357?v=4
+535304995,Havoc,HavocFramework/Havoc,Go,36,The Havoc Framework.,935,6597,https://avatars.githubusercontent.com/u/110123898?v=4
+173009358,oapi-codegen,oapi-codegen/oapi-codegen,Go,7,Generate Go client and server boilerplate from OpenAPI 3 specifications,838,5975,https://avatars.githubusercontent.com/u/142752710?v=4
+169108858,kyverno,kyverno/kyverno,Go,5,Cloud Native Policy Management,840,5536,https://avatars.githubusercontent.com/u/68448710?v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,3,OpenTelemetry Go API and SDK,1032,5125,https://avatars.githubusercontent.com/u/49998002?v=4
-531220682,dice,DiceDB/dice,Go,70,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,469,3766,https://avatars.githubusercontent.com/u/112580013?v=4
-141451032,testcontainers-go,testcontainers/testcontainers-go,Go,8,"Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",475,3480,https://avatars.githubusercontent.com/u/13393021?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,1,Main repository for Datadog Agent,1182,2802,https://avatars.githubusercontent.com/u/365230?v=4
-72809829,jd,josephburnett/jd,Go,250,JSON diff and patch,46,1567,https://avatars.githubusercontent.com/u/1103629?u=ce2946cef7e772335621e451e9724e77103b0350&v=4
-764670636,alloy,grafana/alloy,Go,3,OpenTelemetry Collector distribution with programmable pipelines,165,1264,https://avatars.githubusercontent.com/u/7195757?v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,3,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,805,4295,https://avatars.githubusercontent.com/u/68335991?v=4
+531220682,dice,DiceDB/dice,Go,242,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,472,3787,https://avatars.githubusercontent.com/u/112580013?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,2265,2889,https://avatars.githubusercontent.com/u/49998002?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,1,Main repository for Datadog Agent,1183,2804,https://avatars.githubusercontent.com/u/365230?v=4
+223431735,ziti,openziti/ziti,Go,62,"The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti",152,2616,https://avatars.githubusercontent.com/u/65675559?v=4
+93446053,terraform-provider-datadog,DataDog/terraform-provider-datadog,Go,1,Terraform Datadog provider,373,394,https://avatars.githubusercontent.com/u/365230?v=4
