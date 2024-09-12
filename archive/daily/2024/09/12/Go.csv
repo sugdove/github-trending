@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,166,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6941,88849,https://avatars.githubusercontent.com/u/151674099?v=4
-48378947,frp,fatedier/frp,Go,53,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13152,84350,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-6838921,prometheus,prometheus/prometheus,Go,24,The Prometheus monitoring system and time series database.,9031,54835,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,125,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9483,42290,https://avatars.githubusercontent.com/u/761456?v=4
+658928958,ollama,ollama/ollama,Go,157,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6944,88883,https://avatars.githubusercontent.com/u/151674099?v=4
+48378947,frp,fatedier/frp,Go,53,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13153,84353,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+6838921,prometheus,prometheus/prometheus,Go,24,The Prometheus monitoring system and time series database.,9031,54838,https://avatars.githubusercontent.com/u/3380462?v=4
+17728164,terraform,hashicorp/terraform,Go,125,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9484,42290,https://avatars.githubusercontent.com/u/761456?v=4
 12574344,cobra,spf13/cobra,Go,18,A Commander for modern Go CLI interactions,2828,37558,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-31288958,vault,hashicorp/vault,Go,5,"A tool for secrets management, encryption as a service, and privileged access management",4173,30861,https://avatars.githubusercontent.com/u/761456?v=4
-48109239,cilium,cilium/cilium,Go,14,"eBPF-based Networking, Security, and Observability",2893,19748,https://avatars.githubusercontent.com/u/21054566?v=4
-403020531,colima,abiosoft/colima,Go,18,Container runtimes on macOS (and Linux) with minimal setup,380,18590,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-21233191,kubo,ipfs/kubo,Go,7,An IPFS implementation in Go,2999,16013,https://avatars.githubusercontent.com/u/10536621?v=4
-132145189,golangci-lint,golangci/golangci-lint,Go,15,Fast linters runner for Go,1365,15313,https://avatars.githubusercontent.com/u/35628013?v=4
-118105436,migrate,golang-migrate/migrate,Go,12,Database migrations. CLI and Golang library.,1379,14981,https://avatars.githubusercontent.com/u/35595841?v=4
-33258973,telegraf,influxdata/telegraf,Go,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5544,14478,https://avatars.githubusercontent.com/u/5713248?v=4
-43225113,yq,mikefarah/yq,Go,110,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",584,11852,https://avatars.githubusercontent.com/u/1151925?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,11,Exporter for machine metrics,2330,10948,https://avatars.githubusercontent.com/u/3380462?v=4
-327859577,juicefs,juicedata/juicefs,Go,24,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,922,10517,https://avatars.githubusercontent.com/u/27241737?v=4
-299832860,livekit,livekit/livekit,Go,13,End-to-end stack for WebRTC. SFU media server and SDKs.,782,9509,https://avatars.githubusercontent.com/u/69438833?v=4
-267054247,grype,anchore/grype,Go,5,A vulnerability scanner for container images and filesystems,548,8450,https://avatars.githubusercontent.com/u/16208487?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,0,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3571,6180,https://avatars.githubusercontent.com/u/228843?v=4
+31288958,vault,hashicorp/vault,Go,5,"A tool for secrets management, encryption as a service, and privileged access management",4172,30864,https://avatars.githubusercontent.com/u/761456?v=4
+48109239,cilium,cilium/cilium,Go,14,"eBPF-based Networking, Security, and Observability",2894,19751,https://avatars.githubusercontent.com/u/21054566?v=4
+403020531,colima,abiosoft/colima,Go,18,Container runtimes on macOS (and Linux) with minimal setup,380,18591,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
+21233191,kubo,ipfs/kubo,Go,7,An IPFS implementation in Go,3000,16015,https://avatars.githubusercontent.com/u/10536621?v=4
+132145189,golangci-lint,golangci/golangci-lint,Go,15,Fast linters runner for Go,1366,15313,https://avatars.githubusercontent.com/u/35628013?v=4
+118105436,migrate,golang-migrate/migrate,Go,9,Database migrations. CLI and Golang library.,1379,14982,https://avatars.githubusercontent.com/u/35595841?v=4
+33258973,telegraf,influxdata/telegraf,Go,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5544,14479,https://avatars.githubusercontent.com/u/5713248?v=4
+43225113,yq,mikefarah/yq,Go,25,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",584,11857,https://avatars.githubusercontent.com/u/1151925?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,11,Exporter for machine metrics,2330,10949,https://avatars.githubusercontent.com/u/3380462?v=4
+327859577,juicefs,juicedata/juicefs,Go,24,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,922,10521,https://avatars.githubusercontent.com/u/27241737?v=4
+299832860,livekit,livekit/livekit,Go,11,End-to-end stack for WebRTC. SFU media server and SDKs.,782,9511,https://avatars.githubusercontent.com/u/69438833?v=4
+267054247,grype,anchore/grype,Go,5,A vulnerability scanner for container images and filesystems,548,8452,https://avatars.githubusercontent.com/u/16208487?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,0,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3571,6181,https://avatars.githubusercontent.com/u/228843?v=4
 238797860,optimism,ethereum-optimism/optimism,Go,1,"Optimism is Ethereum, scaled.",3185,5533,https://avatars.githubusercontent.com/u/58791460?v=4
-76686583,kubevirt,kubevirt/kubevirt,Go,5,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1309,5446,https://avatars.githubusercontent.com/u/18700703?v=4
+76686583,kubevirt,kubevirt/kubevirt,Go,5,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1309,5447,https://avatars.githubusercontent.com/u/18700703?v=4
 7823926,client_golang,prometheus/client_golang,Go,7,Prometheus instrumentation library for Go applications,1168,5328,https://avatars.githubusercontent.com/u/3380462?v=4
 88013053,cli,docker/cli,Go,3,The Docker CLI,1903,4836,https://avatars.githubusercontent.com/u/5429470?v=4
 27096595,google-api-go-client,googleapis/google-api-go-client,Go,17,Auto-generated Google APIs for Go.,1115,3975,https://avatars.githubusercontent.com/u/16785467?v=4
-531220682,dice,DiceDB/dice,Go,226,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,487,3906,https://avatars.githubusercontent.com/u/112580013?v=4
+531220682,dice,DiceDB/dice,Go,130,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,490,3929,https://avatars.githubusercontent.com/u/112580013?v=4
