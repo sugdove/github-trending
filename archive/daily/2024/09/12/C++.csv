@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-39840932,googletest,google/googletest,C++,44,GoogleTest - Google Testing and Mocking Framework,10054,34270,https://avatars.githubusercontent.com/u/1342004?v=4
-6934395,rocksdb,facebook/rocksdb,C++,8,"A library that provides an embeddable, persistent key-value store for fast storage.",6270,28250,https://avatars.githubusercontent.com/u/69631?v=4
-4524181,folly,facebook/folly,C++,11,An open-source C++ library developed and used at Facebook.,5532,28081,https://avatars.githubusercontent.com/u/69631?v=4
-96246170,apollo,ApolloAuto/apollo,C++,4,An open autonomous driving platform,9667,25000,https://avatars.githubusercontent.com/u/28768304?v=4
-138754790,duckdb,duckdb/duckdb,C++,40,DuckDB is an analytical in-process SQL database management system,1798,22596,https://avatars.githubusercontent.com/u/82039556?v=4
-65711522,Paddle,PaddlePaddle/Paddle,C++,3,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,5540,22068,https://avatars.githubusercontent.com/u/23534030?v=4
-22394357,osquery,osquery/osquery,C++,12,"SQL powered operating system instrumentation, monitoring, and analytics.",2441,21704,https://avatars.githubusercontent.com/u/8315868?v=4
-7056202,fmt,fmtlib/fmt,C++,6,A modern formatting library,2450,20427,https://avatars.githubusercontent.com/u/7280830?v=4
-1062572,Catch2,catchorg/Catch2,C++,8,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3021,18473,https://avatars.githubusercontent.com/u/33321405?v=4
-20976138,Stockfish,official-stockfish/Stockfish,C++,10,A free and strong UCI chess engine,2237,11248,https://avatars.githubusercontent.com/u/7926882?v=4
-7512484,ardupilot,ArduPilot/ardupilot,C++,25,"ArduPlane, ArduCopter, ArduRover, ArduSub source",17152,10667,https://avatars.githubusercontent.com/u/17919847?v=4
-5973855,Cataclysm-DDA,CleverRaven/Cataclysm-DDA,C++,13,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.,4113,10246,https://avatars.githubusercontent.com/u/4367009?v=4
-2701888,kakoune,mawww/kakoune,C++,6,mawww's experiment for a better code editor,712,9859,https://avatars.githubusercontent.com/u/51221?v=4
-8162615,pcl,PointCloudLibrary/pcl,C++,1,Point Cloud Library (PCL),4605,9840,https://avatars.githubusercontent.com/u/2059451?v=4
+29028775,react-native,facebook/react-native,C++,26,A framework for building native applications using React,24207,118138,https://avatars.githubusercontent.com/u/69631?v=4
+9384267,electron,electron/electron,C++,13,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15295,113670,https://avatars.githubusercontent.com/u/13409222?v=4
+5108051,opencv,opencv/opencv,C++,31,Open Source Computer Vision Library,55694,77923,https://avatars.githubusercontent.com/u/5009934?v=4
+619959033,gpt4all,nomic-ai/gpt4all,C++,33,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.,7584,69087,https://avatars.githubusercontent.com/u/102670180?v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,13,Protocol Buffers - Google's data interchange format,15439,65134,https://avatars.githubusercontent.com/u/26310541?v=4
+120887835,interview,huihut/interview,C++,18,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",7938,34414,https://avatars.githubusercontent.com/u/23519480?u=26a7af910c0edb7be47b9a2f4241b22bb26e3607&v=4
+39840932,googletest,google/googletest,C++,44,GoogleTest - Google Testing and Mocking Framework,10055,34275,https://avatars.githubusercontent.com/u/1342004?v=4
+191820100,mediapipe,google-ai-edge/mediapipe,C++,15,"Cross-platform, customizable ML solutions for live and streaming media.",5081,26757,https://avatars.githubusercontent.com/u/150697620?v=4
+26038648,spdlog,gabime/spdlog,C++,11,Fast C++ logging library.,4480,23859,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+365005377,btop,aristocratos/btop,C++,19,A monitor of resources,602,19150,https://avatars.githubusercontent.com/u/59659483?u=e7a780662f1876525a5d2f7f642fa3f8fe56b1fe&v=4
+126412363,simdjson,simdjson/simdjson,C++,14,"Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",1007,19093,https://avatars.githubusercontent.com/u/62337925?v=4
+1062572,Catch2,catchorg/Catch2,C++,8,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3021,18474,https://avatars.githubusercontent.com/u/33321405?v=4
+1217614,xbmc,xbmc/xbmc,C++,11,"Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",6279,18245,https://avatars.githubusercontent.com/u/199122?v=4
+38581626,pybind11,pybind/pybind11,C++,4,Seamless operability between C++11 and Python,2077,15416,https://avatars.githubusercontent.com/u/17565521?v=4
+7512484,ardupilot,ArduPilot/ardupilot,C++,175,"ArduPlane, ArduCopter, ArduRover, ArduSub source",17151,10673,https://avatars.githubusercontent.com/u/17919847?v=4
 1204412,TrinityCore,TrinityCore/TrinityCore,C++,39,"TrinityCore Open Source MMO Framework (master = 11.0.2.56513, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)",6038,9513,https://avatars.githubusercontent.com/u/539602?v=4
-183564981,OpenArk,BlackINT3/OpenArk,C++,8,The Next Generation of Anti-Rookit(ARK) tool for Windows.,881,8959,https://avatars.githubusercontent.com/u/35478470?u=9a4e334f27006694d927294e112ffe98950ae62e&v=4
-425845325,react-native-skia,Shopify/react-native-skia,C++,4,High-performance React Native Graphics using Skia,438,6806,https://avatars.githubusercontent.com/u/8085?v=4
-144071425,Waybar,Alexays/Waybar,C++,8,Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:,689,6272,https://avatars.githubusercontent.com/u/13947260?u=8da5ea8627d2c2418d6cb08221e9febb3a95f997&v=4
-538979582,WeChatFerry,lich0821/WeChatFerry,C++,12,微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.,663,3706,https://avatars.githubusercontent.com/u/87742696?u=6d1e2829e0a96a0eebce49089ff3f7e0a788e76f&v=4
-388946490,velox,facebookincubator/velox,C++,1,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,1116,3412,https://avatars.githubusercontent.com/u/19538647?v=4
-20296703,Fast-DDS,eProsima/Fast-DDS,C++,1,The most complete DDS - Proven: Plenty of success cases. Looking for commercial support? Contact info@eprosima.com,761,2132,https://avatars.githubusercontent.com/u/6390783?v=4
-461330861,risc0,risc0/risc0,C++,2,RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.,401,1611,https://avatars.githubusercontent.com/u/90660733?v=4
+248058818,tracy,wolfpld/tracy,C++,25,Frame profiler,638,9205,https://avatars.githubusercontent.com/u/600573?u=d1ac7f58bc1671dd2a99ada35ddd21fa936a0f88&v=4
+425845325,react-native-skia,Shopify/react-native-skia,C++,4,High-performance React Native Graphics using Skia,438,6808,https://avatars.githubusercontent.com/u/8085?v=4
+280608729,ORB_SLAM3,UZ-SLAMLab/ORB_SLAM3,C++,3,"ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",2516,6404,https://avatars.githubusercontent.com/u/25055183?v=4
+32231207,endless-sky,endless-sky/endless-sky,C++,10,"Space exploration, trading, and combat game.",1015,5661,https://avatars.githubusercontent.com/u/11450262?v=4
+178613040,magic_enum,Neargye/magic_enum,C++,7,"Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",423,4769,https://avatars.githubusercontent.com/u/7997966?u=cc5d3a577c3b615ae5bad0c0c293363acf00acfe&v=4
+416144775,miniob,oceanbase/miniob,C++,4,MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.,1112,3246,https://avatars.githubusercontent.com/u/82347605?v=4
 763806185,mentals-ai,turing-machines/mentals-ai,C++,13,"🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).",24,319,https://avatars.githubusercontent.com/u/50123287?v=4
