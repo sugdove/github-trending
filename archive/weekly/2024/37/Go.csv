@@ -1,25 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,1006,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6963,88984,https://avatars.githubusercontent.com/u/151674099?v=4
-6838921,prometheus,prometheus/prometheus,Go,158,The Prometheus monitoring system and time series database.,9033,54847,https://avatars.githubusercontent.com/u/3380462?v=4
+6838921,prometheus,prometheus/prometheus,Go,158,The Prometheus monitoring system and time series database.,9033,54849,https://avatars.githubusercontent.com/u/3380462?v=4
 42408804,traefik,traefik/traefik,Go,213,The Cloud Native Application Proxy,5007,50152,https://avatars.githubusercontent.com/u/14280338?v=4
 17803236,rclone,rclone/rclone,Go,148,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4123,46071,https://avatars.githubusercontent.com/u/24937341?v=4
-72495579,gitea,go-gitea/gitea,Go,152,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5407,44079,https://avatars.githubusercontent.com/u/12724356?v=4
-6247705,testify,stretchr/testify,Go,59,A toolkit with common assertions and mocks that plays nicely with the standard library,1579,23018,https://avatars.githubusercontent.com/u/1841476?v=4
+16752620,gogs,gogs/gogs,Go,68,Gogs is a painless self-hosted Git service,4851,44812,https://avatars.githubusercontent.com/u/6656686?v=4
+72495579,gitea,go-gitea/gitea,Go,152,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5408,44083,https://avatars.githubusercontent.com/u/12724356?v=4
+17728164,terraform,hashicorp/terraform,Go,226,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9485,42290,https://avatars.githubusercontent.com/u/761456?v=4
+120227732,fyne,fyne-io/fyne,Go,102,Cross platform GUI toolkit in Go inspired by Material Design,1365,24548,https://avatars.githubusercontent.com/u/36045855?v=4
+6247705,testify,stretchr/testify,Go,59,A toolkit with common assertions and mocks that plays nicely with the standard library,1579,23019,https://avatars.githubusercontent.com/u/1841476?v=4
 21827146,seaweedfs,seaweedfs/seaweedfs,Go,78,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2247,22272,https://avatars.githubusercontent.com/u/11985425?v=4
-27729907,grpc-go,grpc/grpc-go,Go,104,The Go language implementation of gRPC. HTTP/2 based RPC,4334,20866,https://avatars.githubusercontent.com/u/7802525?v=4
-11008207,vitess,vitessio/vitess,Go,36,Vitess is a database clustering system for horizontal scaling of MySQL.,2083,18416,https://avatars.githubusercontent.com/u/33043890?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,32,gRPC to JSON proxy generator following the gRPC HTTP spec,2214,17981,https://avatars.githubusercontent.com/u/19352526?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,84,Declarative Continuous Deployment for Kubernetes,5285,17397,https://avatars.githubusercontent.com/u/30269780?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,88,Protect and discover secrets using Gitleaks 🔑,1414,17391,https://avatars.githubusercontent.com/u/90395851?v=4
-465303307,lo,samber/lo,Go,390,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",797,17388,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-118105436,migrate,golang-migrate/migrate,Go,59,Database migrations. CLI and Golang library.,1380,14987,https://avatars.githubusercontent.com/u/35595841?v=4
-43225113,yq,mikefarah/yq,Go,222,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",585,11869,https://avatars.githubusercontent.com/u/1151925?v=4
-312629343,fscan,shadow1ng/fscan,Go,341,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1552,10138,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,23,The AWS Provider enables Terraform to manage AWS resources.,9096,9738,https://avatars.githubusercontent.com/u/761456?v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,44,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1550,9424,https://avatars.githubusercontent.com/u/62798169?v=4
-535304995,Havoc,HavocFramework/Havoc,Go,95,The Havoc Framework.,934,6619,https://avatars.githubusercontent.com/u/110123898?v=4
-531220682,dice,DiceDB/dice,Go,668,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,496,3990,https://avatars.githubusercontent.com/u/112580013?v=4
-226368338,evcc,evcc-io/evcc,Go,94,Sonne tanken ☀️🚘,596,3284,https://avatars.githubusercontent.com/u/81383504?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,9,Main repository for Datadog Agent,1183,2806,https://avatars.githubusercontent.com/u/365230?v=4
+27729907,grpc-go,grpc/grpc-go,Go,104,The Go language implementation of gRPC. HTTP/2 based RPC,4334,20867,https://avatars.githubusercontent.com/u/7802525?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,84,Declarative Continuous Deployment for Kubernetes,5285,17398,https://avatars.githubusercontent.com/u/30269780?v=4
+465303307,lo,samber/lo,Go,390,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",797,17390,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+118105436,migrate,golang-migrate/migrate,Go,59,Database migrations. CLI and Golang library.,1380,14990,https://avatars.githubusercontent.com/u/35595841?v=4
+43225113,yq,mikefarah/yq,Go,222,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",585,11873,https://avatars.githubusercontent.com/u/1151925?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,39,Exporter for machine metrics,2332,10962,https://avatars.githubusercontent.com/u/3380462?v=4
+312629343,fscan,shadow1ng/fscan,Go,341,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1552,10142,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,23,The AWS Provider enables Terraform to manage AWS resources.,9096,9739,https://avatars.githubusercontent.com/u/761456?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,23,OpenTelemetry Go API and SDK,1035,5134,https://avatars.githubusercontent.com/u/49998002?v=4
+531220682,dice,DiceDB/dice,Go,668,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,498,3995,https://avatars.githubusercontent.com/u/112580013?v=4
+226368338,evcc,evcc-io/evcc,Go,94,Sonne tanken ☀️🚘,597,3285,https://avatars.githubusercontent.com/u/81383504?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,9,Main repository for Datadog Agent,1184,2807,https://avatars.githubusercontent.com/u/365230?v=4
 669486760,incus,lxc/incus,Go,51,Powerful system container and virtual machine manager ,198,2469,https://avatars.githubusercontent.com/u/2301756?v=4
-764670636,alloy,grafana/alloy,Go,19,OpenTelemetry Collector distribution with programmable pipelines,172,1269,https://avatars.githubusercontent.com/u/7195757?v=4

@@ -1,25 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,154,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",6963,88984,https://avatars.githubusercontent.com/u/151674099?v=4
-48378947,frp,fatedier/frp,Go,48,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13157,84371,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-6838921,prometheus,prometheus/prometheus,Go,20,The Prometheus monitoring system and time series database.,9033,54847,https://avatars.githubusercontent.com/u/3380462?v=4
+20904437,gin,gin-gonic/gin,Go,16,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",7966,77909,https://avatars.githubusercontent.com/u/7894478?v=4
 17728164,terraform,hashicorp/terraform,Go,107,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9485,42290,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,16,A Commander for modern Go CLI interactions,2829,37567,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-31288958,vault,hashicorp/vault,Go,9,"A tool for secrets management, encryption as a service, and privileged access management",4178,30875,https://avatars.githubusercontent.com/u/761456?v=4
-48109239,cilium,cilium/cilium,Go,18,"eBPF-based Networking, Security, and Observability",2898,19767,https://avatars.githubusercontent.com/u/21054566?v=4
-403020531,colima,abiosoft/colima,Go,20,Container runtimes on macOS (and Linux) with minimal setup,380,18605,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-21233191,kubo,ipfs/kubo,Go,9,An IPFS implementation in Go,3002,16024,https://avatars.githubusercontent.com/u/10536621?v=4
-132145189,golangci-lint,golangci/golangci-lint,Go,11,Fast linters runner for Go,1365,15324,https://avatars.githubusercontent.com/u/35628013?v=4
-118105436,migrate,golang-migrate/migrate,Go,9,Database migrations. CLI and Golang library.,1380,14987,https://avatars.githubusercontent.com/u/35595841?v=4
-33258973,telegraf,influxdata/telegraf,Go,5,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5545,14483,https://avatars.githubusercontent.com/u/5713248?v=4
-43225113,yq,mikefarah/yq,Go,25,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",585,11869,https://avatars.githubusercontent.com/u/1151925?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,8,Exporter for machine metrics,2332,10959,https://avatars.githubusercontent.com/u/3380462?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,23,A node.js version management utility for Windows. Ironically written in Go.,3295,36954,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+167596393,k9s,derailed/k9s,Go,36,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1657,26492,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+13628513,logrus,sirupsen/logrus,Go,6,"Structured, pluggable logging for Go.",2262,24541,https://avatars.githubusercontent.com/u/97400?v=4
+109145553,podman,containers/podman,Go,9,Podman: A tool for managing OCI containers and pods.,2351,23035,https://avatars.githubusercontent.com/u/5874934?v=4
+52034309,zap,uber-go/zap,Go,9,"Blazing fast, structured, leveled logging in Go.",1420,21682,https://avatars.githubusercontent.com/u/19262598?v=4
+48109239,cilium,cilium/cilium,Go,18,"eBPF-based Networking, Security, and Observability",2898,19769,https://avatars.githubusercontent.com/u/21054566?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,19,Declarative Continuous Deployment for Kubernetes,5285,17398,https://avatars.githubusercontent.com/u/30269780?v=4
+109162639,thanos,thanos-io/thanos,Go,6,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2079,12951,https://avatars.githubusercontent.com/u/49725059?v=4
+4925652,cron,robfig/cron,Go,4,a cron library for go,1612,12950,https://avatars.githubusercontent.com/u/536325?v=4
 327859577,juicefs,juicedata/juicefs,Go,28,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,923,10535,https://avatars.githubusercontent.com/u/27241737?v=4
-299832860,livekit,livekit/livekit,Go,11,End-to-end stack for WebRTC. SFU media server and SDKs.,783,9521,https://avatars.githubusercontent.com/u/69438833?v=4
-267054247,grype,anchore/grype,Go,5,A vulnerability scanner for container images and filesystems,548,8464,https://avatars.githubusercontent.com/u/16208487?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,2,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3572,6178,https://avatars.githubusercontent.com/u/228843?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,0,"Optimism is Ethereum, scaled.",3186,5534,https://avatars.githubusercontent.com/u/58791460?v=4
-76686583,kubevirt,kubevirt/kubevirt,Go,5,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1309,5449,https://avatars.githubusercontent.com/u/18700703?v=4
-7823926,client_golang,prometheus/client_golang,Go,6,Prometheus instrumentation library for Go applications,1168,5331,https://avatars.githubusercontent.com/u/3380462?v=4
-88013053,cli,docker/cli,Go,2,The Docker CLI,1903,4839,https://avatars.githubusercontent.com/u/5429470?v=4
-531220682,dice,DiceDB/dice,Go,128,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,496,3990,https://avatars.githubusercontent.com/u/112580013?v=4
-27096595,google-api-go-client,googleapis/google-api-go-client,Go,11,Auto-generated Google APIs for Go.,1116,3976,https://avatars.githubusercontent.com/u/16785467?v=4
+247350713,neko,m1k1o/neko,Go,9,A self hosted virtual browser that runs in docker and uses WebRTC.,503,6795,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
+262126497,syft,anchore/syft,Go,11,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,553,6003,https://avatars.githubusercontent.com/u/16208487?v=4
+72056048,fx,uber-go/fx,Go,6,A dependency injection based application framework for Go.,287,5663,https://avatars.githubusercontent.com/u/19262598?v=4
+169108858,kyverno,kyverno/kyverno,Go,2,Cloud Native Policy Management,841,5545,https://avatars.githubusercontent.com/u/68448710?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,2,OpenTelemetry Go API and SDK,1035,5134,https://avatars.githubusercontent.com/u/49998002?v=4
+41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,2,Blackbox prober exporter,1042,4577,https://avatars.githubusercontent.com/u/3380462?v=4
+531220682,dice,DiceDB/dice,Go,128,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,498,3995,https://avatars.githubusercontent.com/u/112580013?v=4
+703404066,go-blueprint,Melkeydev/go-blueprint,Go,36,Go-blueprint allows users to spin up a quick Go project using a popular framework,231,3682,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,6,Contrib repository for the OpenTelemetry Collector,2268,2898,https://avatars.githubusercontent.com/u/49998002?v=4
