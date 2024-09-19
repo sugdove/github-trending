@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,11,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18627,68484,https://avatars.githubusercontent.com/u/27259197?v=4
-13807606,fzf,junegunn/fzf,Go,32,:cherry_blossom: A command-line fuzzy finder,2369,63921,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
-42408804,traefik,traefik/traefik,Go,31,The Cloud Native Application Proxy,5017,50292,https://avatars.githubusercontent.com/u/14280338?v=4
-323965659,alist,alist-org/alist,Go,53,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5450,42084,https://avatars.githubusercontent.com/u/97389433?v=4
-212613049,cli,cli/cli,Go,10,GitHub’s official command line tool,5626,36718,https://avatars.githubusercontent.com/u/59704711?v=4
-167596393,k9s,derailed/k9s,Go,20,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1664,26590,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
-129717717,loki,grafana/loki,Go,8,"Like Prometheus, but for logs.",3386,23379,https://avatars.githubusercontent.com/u/7195757?v=4
-44344606,chi,go-chi/chi,Go,9,"lightweight, idiomatic and composable router for building Go HTTP services",980,18144,https://avatars.githubusercontent.com/u/29575368?v=4
-7877397,sqlx,jmoiron/sqlx,Go,8,general purpose extensions to golang's database/sql,1074,16004,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
-9120526,pgx,jackc/pgx,Go,8,PostgreSQL driver and toolkit for Go,818,10365,https://avatars.githubusercontent.com/u/94130?v=4
-66509131,client-go,kubernetes/client-go,Go,6,Go client for Kubernetes.,2926,8947,https://avatars.githubusercontent.com/u/13629408?v=4
-99143276,velero,vmware-tanzu/velero,Go,6,Backup and migrate Kubernetes applications and their persistent volumes,1388,8591,https://avatars.githubusercontent.com/u/54452117?v=4
-526363266,devbox,jetify-com/devbox,Go,6,"Instant, easy, and predictable development environments",194,8312,https://avatars.githubusercontent.com/u/65328393?v=4
+658928958,ollama,ollama/ollama,Go,143,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",7043,89767,https://avatars.githubusercontent.com/u/151674099?v=4
+42408804,traefik,traefik/traefik,Go,31,The Cloud Native Application Proxy,5018,50297,https://avatars.githubusercontent.com/u/14280338?v=4
+323965659,alist,alist-org/alist,Go,53,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5451,42103,https://avatars.githubusercontent.com/u/97389433?v=4
+41986369,tidb,pingcap/tidb,Go,17,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/",5811,36928,https://avatars.githubusercontent.com/u/11855343?v=4
+18369373,viper,spf13/viper,Go,4,Go configuration with fangs,2013,26834,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,31,A powerful little TUI framework 🏗,774,26833,https://avatars.githubusercontent.com/u/57376114?v=4
+679421146,opentofu,opentofu/opentofu,Go,16,OpenTofu lets you declaratively manage your cloud infrastructure.,861,22531,https://avatars.githubusercontent.com/u/142061836?v=4
+205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,32,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。,6281,21209,https://avatars.githubusercontent.com/u/63276650?v=4
+509091576,sing-box,SagerNet/sing-box,Go,33,The universal proxy platform,2221,18544,https://avatars.githubusercontent.com/u/83217677?v=4
+44344606,chi,go-chi/chi,Go,9,"lightweight, idiomatic and composable router for building Go HTTP services",980,18145,https://avatars.githubusercontent.com/u/29575368?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,1,gRPC to JSON proxy generator following the gRPC HTTP spec,2217,18003,https://avatars.githubusercontent.com/u/19352526?v=4
+465303307,lo,samber/lo,Go,15,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",802,17460,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+191655189,ent,ent/ent,Go,6,An entity framework for Go,912,15421,https://avatars.githubusercontent.com/u/66847655?v=4
 87990209,autoscaler,kubernetes/autoscaler,Go,5,Autoscaling components for Kubernetes,3937,7970,https://avatars.githubusercontent.com/u/13629408?v=4
-440752086,coder,coder/coder,Go,12,Provision remote development environments via Terraform,662,7910,https://avatars.githubusercontent.com/u/95932066?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,6,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2544,7589,https://avatars.githubusercontent.com/u/36015203?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,1,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,965,7940,https://avatars.githubusercontent.com/u/17118990?v=4
 278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,8,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",923,6620,https://avatars.githubusercontent.com/u/2232217?v=4
-109451092,talos,siderolabs/talos,Go,5,Talos Linux is a modern Linux distribution built for Kubernetes.,517,6467,https://avatars.githubusercontent.com/u/13804887?v=4
-258469100,flux2,fluxcd/flux2,Go,4,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,593,6378,https://avatars.githubusercontent.com/u/52158677?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,5,Kubernetes controller for GitHub Actions self-hosted runners,1086,4590,https://avatars.githubusercontent.com/u/44036562?v=4
-117377862,gardener,gardener/gardener,Go,3,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,472,2880,https://avatars.githubusercontent.com/u/33683699?v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,4,Progressive Delivery for Kubernetes,846,2698,https://avatars.githubusercontent.com/u/30269780?v=4
-634244448,zep,getzep/zep,Go,16,Zep: Long-Term Memory for ‍AI Assistants.,358,2416,https://avatars.githubusercontent.com/u/132832125?v=4
-93446113,terraform-provider-cloudflare,cloudflare/terraform-provider-cloudflare,Go,0,Cloudflare Terraform Provider,585,757,https://avatars.githubusercontent.com/u/314135?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,7,OpenTelemetry Go API and SDK,1038,5160,https://avatars.githubusercontent.com/u/49998002?v=4
+178079595,opencost,opencost/opencost,Go,21,Cost monitoring for Kubernetes workloads and cloud costs,543,5126,https://avatars.githubusercontent.com/u/105945214?v=4
+236736020,actions-runner-controller,actions/actions-runner-controller,Go,5,Kubernetes controller for GitHub Actions self-hosted runners,1087,4591,https://avatars.githubusercontent.com/u/44036562?v=4
+41964498,blackbox_exporter,prometheus/blackbox_exporter,Go,3,Blackbox prober exporter,1043,4590,https://avatars.githubusercontent.com/u/3380462?v=4
+531220682,dice,DiceDB/dice,Go,122,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,531,4335,https://avatars.githubusercontent.com/u/112580013?v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,2,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,811,4309,https://avatars.githubusercontent.com/u/68335991?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,5,OpenTelemetry Collector,1416,4291,https://avatars.githubusercontent.com/u/49998002?v=4
+108967484,gowitness,sensepost/gowitness,Go,26,"🔍 gowitness - a golang, web screenshot utility using Chrome Headless",332,2919,https://avatars.githubusercontent.com/u/1193973?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,4,Progressive Delivery for Kubernetes,847,2699,https://avatars.githubusercontent.com/u/30269780?v=4
