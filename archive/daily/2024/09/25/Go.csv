@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-11225014,etcd,etcd-io/etcd,Go,9,Distributed reliable key-value store for the most critical data of a distributed system,9737,47468,https://avatars.githubusercontent.com/u/41972792?v=4
-15045751,compose,docker/compose,Go,12,Define and run multi-container applications with Docker,5186,33678,https://avatars.githubusercontent.com/u/5429470?v=4
-122734569,lux,iawia002/lux,Go,41,👾 Fast and simple video download library and CLI tool written in Go,2945,27164,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-18369373,viper,spf13/viper,Go,8,Go configuration with fangs,2014,26878,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-129717717,loki,grafana/loki,Go,9,"Like Prometheus, but for logs.",3395,23431,https://avatars.githubusercontent.com/u/7195757?v=4
-26337322,rancher,rancher/rancher,Go,7,Complete container management platform,2947,23273,https://avatars.githubusercontent.com/u/9343010?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,47,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1982,21827,https://avatars.githubusercontent.com/u/109613420?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,13,Fast and customizable vulnerability scanner based on simple YAML based DSL.,2458,20026,https://avatars.githubusercontent.com/u/50994705?v=4
-5179099,go-redis,redis/go-redis,Go,7,Redis Go client,2348,19938,https://avatars.githubusercontent.com/u/1529926?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,11,gRPC to JSON proxy generator following the gRPC HTTP spec,2223,18036,https://avatars.githubusercontent.com/u/19352526?v=4
-30711774,validator,go-playground/validator,Go,6,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1313,16579,https://avatars.githubusercontent.com/u/14768796?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,14,"Find, verify, and analyze leaked credentials",1638,15728,https://avatars.githubusercontent.com/u/79229934?v=4
-36960321,runc,opencontainers/runc,Go,6,CLI tool for spawning and running containers according to the OCI specification,2090,11762,https://avatars.githubusercontent.com/u/12563465?v=4
-18906266,gopsutil,shirou/gopsutil,Go,4,psutil for golang,1582,10508,https://avatars.githubusercontent.com/u/177213?u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4
-9120526,pgx,jackc/pgx,Go,7,PostgreSQL driver and toolkit for Go,825,10404,https://avatars.githubusercontent.com/u/94130?v=4
-395283401,kubescape,kubescape/kubescape,Go,15,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",835,10139,https://avatars.githubusercontent.com/u/100554170?v=4
-66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2929,8965,https://avatars.githubusercontent.com/u/13629408?v=4
-125275487,kubebuilder,kubernetes-sigs/kubebuilder,Go,7,Kubebuilder - SDK for building Kubernetes APIs using CRDs,1435,7781,https://avatars.githubusercontent.com/u/36015203?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,7,A Kubernetes controller and tool for one-way encrypted Secrets,675,7544,https://avatars.githubusercontent.com/u/34656521?v=4
-11452538,alertmanager,prometheus/alertmanager,Go,2,Prometheus Alertmanager,2142,6583,https://avatars.githubusercontent.com/u/3380462?v=4
-109451092,talos,siderolabs/talos,Go,12,Talos Linux is a modern Linux distribution built for Kubernetes.,519,6504,https://avatars.githubusercontent.com/u/13804887?v=4
-272663924,simplebank,techschool/simplebank,Go,11,Backend master class: build a simple bank service in Go,947,5231,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
-513870749,permify,Permify/permify,Go,24,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",205,4612,https://avatars.githubusercontent.com/u/87805264?v=4
-175592968,volcano,volcano-sh/volcano,Go,6,A Cloud Native Batch System (Project under CNCF),949,4108,https://avatars.githubusercontent.com/u/47214749?v=4
-558188628,higress,alibaba/higress,Go,5,🤖 AI Gateway | AI Native API Gateway,475,2885,https://avatars.githubusercontent.com/u/1961952?v=4
+23096959,go,golang/go,Go,31,The Go programming language,17549,123091,https://avatars.githubusercontent.com/u/4314092?v=4
+658928958,ollama,ollama/ollama,Go,143,"Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",7126,90669,https://avatars.githubusercontent.com/u/151674099?v=4
+6838921,prometheus,prometheus/prometheus,Go,23,The Prometheus monitoring system and time series database.,9057,55003,https://avatars.githubusercontent.com/u/3380462?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,58,Open Source realtime backend in 1 file,1802,39131,https://avatars.githubusercontent.com/u/101000011?v=4
+50613991,harbor,goharbor/harbor,Go,18,"An open source trusted cloud native registry project that stores, signs, and scans content.",4731,23758,https://avatars.githubusercontent.com/u/40275816?v=4
+129717717,loki,grafana/loki,Go,9,"Like Prometheus, but for logs.",3395,23434,https://avatars.githubusercontent.com/u/7195757?v=4
+6247705,testify,stretchr/testify,Go,12,A toolkit with common assertions and mocks that plays nicely with the standard library,1582,23093,https://avatars.githubusercontent.com/u/1841476?v=4
+13624859,websocket,gorilla/websocket,Go,14,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3468,22141,https://avatars.githubusercontent.com/u/489566?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,47,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,1984,21832,https://avatars.githubusercontent.com/u/109613420?v=4
+27729907,grpc-go,grpc/grpc-go,Go,6,The Go language implementation of gRPC. HTTP/2 based RPC,4342,20919,https://avatars.githubusercontent.com/u/7802525?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,11,gRPC to JSON proxy generator following the gRPC HTTP spec,2223,18037,https://avatars.githubusercontent.com/u/19352526?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,10,Declarative Continuous Deployment for Kubernetes,5326,17505,https://avatars.githubusercontent.com/u/30269780?v=4
+21233191,kubo,ipfs/kubo,Go,4,An IPFS implementation in Go,3006,16059,https://avatars.githubusercontent.com/u/10536621?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,2,Workflow Engine for Kubernetes,3176,14895,https://avatars.githubusercontent.com/u/30269780?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,21,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1482,11773,https://avatars.githubusercontent.com/u/126152966?v=4
+91054480,zerolog,rs/zerolog,Go,7,Zero Allocation JSON Logger,568,10420,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+9120526,pgx,jackc/pgx,Go,7,PostgreSQL driver and toolkit for Go,825,10405,https://avatars.githubusercontent.com/u/94130?v=4
+46140633,clair,quay/clair,Go,6,Vulnerability Static Analysis for Containers,1154,10279,https://avatars.githubusercontent.com/u/38353654?v=4
+325724738,pyroscope,grafana/pyroscope,Go,2,Continuous Profiling Platform. Debug performance issues down to a single line of code,593,9918,https://avatars.githubusercontent.com/u/7195757?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,7,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1562,9482,https://avatars.githubusercontent.com/u/62798169?v=4
+753490180,daytona,daytonaio/daytona,Go,47,The Open Source Dev Environment Manager.,772,8309,https://avatars.githubusercontent.com/u/130513197?v=4
+92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,7,A Kubernetes controller and tool for one-way encrypted Secrets,675,7546,https://avatars.githubusercontent.com/u/34656521?v=4
+339786950,encore,encoredev/encore,Go,56,Development Platform for building robust type-safe distributed systems with declarative infrastructure,295,6724,https://avatars.githubusercontent.com/u/50438175?v=4
+617152691,k8sgpt,k8sgpt-ai/k8sgpt,Go,7,Giving Kubernetes Superpowers to everyone,647,5594,https://avatars.githubusercontent.com/u/128535266?v=4
+242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,2,Collection of extensions for OpenTelemetry-Go.,544,1143,https://avatars.githubusercontent.com/u/49998002?v=4
