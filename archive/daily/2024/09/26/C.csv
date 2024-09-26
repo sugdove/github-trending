@@ -1,21 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-13233158,obs-studio,obsproject/obs-studio,C,25,OBS Studio - Free and open source software for live streaming and screen recording,7860,59036,https://avatars.githubusercontent.com/u/7725691?v=4
-5101141,jq,jqlang/jq,C,12,Command-line JSON processor,1566,30177,https://avatars.githubusercontent.com/u/104800540?v=4
-6201092,mpv,mpv-player/mpv,C,19,🎥 Command line video player,2877,27978,https://avatars.githubusercontent.com/u/2550273?v=4
-11715753,masscan,robertdavidgraham/masscan,C,22,"TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",3061,23410,https://avatars.githubusercontent.com/u/3814757?v=4
-80286288,Tasmota,arendst/Tasmota,C,2,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4772,22012,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-669686044,llama2.c,karpathy/llama2.c,C,9,Inference Llama 2 in one file of pure C,2052,17209,https://avatars.githubusercontent.com/u/241138?u=05376db54475c3d23b3a409f4c47d14c4855dc28&v=4
-105627846,reactos,reactos/reactos,C,18,A free Windows-compatible Operating System,1733,14474,https://avatars.githubusercontent.com/u/1056157?v=4
-184981,memcached,memcached/memcached,C,4,memcached development tree,3272,13440,https://avatars.githubusercontent.com/u/41836?v=4
-65899476,esp-idf,espressif/esp-idf,C,10,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7247,13403,https://avatars.githubusercontent.com/u/9460735?v=4
-1856976,libevent,libevent/libevent,C,4,Event notification library,3380,11101,https://avatars.githubusercontent.com/u/833750?v=4
-1979797,FreeRDP,FreeRDP/FreeRDP,C,6,FreeRDP is a free remote desktop protocol library and clients,14773,10846,https://avatars.githubusercontent.com/u/663376?v=4
-54280778,cJSON,DaveGamble/cJSON,C,7,Ultralightweight JSON parser in ANSI C,3201,10659,https://avatars.githubusercontent.com/u/118247?v=4
+1903522,php-src,php/php-src,C,8,The PHP Interpreter,7728,37995,https://avatars.githubusercontent.com/u/25158?v=4
+20159867,stb,nothings/stb,C,20,stb single-file public domain libraries for C/C++,7690,26482,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
+7634677,openssl,openssl/openssl,C,17,TLS/SSL and crypto library,10072,25518,https://avatars.githubusercontent.com/u/3279138?v=4
+29759715,zstd,facebook/zstd,C,20,Zstandard - Fast real-time compression algorithm,2074,23349,https://avatars.githubusercontent.com/u/69631?v=4
+34921116,bcc,iovisor/bcc,C,7,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3854,20330,https://avatars.githubusercontent.com/u/12766186?v=4
+105627846,reactos,reactos/reactos,C,18,A free Windows-compatible Operating System,1733,14475,https://avatars.githubusercontent.com/u/1056157?v=4
+65899476,esp-idf,espressif/esp-idf,C,10,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7246,13404,https://avatars.githubusercontent.com/u/9460735?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,8,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6466,10558,https://avatars.githubusercontent.com/u/19595895?v=4
+192805335,mimalloc,microsoft/mimalloc,C,9,mimalloc is a compact general purpose allocator with excellent performance.,842,10425,https://avatars.githubusercontent.com/u/6154722?v=4
 106586124,atomic-red-team,redcanaryco/atomic-red-team,C,4,Small and highly portable detection tests based on MITRE's ATT&CK.,2771,9596,https://avatars.githubusercontent.com/u/6877001?v=4
+53614190,mosquitto,eclipse/mosquitto,C,3,Eclipse Mosquitto - An open source MQTT broker,2372,8928,https://avatars.githubusercontent.com/u/56974?v=4
 105944401,yugabyte-db,yugabyte/yugabyte-db,C,4,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.,1056,8887,https://avatars.githubusercontent.com/u/17074854?v=4
-31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,1,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4921,6903,https://avatars.githubusercontent.com/u/6154722?v=4
-34807561,nanopb,nanopb/nanopb,C,2,Protocol Buffers with small code size,847,4285,https://avatars.githubusercontent.com/u/12173937?v=4
-13352949,civetweb,civetweb/civetweb,C,10,Embedded C/C++ web server,957,2833,https://avatars.githubusercontent.com/u/13592161?v=4
-28928522,wolfssl,wolfSSL/wolfssl,C,0,"The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!",822,2300,https://avatars.githubusercontent.com/u/5891092?v=4
-68456226,rdma-core,linux-rdma/rdma-core,C,1,RDMA core userspace libraries and daemons,678,1504,https://avatars.githubusercontent.com/u/22179970?v=4
-121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,1190,929,https://avatars.githubusercontent.com/u/40860733?v=4
+14735429,capstone,capstone-engine/capstone,C,106,"Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",1546,7474,https://avatars.githubusercontent.com/u/13388937?v=4
+29933948,fluent-bit,fluent/fluent-bit,C,5,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1562,5751,https://avatars.githubusercontent.com/u/859518?v=4
+83160811,littlefs,littlefs-project/littlefs,C,4,A little fail-safe filesystem designed for microcontrollers,788,5106,https://avatars.githubusercontent.com/u/60944974?v=4
+128791889,haproxy,haproxy/haproxy,C,4,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),785,4857,https://avatars.githubusercontent.com/u/38220289?v=4
+331380723,pico-sdk,raspberrypi/pico-sdk,C,2,,908,3648,https://avatars.githubusercontent.com/u/1294177?v=4
+154525111,freeswitch,signalwire/freeswitch,C,3,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",1408,3523,https://avatars.githubusercontent.com/u/34925332?v=4
+13352949,civetweb,civetweb/civetweb,C,10,Embedded C/C++ web server,957,2835,https://avatars.githubusercontent.com/u/13592161?v=4
+228103273,nuttx,apache/nuttx,C,4,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1123,2638,https://avatars.githubusercontent.com/u/47359?v=4
+20193261,optee_os,OP-TEE/optee_os,C,0,Trusted side of the TEE,1053,1562,https://avatars.githubusercontent.com/u/7488961?v=4
+121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,1191,929,https://avatars.githubusercontent.com/u/40860733?v=4
