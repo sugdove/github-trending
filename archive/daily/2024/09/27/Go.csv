@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,191,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7164,91074,https://avatars.githubusercontent.com/u/151674099?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,20,A node.js version management utility for Windows. Ironically written in Go.,3310,37180,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-208728772,milvus,milvus-io/milvus,Go,21,"A cloud-native vector database, storage for next generation AI applications",2842,29631,https://avatars.githubusercontent.com/u/51735404?v=4
-43723161,helm,helm/helm,Go,7,The Kubernetes Package Manager,7084,26811,https://avatars.githubusercontent.com/u/15859888?v=4
-129717717,loki,grafana/loki,Go,11,"Like Prometheus, but for logs.",3399,23463,https://avatars.githubusercontent.com/u/7195757?v=4
-26337322,rancher,rancher/rancher,Go,4,Complete container management platform,2950,23278,https://avatars.githubusercontent.com/u/9343010?v=4
-738733003,fabric,danielmiessler/fabric,Go,54,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2450,23165,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+658928958,ollama,ollama/ollama,Go,191,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7165,91094,https://avatars.githubusercontent.com/u/151674099?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,15,A node.js version management utility for Windows. Ironically written in Go.,3310,37185,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+208728772,milvus,milvus-io/milvus,Go,30,"A cloud-native vector database, storage for next generation AI applications",2842,29634,https://avatars.githubusercontent.com/u/51735404?v=4
+43723161,helm,helm/helm,Go,7,The Kubernetes Package Manager,7084,26810,https://avatars.githubusercontent.com/u/15859888?v=4
+129717717,loki,grafana/loki,Go,11,"Like Prometheus, but for logs.",3400,23463,https://avatars.githubusercontent.com/u/7195757?v=4
+26337322,rancher,rancher/rancher,Go,4,Complete container management platform,2951,23278,https://avatars.githubusercontent.com/u/9343010?v=4
+738733003,fabric,danielmiessler/fabric,Go,54,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2452,23171,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
 13624859,websocket,gorilla/websocket,Go,5,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3474,22170,https://avatars.githubusercontent.com/u/489566?v=4
-52034309,zap,uber-go/zap,Go,7,"Blazing fast, structured, leveled logging in Go.",1422,21761,https://avatars.githubusercontent.com/u/19262598?v=4
+52034309,zap,uber-go/zap,Go,7,"Blazing fast, structured, leveled logging in Go.",1422,21763,https://avatars.githubusercontent.com/u/19262598?v=4
 27729907,grpc-go,grpc/grpc-go,Go,8,The Go language implementation of gRPC. HTTP/2 based RPC,4344,20932,https://avatars.githubusercontent.com/u/7802525?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,12,gRPC to JSON proxy generator following the gRPC HTTP spec,2228,18057,https://avatars.githubusercontent.com/u/19352526?v=4
-6443435,nats-server,nats-io/nats-server,Go,14,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1395,15624,https://avatars.githubusercontent.com/u/10203055?v=4
-157245200,chezmoi,twpayne/chezmoi,Go,16,"Manage your dotfiles across multiple diverse machines, securely.",485,12978,https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,32,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1486,11821,https://avatars.githubusercontent.com/u/126152966?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,12,gRPC to JSON proxy generator following the gRPC HTTP spec,2228,18059,https://avatars.githubusercontent.com/u/19352526?v=4
+6443435,nats-server,nats-io/nats-server,Go,14,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1395,15625,https://avatars.githubusercontent.com/u/10203055?v=4
+157245200,chezmoi,twpayne/chezmoi,Go,16,"Manage your dotfiles across multiple diverse machines, securely.",485,12981,https://avatars.githubusercontent.com/u/6942?u=227a4496aba8d3f526c53bdb6aa7713b22c56906&v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,19,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1487,11822,https://avatars.githubusercontent.com/u/126152966?v=4
 135321861,kratos,ory/kratos,Go,17,"The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",954,11096,https://avatars.githubusercontent.com/u/25334553?v=4
-93928882,swag,swaggo/swag,Go,6,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1187,10541,https://avatars.githubusercontent.com/u/29616670?v=4
+93928882,swag,swaggo/swag,Go,6,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1187,10542,https://avatars.githubusercontent.com/u/29616670?v=4
 21306961,fsnotify,fsnotify/fsnotify,Go,2,Cross-platform filesystem notifications for Go.,904,9500,https://avatars.githubusercontent.com/u/8013877?v=4
-221849341,asynq,hibiken/asynq,Go,7,"Simple, reliable, and efficient distributed task queue in Go",682,9460,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
+221849341,asynq,hibiken/asynq,Go,7,"Simple, reliable, and efficient distributed task queue in Go",682,9462,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
 238797860,optimism,ethereum-optimism/optimism,Go,4,"Optimism is Ethereum, scaled.",3211,5555,https://avatars.githubusercontent.com/u/58791460?v=4
-531220682,dice,DiceDB/dice,Go,130,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,609,4827,https://avatars.githubusercontent.com/u/112580013?v=4
+531220682,dice,DiceDB/dice,Go,130,DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.,635,4843,https://avatars.githubusercontent.com/u/112580013?v=4
 53553027,kubernetes-ingress,nginxinc/kubernetes-ingress,Go,1,NGINX and  NGINX Plus Ingress Controllers for Kubernetes,1960,4639,https://avatars.githubusercontent.com/u/8629072?v=4
 255027515,dalfox,hahwul/dalfox,Go,23,🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.,408,3656,https://avatars.githubusercontent.com/u/13212227?u=e4ca40c1aa41990f72475bebee84c860b631a30c&v=4
-76279648,hercules,src-d/hercules,Go,41,Gaining advanced insights from Git repository history.,159,2485,https://avatars.githubusercontent.com/u/15128793?v=4
-93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,0,Terraform Provider for Google Cloud Platform,1729,2304,https://avatars.githubusercontent.com/u/761456?v=4
+76279648,hercules,src-d/hercules,Go,41,Gaining advanced insights from Git repository history.,189,2499,https://avatars.githubusercontent.com/u/15128793?v=4
+93446075,terraform-provider-google,hashicorp/terraform-provider-google,Go,0,Terraform Provider for Google Cloud Platform,1729,2305,https://avatars.githubusercontent.com/u/761456?v=4
 763474769,heminetwork,hemilabs/heminetwork,Go,2,The hemi network core daemons.,22,45,https://avatars.githubusercontent.com/u/158097360?v=4
