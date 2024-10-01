@@ -1,23 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,165,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7205,91613,https://avatars.githubusercontent.com/u/151674099?v=4
-14712850,syncthing,syncthing/syncthing,Go,112,Open Source Continuous File Synchronization,4246,64250,https://avatars.githubusercontent.com/u/7628018?v=4
-17803236,rclone,rclone/rclone,Go,33,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4153,46426,https://avatars.githubusercontent.com/u/24937341?v=4
-41986369,tidb,pingcap/tidb,Go,6,"TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/",5820,36989,https://avatars.githubusercontent.com/u/11855343?v=4
-285864199,go-zero,zeromicro/go-zero,Go,11,A cloud-native Go microservices framework with cli tool for productivity.,3925,28993,https://avatars.githubusercontent.com/u/74225106?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,41,Network-wide ads & trackers blocking DNS server,1789,24814,https://avatars.githubusercontent.com/u/8361145?v=4
-21827146,seaweedfs,seaweedfs/seaweedfs,Go,6,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2257,22432,https://avatars.githubusercontent.com/u/11985425?v=4
-205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,8,🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。,6305,21323,https://avatars.githubusercontent.com/u/63276650?v=4
-75785240,authelia,authelia/authelia,Go,12,The Single Sign-On Multi-Factor portal for web apps,1101,21284,https://avatars.githubusercontent.com/u/59122411?v=4
-533087958,d2,terrastruct/d2,Go,16,D2 is a modern diagram scripting language that turns text to diagrams.,417,16619,https://avatars.githubusercontent.com/u/80369600?v=4
-62091339,kops,kubernetes/kops,Go,5,"Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",4642,15873,https://avatars.githubusercontent.com/u/13629408?v=4
-370977430,open-im-server,openimsdk/open-im-server,Go,9,IM Chat ,2440,13886,https://avatars.githubusercontent.com/u/84842645?v=4
-299832860,livekit,livekit/livekit,Go,27,End-to-end stack for WebRTC. SFU media server and SDKs.,805,9756,https://avatars.githubusercontent.com/u/69438833?v=4
-28366058,distribution,distribution/distribution,Go,6,"The toolkit to pack, ship, store, and deliver container content",2464,8881,https://avatars.githubusercontent.com/u/78096003?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,3,Autoscaling components for Kubernetes,3941,7994,https://avatars.githubusercontent.com/u/13629408?v=4
-48299818,kopia,kopia/kopia,Go,49,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",383,7523,https://avatars.githubusercontent.com/u/16365723?v=4
-531220682,dice,DiceDB/dice,Go,159,"DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",689,5396,https://avatars.githubusercontent.com/u/112580013?v=4
-526081371,go2rtc,AlexxIT/go2rtc,Go,41,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",372,4609,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
-449649393,keploy,keploy/keploy,Go,118,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,439,4178,https://avatars.githubusercontent.com/u/92252339?v=4
-592283952,dae,daeuniverse/dae,Go,10,eBPF-based Linux high-performance transparent proxy solution.,190,3060,https://avatars.githubusercontent.com/u/126714249?v=4
-709242076,gofr,gofr-dev/gofr,Go,142,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,195,2816,https://avatars.githubusercontent.com/u/146108433?v=4
-634244448,zep,getzep/zep,Go,23,Zep | The Memory Foundation For Your AI Stack,370,2539,https://avatars.githubusercontent.com/u/132832125?v=4
+658928958,ollama,ollama/ollama,Go,165,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7205,91633,https://avatars.githubusercontent.com/u/151674099?v=4
+14712850,syncthing,syncthing/syncthing,Go,112,Open Source Continuous File Synchronization,4246,64257,https://avatars.githubusercontent.com/u/7628018?v=4
+6247705,testify,stretchr/testify,Go,8,A toolkit with common assertions and mocks that plays nicely with the standard library,1585,23132,https://avatars.githubusercontent.com/u/1841476?v=4
+6051812,mux,gorilla/mux,Go,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1845,20709,https://avatars.githubusercontent.com/u/489566?v=4
+465303307,lo,samber/lo,Go,19,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",810,17590,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+72891330,ingress-nginx,kubernetes/ingress-nginx,Go,4,Ingress-NGINX Controller for Kubernetes,8217,17320,https://avatars.githubusercontent.com/u/13629408?v=4
+30711774,validator,go-playground/validator,Go,8,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1315,16623,https://avatars.githubusercontent.com/u/14768796?v=4
+191655189,ent,ent/ent,Go,12,An entity framework for Go,917,15480,https://avatars.githubusercontent.com/u/66847655?v=4
+33258973,telegraf,influxdata/telegraf,Go,2,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5559,14533,https://avatars.githubusercontent.com/u/5713248?v=4
+184490584,terraformer,GoogleCloudPlatform/terraformer,Go,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1636,12481,https://avatars.githubusercontent.com/u/2810941?v=4
+357897199,netbird,netbirdio/netbird,Go,7,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",484,10742,https://avatars.githubusercontent.com/u/100464677?v=4
+99143276,velero,vmware-tanzu/velero,Go,6,Backup and migrate Kubernetes applications and their persistent volumes,1388,8614,https://avatars.githubusercontent.com/u/54452117?v=4
+139727567,Reloader,stakater/Reloader,Go,4,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",497,7467,https://avatars.githubusercontent.com/u/15930712?v=4
+368683828,jwt,golang-jwt/jwt,Go,7,Go implementation of JSON Web Tokens (JWT).,337,7055,https://avatars.githubusercontent.com/u/84194169?v=4
+16019737,squirrel,Masterminds/squirrel,Go,5,Fluent SQL generation for golang,461,6871,https://avatars.githubusercontent.com/u/689082?v=4
+52555254,goose,pressly/goose,Go,9,A database migration tool. Supports SQL migrations and Go functions. ,505,6747,https://avatars.githubusercontent.com/u/18835?v=4
+23586998,mockery,vektra/mockery,Go,2,A mock code autogenerator for Go,406,6004,https://avatars.githubusercontent.com/u/5193687?v=4
+449649393,keploy,keploy/keploy,Go,118,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,439,4219,https://avatars.githubusercontent.com/u/92252339?v=4
+90336564,automaxprocs,uber-go/automaxprocs,Go,2,Automatically set GOMAXPROCS to match Linux container CPU quota.,157,4073,https://avatars.githubusercontent.com/u/19262598?v=4
+83623770,helm-diff,databus23/helm-diff,Go,2,A helm plugin that shows a diff explaining what a helm upgrade would change,279,2677,https://avatars.githubusercontent.com/u/439223?v=4
+634244448,zep,getzep/zep,Go,23,Zep | The Memory Foundation For Your AI Stack,370,2542,https://avatars.githubusercontent.com/u/132832125?v=4
+434565223,pagoda,mikestefanello/pagoda,Go,160,"Rapid, easy full-stack web development starter kit in Go",102,1964,https://avatars.githubusercontent.com/u/552328?v=4
+219058535,gateway-api,kubernetes-sigs/gateway-api,Go,2,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,460,1774,https://avatars.githubusercontent.com/u/36015203?v=4
