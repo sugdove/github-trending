@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,149,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7210,91647,https://avatars.githubusercontent.com/u/151674099?v=4
-14712850,syncthing,syncthing/syncthing,Go,41,Open Source Continuous File Synchronization,4246,64262,https://avatars.githubusercontent.com/u/7628018?v=4
+658928958,ollama,ollama/ollama,Go,149,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7211,91661,https://avatars.githubusercontent.com/u/151674099?v=4
+14712850,syncthing,syncthing/syncthing,Go,41,Open Source Continuous File Synchronization,4246,64264,https://avatars.githubusercontent.com/u/7628018?v=4
 6247705,testify,stretchr/testify,Go,8,A toolkit with common assertions and mocks that plays nicely with the standard library,1585,23132,https://avatars.githubusercontent.com/u/1841476?v=4
 6051812,mux,gorilla/mux,Go,8,Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍,1845,20709,https://avatars.githubusercontent.com/u/489566?v=4
-465303307,lo,samber/lo,Go,19,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",810,17592,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,4,Ingress-NGINX Controller for Kubernetes,8218,17320,https://avatars.githubusercontent.com/u/13629408?v=4
+465303307,lo,samber/lo,Go,19,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",810,17594,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+72891330,ingress-nginx,kubernetes/ingress-nginx,Go,4,Ingress-NGINX Controller for Kubernetes,8219,17321,https://avatars.githubusercontent.com/u/13629408?v=4
 30711774,validator,go-playground/validator,Go,8,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1315,16626,https://avatars.githubusercontent.com/u/14768796?v=4
-191655189,ent,ent/ent,Go,12,An entity framework for Go,917,15481,https://avatars.githubusercontent.com/u/66847655?v=4
+191655189,ent,ent/ent,Go,12,An entity framework for Go,918,15482,https://avatars.githubusercontent.com/u/66847655?v=4
 33258973,telegraf,influxdata/telegraf,Go,2,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5559,14533,https://avatars.githubusercontent.com/u/5713248?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1636,12485,https://avatars.githubusercontent.com/u/2810941?v=4
-357897199,netbird,netbirdio/netbird,Go,7,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",484,10741,https://avatars.githubusercontent.com/u/100464677?v=4
-99143276,velero,vmware-tanzu/velero,Go,6,Backup and migrate Kubernetes applications and their persistent volumes,1389,8617,https://avatars.githubusercontent.com/u/54452117?v=4
+184490584,terraformer,GoogleCloudPlatform/terraformer,Go,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1637,12486,https://avatars.githubusercontent.com/u/2810941?v=4
+357897199,netbird,netbirdio/netbird,Go,7,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",484,10744,https://avatars.githubusercontent.com/u/100464677?v=4
+99143276,velero,vmware-tanzu/velero,Go,6,Backup and migrate Kubernetes applications and their persistent volumes,1389,8618,https://avatars.githubusercontent.com/u/54452117?v=4
 139727567,Reloader,stakater/Reloader,Go,4,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",497,7468,https://avatars.githubusercontent.com/u/15930712?v=4
 368683828,jwt,golang-jwt/jwt,Go,7,Go implementation of JSON Web Tokens (JWT).,337,7055,https://avatars.githubusercontent.com/u/84194169?v=4
 16019737,squirrel,Masterminds/squirrel,Go,5,Fluent SQL generation for golang,461,6872,https://avatars.githubusercontent.com/u/689082?v=4
 52555254,goose,pressly/goose,Go,9,A database migration tool. Supports SQL migrations and Go functions. ,506,6751,https://avatars.githubusercontent.com/u/18835?v=4
 23586998,mockery,vektra/mockery,Go,2,A mock code autogenerator for Go,406,6004,https://avatars.githubusercontent.com/u/5193687?v=4
-449649393,keploy,keploy/keploy,Go,255,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,440,4382,https://avatars.githubusercontent.com/u/92252339?v=4
-90336564,automaxprocs,uber-go/automaxprocs,Go,2,Automatically set GOMAXPROCS to match Linux container CPU quota.,157,4074,https://avatars.githubusercontent.com/u/19262598?v=4
+449649393,keploy,keploy/keploy,Go,255,Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!,440,4479,https://avatars.githubusercontent.com/u/92252339?v=4
+90336564,automaxprocs,uber-go/automaxprocs,Go,2,Automatically set GOMAXPROCS to match Linux container CPU quota.,157,4078,https://avatars.githubusercontent.com/u/19262598?v=4
 83623770,helm-diff,databus23/helm-diff,Go,2,A helm plugin that shows a diff explaining what a helm upgrade would change,279,2676,https://avatars.githubusercontent.com/u/439223?v=4
-634244448,zep,getzep/zep,Go,23,Zep | The Memory Foundation For Your AI Stack,370,2545,https://avatars.githubusercontent.com/u/132832125?v=4
-434565223,pagoda,mikestefanello/pagoda,Go,160,"Rapid, easy full-stack web development starter kit in Go",102,1978,https://avatars.githubusercontent.com/u/552328?v=4
+634244448,zep,getzep/zep,Go,23,Zep | The Memory Foundation For Your AI Stack,370,2547,https://avatars.githubusercontent.com/u/132832125?v=4
+434565223,pagoda,mikestefanello/pagoda,Go,160,"Rapid, easy full-stack web development starter kit in Go",103,1987,https://avatars.githubusercontent.com/u/552328?v=4
 219058535,gateway-api,kubernetes-sigs/gateway-api,Go,2,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,460,1775,https://avatars.githubusercontent.com/u/36015203?v=4
