@@ -1,25 +1,20 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-10744183,netdata,netdata/netdata,C,34,"Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",5877,71093,https://avatars.githubusercontent.com/u/43390781?v=4
-246335987,Ventoy,ventoy/Ventoy,C,30,A new bootable USB solution.,4036,61982,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
-13836499,raylib,raysan5/raylib,C,26,A simple and easy-to-use library to enjoy videogames programming,2216,21894,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-40217904,sway,swaywm/sway,C,6,i3-compatible Wayland compositor,1105,14477,https://avatars.githubusercontent.com/u/32400794?v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,6,Flipper Zero firmware source code,2686,12627,https://avatars.githubusercontent.com/u/57576566?v=4
-359952601,pgvector,pgvector/pgvector,C,15,Open-source vector similarity search for Postgres,543,11953,https://avatars.githubusercontent.com/u/98363230?v=4
-39242894,coturn,coturn/coturn,C,8,coturn TURN server project,2006,11202,https://avatars.githubusercontent.com/u/6572098?v=4
-106586124,atomic-red-team,redcanaryco/atomic-red-team,C,3,Small and highly portable detection tests based on MITRE's ATT&CK.,2774,9620,https://avatars.githubusercontent.com/u/6877001?v=4
-671061529,winlator,brunodev85/winlator,C,30,Android application for running Windows applications with Wine and Box86/Box64,394,8204,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
-97212490,sokol,floooh/sokol,C,29,minimal cross-platform standalone C headers,486,6917,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
-3681392,hackrf,greatscottgadgets/hackrf,C,7,low cost software radio platform,1519,6485,https://avatars.githubusercontent.com/u/5904722?v=4
-38617,sqlcipher,sqlcipher/sqlcipher,C,3,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1279,6174,https://avatars.githubusercontent.com/u/649049?v=4
-83160811,littlefs,littlefs-project/littlefs,C,2,A little fail-safe filesystem designed for microcontrollers,789,5114,https://avatars.githubusercontent.com/u/60944974?v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,5,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",1021,5043,https://avatars.githubusercontent.com/u/62360046?v=4
+10744183,netdata,netdata/netdata,C,195,"Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",5877,71111,https://avatars.githubusercontent.com/u/43390781?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,30,Port of OpenAI's Whisper model in C/C++,3545,34769,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+727213319,my-tv,lizongying/my-tv,C,16,我的电视 电视直播软件，安装即可使用,3334,29799,https://avatars.githubusercontent.com/u/16871545?u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4
+7634677,openssl,openssl/openssl,C,15,TLS/SSL and crypto library,10085,25572,https://avatars.githubusercontent.com/u/3279138?v=4
+4869294,radare2,radareorg/radare2,C,9,UNIX-like reverse engineering framework and command-line toolset,2981,20448,https://avatars.githubusercontent.com/u/2842539?v=4
+272457606,cosmopolitan,jart/cosmopolitan,C,17,build-once run-anywhere c library,615,17925,https://avatars.githubusercontent.com/u/49262?u=ac68933ab61c639ab59ae693a41ae89cd874c16e&v=4
+84240850,timescaledb,timescale/timescaledb,C,21,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,882,17593,https://avatars.githubusercontent.com/u/8986001?v=4
+53614190,mosquitto,eclipse/mosquitto,C,5,Eclipse Mosquitto - An open source MQTT broker,2374,8943,https://avatars.githubusercontent.com/u/56974?v=4
+671061529,winlator,brunodev85/winlator,C,30,Android application for running Windows applications with Wine and Box86/Box64,394,8208,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
+97212490,sokol,floooh/sokol,C,29,minimal cross-platform standalone C headers,486,6918,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
+29933948,fluent-bit,fluent/fluent-bit,C,12,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1569,5788,https://avatars.githubusercontent.com/u/859518?v=4
+247875738,oot,zeldaret/oot,C,3,Decompilation of The Legend of Zelda: Ocarina of Time,578,4578,https://avatars.githubusercontent.com/u/50950276?v=4
+21287076,s2n-tls,aws/s2n-tls,C,1,An implementation of the TLS/SSL protocols,704,4518,https://avatars.githubusercontent.com/u/2232217?v=4
 34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,848,4291,https://avatars.githubusercontent.com/u/12173937?v=4
-47648456,espeak-ng,espeak-ng/espeak-ng,C,0,eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.,883,4094,https://avatars.githubusercontent.com/u/16214005?v=4
-26537135,u-boot,u-boot/u-boot,C,1,"""Das U-Boot"" Source Tree",3609,3943,https://avatars.githubusercontent.com/u/9681997?v=4
-144465372,proxmark3,RfidResearchGroup/proxmark3,C,6,Iceman Fork - Proxmark3,1025,3883,https://avatars.githubusercontent.com/u/40314039?v=4
-272394704,security-research,google/security-research,C,12,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,405,3305,https://avatars.githubusercontent.com/u/1342004?v=4
-228103273,nuttx,apache/nuttx,C,0,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1133,2734,https://avatars.githubusercontent.com/u/47359?v=4
-28928522,wolfssl,wolfSSL/wolfssl,C,1,"The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3!",822,2308,https://avatars.githubusercontent.com/u/5891092?v=4
-121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,1193,932,https://avatars.githubusercontent.com/u/40860733?v=4
-16745233,libva,intel/libva,C,1,Libva is an implementation for VA-API (Video Acceleration API),300,655,https://avatars.githubusercontent.com/u/17888862?v=4
-30782639,meta-raspberrypi,agherzan/meta-raspberrypi,C,1,Yocto/OE BSP layer for the Raspberry Pi boards,408,523,https://avatars.githubusercontent.com/u/1746941?u=22e8663e7cb3c95c00a5edb53d3d05120d31e89c&v=4
+776121034,omi,BasedHardware/omi,C,8,AI wearables,403,3510,https://avatars.githubusercontent.com/u/162546372?v=4
+272394704,security-research,google/security-research,C,12,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,405,3308,https://avatars.githubusercontent.com/u/1342004?v=4
+67372977,pg_cron,citusdata/pg_cron,C,1,Run periodic jobs in PostgreSQL,192,2817,https://avatars.githubusercontent.com/u/2545424?v=4
+211912254,Vitis-Tutorials,Xilinx/Vitis-Tutorials,C,1,Vitis In-Depth Tutorials,552,1209,https://avatars.githubusercontent.com/u/3189299?v=4
+5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,3144,216,https://avatars.githubusercontent.com/u/9439498?v=4
