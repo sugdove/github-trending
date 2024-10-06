@@ -1,25 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,55,"A curated list of awesome Go frameworks, libraries and software",11827,129974,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-7691631,moby,moby/moby,Go,14,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18638,68562,https://avatars.githubusercontent.com/u/27259197?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,56,simple terminal UI for git commands,1809,51581,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-74175805,istio,istio/istio,Go,8,"Connect, secure, control, and observe services.",7724,35814,https://avatars.githubusercontent.com/u/23534644?v=4
-18369373,viper,spf13/viper,Go,7,Go configuration with fangs,2013,26941,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-54400687,k6,grafana/k6,Go,106,"A modern load testing tool, using Go and JavaScript - https://k6.io",1258,25529,https://avatars.githubusercontent.com/u/7195757?v=4
-48003886,go-patterns,tmrts/go-patterns,Go,17,"Curated list of Go design patterns, recipes and idioms",2212,25211,https://avatars.githubusercontent.com/u/5067495?v=4
-13628513,logrus,sirupsen/logrus,Go,7,"Structured, pluggable logging for Go.",2265,24606,https://avatars.githubusercontent.com/u/97400?v=4
-6247705,testify,stretchr/testify,Go,19,A toolkit with common assertions and mocks that plays nicely with the standard library,1591,23199,https://avatars.githubusercontent.com/u/1841476?v=4
-27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4353,20956,https://avatars.githubusercontent.com/u/7802525?v=4
-403020531,colima,abiosoft/colima,Go,10,Container runtimes on macOS (and Linux) with minimal setup,382,18921,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-187403699,age,FiloSottile/age,Go,20,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",500,17061,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,3,Automatically provision and manage TLS certificates in Kubernetes,2066,11984,https://avatars.githubusercontent.com/u/39950598?v=4
-267054247,grype,anchore/grype,Go,12,A vulnerability scanner for container images and filesystems,560,8589,https://avatars.githubusercontent.com/u/16208487?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,2,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,970,7987,https://avatars.githubusercontent.com/u/17118990?v=4
-120519269,atlantis,runatlantis/atlantis,Go,2,Terraform Pull Request Automation,1047,7739,https://avatars.githubusercontent.com/u/32311288?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2552,7621,https://avatars.githubusercontent.com/u/36015203?v=4
-173009358,oapi-codegen,oapi-codegen/oapi-codegen,Go,6,Generate Go client and server boilerplate from OpenAPI 3 specifications,845,6114,https://avatars.githubusercontent.com/u/142752710?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,3,OpenTelemetry Go API and SDK,1050,5213,https://avatars.githubusercontent.com/u/49998002?v=4
-71487396,tflint,terraform-linters/tflint,Go,3,A Pluggable Terraform Linter,355,4895,https://avatars.githubusercontent.com/u/54197850?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,3,Kubernetes controller for GitHub Actions self-hosted runners,1096,4641,https://avatars.githubusercontent.com/u/44036562?v=4
-309820286,fleet,fleetdm/fleet,Go,3,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",416,2999,https://avatars.githubusercontent.com/u/70264713?v=4
-501372599,openfga,openfga/openfga,Go,8,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,199,2794,https://avatars.githubusercontent.com/u/103602580?v=4
-635979215,mock,uber-go/mock,Go,5,GoMock is a mocking framework for the Go programming language.,109,2136,https://avatars.githubusercontent.com/u/19262598?v=4
+21540759,awesome-go,avelino/awesome-go,Go,70,"A curated list of awesome Go frameworks, libraries and software",11828,129983,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+658928958,ollama,ollama/ollama,Go,123,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7258,92182,https://avatars.githubusercontent.com/u/151674099?v=4
+48378947,frp,fatedier/frp,Go,26,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13204,85037,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+41912791,v2ray-core,v2ray/v2ray-core,Go,4,A platform for building proxies to bypass network restrictions.,8941,45320,https://avatars.githubusercontent.com/u/14110142?v=4
+323965659,alist,alist-org/alist,Go,25,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5514,42597,https://avatars.githubusercontent.com/u/97389433?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,14,A platform for building proxies to bypass network restrictions.,4606,29152,https://avatars.githubusercontent.com/u/49637375?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,14,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3853,24669,https://avatars.githubusercontent.com/u/71564206?v=4
+738733003,fabric,danielmiessler/fabric,Go,33,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2483,23451,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+509091576,sing-box,SagerNet/sing-box,Go,15,The universal proxy platform,2269,18958,https://avatars.githubusercontent.com/u/83217677?v=4
+66573241,fabric,hyperledger/fabric,Go,2,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,8832,15680,https://avatars.githubusercontent.com/u/7657900?v=4
+299832860,livekit,livekit/livekit,Go,20,End-to-end stack for WebRTC. SFU media server and SDKs.,816,9898,https://avatars.githubusercontent.com/u/69438833?v=4
+26639347,gobuster,OJ/gobuster,Go,7,"Directory/File, DNS and VHost busting tool written in Go",1179,9655,https://avatars.githubusercontent.com/u/28896?u=391df1f79c3e364dc3578a8ac3ff8cfd6c54a106&v=4
+120530079,gluetun,qdm12/gluetun,Go,12,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",358,7579,https://avatars.githubusercontent.com/u/15654980?u=107e7a5972895a3be41024de3b84ffe7dde7bfdc&v=4
+111364256,v2,miniflux/v2,Go,4,Minimalist and opinionated feed reader,713,6750,https://avatars.githubusercontent.com/u/10584991?v=4
+38029983,telegram-bot-api,go-telegram-bot-api/telegram-bot-api,Go,3,Golang bindings for the Telegram Bot API,887,5752,https://avatars.githubusercontent.com/u/16530727?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,2,"Optimism is Ethereum, scaled.",3214,5573,https://avatars.githubusercontent.com/u/58791460?v=4
+216628419,flyte,flyteorg/flyte,Go,29,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",596,5526,https://avatars.githubusercontent.com/u/35380635?v=4
+280658081,domain-list-community,v2fly/domain-list-community,Go,3,Community managed domain list. Generate geosite.dat for V2Ray.,861,4748,https://avatars.githubusercontent.com/u/49637375?v=4
+531313322,tdl,iyear/tdl,Go,15,📥 A Telegram toolkit written in Golang,429,4285,https://avatars.githubusercontent.com/u/61452000?u=86edf8408911ba781d3056da33f8fbd0b1659347&v=4
+441833482,SpoofDPI,xvzc/SpoofDPI,Go,11,A simple and fast anti-censorship tool written in Go,251,3523,https://avatars.githubusercontent.com/u/45588457?u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4
+226368338,evcc,evcc-io/evcc,Go,3,Sonne tanken ☀️🚘,620,3402,https://avatars.githubusercontent.com/u/81383504?v=4
+309820286,fleet,fleetdm/fleet,Go,3,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",416,3002,https://avatars.githubusercontent.com/u/70264713?v=4
+352095949,eth-faucet,chainflag/eth-faucet,Go,12,Ether faucet server built with Go and Svelte.,140,182,https://avatars.githubusercontent.com/u/80571913?v=4
