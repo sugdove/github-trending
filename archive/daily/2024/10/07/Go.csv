@@ -1,24 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,66,"A curated list of awesome Go frameworks, libraries and software",11830,130035,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-658928958,ollama,ollama/ollama,Go,132,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7264,92301,https://avatars.githubusercontent.com/u/151674099?v=4
-48378947,frp,fatedier/frp,Go,28,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13203,85059,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-41912791,v2ray-core,v2ray/v2ray-core,Go,6,A platform for building proxies to bypass network restrictions.,8941,45326,https://avatars.githubusercontent.com/u/14110142?v=4
-323965659,alist,alist-org/alist,Go,32,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5518,42619,https://avatars.githubusercontent.com/u/97389433?v=4
-181461073,v2ray-core,v2fly/v2ray-core,Go,12,A platform for building proxies to bypass network restrictions.,4610,29169,https://avatars.githubusercontent.com/u/49637375?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,16,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3854,24691,https://avatars.githubusercontent.com/u/71564206?v=4
-738733003,fabric,danielmiessler/fabric,Go,33,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2487,23483,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-509091576,sing-box,SagerNet/sing-box,Go,20,The universal proxy platform,2271,18982,https://avatars.githubusercontent.com/u/83217677?v=4
-66573241,fabric,hyperledger/fabric,Go,2,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,8831,15682,https://avatars.githubusercontent.com/u/7657900?v=4
-299832860,livekit,livekit/livekit,Go,21,End-to-end stack for WebRTC. SFU media server and SDKs.,816,9923,https://avatars.githubusercontent.com/u/69438833?v=4
-26639347,gobuster,OJ/gobuster,Go,7,"Directory/File, DNS and VHost busting tool written in Go",1180,9662,https://avatars.githubusercontent.com/u/28896?u=391df1f79c3e364dc3578a8ac3ff8cfd6c54a106&v=4
-120530079,gluetun,qdm12/gluetun,Go,16,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",358,7595,https://avatars.githubusercontent.com/u/15654980?u=107e7a5972895a3be41024de3b84ffe7dde7bfdc&v=4
-111364256,v2,miniflux/v2,Go,10,Minimalist and opinionated feed reader,713,6759,https://avatars.githubusercontent.com/u/10584991?v=4
-38029983,telegram-bot-api,go-telegram-bot-api/telegram-bot-api,Go,3,Golang bindings for the Telegram Bot API,887,5757,https://avatars.githubusercontent.com/u/16530727?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,2,"Optimism is Ethereum, scaled.",3216,5577,https://avatars.githubusercontent.com/u/58791460?v=4
-216628419,flyte,flyteorg/flyte,Go,23,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",603,5558,https://avatars.githubusercontent.com/u/35380635?v=4
-280658081,domain-list-community,v2fly/domain-list-community,Go,4,Community managed domain list. Generate geosite.dat for V2Ray.,864,4752,https://avatars.githubusercontent.com/u/49637375?v=4
-531313322,tdl,iyear/tdl,Go,15,📥 A Telegram toolkit written in Golang,428,4299,https://avatars.githubusercontent.com/u/61452000?u=86edf8408911ba781d3056da33f8fbd0b1659347&v=4
-441833482,SpoofDPI,xvzc/SpoofDPI,Go,12,A simple and fast anti-censorship tool written in Go,251,3533,https://avatars.githubusercontent.com/u/45588457?u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4
-226368338,evcc,evcc-io/evcc,Go,5,Sonne tanken ☀️🚘,621,3406,https://avatars.githubusercontent.com/u/81383504?v=4
-309820286,fleet,fleetdm/fleet,Go,9,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",417,3007,https://avatars.githubusercontent.com/u/70264713?v=4
-352095949,eth-faucet,chainflag/eth-faucet,Go,14,Ether faucet server built with Go and Svelte.,142,185,https://avatars.githubusercontent.com/u/80571913?v=4
+323965659,alist,alist-org/alist,Go,32,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5518,42622,https://avatars.githubusercontent.com/u/97389433?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,36,Open Source realtime backend in 1 file,1824,39381,https://avatars.githubusercontent.com/u/101000011?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,12,A platform for building proxies to bypass network restrictions.,4610,29167,https://avatars.githubusercontent.com/u/49637375?v=4
+107286889,croc,schollz/croc,Go,2,Easily and securely send things from one computer to another :crocodile: :package:,1105,27772,https://avatars.githubusercontent.com/u/6550035?u=991583b3f086b7f4cef5d2b4629e1440fd73f00b&v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,16,Network-wide ads & trackers blocking DNS server,1793,24905,https://avatars.githubusercontent.com/u/8361145?v=4
+120156076,Cloudreve,cloudreve/Cloudreve,Go,5,"🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)",3405,21673,https://avatars.githubusercontent.com/u/48898462?v=4
+75785240,authelia,authelia/authelia,Go,16,The Single Sign-On Multi-Factor portal for web apps,1104,21328,https://avatars.githubusercontent.com/u/59122411?v=4
+509091576,sing-box,SagerNet/sing-box,Go,20,The universal proxy platform,2272,18987,https://avatars.githubusercontent.com/u/83217677?v=4
+66156850,Go,TheAlgorithms/Go,Go,16,"Algorithms and Data Structures implemented in Go for beginners, following best practices.",2591,15995,https://avatars.githubusercontent.com/u/20487725?v=4
+118654121,skaffold,GoogleContainerTools/skaffold,Go,17,Easy and Repeatable Kubernetes Development,1617,14979,https://avatars.githubusercontent.com/u/38444003?v=4
+257434373,hysteria,apernet/hysteria,Go,19,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1646,14721,https://avatars.githubusercontent.com/u/79422552?v=4
+290437899,ddns-go,jeessy2/ddns-go,Go,12,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",1324,11590,https://avatars.githubusercontent.com/u/6205259?u=0668f056159f7ab885b1749c10400aa50893da5b&v=4
+26639347,gobuster,OJ/gobuster,Go,7,"Directory/File, DNS and VHost busting tool written in Go",1180,9663,https://avatars.githubusercontent.com/u/28896?u=391df1f79c3e364dc3578a8ac3ff8cfd6c54a106&v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3945,8000,https://avatars.githubusercontent.com/u/13629408?v=4
+216628419,flyte,flyteorg/flyte,Go,23,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",604,5560,https://avatars.githubusercontent.com/u/35380635?v=4
+210268863,codeforces-go,EndlessCheng/codeforces-go,Go,6,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,550,5031,https://avatars.githubusercontent.com/u/7086966?u=ac53cc01d8798356e5702e8291cb7ddb838ee823&v=4
+280658081,domain-list-community,v2fly/domain-list-community,Go,4,Community managed domain list. Generate geosite.dat for V2Ray.,865,4753,https://avatars.githubusercontent.com/u/49637375?v=4
+441833482,SpoofDPI,xvzc/SpoofDPI,Go,12,A simple and fast anti-censorship tool written in Go,251,3534,https://avatars.githubusercontent.com/u/45588457?u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4
+682760329,neosync,nucleuscloud/neosync,Go,7,Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments. ,111,3122,https://avatars.githubusercontent.com/u/97920301?v=4
+347000736,Gokapi,Forceu/Gokapi,Go,135,Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.,57,1491,https://avatars.githubusercontent.com/u/1593467?u=bbd844a3508f7fa4006ad1bdc695334c4abde72b&v=4
+614899368,observability-zero-to-hero,iam-veeramalla/observability-zero-to-hero,Go,4,[WIP]: Repo for learning observability,1914,1273,https://avatars.githubusercontent.com/u/43399466?u=91e78018b666dba78f75f296340e3251942158c9&v=4
+352095949,eth-faucet,chainflag/eth-faucet,Go,14,Ether faucet server built with Go and Svelte.,143,186,https://avatars.githubusercontent.com/u/80571913?v=4
