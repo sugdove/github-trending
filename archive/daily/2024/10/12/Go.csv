@@ -1,23 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,138,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7334,92981,https://avatars.githubusercontent.com/u/151674099?v=4
-48378947,frp,fatedier/frp,Go,48,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13228,85247,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,16,Go implementation of the Ethereum protocol,20033,47343,https://avatars.githubusercontent.com/u/6250754?v=4
-12574344,cobra,spf13/cobra,Go,18,A Commander for modern Go CLI interactions,2838,37882,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-15045751,compose,docker/compose,Go,17,Define and run multi-container applications with Docker,5202,33796,https://avatars.githubusercontent.com/u/5429470?v=4
-208728772,milvus,milvus-io/milvus,Go,26,"A cloud-native vector database, storage for next generation AI applications",2870,29875,https://avatars.githubusercontent.com/u/51735404?v=4
-192632000,dapr,dapr/dapr,Go,7,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1891,23935,https://avatars.githubusercontent.com/u/51932459?v=4
-165041732,kratos,go-kratos/kratos,Go,8,Your ultimate Go microservices framework for the cloud-native era.,3997,23230,https://avatars.githubusercontent.com/u/62791634?v=4
-370977430,open-im-server,openimsdk/open-im-server,Go,10,IM Chat ,2447,13930,https://avatars.githubusercontent.com/u/84842645?v=4
-62921553,rook,rook/rook,Go,5,Storage Orchestration for Kubernetes,2687,12326,https://avatars.githubusercontent.com/u/22860722?v=4
-222824662,dagger,dagger/dagger,Go,163,An engine to run your pipelines in containers,603,11191,https://avatars.githubusercontent.com/u/78824383?v=4
-526363266,devbox,jetify-com/devbox,Go,12,"Instant, easy, and predictable development environments",196,8439,https://avatars.githubusercontent.com/u/65328393?v=4
-92702519,sealed-secrets,bitnami-labs/sealed-secrets,Go,5,A Kubernetes controller and tool for one-way encrypted Secrets,680,7601,https://avatars.githubusercontent.com/u/34656521?v=4
-531220682,dice,DiceDB/dice,Go,149,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",959,6110,https://avatars.githubusercontent.com/u/112580013?v=4
-469828818,hanko,teamhanko/hanko,Go,72,The complete Authentication and User Management solution for developers.,843,5871,https://avatars.githubusercontent.com/u/20222142?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,3,"Optimism is Ethereum, scaled.",3224,5587,https://avatars.githubusercontent.com/u/58791460?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,3,Kubernetes controller for GitHub Actions self-hosted runners,1101,4661,https://avatars.githubusercontent.com/u/44036562?v=4
-385634291,mimir,grafana/mimir,Go,4,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",522,4081,https://avatars.githubusercontent.com/u/7195757?v=4
-84610043,aws-load-balancer-controller,kubernetes-sigs/aws-load-balancer-controller,Go,2,A Kubernetes controller for Elastic Load Balancers,1454,3913,https://avatars.githubusercontent.com/u/36015203?v=4
-154894457,gatekeeper,open-policy-agent/gatekeeper,Go,1,🐊 Gatekeeper - Policy Controller for Kubernetes,752,3668,https://avatars.githubusercontent.com/u/16468693?v=4
-638054601,WuKongIM,WuKongIM/WuKongIM,Go,119,不只是即时通讯(IM),384,2783,https://avatars.githubusercontent.com/u/132860831?v=4
-614899368,observability-zero-to-hero,iam-veeramalla/observability-zero-to-hero,Go,15,[WIP]: Repo for learning observability,2037,1378,https://avatars.githubusercontent.com/u/43399466?u=91e78018b666dba78f75f296340e3251942158c9&v=4
+323965659,alist,alist-org/alist,Go,36,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",5536,42786,https://avatars.githubusercontent.com/u/97389433?v=4
+12574344,cobra,spf13/cobra,Go,18,A Commander for modern Go CLI interactions,2838,37883,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+208728772,milvus,milvus-io/milvus,Go,26,"A cloud-native vector database, storage for next generation AI applications",2871,29879,https://avatars.githubusercontent.com/u/51735404?v=4
+43723161,helm,helm/helm,Go,5,The Kubernetes Package Manager,7089,26874,https://avatars.githubusercontent.com/u/15859888?v=4
+120227732,fyne,fyne-io/fyne,Go,10,Cross platform GUI toolkit in Go inspired by Material Design,1377,24850,https://avatars.githubusercontent.com/u/36045855?v=4
+738733003,fabric,danielmiessler/fabric,Go,42,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2520,23637,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+52034309,zap,uber-go/zap,Go,8,"Blazing fast, structured, leveled logging in Go.",1424,21840,https://avatars.githubusercontent.com/u/19262598?v=4
+31558937,teleport,gravitational/teleport,Go,3,"The easiest, and most secure way to access and protect all of your infrastructure.",1745,17451,https://avatars.githubusercontent.com/u/10781132?v=4
+30711774,validator,go-playground/validator,Go,10,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1317,16688,https://avatars.githubusercontent.com/u/14768796?v=4
+134012064,webrtc,pion/webrtc,Go,11,Pure Go implementation of the WebRTC API,1643,13576,https://avatars.githubusercontent.com/u/38192892?v=4
+11206255,sarama,IBM/sarama,Go,3,Sarama is a Go library for Apache Kafka.,1750,11461,https://avatars.githubusercontent.com/u/1459110?v=4
+222824662,dagger,dagger/dagger,Go,27,An engine to run your pipelines in containers,603,11199,https://avatars.githubusercontent.com/u/78824383?v=4
+327859577,juicefs,juicedata/juicefs,Go,7,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,931,10686,https://avatars.githubusercontent.com/u/27241737?v=4
+21306961,fsnotify,fsnotify/fsnotify,Go,1,Cross-platform filesystem notifications for Go.,902,9534,https://avatars.githubusercontent.com/u/8013877?v=4
+40916314,dex,dexidp/dex,Go,4,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,1692,9425,https://avatars.githubusercontent.com/u/42422344?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,6,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3704,9063,https://avatars.githubusercontent.com/u/66682517?v=4
+753490180,daytona,daytonaio/daytona,Go,118,The Open Source Dev Environment Manager.,787,8843,https://avatars.githubusercontent.com/u/130513197?v=4
+54435102,connect,redpanda-data/connect,Go,2,Fancy stream processing made operationally mundane,829,8112,https://avatars.githubusercontent.com/u/49406389?v=4
+258469100,flux2,fluxcd/flux2,Go,1,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,596,6445,https://avatars.githubusercontent.com/u/52158677?v=4
+531220682,dice,DiceDB/dice,Go,64,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",959,6115,https://avatars.githubusercontent.com/u/112580013?v=4
+469828818,hanko,teamhanko/hanko,Go,72,The complete Authentication and User Management solution for developers.,847,5903,https://avatars.githubusercontent.com/u/20222142?v=4
+76686583,kubevirt,kubevirt/kubevirt,Go,5,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,1323,5528,https://avatars.githubusercontent.com/u/18700703?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,2315,2989,https://avatars.githubusercontent.com/u/49998002?v=4
+638054601,WuKongIM,WuKongIM/WuKongIM,Go,119,不只是即时通讯(IM),384,2785,https://avatars.githubusercontent.com/u/132860831?v=4
