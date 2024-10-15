@@ -1,24 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,17,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23759,66670,https://avatars.githubusercontent.com/u/1529926?v=4
-246335987,Ventoy,ventoy/Ventoy,C,33,A new bootable USB solution.,4059,62250,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
-2810292,rufus,pbatard/rufus,C,146,The Reliable USB Formatting Utility,2562,28854,https://avatars.githubusercontent.com/u/1206968?u=ed1be5451352656cffecc840d661bb793c3bad05&v=4
-6201092,mpv,mpv-player/mpv,C,8,🎥 Command line video player,2890,28167,https://avatars.githubusercontent.com/u/2550273?v=4
-24586308,os-tutorial,cfenollosa/os-tutorial,C,7,How to create an OS from scratch,3289,27119,https://avatars.githubusercontent.com/u/2249551?u=89653230eaad2d58b34ad328cca51f3e73144316&v=4
-20159867,stb,nothings/stb,C,15,stb single-file public domain libraries for C/C++,7706,26658,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
-13836499,raylib,raysan5/raylib,C,20,A simple and easy-to-use library to enjoy videogames programming,2237,22168,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-80286288,Tasmota,arendst/Tasmota,C,4,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4780,22080,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-45821540,openwrt,openwrt/openwrt,C,15,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,10376,19964,https://avatars.githubusercontent.com/u/2528830?v=4
-9524997,glfw,glfw/glfw,C,5,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",5204,12970,https://avatars.githubusercontent.com/u/3905364?v=4
-330008801,SDL,libsdl-org/SDL,C,9,Simple Directmedia Layer,1795,9711,https://avatars.githubusercontent.com/u/77683370?v=4
-6376337,poco,pocoproject/poco,C,0,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",2156,8359,https://avatars.githubusercontent.com/u/201918?v=4
-14735429,capstone,capstone-engine/capstone,C,4,"Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",1550,7539,https://avatars.githubusercontent.com/u/13388937?v=4
-204459250,xv6-riscv,mit-pdos/xv6-riscv,C,5,Xv6 for RISC-V,2600,7019,https://avatars.githubusercontent.com/u/12404246?v=4
-131710328,hekate,CTCaer/hekate,C,15,hekate - A GUI based Nintendo Switch Bootloader,570,6647,https://avatars.githubusercontent.com/u/3665130?v=4
-203759896,immortalwrt,immortalwrt/immortalwrt,C,12,An opensource OpenWrt variant for mainland China users.,1719,6085,https://avatars.githubusercontent.com/u/53193414?v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C,36,Port of OpenAI's Whisper model in C/C++,3573,35027,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+102578345,lede,coolsnowwolf/lede,C,4,Lean's LEDE source,19507,29665,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+775743011,valkey,valkey-io/valkey,C,53,A flexible distributed key-value datastore that supports both caching and beyond caching workloads.,621,16737,https://avatars.githubusercontent.com/u/164458127?v=4
+359952601,pgvector,pgvector/pgvector,C,14,Open-source vector similarity search for Postgres,554,12121,https://avatars.githubusercontent.com/u/98363230?v=4
+1979797,FreeRDP,FreeRDP/FreeRDP,C,7,FreeRDP is a free remote desktop protocol library and clients,14796,10894,https://avatars.githubusercontent.com/u/663376?v=4
+901662,libgit2,libgit2/libgit2,C,6,"A cross-platform, linkable library implementation of Git that you can use in your application.",2412,9651,https://avatars.githubusercontent.com/u/394745?v=4
+53614190,mosquitto,eclipse/mosquitto,C,4,Eclipse Mosquitto - An open source MQTT broker,2386,8981,https://avatars.githubusercontent.com/u/56974?v=4
+2328181,freebsd-src,freebsd/freebsd-src,C,4,The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....,2866,7842,https://avatars.githubusercontent.com/u/811839?v=4
+41107037,unicorn,unicorn-engine/unicorn,C,4,"Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",1337,7548,https://avatars.githubusercontent.com/u/13391512?v=4
+1286805,OpenBLAS,OpenMathLib/OpenBLAS,C,1,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1490,6343,https://avatars.githubusercontent.com/u/9943298?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,3,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2569,5269,https://avatars.githubusercontent.com/u/97226525?v=4
+83160811,littlefs,littlefs-project/littlefs,C,2,A little fail-safe filesystem designed for microcontrollers,792,5139,https://avatars.githubusercontent.com/u/60944974?v=4
+6860771,tinyusb,hathach/tinyusb,C,1,An open source  cross-platform USB stack for embedded system,1048,4997,https://avatars.githubusercontent.com/u/249515?u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4
+128791889,haproxy,haproxy/haproxy,C,6,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),790,4904,https://avatars.githubusercontent.com/u/38220289?v=4
+34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,850,4312,https://avatars.githubusercontent.com/u/12173937?v=4
+117704656,ostep-projects,remzi-arpacidusseau/ostep-projects,C,5,Projects for an undergraduate OS course,1208,4240,https://avatars.githubusercontent.com/u/13019127?u=55c39f686682915111b1675a26f7dbffd7e8d6a3&v=4
 317493442,box64,ptitSeb/box64,C,9,"Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices",273,3790,https://avatars.githubusercontent.com/u/3250792?u=f206420ae21c0bbf92fea09871f11adea98adb39&v=4
-23780138,riscv-gnu-toolchain,riscv-collab/riscv-gnu-toolchain,C,1,"GNU toolchain for RISC-V, including GCC",1147,3481,https://avatars.githubusercontent.com/u/89536104?v=4
-595813523,Dopamine,opa334/Dopamine,C,3,Dopamine is a semi-untethered jailbreak for iOS 15 and 16,2224,3446,https://avatars.githubusercontent.com/u/18235760?v=4
-32148604,inav,iNavFlight/inav,C,5,INAV: Navigation-enabled flight control software,1473,3128,https://avatars.githubusercontent.com/u/15979895?v=4
-355718757,ebpf-for-windows,microsoft/ebpf-for-windows,C,4,eBPF implementation that runs on top of Windows,228,2900,https://avatars.githubusercontent.com/u/6154722?v=4
-43677244,pokeemerald,pret/pokeemerald,C,5,Decompilation of Pokémon Emerald,2456,2235,https://avatars.githubusercontent.com/u/10761592?v=4
-795166961,Bruce,pr3y/Bruce,C,5,Predatory ESP32 Firmware,71,428,https://avatars.githubusercontent.com/u/67231282?v=4
+228103273,nuttx,apache/nuttx,C,5,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1146,2760,https://avatars.githubusercontent.com/u/47359?v=4
+573377157,bpf-developer-tutorial,eunomia-bpf/bpf-developer-tutorial,C,9,"eBPF Developer Tutorial: Learning eBPF Step by Step with Examples, from Getting Started to In-Depth Topics",354,2487,https://avatars.githubusercontent.com/u/111646515?v=4
+43677244,pokeemerald,pret/pokeemerald,C,5,Decompilation of Pokémon Emerald,2457,2235,https://avatars.githubusercontent.com/u/10761592?v=4
+367499010,keyball,Yowkees/keyball,C,2,keyball is split keyboard has 100% track ball,415,593,https://avatars.githubusercontent.com/u/84209772?u=04136da5d2a200271a39d25d0eff8bc1c755eb60&v=4
+120317722,sdk-zephyr,nrfconnect/sdk-zephyr,C,2,NCS downstream of https://github.com/zephyrproject-rtos/zephyr,609,264,https://avatars.githubusercontent.com/u/40860733?v=4
