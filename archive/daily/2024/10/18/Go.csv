@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29261473,minio,minio/minio,Go,48,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5475,47474,https://avatars.githubusercontent.com/u/695951?v=4
-208728772,milvus,milvus-io/milvus,Go,29,"A cloud-native vector database, storage for next generation AI applications",2876,29994,https://avatars.githubusercontent.com/u/51735404?v=4
-120227732,fyne,fyne-io/fyne,Go,17,Cross platform GUI toolkit in Go inspired by Material Design,1383,24911,https://avatars.githubusercontent.com/u/36045855?v=4
-109145553,podman,containers/podman,Go,14,Podman: A tool for managing OCI containers and pods.,2389,23508,https://avatars.githubusercontent.com/u/5874934?v=4
-26337322,rancher,rancher/rancher,Go,6,Complete container management platform,2965,23349,https://avatars.githubusercontent.com/u/9343010?v=4
-509091576,sing-box,SagerNet/sing-box,Go,32,The universal proxy platform,2302,19333,https://avatars.githubusercontent.com/u/83217677?v=4
-66841911,excelize,qax-os/excelize,Go,10,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets,1709,18154,https://avatars.githubusercontent.com/u/29733149?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,5,gRPC to JSON proxy generator following the gRPC HTTP spec,2236,18129,https://avatars.githubusercontent.com/u/19352526?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,7,Protect and discover secrets using Gitleaks 🔑,1447,17646,https://avatars.githubusercontent.com/u/90395851?v=4
-131212638,gvisor,google/gvisor,Go,7,Application Kernel for Containers,1293,15728,https://avatars.githubusercontent.com/u/1342004?v=4
-201658460,7days-golang,geektutu/7days-golang,Go,4,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列",2432,15371,https://avatars.githubusercontent.com/u/13294018?u=5586b09871dbf49af015acf45173b0512206aab9&v=4
-193833307,listmonk,knadh/listmonk,Go,9,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",1353,14834,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
-33258973,telegraf,influxdata/telegraf,Go,2,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5564,14584,https://avatars.githubusercontent.com/u/5713248?v=4
-193160679,sqlc,sqlc-dev/sqlc,Go,48,Generate type-safe code from SQL,797,13012,https://avatars.githubusercontent.com/u/136738596?v=4
-147886080,crossplane,crossplane/crossplane,Go,6,The Cloud Native Control Plane,952,9435,https://avatars.githubusercontent.com/u/45158470?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,2,"Optimism is Ethereum, scaled.",3242,5598,https://avatars.githubusercontent.com/u/58791460?v=4
-192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,3,,4071,5265,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
-302670797,scorecard,ossf/scorecard,Go,8,OpenSSF Scorecard - Security health metrics for Open Source,494,4514,https://avatars.githubusercontent.com/u/67707773?v=4
-703404066,go-blueprint,Melkeydev/go-blueprint,Go,59,Go-blueprint allows users to spin up a quick Go project using a popular framework,255,4194,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
-124157517,cluster-api,kubernetes-sigs/cluster-api,Go,1,"Home for Cluster API, a subproject of sig-cluster-lifecycle",1304,3540,https://avatars.githubusercontent.com/u/36015203?v=4
-558188628,higress,alibaba/higress,Go,17,🤖 AI Gateway | AI Native API Gateway,490,3099,https://avatars.githubusercontent.com/u/1961952?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,6,Contrib repository for the OpenTelemetry Collector,2327,3012,https://avatars.githubusercontent.com/u/49998002?v=4
-136494223,controller-runtime,kubernetes-sigs/controller-runtime,Go,25,Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery),1140,2532,https://avatars.githubusercontent.com/u/36015203?v=4
+658928958,ollama,ollama/ollama,Go,148,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7409,93750,https://avatars.githubusercontent.com/u/151674099?v=4
+29261473,minio,minio/minio,Go,48,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5476,47478,https://avatars.githubusercontent.com/u/695951?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,16,A node.js version management utility for Windows. Ironically written in Go.,3327,37491,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+208728772,milvus,milvus-io/milvus,Go,31,"A cloud-native vector database, storage for next generation AI applications",2877,29995,https://avatars.githubusercontent.com/u/51735404?v=4
+167596393,k9s,derailed/k9s,Go,21,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1689,26915,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+6247705,testify,stretchr/testify,Go,6,A toolkit with common assertions and mocks that plays nicely with the standard library,1594,23278,https://avatars.githubusercontent.com/u/1841476?v=4
+27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4365,20996,https://avatars.githubusercontent.com/u/7802525?v=4
+5179099,go-redis,redis/go-redis,Go,6,Redis Go client,2360,19997,https://avatars.githubusercontent.com/u/1529926?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,18,Declarative Continuous Deployment for Kubernetes,5398,17709,https://avatars.githubusercontent.com/u/30269780?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,7,Protect and discover secrets using Gitleaks 🔑,1448,17651,https://avatars.githubusercontent.com/u/90395851?v=4
+46089560,containerd,containerd/containerd,Go,12,An open and reliable container runtime,3430,17307,https://avatars.githubusercontent.com/u/14037953?v=4
+119419195,kaniko,GoogleContainerTools/kaniko,Go,4,Build Container Images In Kubernetes,1434,14749,https://avatars.githubusercontent.com/u/38444003?v=4
+9120526,pgx,jackc/pgx,Go,13,PostgreSQL driver and toolkit for Go,832,10573,https://avatars.githubusercontent.com/u/94130?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,10,The AWS Provider enables Terraform to manage AWS resources.,9149,9796,https://avatars.githubusercontent.com/u/761456?v=4
+170411418,keda,kedacore/keda,Go,5, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1062,8420,https://avatars.githubusercontent.com/u/49917779?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,2,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,971,8010,https://avatars.githubusercontent.com/u/17118990?v=4
+109451092,talos,siderolabs/talos,Go,9,Talos Linux is a modern Linux distribution built for Kubernetes.,533,6667,https://avatars.githubusercontent.com/u/13804887?v=4
+63882194,calico,projectcalico/calico,Go,16,Cloud native networking and network security,1324,5959,https://avatars.githubusercontent.com/u/12304728?v=4
+703404066,go-blueprint,Melkeydev/go-blueprint,Go,59,Go-blueprint allows users to spin up a quick Go project using a popular framework,255,4193,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
+19608522,google-cloud-go,googleapis/google-cloud-go,Go,1,Google Cloud Client Libraries for Go.,1284,3737,https://avatars.githubusercontent.com/u/16785467?v=4
+558188628,higress,alibaba/higress,Go,152,🤖 AI Gateway | AI Native API Gateway,491,3102,https://avatars.githubusercontent.com/u/1961952?v=4
+764670636,alloy,grafana/alloy,Go,4,OpenTelemetry Collector distribution with programmable pipelines,193,1357,https://avatars.githubusercontent.com/u/7195757?v=4
+726261658,greenmask,GreenmaskIO/greenmask,Go,79,PostgreSQL database anonymization and synthetic data generation tool,16,944,https://avatars.githubusercontent.com/u/142438751?v=4
