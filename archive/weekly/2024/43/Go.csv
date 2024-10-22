@@ -1,24 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,595,"A curated list of awesome Go frameworks, libraries and software",11872,131088,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-6838921,prometheus,prometheus/prometheus,Go,109,The Prometheus monitoring system and time series database.,9105,55366,https://avatars.githubusercontent.com/u/3380462?v=4
-29261473,minio,minio/minio,Go,333,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5487,47609,https://avatars.githubusercontent.com/u/695951?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,84,Go implementation of the Ethereum protocol,20073,47424,https://avatars.githubusercontent.com/u/6250754?v=4
-208728772,milvus,milvus-io/milvus,Go,171,"A cloud-native vector database, storage for next generation AI applications",2882,30067,https://avatars.githubusercontent.com/u/51735404?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,142,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3894,25019,https://avatars.githubusercontent.com/u/71564206?v=4
-129717717,loki,grafana/loki,Go,71,"Like Prometheus, but for logs.",3415,23680,https://avatars.githubusercontent.com/u/7195757?v=4
+21540759,awesome-go,avelino/awesome-go,Go,595,"A curated list of awesome Go frameworks, libraries and software",11874,131101,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,178,Production-Grade Container Scheduling and Management,39537,110601,https://avatars.githubusercontent.com/u/13629408?v=4
+658928958,ollama,ollama/ollama,Go,999,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7461,94300,https://avatars.githubusercontent.com/u/151674099?v=4
+29261473,minio,minio/minio,Go,333,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5487,47614,https://avatars.githubusercontent.com/u/695951?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,84,Go implementation of the Ethereum protocol,20073,47426,https://avatars.githubusercontent.com/u/6250754?v=4
+208728772,milvus,milvus-io/milvus,Go,171,"A cloud-native vector database, storage for next generation AI applications",2882,30074,https://avatars.githubusercontent.com/u/51735404?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,135,Network-wide ads & trackers blocking DNS server,1805,25162,https://avatars.githubusercontent.com/u/8361145?v=4
+129717717,loki,grafana/loki,Go,71,"Like Prometheus, but for logs.",3416,23681,https://avatars.githubusercontent.com/u/7195757?v=4
 6247705,testify,stretchr/testify,Go,100,A toolkit with common assertions and mocks that plays nicely with the standard library,1594,23345,https://avatars.githubusercontent.com/u/1841476?v=4
-165041732,kratos,go-kratos/kratos,Go,35,Your ultimate Go microservices framework for the cloud-native era.,4002,23268,https://avatars.githubusercontent.com/u/62791634?v=4
-41349039,dgraph,dgraph-io/dgraph,Go,22,The high-performance database for modern applications,1499,20388,https://avatars.githubusercontent.com/u/13958706?v=4
-509091576,sing-box,SagerNet/sing-box,Go,235,The universal proxy platform,2316,19442,https://avatars.githubusercontent.com/u/83217677?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,85,Protect and discover secrets using Gitleaks 🔑,1450,17695,https://avatars.githubusercontent.com/u/90395851?v=4
-31311037,chisel,jpillora/chisel,Go,244,A fast TCP/UDP tunnel over HTTP,1371,13120,https://avatars.githubusercontent.com/u/633843?v=4
-193160679,sqlc,sqlc-dev/sqlc,Go,515,Generate type-safe code from SQL,801,13113,https://avatars.githubusercontent.com/u/136738596?v=4
-154643390,phoneinfoga,sundowndev/phoneinfoga,Go,56,Information gathering framework for phone numbers,3627,12980,https://avatars.githubusercontent.com/u/16480203?u=27b8958fdc114d7e7703404441bb611a59d0321f&v=4
-357897199,netbird,netbirdio/netbird,Go,75,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",494,10936,https://avatars.githubusercontent.com/u/100464677?v=4
-9120526,pgx,jackc/pgx,Go,72,PostgreSQL driver and toolkit for Go,835,10604,https://avatars.githubusercontent.com/u/94130?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,26,The AWS Provider enables Terraform to manage AWS resources.,9148,9801,https://avatars.githubusercontent.com/u/761456?v=4
-318476701,nerdctl,containerd/nerdctl,Go,34,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...",597,8058,https://avatars.githubusercontent.com/u/14037953?v=4
-469828818,hanko,teamhanko/hanko,Go,626,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,891,7057,https://avatars.githubusercontent.com/u/20222142?v=4
-7823926,client_golang,prometheus/client_golang,Go,14,Prometheus instrumentation library for Go applications,1179,5391,https://avatars.githubusercontent.com/u/3380462?v=4
-703404066,go-blueprint,Melkeydev/go-blueprint,Go,311,Go-blueprint allows users to spin up a quick Go project using a popular framework,256,4327,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
-614899368,observability-zero-to-hero,iam-veeramalla/observability-zero-to-hero,Go,67,[WIP]: Repo for learning observability,2145,1457,https://avatars.githubusercontent.com/u/43399466?u=91e78018b666dba78f75f296340e3251942158c9&v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,306,🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。,2032,22444,https://avatars.githubusercontent.com/u/109613420?v=4
+5179099,go-redis,redis/go-redis,Go,44,Redis Go client,2363,20019,https://avatars.githubusercontent.com/u/1529926?v=4
+509091576,sing-box,SagerNet/sing-box,Go,235,The universal proxy platform,2316,19445,https://avatars.githubusercontent.com/u/83217677?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,85,Protect and discover secrets using Gitleaks 🔑,1450,17697,https://avatars.githubusercontent.com/u/90395851?v=4
+31311037,chisel,jpillora/chisel,Go,244,A fast TCP/UDP tunnel over HTTP,1371,13126,https://avatars.githubusercontent.com/u/633843?v=4
+193160679,sqlc,sqlc-dev/sqlc,Go,515,Generate type-safe code from SQL,801,13116,https://avatars.githubusercontent.com/u/136738596?v=4
+154643390,phoneinfoga,sundowndev/phoneinfoga,Go,56,Information gathering framework for phone numbers,3629,12984,https://avatars.githubusercontent.com/u/16480203?u=27b8958fdc114d7e7703404441bb611a59d0321f&v=4
+9120526,pgx,jackc/pgx,Go,72,PostgreSQL driver and toolkit for Go,835,10606,https://avatars.githubusercontent.com/u/94130?v=4
+469828818,hanko,teamhanko/hanko,Go,626,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,892,7062,https://avatars.githubusercontent.com/u/20222142?v=4
+150713223,kubeedge,kubeedge/kubeedge,Go,43,Kubernetes Native Edge Computing Framework (project under CNCF),1723,6747,https://avatars.githubusercontent.com/u/41812520?v=4
+63882194,calico,projectcalico/calico,Go,37,Cloud native networking and network security,1328,5970,https://avatars.githubusercontent.com/u/12304728?v=4
+703404066,go-blueprint,Melkeydev/go-blueprint,Go,311,Go-blueprint allows users to spin up a quick Go project using a popular framework,256,4329,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
+558188628,higress,alibaba/higress,Go,216,🤖 AI Gateway | AI Native API Gateway,495,3137,https://avatars.githubusercontent.com/u/1961952?v=4
+614899368,observability-zero-to-hero,iam-veeramalla/observability-zero-to-hero,Go,67,[WIP]: Repo for learning observability,2147,1458,https://avatars.githubusercontent.com/u/43399466?u=91e78018b666dba78f75f296340e3251942158c9&v=4
+352095949,eth-faucet,chainflag/eth-faucet,Go,31,Ether faucet server built with Go and Svelte.,159,235,https://avatars.githubusercontent.com/u/80571913?v=4
