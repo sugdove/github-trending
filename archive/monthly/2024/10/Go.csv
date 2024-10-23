@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,2147,"A curated list of awesome Go frameworks, libraries and software",11874,131116,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-134017286,lazygit,jesseduffield/lazygit,Go,1436,simple terminal UI for git commands,1826,52244,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-17803236,rclone,rclone/rclone,Go,644,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4185,46834,https://avatars.githubusercontent.com/u/24937341?v=4
-54400687,k6,grafana/k6,Go,638,"A modern load testing tool, using Go and JavaScript - https://k6.io",1260,25706,https://avatars.githubusercontent.com/u/7195757?v=4
-129717717,loki,grafana/loki,Go,291,"Like Prometheus, but for logs.",3417,23682,https://avatars.githubusercontent.com/u/7195757?v=4
-6247705,testify,stretchr/testify,Go,307,A toolkit with common assertions and mocks that plays nicely with the standard library,1593,23349,https://avatars.githubusercontent.com/u/1841476?v=4
-39038086,watchtower,containrrr/watchtower,Go,612,A process for automating Docker container base image updates. ,853,19168,https://avatars.githubusercontent.com/u/49166261?v=4
-40684033,sops,getsops/sops,Go,390,Simple and flexible tool for managing secrets,872,16779,https://avatars.githubusercontent.com/u/129185620?v=4
-31311037,chisel,jpillora/chisel,Go,345,A fast TCP/UDP tunnel over HTTP,1371,13137,https://avatars.githubusercontent.com/u/633843?v=4
-193160679,sqlc,sqlc-dev/sqlc,Go,840,Generate type-safe code from SQL,801,13126,https://avatars.githubusercontent.com/u/136738596?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,121,Automatically provision and manage TLS certificates in Kubernetes,2076,12057,https://avatars.githubusercontent.com/u/39950598?v=4
-222824662,dagger,dagger/dagger,Go,470,An engine to run your pipelines in containers,607,11377,https://avatars.githubusercontent.com/u/78824383?v=4
-299832860,livekit,livekit/livekit,Go,646,End-to-end stack for WebRTC. SFU media server and SDKs.,847,10232,https://avatars.githubusercontent.com/u/69438833?v=4
+21540759,awesome-go,avelino/awesome-go,Go,2162,"A curated list of awesome Go frameworks, libraries and software",11875,131124,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+134017286,lazygit,jesseduffield/lazygit,Go,1417,simple terminal UI for git commands,1826,52248,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+17803236,rclone,rclone/rclone,Go,645,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4185,46835,https://avatars.githubusercontent.com/u/24937341?v=4
+54400687,k6,grafana/k6,Go,641,"A modern load testing tool, using Go and JavaScript - https://k6.io",1261,25707,https://avatars.githubusercontent.com/u/7195757?v=4
+129717717,loki,grafana/loki,Go,301,"Like Prometheus, but for logs.",3417,23684,https://avatars.githubusercontent.com/u/7195757?v=4
+6247705,testify,stretchr/testify,Go,312,A toolkit with common assertions and mocks that plays nicely with the standard library,1593,23349,https://avatars.githubusercontent.com/u/1841476?v=4
+39038086,watchtower,containrrr/watchtower,Go,608,A process for automating Docker container base image updates. ,853,19168,https://avatars.githubusercontent.com/u/49166261?v=4
+40684033,sops,getsops/sops,Go,395,Simple and flexible tool for managing secrets,872,16780,https://avatars.githubusercontent.com/u/129185620?v=4
+31311037,chisel,jpillora/chisel,Go,410,A fast TCP/UDP tunnel over HTTP,1371,13138,https://avatars.githubusercontent.com/u/633843?v=4
+193160679,sqlc,sqlc-dev/sqlc,Go,847,Generate type-safe code from SQL,801,13127,https://avatars.githubusercontent.com/u/136738596?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,123,Automatically provision and manage TLS certificates in Kubernetes,2076,12058,https://avatars.githubusercontent.com/u/39950598?v=4
+222824662,dagger,dagger/dagger,Go,472,An engine to run your pipelines in containers,607,11376,https://avatars.githubusercontent.com/u/78824383?v=4
+299832860,livekit,livekit/livekit,Go,663,End-to-end stack for WebRTC. SFU media server and SDKs.,847,10234,https://avatars.githubusercontent.com/u/69438833?v=4
 121086193,gqlgen,99designs/gqlgen,Go,76,go generate based graphql server library,1164,9938,https://avatars.githubusercontent.com/u/17182?v=4
-106867604,cloudflared,cloudflare/cloudflared,Go,242,Cloudflare Tunnel client (formerly Argo Tunnel),799,9105,https://avatars.githubusercontent.com/u/314135?v=4
-469828818,hanko,teamhanko/hanko,Go,1378,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,894,7073,https://avatars.githubusercontent.com/u/20222142?v=4
-531220682,dice,DiceDB/dice,Go,2039,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",1032,6501,https://avatars.githubusercontent.com/u/112580013?v=4
-11931032,btcd,btcsuite/btcd,Go,58,An alternative full node bitcoin implementation written in Go (golang),2362,6231,https://avatars.githubusercontent.com/u/10235229?v=4
-216628419,flyte,flyteorg/flyte,Go,251,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",639,5683,https://avatars.githubusercontent.com/u/35380635?v=4
-449649393,keploy,keploy/keploy,Go,1117,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,465,4981,https://avatars.githubusercontent.com/u/92252339?v=4
-526081371,go2rtc,AlexxIT/go2rtc,Go,575,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",396,4906,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
-201546443,assets,trustwallet/assets,Go,66,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22598,4598,https://avatars.githubusercontent.com/u/32179889?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,36,Main repository for Datadog Agent,1201,2865,https://avatars.githubusercontent.com/u/365230?v=4
+106867604,cloudflared,cloudflare/cloudflared,Go,243,Cloudflare Tunnel client (formerly Argo Tunnel),799,9106,https://avatars.githubusercontent.com/u/314135?v=4
+469828818,hanko,teamhanko/hanko,Go,1409,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,894,7073,https://avatars.githubusercontent.com/u/20222142?v=4
+531220682,dice,DiceDB/dice,Go,2051,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",1032,6503,https://avatars.githubusercontent.com/u/112580013?v=4
+11931032,btcd,btcsuite/btcd,Go,59,An alternative full node bitcoin implementation written in Go (golang),2362,6231,https://avatars.githubusercontent.com/u/10235229?v=4
+216628419,flyte,flyteorg/flyte,Go,255,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",639,5684,https://avatars.githubusercontent.com/u/35380635?v=4
+449649393,keploy,keploy/keploy,Go,1121,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,465,4981,https://avatars.githubusercontent.com/u/92252339?v=4
+526081371,go2rtc,AlexxIT/go2rtc,Go,601,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",396,4908,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
+201546443,assets,trustwallet/assets,Go,65,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22599,4598,https://avatars.githubusercontent.com/u/32179889?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,35,Main repository for Datadog Agent,1201,2865,https://avatars.githubusercontent.com/u/365230?v=4
