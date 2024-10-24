@@ -1,17 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,2156,"A curated list of awesome Go frameworks, libraries and software",11879,131171,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-134017286,lazygit,jesseduffield/lazygit,Go,1400,simple terminal UI for git commands,1826,52288,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-17803236,rclone,rclone/rclone,Go,636,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4186,46851,https://avatars.githubusercontent.com/u/24937341?v=4
+21540759,awesome-go,avelino/awesome-go,Go,2156,"A curated list of awesome Go frameworks, libraries and software",11880,131176,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+134017286,lazygit,jesseduffield/lazygit,Go,1400,simple terminal UI for git commands,1826,52289,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+17803236,rclone,rclone/rclone,Go,636,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4188,46852,https://avatars.githubusercontent.com/u/24937341?v=4
 54400687,k6,grafana/k6,Go,644,"A modern load testing tool, using Go and JavaScript - https://k6.io",1263,25720,https://avatars.githubusercontent.com/u/7195757?v=4
-129717717,loki,grafana/loki,Go,305,"Like Prometheus, but for logs.",3421,23701,https://avatars.githubusercontent.com/u/7195757?v=4
-6247705,testify,stretchr/testify,Go,313,A toolkit with common assertions and mocks that plays nicely with the standard library,1593,23353,https://avatars.githubusercontent.com/u/1841476?v=4
-180687624,trivy,aquasecurity/trivy,Go,416,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2305,23334,https://avatars.githubusercontent.com/u/12783832?v=4
-40684033,sops,getsops/sops,Go,400,Simple and flexible tool for managing secrets,872,16798,https://avatars.githubusercontent.com/u/129185620?v=4
-31311037,chisel,jpillora/chisel,Go,427,A fast TCP/UDP tunnel over HTTP,1371,13161,https://avatars.githubusercontent.com/u/633843?v=4
-92313258,cert-manager,cert-manager/cert-manager,Go,125,Automatically provision and manage TLS certificates in Kubernetes,2077,12065,https://avatars.githubusercontent.com/u/39950598?v=4
-299832860,livekit,livekit/livekit,Go,667,End-to-end stack for WebRTC. SFU media server and SDKs.,847,10248,https://avatars.githubusercontent.com/u/69438833?v=4
-531220682,dice,DiceDB/dice,Go,2057,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",1037,6527,https://avatars.githubusercontent.com/u/112580013?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,556,Network-wide ads & trackers blocking DNS server,1806,25189,https://avatars.githubusercontent.com/u/8361145?v=4
+129717717,loki,grafana/loki,Go,305,"Like Prometheus, but for logs.",3421,23704,https://avatars.githubusercontent.com/u/7195757?v=4
+6247705,testify,stretchr/testify,Go,313,A toolkit with common assertions and mocks that plays nicely with the standard library,1594,23353,https://avatars.githubusercontent.com/u/1841476?v=4
+180687624,trivy,aquasecurity/trivy,Go,416,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2305,23336,https://avatars.githubusercontent.com/u/12783832?v=4
+40684033,sops,getsops/sops,Go,400,Simple and flexible tool for managing secrets,872,16799,https://avatars.githubusercontent.com/u/129185620?v=4
+6443435,nats-server,nats-io/nats-server,Go,252,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1397,15816,https://avatars.githubusercontent.com/u/10203055?v=4
+31311037,chisel,jpillora/chisel,Go,427,A fast TCP/UDP tunnel over HTTP,1371,13166,https://avatars.githubusercontent.com/u/633843?v=4
+193160679,sqlc,sqlc-dev/sqlc,Go,858,Generate type-safe code from SQL,801,13152,https://avatars.githubusercontent.com/u/136738596?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,125,Automatically provision and manage TLS certificates in Kubernetes,2077,12066,https://avatars.githubusercontent.com/u/39950598?v=4
+299832860,livekit,livekit/livekit,Go,667,End-to-end stack for WebRTC. SFU media server and SDKs.,847,10249,https://avatars.githubusercontent.com/u/69438833?v=4
+26639347,gobuster,OJ/gobuster,Go,319,"Directory/File, DNS and VHost busting tool written in Go",1190,9912,https://avatars.githubusercontent.com/u/28896?u=391df1f79c3e364dc3578a8ac3ff8cfd6c54a106&v=4
+106867604,cloudflared,cloudflare/cloudflared,Go,244,Cloudflare Tunnel client (formerly Argo Tunnel),800,9115,https://avatars.githubusercontent.com/u/314135?v=4
+469828818,hanko,teamhanko/hanko,Go,1423,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,895,7094,https://avatars.githubusercontent.com/u/20222142?v=4
+531220682,dice,DiceDB/dice,Go,2057,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",1038,6533,https://avatars.githubusercontent.com/u/112580013?v=4
 11931032,btcd,btcsuite/btcd,Go,58,An alternative full node bitcoin implementation written in Go (golang),2362,6233,https://avatars.githubusercontent.com/u/10235229?v=4
-216628419,flyte,flyteorg/flyte,Go,261,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",640,5688,https://avatars.githubusercontent.com/u/35380635?v=4
-449649393,keploy,keploy/keploy,Go,1124,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,466,4984,https://avatars.githubusercontent.com/u/92252339?v=4
+216628419,flyte,flyteorg/flyte,Go,261,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",640,5689,https://avatars.githubusercontent.com/u/35380635?v=4
+449649393,keploy,keploy/keploy,Go,1124,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,466,4987,https://avatars.githubusercontent.com/u/92252339?v=4
+526081371,go2rtc,AlexxIT/go2rtc,Go,611,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",397,4934,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
 201546443,assets,trustwallet/assets,Go,65,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22604,4598,https://avatars.githubusercontent.com/u/32179889?v=4
