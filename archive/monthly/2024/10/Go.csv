@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,2177,"A curated list of awesome Go frameworks, libraries and software",11884,131331,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
-29261473,minio,minio/minio,Go,836,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5493,47730,https://avatars.githubusercontent.com/u/695951?v=4
+21540759,awesome-go,avelino/awesome-go,Go,2177,"A curated list of awesome Go frameworks, libraries and software",11884,131345,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+29261473,minio,minio/minio,Go,836,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5493,47734,https://avatars.githubusercontent.com/u/695951?v=4
 54400687,k6,grafana/k6,Go,656,"A modern load testing tool, using Go and JavaScript - https://k6.io",1265,25767,https://avatars.githubusercontent.com/u/7195757?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,577,Network-wide ads & trackers blocking DNS server,1812,25246,https://avatars.githubusercontent.com/u/8361145?v=4
-180687624,trivy,aquasecurity/trivy,Go,424,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2307,23372,https://avatars.githubusercontent.com/u/12783832?v=4
-6247705,testify,stretchr/testify,Go,303,A toolkit with common assertions and mocks that plays nicely with the standard library,1594,23362,https://avatars.githubusercontent.com/u/1841476?v=4
-193833307,listmonk,knadh/listmonk,Go,395,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",1369,15010,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,577,Network-wide ads & trackers blocking DNS server,1812,25249,https://avatars.githubusercontent.com/u/8361145?v=4
+180687624,trivy,aquasecurity/trivy,Go,424,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2306,23376,https://avatars.githubusercontent.com/u/12783832?v=4
+6247705,testify,stretchr/testify,Go,303,A toolkit with common assertions and mocks that plays nicely with the standard library,1594,23363,https://avatars.githubusercontent.com/u/1841476?v=4
+193833307,listmonk,knadh/listmonk,Go,395,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",1369,15012,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
 193160679,sqlc,sqlc-dev/sqlc,Go,878,Generate type-safe code from SQL,802,13196,https://avatars.githubusercontent.com/u/136738596?v=4
-31311037,chisel,jpillora/chisel,Go,443,A fast TCP/UDP tunnel over HTTP,1373,13188,https://avatars.githubusercontent.com/u/633843?v=4
+31311037,chisel,jpillora/chisel,Go,443,A fast TCP/UDP tunnel over HTTP,1373,13189,https://avatars.githubusercontent.com/u/633843?v=4
 92313258,cert-manager,cert-manager/cert-manager,Go,123,Automatically provision and manage TLS certificates in Kubernetes,2078,12073,https://avatars.githubusercontent.com/u/39950598?v=4
 222824662,dagger,dagger/dagger,Go,470,An engine to run your pipelines in containers,608,11390,https://avatars.githubusercontent.com/u/78824383?v=4
-299832860,livekit,livekit/livekit,Go,662,End-to-end stack for WebRTC. SFU media server and SDKs.,853,10293,https://avatars.githubusercontent.com/u/69438833?v=4
-26639347,gobuster,OJ/gobuster,Go,341,"Directory/File, DNS and VHost busting tool written in Go",1192,9945,https://avatars.githubusercontent.com/u/28896?u=391df1f79c3e364dc3578a8ac3ff8cfd6c54a106&v=4
-753490180,daytona,daytonaio/daytona,Go,987,The Open Source Dev Environment Manager.,801,9509,https://avatars.githubusercontent.com/u/130513197?v=4
+299832860,livekit,livekit/livekit,Go,662,End-to-end stack for WebRTC. SFU media server and SDKs.,853,10296,https://avatars.githubusercontent.com/u/69438833?v=4
+26639347,gobuster,OJ/gobuster,Go,341,"Directory/File, DNS and VHost busting tool written in Go",1192,9947,https://avatars.githubusercontent.com/u/28896?u=391df1f79c3e364dc3578a8ac3ff8cfd6c54a106&v=4
+753490180,daytona,daytonaio/daytona,Go,987,The Open Source Dev Environment Manager.,800,9331,https://avatars.githubusercontent.com/u/130513197?v=4
 592748160,devpod,loft-sh/devpod,Go,277,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",337,8942,https://avatars.githubusercontent.com/u/65466868?v=4
 267054247,grype,anchore/grype,Go,162,A vulnerability scanner for container images and filesystems,567,8681,https://avatars.githubusercontent.com/u/16208487?v=4
-531220682,dice,DiceDB/dice,Go,2057,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",1041,6575,https://avatars.githubusercontent.com/u/112580013?v=4
+531220682,dice,DiceDB/dice,Go,2057,"DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",1041,6582,https://avatars.githubusercontent.com/u/112580013?v=4
 11931032,btcd,btcsuite/btcd,Go,57,An alternative full node bitcoin implementation written in Go (golang),2362,6235,https://avatars.githubusercontent.com/u/10235229?v=4
-216628419,flyte,flyteorg/flyte,Go,258,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",640,5706,https://avatars.githubusercontent.com/u/35380635?v=4
-449649393,keploy,keploy/keploy,Go,1132,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,466,5000,https://avatars.githubusercontent.com/u/92252339?v=4
+216628419,flyte,flyteorg/flyte,Go,258,"Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.",640,5707,https://avatars.githubusercontent.com/u/35380635?v=4
+449649393,keploy,keploy/keploy,Go,1132,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,466,5001,https://avatars.githubusercontent.com/u/92252339?v=4
 526081371,go2rtc,AlexxIT/go2rtc,Go,630,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",397,4968,https://avatars.githubusercontent.com/u/511909?u=e204ee17a09c8f5949b1322cb26aa5700d7422ba&v=4
 201546443,assets,trustwallet/assets,Go,65,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22608,4605,https://avatars.githubusercontent.com/u/32179889?v=4
-709242076,gofr,gofr-dev/gofr,Go,1145,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,233,3542,https://avatars.githubusercontent.com/u/146108433?v=4
+709242076,gofr,gofr-dev/gofr,Go,1145,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,233,3541,https://avatars.githubusercontent.com/u/146108433?v=4
