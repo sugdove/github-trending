@@ -1,26 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-11180687,hugo,gohugoio/hugo,Go,21,The world’s fastest framework for building websites.,7506,75529,https://avatars.githubusercontent.com/u/29385237?v=4
-12574344,cobra,spf13/cobra,Go,13,A Commander for modern Go CLI interactions,2847,38038,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-26337322,rancher,rancher/rancher,Go,2,Complete container management platform,2968,23379,https://avatars.githubusercontent.com/u/9343010?v=4
-165041732,kratos,go-kratos/kratos,Go,6,Your ultimate Go microservices framework for the cloud-native era.,4006,23293,https://avatars.githubusercontent.com/u/62791634?v=4
-123572362,learn-go-with-tests,quii/learn-go-with-tests,Go,5,Learn Go with test-driven development,2803,22129,https://avatars.githubusercontent.com/u/631756?u=123f719ea9c1d667afedfef562c6b1b3b929d483&v=4
-77071454,goreleaser,goreleaser/goreleaser,Go,4,Deliver Go binaries as fast and easily as possible,942,13753,https://avatars.githubusercontent.com/u/24697112?v=4
-148545807,kind,kubernetes-sigs/kind,Go,7,Kubernetes IN Docker - local clusters for testing Kubernetes,1556,13442,https://avatars.githubusercontent.com/u/36015203?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,9,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1522,12141,https://avatars.githubusercontent.com/u/126152966?v=4
-55072677,weaviate,weaviate/weaviate,Go,18,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",782,11235,https://avatars.githubusercontent.com/u/37794290?v=4
-299832860,livekit,livekit/livekit,Go,12,End-to-end stack for WebRTC. SFU media server and SDKs.,853,10301,https://avatars.githubusercontent.com/u/69438833?v=4
-753490180,daytona,daytonaio/daytona,Go,194,The Open Source Dev Environment Manager.,800,9413,https://avatars.githubusercontent.com/u/130513197?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3966,8049,https://avatars.githubusercontent.com/u/13629408?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,3,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,975,8042,https://avatars.githubusercontent.com/u/17118990?v=4
-139727567,Reloader,stakater/Reloader,Go,5,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",506,7586,https://avatars.githubusercontent.com/u/15930712?v=4
-384451028,kitex,cloudwego/kitex,Go,1,Go RPC framework with high-performance and strong-extensibility for building micro-services.,811,6995,https://avatars.githubusercontent.com/u/79236453?v=4
-140958903,expr,expr-lang/expr,Go,3,Expression language and expression evaluation for Go,398,6224,https://avatars.githubusercontent.com/u/144815908?v=4
-192178626,docker-development-youtube-series,marcel-dempers/docker-development-youtube-series,Go,3,,4077,5278,https://avatars.githubusercontent.com/u/34320559?u=8b1daab2937d0174c953379c3fd05bb2f89bab2c&v=4
-396856161,spicedb,authzed/spicedb,Go,4,"Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",273,5080,https://avatars.githubusercontent.com/u/73313589?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,3,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,829,4399,https://avatars.githubusercontent.com/u/68335991?v=4
-175592968,volcano,volcano-sh/volcano,Go,1,A Cloud Native Batch System (Project under CNCF),962,4178,https://avatars.githubusercontent.com/u/47214749?v=4
-605995490,digger,diggerhq/digger,Go,90,Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  ,432,3910,https://avatars.githubusercontent.com/u/71334590?v=4
-106473613,k8s-device-plugin,NVIDIA/k8s-device-plugin,Go,2,NVIDIA device plugin for Kubernetes,619,2776,https://avatars.githubusercontent.com/u/1728152?v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,1,Progressive Delivery for Kubernetes,866,2755,https://avatars.githubusercontent.com/u/30269780?v=4
-486038209,XrayR,XrayR-project/XrayR,Go,1,"A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接",836,2090,https://avatars.githubusercontent.com/u/80372356?v=4
-320579524,go-feature-flag,thomaspoignant/go-feature-flag,Go,28,"GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",137,1414,https://avatars.githubusercontent.com/u/17908063?u=c37bf6c1a8d800c7dcff9bc83c461f95c441c528&v=4
+13807606,fzf,junegunn/fzf,Go,35,:cherry_blossom: A command-line fuzzy finder,2385,64875,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,9,A platform for building proxies to bypass network restrictions.,4639,29365,https://avatars.githubusercontent.com/u/49637375?v=4
+161951219,wails,wailsapp/wails,Go,17,Create beautiful applications using Go,1208,25114,https://avatars.githubusercontent.com/u/39746503?v=4
+136505169,tinygo,tinygo-org/tinygo,Go,10,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",906,15345,https://avatars.githubusercontent.com/u/45223613?v=4
+118654121,skaffold,GoogleContainerTools/skaffold,Go,4,Easy and Repeatable Kubernetes Development,1619,15014,https://avatars.githubusercontent.com/u/38444003?v=4
+626896474,SafeLine,chaitin/SafeLine,Go,22,serve as a reverse proxy to protect your web services from attacks and exploits.,778,12350,https://avatars.githubusercontent.com/u/7302766?v=4
+290437899,ddns-go,jeessy2/ddns-go,Go,12,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",1361,11838,https://avatars.githubusercontent.com/u/6205259?u=0668f056159f7ab885b1749c10400aa50893da5b&v=4
+52481933,navidrome,navidrome/navidrome,Go,9,🎧☁️ Your Personal Streaming Service,883,11792,https://avatars.githubusercontent.com/u/26692192?v=4
+55072677,weaviate,weaviate/weaviate,Go,12,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",782,11234,https://avatars.githubusercontent.com/u/37794290?v=4
+127519518,subfinder,projectdiscovery/subfinder,Go,4,Fast passive subdomain enumeration tool.,1272,10171,https://avatars.githubusercontent.com/u/50994705?v=4
+65616765,lf,gokcehan/lf,Go,4,Terminal file manager,332,7735,https://avatars.githubusercontent.com/u/1835672?v=4
+94779471,kube-bench,aquasecurity/kube-bench,Go,4,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1220,7026,https://avatars.githubusercontent.com/u/12783832?v=4
+109451092,talos,siderolabs/talos,Go,13,Talos Linux is a modern Linux distribution built for Kubernetes.,537,6727,https://avatars.githubusercontent.com/u/13804887?v=4
+289524449,scrutiny,AnalogJ/scrutiny,Go,25,"Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",166,5177,https://avatars.githubusercontent.com/u/891875?u=9420c24acf0c86e48cd77f8cb44d1f560fccecb5&v=4
+605995490,digger,diggerhq/digger,Go,59,Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  ,440,3917,https://avatars.githubusercontent.com/u/71334590?v=4
+363910063,bun,uptrace/bun,Go,9,SQL-first Golang ORM,228,3704,https://avatars.githubusercontent.com/u/64948717?v=4
+441833482,SpoofDPI,xvzc/SpoofDPI,Go,9,A simple and fast anti-censorship tool written in Go,254,3678,https://avatars.githubusercontent.com/u/45588457?u=16d2ea7a2149740ce214e24b9354ab8879d7c590&v=4
+226368338,evcc,evcc-io/evcc,Go,3,Sonne tanken ☀️🚘,646,3491,https://avatars.githubusercontent.com/u/81383504?v=4
+717197250,new-api,Calcium-Ion/new-api,Go,8,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。,795,3318,https://avatars.githubusercontent.com/u/61247483?v=4
+825470378,beszel,henrygd/beszel,Go,74,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",61,1684,https://avatars.githubusercontent.com/u/8519632?u=589ea2e0d623c7514101482c97f68c8219624c5c&v=4
+320579524,go-feature-flag,thomaspoignant/go-feature-flag,Go,30,"GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",137,1419,https://avatars.githubusercontent.com/u/17908063?u=c37bf6c1a8d800c7dcff9bc83c461f95c441c528&v=4
+746738330,htmgo,maddalax/htmgo,Go,40,htmgo - build simple and scalable systems with go + htmx,12,603,https://avatars.githubusercontent.com/u/11528924?u=65c2acaca0598c9d7b345e5adcffad9221dc1805&v=4
+751983018,kitops,jozu-ai/kitops,Go,16,Securely share and store AI/ML projects as OCI artifacts in your container registry.,50,423,https://avatars.githubusercontent.com/u/158621199?v=4
