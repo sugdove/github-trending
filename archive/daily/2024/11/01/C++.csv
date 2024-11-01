@@ -1,22 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,26,A framework for building native applications using React,24313,119034,https://avatars.githubusercontent.com/u/69631?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,72,LLM inference in C/C++,9640,67181,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,19,Protocol Buffers - Google's data interchange format,15484,65620,https://avatars.githubusercontent.com/u/26310541?v=4
-11171548,json,nlohmann/json,C++,24,JSON for Modern C++,6721,43014,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C++,31,Port of OpenAI's Whisper model in C/C++,3606,35390,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-4524181,folly,facebook/folly,C++,2,An open-source C++ library developed and used at Facebook.,5562,28359,https://avatars.githubusercontent.com/u/69631?v=4
-689773665,llamafile,Mozilla-Ocho/llamafile,C++,17,Distribute and run LLMs with a single file.,1006,20074,https://avatars.githubusercontent.com/u/117940224?v=4
+29028775,react-native,facebook/react-native,C++,47,A framework for building native applications using React,24313,119037,https://avatars.githubusercontent.com/u/69631?v=4
+612354784,llama.cpp,ggerganov/llama.cpp,C++,52,LLM inference in C/C++,9641,67185,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+23357588,protobuf,protocolbuffers/protobuf,C++,19,Protocol Buffers - Google's data interchange format,15484,65623,https://avatars.githubusercontent.com/u/26310541?v=4
+11171548,json,nlohmann/json,C++,24,JSON for Modern C++,6721,43017,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+541269386,whisper.cpp,ggerganov/whisper.cpp,C++,31,Port of OpenAI's Whisper model in C/C++,3606,35396,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+4524181,folly,facebook/folly,C++,2,An open-source C++ library developed and used at Facebook.,5562,28360,https://avatars.githubusercontent.com/u/69631?v=4
+689773665,llamafile,Mozilla-Ocho/llamafile,C++,17,Distribute and run LLMs with a single file.,1006,20078,https://avatars.githubusercontent.com/u/117940224?v=4
 17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3536,14234,https://avatars.githubusercontent.com/u/18461506?v=4
 267649918,DearPyGui,hoffstadt/DearPyGui,C++,14,Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies,688,13193,https://avatars.githubusercontent.com/u/39973752?u=b533024347e2821ed018d89a6606990698ff67d1&v=4
-538180525,ggml,ggerganov/ggml,C++,13,Tensor library for machine learning,1023,11129,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-4118776,shotcut,mltframework/shotcut,C++,23,"cross-platform (Qt), open-source (GPLv3) video editor",1135,11014,https://avatars.githubusercontent.com/u/1558770?v=4
-32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,7,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2798,10993,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
-40556106,wazuh,wazuh/wazuh,C++,39,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1652,10867,https://avatars.githubusercontent.com/u/13752566?v=4
-23086893,re2,google/re2,C++,2,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",1134,8955,https://avatars.githubusercontent.com/u/1342004?v=4
+538180525,ggml,ggerganov/ggml,C++,13,Tensor library for machine learning,1023,11130,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
+4118776,shotcut,mltframework/shotcut,C++,18,"cross-platform (Qt), open-source (GPLv3) video editor",1135,11015,https://avatars.githubusercontent.com/u/1558770?v=4
+32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,7,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2798,10994,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
+40556106,wazuh,wazuh/wazuh,C++,19,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1652,10869,https://avatars.githubusercontent.com/u/13752566?v=4
+23086893,re2,google/re2,C++,4,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",1134,8955,https://avatars.githubusercontent.com/u/1342004?v=4
 679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,9,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,969,8545,https://avatars.githubusercontent.com/u/1728152?v=4
 89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,2,Firebase SDK for Apple App Development,1480,5645,https://avatars.githubusercontent.com/u/1335026?v=4
 356055024,tflite-micro,tensorflow/tflite-micro,C++,0,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).,818,1897,https://avatars.githubusercontent.com/u/15658638?v=4
 283871761,torch-mlir,llvm/torch-mlir,C++,0,The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.,504,1343,https://avatars.githubusercontent.com/u/17149993?v=4
-170893393,moveit2,moveit/moveit2,C++,3,:robot: MoveIt for ROS 2,523,1082,https://avatars.githubusercontent.com/u/4408844?v=4
-429651616,autoware.universe,autowarefoundation/autoware.universe,C++,1,,641,1004,https://avatars.githubusercontent.com/u/48420599?v=4
+170893393,moveit2,moveit/moveit2,C++,3,:robot: MoveIt for ROS 2,523,1083,https://avatars.githubusercontent.com/u/4408844?v=4
+429651616,autoware.universe,autowarefoundation/autoware.universe,C++,0,,641,1004,https://avatars.githubusercontent.com/u/48420599?v=4
 718314761,onnxruntime-genai,microsoft/onnxruntime-genai,C++,5,Generative AI extensions for onnxruntime,123,491,https://avatars.githubusercontent.com/u/6154722?v=4
