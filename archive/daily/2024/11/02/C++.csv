@@ -1,22 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-29028775,react-native,facebook/react-native,C++,48,A framework for building native applications using React,24315,119047,https://avatars.githubusercontent.com/u/69631?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,53,LLM inference in C/C++,9645,67209,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,20,Protocol Buffers - Google's data interchange format,15487,65631,https://avatars.githubusercontent.com/u/26310541?v=4
-11171548,json,nlohmann/json,C++,18,JSON for Modern C++,6721,43030,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-541269386,whisper.cpp,ggerganov/whisper.cpp,C++,26,Port of OpenAI's Whisper model in C/C++,3606,35406,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-4524181,folly,facebook/folly,C++,3,An open-source C++ library developed and used at Facebook.,5562,28362,https://avatars.githubusercontent.com/u/69631?v=4
-689773665,llamafile,Mozilla-Ocho/llamafile,C++,16,Distribute and run LLMs with a single file.,1007,20088,https://avatars.githubusercontent.com/u/117940224?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3536,14237,https://avatars.githubusercontent.com/u/18461506?v=4
-267649918,DearPyGui,hoffstadt/DearPyGui,C++,9,Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies,688,13199,https://avatars.githubusercontent.com/u/39973752?u=b533024347e2821ed018d89a6606990698ff67d1&v=4
-538180525,ggml,ggerganov/ggml,C++,12,Tensor library for machine learning,1023,11132,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-4118776,shotcut,mltframework/shotcut,C++,17,"cross-platform (Qt), open-source (GPLv3) video editor",1136,11024,https://avatars.githubusercontent.com/u/1558770?v=4
-32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,7,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2798,10996,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
-40556106,wazuh,wazuh/wazuh,C++,17,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1652,10881,https://avatars.githubusercontent.com/u/13752566?v=4
-23086893,re2,google/re2,C++,5,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",1134,8959,https://avatars.githubusercontent.com/u/1342004?v=4
-679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,5,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,970,8547,https://avatars.githubusercontent.com/u/1728152?v=4
-89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,2,Firebase SDK for Apple App Development,1480,5645,https://avatars.githubusercontent.com/u/1335026?v=4
-356055024,tflite-micro,tensorflow/tflite-micro,C++,0,Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).,818,1899,https://avatars.githubusercontent.com/u/15658638?v=4
-283871761,torch-mlir,llvm/torch-mlir,C++,0,The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.,504,1344,https://avatars.githubusercontent.com/u/17149993?v=4
-170893393,moveit2,moveit/moveit2,C++,3,:robot: MoveIt for ROS 2,523,1084,https://avatars.githubusercontent.com/u/4408844?v=4
-429651616,autoware.universe,autowarefoundation/autoware.universe,C++,0,,641,1004,https://avatars.githubusercontent.com/u/48420599?v=4
+89247811,openpose,CMU-Perceptual-Computing-Lab/openpose,C++,9,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",7856,31156,https://avatars.githubusercontent.com/u/12239573?v=4
+160083795,serenity,SerenityOS/serenity,C++,5,The Serenity Operating System 🐞,3193,30635,https://avatars.githubusercontent.com/u/50811782?v=4
+19374812,tdesktop,telegramdesktop/tdesktop,C++,11,Telegram Desktop messaging app,5205,26229,https://avatars.githubusercontent.com/u/6113871?v=4
+29397594,tinyrenderer,ssloy/tinyrenderer,C++,9,A brief computer graphics / rendering course,1981,20522,https://avatars.githubusercontent.com/u/1029298?u=ed979742dfae8d1d3967488b6ff50de727aa9ae4&v=4
+5736080,FreeCAD,FreeCAD/FreeCAD,C++,15,"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",4035,19666,https://avatars.githubusercontent.com/u/2306237?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,3,A C++ header-only HTTP/HTTPS server and client library,2298,13046,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+15379620,pcsx2,PCSX2/pcsx2,C++,12,PCSX2 - The Playstation 2 Emulator,1625,11768,https://avatars.githubusercontent.com/u/6278711?v=4
+20976138,Stockfish,official-stockfish/Stockfish,C++,5,A free and strong UCI chess engine,2273,11557,https://avatars.githubusercontent.com/u/7926882?v=4
+6486826,ppsspp,hrydgard/ppsspp,C++,6,"A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",2170,11248,https://avatars.githubusercontent.com/u/130929?u=3f6a75a1ef554e8faac09efa30c4d8f0c826a231&v=4
+12756992,opencv_contrib,opencv/opencv_contrib,C++,2,Repository for OpenCV's extra modules,5759,9408,https://avatars.githubusercontent.com/u/5009934?v=4
+181436799,MNN,alibaba/MNN,C++,7,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",1664,8694,https://avatars.githubusercontent.com/u/1961952?v=4
+167828165,FTXUI,ArthurSonzogni/FTXUI,C++,6,:computer: C++ Functional Terminal User Interface. :heart:,414,6887,https://avatars.githubusercontent.com/u/4759106?v=4
+144071425,Waybar,Alexays/Waybar,C++,8,Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:,704,6593,https://avatars.githubusercontent.com/u/13947260?u=8da5ea8627d2c2418d6cb08221e9febb3a95f997&v=4
+315035371,amnezia-client,amnezia-vpn/amnezia-client,C++,10,Amnezia VPN Client (Desktop+Mobile),340,5376,https://avatars.githubusercontent.com/u/74861536?v=4
+151064439,ExpressLRS,ExpressLRS/ExpressLRS,C++,1,ESP32/ESP8285-based High-Performance Radio Link for RC applications,922,3653,https://avatars.githubusercontent.com/u/77287864?v=4
+388946490,velox,facebookincubator/velox,C++,1,A composable and fully extensible C++ execution engine library for data management systems.,1147,3494,https://avatars.githubusercontent.com/u/19538647?v=4
+677953180,stable-diffusion.cpp,leejet/stable-diffusion.cpp,C++,3,Stable Diffusion and Flux in pure C/C++,294,3427,https://avatars.githubusercontent.com/u/31925346?u=be61e542cfdf0f2e67ca12949ae001a13f5cb630&v=4
+170738310,wallet-core,trustwallet/wallet-core,C++,1,"Cross-platform, cross-blockchain wallet library.",1592,2838,https://avatars.githubusercontent.com/u/32179889?v=4
+529213465,ExplorerBlurMica,Maplespe/ExplorerBlurMica,C++,8,Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11,70,1533,https://avatars.githubusercontent.com/u/43676879?u=7014a2fb6d13e2faa9d27d1a554e40decea600d6&v=4
+686630381,Hell2024,livinamuk/Hell2024,C++,19,,62,1368,https://avatars.githubusercontent.com/u/7821313?u=de0ad648f5a7a6b12e0013c0812e35087f4b7d3b&v=4
+296416761,cccl,NVIDIA/cccl,C++,3,CUDA Core Compute Libraries,157,1234,https://avatars.githubusercontent.com/u/1728152?v=4
 718314761,onnxruntime-genai,microsoft/onnxruntime-genai,C++,4,Generative AI extensions for onnxruntime,123,493,https://avatars.githubusercontent.com/u/6154722?v=4
