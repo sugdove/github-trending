@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,174,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7656,96370,https://avatars.githubusercontent.com/u/151674099?v=4
-12574344,cobra,spf13/cobra,Go,17,A Commander for modern Go CLI interactions,2850,38159,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-208728772,milvus,milvus-io/milvus,Go,27,"A cloud-native vector database, storage for next generation AI applications",2910,30300,https://avatars.githubusercontent.com/u/51735404?v=4
-13628513,logrus,sirupsen/logrus,Go,7,"Structured, pluggable logging for Go.",2271,24715,https://avatars.githubusercontent.com/u/97400?v=4
-738733003,fabric,danielmiessler/fabric,Go,74,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2627,24543,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+658928958,ollama,ollama/ollama,Go,174,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7658,96380,https://avatars.githubusercontent.com/u/151674099?v=4
+12574344,cobra,spf13/cobra,Go,17,A Commander for modern Go CLI interactions,2850,38164,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+208728772,milvus,milvus-io/milvus,Go,27,"A cloud-native vector database, storage for next generation AI applications",2910,30303,https://avatars.githubusercontent.com/u/51735404?v=4
+13628513,logrus,sirupsen/logrus,Go,7,"Structured, pluggable logging for Go.",2271,24716,https://avatars.githubusercontent.com/u/97400?v=4
+738733003,fabric,danielmiessler/fabric,Go,74,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2627,24554,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
 50613991,harbor,goharbor/harbor,Go,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",4758,24089,https://avatars.githubusercontent.com/u/40275816?v=4
-273871859,headscale,juanfont/headscale,Go,23,"An open source, self-hosted implementation of the Tailscale control server",1273,23204,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
+273871859,headscale,juanfont/headscale,Go,22,"An open source, self-hosted implementation of the Tailscale control server",1273,23207,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
 33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,6,gRPC to JSON proxy generator following the gRPC HTTP spec,2235,18188,https://avatars.githubusercontent.com/u/19352526?v=4
-198683574,dolt,dolthub/dolt,Go,7,Dolt – Git for Data,509,17918,https://avatars.githubusercontent.com/u/42156961?v=4
+198683574,dolt,dolthub/dolt,Go,7,Dolt – Git for Data,509,17921,https://avatars.githubusercontent.com/u/42156961?v=4
 175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,23,The most customisable and low-latency cross platform/shell prompt renderer,2379,17332,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
-40684033,sops,getsops/sops,Go,16,Simple and flexible tool for managing secrets,878,16919,https://avatars.githubusercontent.com/u/129185620?v=4
-7877397,sqlx,jmoiron/sqlx,Go,7,general purpose extensions to golang's database/sql,1083,16215,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
-33258973,telegraf,influxdata/telegraf,Go,6,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5586,14648,https://avatars.githubusercontent.com/u/5713248?v=4
-753490180,daytona,daytonaio/daytona,Go,52,The Open Source Dev Environment Manager.,810,10056,https://avatars.githubusercontent.com/u/130513197?v=4
-66509131,client-go,kubernetes/client-go,Go,2,Go client for Kubernetes.,2949,9059,https://avatars.githubusercontent.com/u/13629408?v=4
+40684033,sops,getsops/sops,Go,16,Simple and flexible tool for managing secrets,878,16920,https://avatars.githubusercontent.com/u/129185620?v=4
+7877397,sqlx,jmoiron/sqlx,Go,7,general purpose extensions to golang's database/sql,1083,16218,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
+33258973,telegraf,influxdata/telegraf,Go,6,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5586,14647,https://avatars.githubusercontent.com/u/5713248?v=4
+753490180,daytona,daytonaio/daytona,Go,52,The Open Source Dev Environment Manager.,810,10059,https://avatars.githubusercontent.com/u/130513197?v=4
+66509131,client-go,kubernetes/client-go,Go,2,Go client for Kubernetes.,2949,9058,https://avatars.githubusercontent.com/u/13629408?v=4
 50629145,pprof,google/pprof,Go,4,pprof is a tool for visualization and analysis of profiling data,607,7963,https://avatars.githubusercontent.com/u/1342004?v=4
 258469100,flux2,fluxcd/flux2,Go,6,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,603,6531,https://avatars.githubusercontent.com/u/52158677?v=4
-173009358,oapi-codegen,oapi-codegen/oapi-codegen,Go,2,Generate Go client and server boilerplate from OpenAPI 3 specifications,865,6266,https://avatars.githubusercontent.com/u/142752710?v=4
-823365697,sidekick,MightyMoud/sidekick,Go,257,Bare metal to production ready in mins; your own fly server on your VPS.,80,5472,https://avatars.githubusercontent.com/u/54428626?v=4
-313628863,external-secrets,external-secrets/external-secrets,Go,5,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,840,4431,https://avatars.githubusercontent.com/u/68335991?v=4
-524859634,WatchYourLAN,aceberg/WatchYourLAN,Go,204,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,138,4362,https://avatars.githubusercontent.com/u/1502200?v=4
+173009358,oapi-codegen,oapi-codegen/oapi-codegen,Go,2,Generate Go client and server boilerplate from OpenAPI 3 specifications,865,6267,https://avatars.githubusercontent.com/u/142752710?v=4
+823365697,sidekick,MightyMoud/sidekick,Go,257,Bare metal to production ready in mins; your own fly server on your VPS.,80,5480,https://avatars.githubusercontent.com/u/54428626?v=4
+313628863,external-secrets,external-secrets/external-secrets,Go,5,External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.,842,4431,https://avatars.githubusercontent.com/u/68335991?v=4
+524859634,WatchYourLAN,aceberg/WatchYourLAN,Go,204,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,138,4364,https://avatars.githubusercontent.com/u/1502200?v=4
 334169919,interactsh,projectdiscovery/interactsh,Go,6,An OOB interaction gathering server and client library,364,3423,https://avatars.githubusercontent.com/u/50994705?v=4
-501372599,openfga,openfga/openfga,Go,4,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,205,2884,https://avatars.githubusercontent.com/u/103602580?v=4
+501372599,openfga,openfga/openfga,Go,4,A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar,205,2885,https://avatars.githubusercontent.com/u/103602580?v=4
 308444913,kuberay,ray-project/kuberay,Go,3,A toolkit to run Ray applications on Kubernetes,401,1237,https://avatars.githubusercontent.com/u/22125274?v=4
