@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,197,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7681,96685,https://avatars.githubusercontent.com/u/151674099?v=4
-6838921,prometheus,prometheus/prometheus,Go,22,The Prometheus monitoring system and time series database.,9142,55599,https://avatars.githubusercontent.com/u/3380462?v=4
-13855476,gorm,go-gorm/gorm,Go,11,"The fantastic ORM library for Golang, aims to be developer friendly",3930,36907,https://avatars.githubusercontent.com/u/15127678?v=4
-54400687,k6,grafana/k6,Go,27,"A modern load testing tool, using Go and JavaScript - https://k6.io",1265,25916,https://avatars.githubusercontent.com/u/7195757?v=4
-738733003,fabric,danielmiessler/fabric,Go,103,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2639,24745,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-6247705,testify,stretchr/testify,Go,6,A toolkit with common assertions and mocks that plays nicely with the standard library,1596,23437,https://avatars.githubusercontent.com/u/1841476?v=4
-46089560,containerd,containerd/containerd,Go,12,An open and reliable container runtime,3448,17427,https://avatars.githubusercontent.com/u/14037953?v=4
-367284699,lima,lima-vm/lima,Go,23,"Linux virtual machines, with a focus on running containers",601,15288,https://avatars.githubusercontent.com/u/88128539?v=4
-33258973,telegraf,influxdata/telegraf,Go,10,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5587,14663,https://avatars.githubusercontent.com/u/5713248?v=4
-7083242,mysql,go-sql-driver/mysql,Go,2,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2317,14522,https://avatars.githubusercontent.com/u/3002971?v=4
-31311037,chisel,jpillora/chisel,Go,103,A fast TCP/UDP tunnel over HTTP,1387,13445,https://avatars.githubusercontent.com/u/633843?v=4
+658928958,ollama,ollama/ollama,Go,197,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7681,96706,https://avatars.githubusercontent.com/u/151674099?v=4
+6838921,prometheus,prometheus/prometheus,Go,22,The Prometheus monitoring system and time series database.,9143,55600,https://avatars.githubusercontent.com/u/3380462?v=4
+13855476,gorm,go-gorm/gorm,Go,11,"The fantastic ORM library for Golang, aims to be developer friendly",3930,36906,https://avatars.githubusercontent.com/u/15127678?v=4
+54400687,k6,grafana/k6,Go,27,"A modern load testing tool, using Go and JavaScript - https://k6.io",1265,25918,https://avatars.githubusercontent.com/u/7195757?v=4
+738733003,fabric,danielmiessler/fabric,Go,103,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2640,24782,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+6247705,testify,stretchr/testify,Go,6,A toolkit with common assertions and mocks that plays nicely with the standard library,1596,23436,https://avatars.githubusercontent.com/u/1841476?v=4
+46089560,containerd,containerd/containerd,Go,10,An open and reliable container runtime,3449,17429,https://avatars.githubusercontent.com/u/14037953?v=4
+367284699,lima,lima-vm/lima,Go,23,"Linux virtual machines, with a focus on running containers",601,15292,https://avatars.githubusercontent.com/u/88128539?v=4
+33258973,telegraf,influxdata/telegraf,Go,10,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5587,14664,https://avatars.githubusercontent.com/u/5713248?v=4
+7083242,mysql,go-sql-driver/mysql,Go,2,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,2317,14523,https://avatars.githubusercontent.com/u/3002971?v=4
+31311037,chisel,jpillora/chisel,Go,103,A fast TCP/UDP tunnel over HTTP,1387,13451,https://avatars.githubusercontent.com/u/633843?v=4
 109162639,thanos,thanos-io/thanos,Go,4,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2097,13097,https://avatars.githubusercontent.com/u/49725059?v=4
-36960321,runc,opencontainers/runc,Go,3,CLI tool for spawning and running containers according to the OCI specification,2110,11873,https://avatars.githubusercontent.com/u/12563465?v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,9,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1589,9771,https://avatars.githubusercontent.com/u/62798169?v=4
-221849341,asynq,hibiken/asynq,Go,25,"Simple, reliable, and efficient distributed task queue in Go",701,9742,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
-21306961,fsnotify,fsnotify/fsnotify,Go,12,Cross-platform filesystem notifications for Go.,909,9615,https://avatars.githubusercontent.com/u/8013877?v=4
+36960321,runc,opencontainers/runc,Go,3,CLI tool for spawning and running containers according to the OCI specification,2110,11875,https://avatars.githubusercontent.com/u/12563465?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,9,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1590,9772,https://avatars.githubusercontent.com/u/62798169?v=4
+221849341,asynq,hibiken/asynq,Go,25,"Simple, reliable, and efficient distributed task queue in Go",701,9748,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
+21306961,fsnotify,fsnotify/fsnotify,Go,12,Cross-platform filesystem notifications for Go.,909,9617,https://avatars.githubusercontent.com/u/8013877?v=4
 66509131,client-go,kubernetes/client-go,Go,7,Go client for Kubernetes.,2949,9070,https://avatars.githubusercontent.com/u/13629408?v=4
 12332444,ginkgo,onsi/ginkgo,Go,7,A Modern Testing Framework for Go,659,8350,https://avatars.githubusercontent.com/u/558230?v=4
 87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,3972,8071,https://avatars.githubusercontent.com/u/13629408?v=4
-48299818,kopia,kopia/kopia,Go,30,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",398,7973,https://avatars.githubusercontent.com/u/16365723?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,8,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",956,6793,https://avatars.githubusercontent.com/u/2232217?v=4
-236055696,tempo,grafana/tempo,Go,4,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",521,4008,https://avatars.githubusercontent.com/u/7195757?v=4
-716719284,openbao,openbao/openbao,Go,4,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",127,2979,https://avatars.githubusercontent.com/u/152585220?v=4
+48299818,kopia,kopia/kopia,Go,30,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",399,7974,https://avatars.githubusercontent.com/u/16365723?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,8,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",956,6794,https://avatars.githubusercontent.com/u/2232217?v=4
+236055696,tempo,grafana/tempo,Go,4,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",521,4011,https://avatars.githubusercontent.com/u/7195757?v=4
+716719284,openbao,openbao/openbao,Go,4,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",127,2983,https://avatars.githubusercontent.com/u/152585220?v=4
