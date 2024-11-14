@@ -1,15 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-36502,git,git/git,C,15,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,25643,52527,https://avatars.githubusercontent.com/u/18133?v=4
-14812739,libuv,libuv/libuv,C,13,Cross-platform asynchronous I/O,3604,24303,https://avatars.githubusercontent.com/u/4030929?v=4
-18496166,mimikatz,gentilkiwi/mimikatz,C,5,A little tool to play with Windows security,3730,19461,https://avatars.githubusercontent.com/u/2307945?v=4
-470579591,unleashed-firmware,DarkFlippers/unleashed-firmware,C,19,Flipper Zero Unleashed Firmware,1453,17538,https://avatars.githubusercontent.com/u/115378555?v=4
-65899476,esp-idf,espressif/esp-idf,C,14,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7300,13749,https://avatars.githubusercontent.com/u/9460735?v=4
-359952601,pgvector,pgvector/pgvector,C,18,Open-source vector similarity search for Postgres,589,12578,https://avatars.githubusercontent.com/u/98363230?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,7,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6624,10872,https://avatars.githubusercontent.com/u/19595895?v=4
+156018,redis,redis/redis,C,13,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23804,67016,https://avatars.githubusercontent.com/u/1529926?v=4
+1903522,php-src,php/php-src,C,19,The PHP Interpreter,7748,38212,https://avatars.githubusercontent.com/u/25158?v=4
+36836475,tmux,tmux/tmux,C,19,tmux source code,2123,35333,https://avatars.githubusercontent.com/u/12054114?v=4
+5101141,jq,jqlang/jq,C,9,Command-line JSON processor,1576,30548,https://avatars.githubusercontent.com/u/104800540?v=4
+394318710,ExplorerPatcher,valinet/ExplorerPatcher,C,17,This project aims to enhance the working environment on Windows,1049,24795,https://avatars.githubusercontent.com/u/6503598?u=25d850b7dcc57d2a488d83646fff7cca48cf7fc7&v=4
+105627846,reactos,reactos/reactos,C,16,A free Windows-compatible Operating System,1758,14749,https://avatars.githubusercontent.com/u/1056157?v=4
+490465859,Flipper,UberGuidoZ/Flipper,C,10,Playground (and dump) of stuff I make or modify for the Flipper Zero,3249,13907,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
+65899476,esp-idf,espressif/esp-idf,C,14,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7299,13752,https://avatars.githubusercontent.com/u/9460735?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,7,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6626,10874,https://avatars.githubusercontent.com/u/19595895?v=4
+543276238,libsql,tursodatabase/libsql,C,374,"libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",271,10674,https://avatars.githubusercontent.com/u/139391156?v=4
+3671479,nmap,nmap/nmap,C,11,Nmap - the Network Mapper. Github mirror of official SVN repository.,2409,10220,https://avatars.githubusercontent.com/u/63385?v=4
+53614190,mosquitto,eclipse-mosquitto/mosquitto,C,5,Eclipse Mosquitto - An open source MQTT broker,2397,9084,https://avatars.githubusercontent.com/u/185921483?v=4
+88327406,xmrig,xmrig/xmrig,C,5,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",3452,8719,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
+673267,hiredis,redis/hiredis,C,1,Minimalistic C client for Redis >= 1.2,1817,6256,https://avatars.githubusercontent.com/u/1529926?v=4
 29933948,fluent-bit,fluent/fluent-bit,C,4,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1584,5858,https://avatars.githubusercontent.com/u/859518?v=4
-2359378,zlib,madler/zlib,C,4,A massively spiffy yet delicately unobtrusive compression library.,2468,5742,https://avatars.githubusercontent.com/u/240717?v=4
-83160811,littlefs,littlefs-project/littlefs,C,2,A little fail-safe filesystem designed for microcontrollers,798,5208,https://avatars.githubusercontent.com/u/60944974?v=4
-470373719,istoreos,istoreos/istoreos,C,11,提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）,522,5018,https://avatars.githubusercontent.com/u/107662817?v=4
-34807561,nanopb,nanopb/nanopb,C,0,Protocol Buffers with small code size,859,4356,https://avatars.githubusercontent.com/u/12173937?v=4
-39042157,spdk,spdk/spdk,C,2,Storage Performance Development Kit,1203,3085,https://avatars.githubusercontent.com/u/13323228?v=4
-552482519,immortalwrt-mt798x,hanwckf/immortalwrt-mt798x,C,4,An Immortalwrt variant for mediatek mt798x routers.,604,1136,https://avatars.githubusercontent.com/u/27666983?u=94b3f4aba8972ca59cb4718c9b60498d30cffc91&v=4
+58132544,RediSearch,RediSearch/RediSearch,C,6,"A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",522,5539,https://avatars.githubusercontent.com/u/46899501?v=4
+206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,2,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,1610,5331,https://avatars.githubusercontent.com/u/54647343?v=4
+23780138,riscv-gnu-toolchain,riscv-collab/riscv-gnu-toolchain,C,1,"GNU toolchain for RISC-V, including GCC",1167,3537,https://avatars.githubusercontent.com/u/89536104?v=4
+80611216,open5gs,open5gs/open5gs,C,1,"Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)",764,1851,https://avatars.githubusercontent.com/u/44808635?v=4
+51990771,CMSIS_5,ARM-software/CMSIS_5,C,1,CMSIS Version 5 Development Repository,1084,1338,https://avatars.githubusercontent.com/u/5690313?v=4
+53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,1,Scripts which perform an installable binary image build for SONiC,1425,739,https://avatars.githubusercontent.com/u/102750714?v=4
+5870069,librdkafka,confluentinc/librdkafka,C,1,The Apache Kafka C/C++ library,3153,279,https://avatars.githubusercontent.com/u/9439498?v=4
