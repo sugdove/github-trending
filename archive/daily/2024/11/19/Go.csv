@@ -1,24 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,139,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7834,98406,https://avatars.githubusercontent.com/u/151674099?v=4
-42408804,traefik,traefik/traefik,Go,29,The Cloud Native Application Proxy,5108,51426,https://avatars.githubusercontent.com/u/14280338?v=4
-15452919,go-ethereum,ethereum/go-ethereum,Go,11,Go implementation of the Ethereum protocol,20170,47632,https://avatars.githubusercontent.com/u/6250754?v=4
-436297812,memos,usememos/memos,Go,57,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",2484,34335,https://avatars.githubusercontent.com/u/95764151?v=4
-181461073,v2ray-core,v2fly/v2ray-core,Go,20,A platform for building proxies to bypass network restrictions.,4664,29598,https://avatars.githubusercontent.com/u/49637375?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,14,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3956,25633,https://avatars.githubusercontent.com/u/71564206?v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,16,Network-wide ads & trackers blocking DNS server,1837,25598,https://avatars.githubusercontent.com/u/8361145?v=4
-738733003,fabric,danielmiessler/fabric,Go,41,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2697,25438,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-161951219,wails,wailsapp/wails,Go,26,Create beautiful applications using Go,1226,25401,https://avatars.githubusercontent.com/u/39746503?v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,20,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,3914,19843,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-533087958,d2,terrastruct/d2,Go,214,D2 is a modern diagram scripting language that turns text to diagrams.,442,18050,https://avatars.githubusercontent.com/u/80369600?v=4
-175405157,oh-my-posh,JanDeDobbeleer/oh-my-posh,Go,12,The most customisable and low-latency cross platform/shell prompt renderer,2390,17470,https://avatars.githubusercontent.com/u/2492783?u=9efc0865ae5e7d420eb83663315e5b4518d11387&v=4
-154643390,phoneinfoga,sundowndev/phoneinfoga,Go,7,Information gathering framework for phone numbers,3692,13173,https://avatars.githubusercontent.com/u/16480203?u=27b8958fdc114d7e7703404441bb611a59d0321f&v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,24,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1230,12425,https://avatars.githubusercontent.com/u/43720803?v=4
-62921553,rook,rook/rook,Go,4,Storage Orchestration for Kubernetes,2692,12404,https://avatars.githubusercontent.com/u/22860722?v=4
-290437899,ddns-go,jeessy2/ddns-go,Go,21,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...",1400,12147,https://avatars.githubusercontent.com/u/6205259?u=0668f056159f7ab885b1749c10400aa50893da5b&v=4
-140457254,amass,owasp-amass/amass,Go,11,In-depth attack surface mapping and asset discovery,1888,12090,https://avatars.githubusercontent.com/u/128647419?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,43,simple terminal UI for git commands,1856,53233,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+72495579,gitea,go-gitea/gitea,Go,30,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5494,45176,https://avatars.githubusercontent.com/u/12724356?v=4
+12574344,cobra,spf13/cobra,Go,19,A Commander for modern Go CLI interactions,2851,38313,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+13855476,gorm,go-gorm/gorm,Go,12,"The fantastic ORM library for Golang, aims to be developer friendly",3934,36990,https://avatars.githubusercontent.com/u/15127678?v=4
+6247705,testify,stretchr/testify,Go,13,A toolkit with common assertions and mocks that plays nicely with the standard library,1603,23515,https://avatars.githubusercontent.com/u/1841476?v=4
+46089560,containerd,containerd/containerd,Go,4,An open and reliable container runtime,3464,17506,https://avatars.githubusercontent.com/u/14037953?v=4
+40684033,sops,getsops/sops,Go,11,Simple and flexible tool for managing secrets,879,17029,https://avatars.githubusercontent.com/u/129185620?v=4
+33258973,telegraf,influxdata/telegraf,Go,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5586,14713,https://avatars.githubusercontent.com/u/5713248?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,24,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1230,12429,https://avatars.githubusercontent.com/u/43720803?v=4
+326228917,katana,projectdiscovery/katana,Go,397,A next-generation crawling and spidering framework.,616,11788,https://avatars.githubusercontent.com/u/50994705?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,10,Exporter for machine metrics,2370,11259,https://avatars.githubusercontent.com/u/3380462?v=4
 357897199,netbird,netbirdio/netbird,Go,23,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",517,11209,https://avatars.githubusercontent.com/u/100464677?v=4
-247350713,neko,m1k1o/neko,Go,79,A self hosted virtual browser that runs in docker and uses WebRTC.,565,7669,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
-155297903,dozzle,amir20/dozzle,Go,83,Realtime log viewer for docker containers. ,319,6506,https://avatars.githubusercontent.com/u/260667?u=e184f47fa8a05899a86e8a4de86fc7a5e90207f1&v=4
-201546443,assets,trustwallet/assets,Go,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",22698,4658,https://avatars.githubusercontent.com/u/32179889?v=4
-226368338,evcc,evcc-io/evcc,Go,5,Sonne tanken ☀️🚘,668,3615,https://avatars.githubusercontent.com/u/81383504?v=4
-187390668,up,jesusprubio/up,Go,28,📶 Troubleshoot problems with your Internet connection,19,412,https://avatars.githubusercontent.com/u/2753855?u=ce70280fe4bf2649a7b55d2727a90090b7f596aa&v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3724,9146,https://avatars.githubusercontent.com/u/66682517?v=4
+66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2950,9100,https://avatars.githubusercontent.com/u/13629408?v=4
+170411418,keda,kedacore/keda,Go,8, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1079,8535,https://avatars.githubusercontent.com/u/49917779?v=4
+3087541,go-cache,patrickmn/go-cache,Go,7,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",874,8177,https://avatars.githubusercontent.com/u/72885?u=a6baf7b477f9106e6e0ce004b701de22784ea45b&v=4
+139727567,Reloader,stakater/Reloader,Go,12,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",513,7678,https://avatars.githubusercontent.com/u/15930712?v=4
+247350713,neko,m1k1o/neko,Go,79,A self hosted virtual browser that runs in docker and uses WebRTC.,565,7674,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
+90798757,kafka-go,segmentio/kafka-go,Go,0,Kafka library in Go,790,7622,https://avatars.githubusercontent.com/u/819518?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,8,"node of the decentralized oracle network, bridging on and off-chain computation",1719,7039,https://avatars.githubusercontent.com/u/25111032?v=4
+169108858,kyverno,kyverno/kyverno,Go,7,Cloud Native Policy Management,886,5761,https://avatars.githubusercontent.com/u/68448710?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,1,"Optimism is Ethereum, scaled.",3289,5654,https://avatars.githubusercontent.com/u/58791460?v=4
+88013053,cli,docker/cli,Go,1,The Docker CLI,1938,4948,https://avatars.githubusercontent.com/u/5429470?v=4
+363910063,bun,uptrace/bun,Go,4,SQL-first Golang ORM,231,3807,https://avatars.githubusercontent.com/u/64948717?v=4
+86367047,go-elasticsearch,elastic/go-elasticsearch,Go,6,The official Go client for Elasticsearch,617,49,https://avatars.githubusercontent.com/u/6764390?v=4
