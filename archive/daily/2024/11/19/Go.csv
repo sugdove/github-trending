@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-134017286,lazygit,jesseduffield/lazygit,Go,43,simple terminal UI for git commands,1856,53233,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-72495579,gitea,go-gitea/gitea,Go,30,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5494,45176,https://avatars.githubusercontent.com/u/12724356?v=4
-12574344,cobra,spf13/cobra,Go,19,A Commander for modern Go CLI interactions,2851,38313,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-13855476,gorm,go-gorm/gorm,Go,12,"The fantastic ORM library for Golang, aims to be developer friendly",3934,36990,https://avatars.githubusercontent.com/u/15127678?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,43,simple terminal UI for git commands,1857,53242,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+72495579,gitea,go-gitea/gitea,Go,30,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5495,45181,https://avatars.githubusercontent.com/u/12724356?v=4
+12574344,cobra,spf13/cobra,Go,19,A Commander for modern Go CLI interactions,2851,38317,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+13855476,gorm,go-gorm/gorm,Go,12,"The fantastic ORM library for Golang, aims to be developer friendly",3934,36993,https://avatars.githubusercontent.com/u/15127678?v=4
 6247705,testify,stretchr/testify,Go,13,A toolkit with common assertions and mocks that plays nicely with the standard library,1603,23515,https://avatars.githubusercontent.com/u/1841476?v=4
-46089560,containerd,containerd/containerd,Go,4,An open and reliable container runtime,3464,17506,https://avatars.githubusercontent.com/u/14037953?v=4
-40684033,sops,getsops/sops,Go,11,Simple and flexible tool for managing secrets,879,17029,https://avatars.githubusercontent.com/u/129185620?v=4
-33258973,telegraf,influxdata/telegraf,Go,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5586,14713,https://avatars.githubusercontent.com/u/5713248?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,24,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1230,12429,https://avatars.githubusercontent.com/u/43720803?v=4
-326228917,katana,projectdiscovery/katana,Go,397,A next-generation crawling and spidering framework.,616,11788,https://avatars.githubusercontent.com/u/50994705?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,10,Exporter for machine metrics,2370,11259,https://avatars.githubusercontent.com/u/3380462?v=4
-357897199,netbird,netbirdio/netbird,Go,23,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",517,11209,https://avatars.githubusercontent.com/u/100464677?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3724,9146,https://avatars.githubusercontent.com/u/66682517?v=4
-66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2950,9100,https://avatars.githubusercontent.com/u/13629408?v=4
+46089560,containerd,containerd/containerd,Go,4,An open and reliable container runtime,3465,17507,https://avatars.githubusercontent.com/u/14037953?v=4
+40684033,sops,getsops/sops,Go,11,Simple and flexible tool for managing secrets,879,17030,https://avatars.githubusercontent.com/u/129185620?v=4
+33258973,telegraf,influxdata/telegraf,Go,7,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5589,14740,https://avatars.githubusercontent.com/u/5713248?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,17,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1230,12430,https://avatars.githubusercontent.com/u/43720803?v=4
+326228917,katana,projectdiscovery/katana,Go,188,A next-generation crawling and spidering framework.,622,11882,https://avatars.githubusercontent.com/u/50994705?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,10,Exporter for machine metrics,2370,11262,https://avatars.githubusercontent.com/u/3380462?v=4
+357897199,netbird,netbirdio/netbird,Go,16,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",517,11214,https://avatars.githubusercontent.com/u/100464677?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,4,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3724,9148,https://avatars.githubusercontent.com/u/66682517?v=4
+66509131,client-go,kubernetes/client-go,Go,3,Go client for Kubernetes.,2950,9101,https://avatars.githubusercontent.com/u/13629408?v=4
 170411418,keda,kedacore/keda,Go,8, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1079,8535,https://avatars.githubusercontent.com/u/49917779?v=4
 3087541,go-cache,patrickmn/go-cache,Go,7,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",874,8177,https://avatars.githubusercontent.com/u/72885?u=a6baf7b477f9106e6e0ce004b701de22784ea45b&v=4
-139727567,Reloader,stakater/Reloader,Go,12,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",513,7678,https://avatars.githubusercontent.com/u/15930712?v=4
-247350713,neko,m1k1o/neko,Go,79,A self hosted virtual browser that runs in docker and uses WebRTC.,565,7674,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
-90798757,kafka-go,segmentio/kafka-go,Go,0,Kafka library in Go,790,7622,https://avatars.githubusercontent.com/u/819518?v=4
-111455867,chainlink,smartcontractkit/chainlink,Go,8,"node of the decentralized oracle network, bridging on and off-chain computation",1719,7039,https://avatars.githubusercontent.com/u/25111032?v=4
-169108858,kyverno,kyverno/kyverno,Go,7,Cloud Native Policy Management,886,5761,https://avatars.githubusercontent.com/u/68448710?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,1,"Optimism is Ethereum, scaled.",3289,5654,https://avatars.githubusercontent.com/u/58791460?v=4
-88013053,cli,docker/cli,Go,1,The Docker CLI,1938,4948,https://avatars.githubusercontent.com/u/5429470?v=4
-363910063,bun,uptrace/bun,Go,4,SQL-first Golang ORM,231,3807,https://avatars.githubusercontent.com/u/64948717?v=4
-86367047,go-elasticsearch,elastic/go-elasticsearch,Go,6,The official Go client for Elasticsearch,617,49,https://avatars.githubusercontent.com/u/6764390?v=4
+247350713,neko,m1k1o/neko,Go,63,A self hosted virtual browser that runs in docker and uses WebRTC.,564,7682,https://avatars.githubusercontent.com/u/7534274?u=4e7d61e109f1b8419af30c9de5daec6c9d585a6f&v=4
+139727567,Reloader,stakater/Reloader,Go,12,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",513,7682,https://avatars.githubusercontent.com/u/15930712?v=4
+90798757,kafka-go,segmentio/kafka-go,Go,0,Kafka library in Go,790,7624,https://avatars.githubusercontent.com/u/819518?v=4
+111455867,chainlink,smartcontractkit/chainlink,Go,8,"node of the decentralized oracle network, bridging on and off-chain computation",1719,7040,https://avatars.githubusercontent.com/u/25111032?v=4
+169108858,kyverno,kyverno/kyverno,Go,7,Cloud Native Policy Management,887,5764,https://avatars.githubusercontent.com/u/68448710?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,1,"Optimism is Ethereum, scaled.",3292,5655,https://avatars.githubusercontent.com/u/58791460?v=4
+88013053,cli,docker/cli,Go,1,The Docker CLI,1938,4952,https://avatars.githubusercontent.com/u/5429470?v=4
+363910063,bun,uptrace/bun,Go,4,SQL-first Golang ORM,231,3811,https://avatars.githubusercontent.com/u/64948717?v=4
+86367047,go-elasticsearch,elastic/go-elasticsearch,Go,6,The official Go client for Elasticsearch,617,50,https://avatars.githubusercontent.com/u/6764390?v=4
