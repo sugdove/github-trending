@@ -1,24 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-163883279,act,nektos/act,Go,65,Run your GitHub Actions locally 🚀,1387,55570,https://avatars.githubusercontent.com/u/3813618?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,57,simple terminal UI for git commands,1858,53372,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-42408804,traefik,traefik/traefik,Go,13,The Cloud Native Application Proxy,5113,51488,https://avatars.githubusercontent.com/u/14280338?v=4
-72495579,gitea,go-gitea/gitea,Go,18,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5504,45240,https://avatars.githubusercontent.com/u/12724356?v=4
-31288958,vault,hashicorp/vault,Go,7,"A tool for secrets management, encryption as a service, and privileged access management",4226,31258,https://avatars.githubusercontent.com/u/761456?v=4
-72477752,pulumi,pulumi/pulumi,Go,9,Pulumi - Infrastructure as Code in any programming language 🚀,1125,21885,https://avatars.githubusercontent.com/u/21992475?v=4
-48109239,cilium,cilium/cilium,Go,6,"eBPF-based Networking, Security, and Observability",2973,20282,https://avatars.githubusercontent.com/u/21054566?v=4
-5179099,go-redis,redis/go-redis,Go,5,Redis Go client,2373,20170,https://avatars.githubusercontent.com/u/1529926?v=4
-33258973,telegraf,influxdata/telegraf,Go,24,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5593,14867,https://avatars.githubusercontent.com/u/5713248?v=4
-626896474,SafeLine,chaitin/SafeLine,Go,57,serve as a reverse proxy to protect your web services from attacks and exploits.,810,13088,https://avatars.githubusercontent.com/u/7302766?v=4
-326228917,katana,projectdiscovery/katana,Go,43,A next-generation crawling and spidering framework.,631,12218,https://avatars.githubusercontent.com/u/50994705?v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,6,Customization of kubernetes YAML configurations,2255,11063,https://avatars.githubusercontent.com/u/36015203?v=4
-9120526,pgx,jackc/pgx,Go,2,PostgreSQL driver and toolkit for Go,845,10828,https://avatars.githubusercontent.com/u/94130?v=4
-244694886,nightingale,ccfos/nightingale,Go,12,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.",1418,9831,https://avatars.githubusercontent.com/u/96813578?v=4
-63882194,calico,projectcalico/calico,Go,1,Cloud native networking and network security,1345,6038,https://avatars.githubusercontent.com/u/12304728?v=4
-178079595,opencost,opencost/opencost,Go,8,Cost monitoring for Kubernetes workloads and cloud costs,560,5339,https://avatars.githubusercontent.com/u/105945214?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,5,OpenTelemetry Go API and SDK,1082,5323,https://avatars.githubusercontent.com/u/49998002?v=4
-703404066,go-blueprint,Melkeydev/go-blueprint,Go,102,Go-blueprint allows users to spin up a quick Go project using a popular framework,302,5099,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
-603535454,langchaingo,tmc/langchaingo,Go,25,"LangChain for Go, the easiest way to write LLM-based programs in Go",630,4753,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
-703663547,huh,charmbracelet/huh,Go,26,Build terminal forms and prompts 🤷🏻‍♀️,129,4463,https://avatars.githubusercontent.com/u/57376114?v=4
-463027648,afrog,zan8in/afrog,Go,9,"A Security Tool for Bug Bounty, Pentest and Red Teaming.",396,3500,https://avatars.githubusercontent.com/u/4088460?u=5bf62831907dc85b2050698b72ad38851b5aeee2&v=4
-309820286,fleet,fleetdm/fleet,Go,7,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",432,3149,https://avatars.githubusercontent.com/u/70264713?v=4
-635979215,mock,uber-go/mock,Go,3,GoMock is a mocking framework for the Go programming language.,120,2325,https://avatars.githubusercontent.com/u/19262598?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,28,Production-Grade Container Scheduling and Management,39701,111254,https://avatars.githubusercontent.com/u/13629408?v=4
+658928958,ollama,ollama/ollama,Go,164,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.",7869,98890,https://avatars.githubusercontent.com/u/151674099?v=4
+7691631,moby,moby/moby,Go,9,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18666,68789,https://avatars.githubusercontent.com/u/27259197?v=4
+12574344,cobra,spf13/cobra,Go,17,A Commander for modern Go CLI interactions,2853,38351,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+31288958,vault,hashicorp/vault,Go,7,"A tool for secrets management, encryption as a service, and privileged access management",4226,31259,https://avatars.githubusercontent.com/u/761456?v=4
+167596393,k9s,derailed/k9s,Go,17,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1722,27422,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+311315731,Xray-core,XTLS/Xray-core,Go,25,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",3961,25694,https://avatars.githubusercontent.com/u/71564206?v=4
+50613991,harbor,goharbor/harbor,Go,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",4770,24216,https://avatars.githubusercontent.com/u/40275816?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,15,Declarative Continuous Deployment for Kubernetes,5479,17999,https://avatars.githubusercontent.com/u/30269780?v=4
+66573241,fabric,hyperledger/fabric,Go,4,Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.,8858,15768,https://avatars.githubusercontent.com/u/7657900?v=4
+193833307,listmonk,knadh/listmonk,Go,15,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",1400,15326,https://avatars.githubusercontent.com/u/547147?u=2bfb14ccb1422e941579fc76643fa6765b86fdc9&v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,22,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1234,12476,https://avatars.githubusercontent.com/u/43720803?v=4
+54230994,coredns,coredns/coredns,Go,6,CoreDNS is a DNS server that chains plugins,2138,12448,https://avatars.githubusercontent.com/u/21110084?v=4
+215654064,temporal,temporalio/temporal,Go,11,Temporal service,850,12079,https://avatars.githubusercontent.com/u/56493103?v=4
+753490180,daytona,daytonaio/daytona,Go,113,The Open Source Dev Environment Manager.,846,11389,https://avatars.githubusercontent.com/u/130513197?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,9,Exporter for machine metrics,2373,11279,https://avatars.githubusercontent.com/u/3380462?v=4
+306366900,casdoor,casdoor/casdoor,Go,14,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",1211,10262,https://avatars.githubusercontent.com/u/72992104?v=4
+247714750,zitadel,zitadel/zitadel,Go,9,"ZITADEL - Identity infrastructure, simplified for you.",579,9035,https://avatars.githubusercontent.com/u/70011121?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,5,Autoscaling components for Kubernetes,3978,8094,https://avatars.githubusercontent.com/u/13629408?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,2,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,983,8093,https://avatars.githubusercontent.com/u/17118990?v=4
+703404066,go-blueprint,Melkeydev/go-blueprint,Go,102,Go-blueprint allows users to spin up a quick Go project using a popular framework,302,5125,https://avatars.githubusercontent.com/u/53410236?u=4a0b00602c76212427a806ec50588c51ce8b4d91&v=4
+603535454,langchaingo,tmc/langchaingo,Go,25,"LangChain for Go, the easiest way to write LLM-based programs in Go",631,4761,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,4,OpenTelemetry Collector,1474,4490,https://avatars.githubusercontent.com/u/49998002?v=4
+558188628,higress,alibaba/higress,Go,136,🤖 AI Gateway | AI Native API Gateway,523,3465,https://avatars.githubusercontent.com/u/1961952?v=4
+308444913,kuberay,ray-project/kuberay,Go,7,A toolkit to run Ray applications on Kubernetes,412,1289,https://avatars.githubusercontent.com/u/22125274?v=4

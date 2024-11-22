@@ -1,25 +1,21 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,22,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23810,67103,https://avatars.githubusercontent.com/u/1529926?v=4
-1903522,php-src,php/php-src,C,19,The PHP Interpreter,7753,38260,https://avatars.githubusercontent.com/u/25158?v=4
-10446890,ijkplayer,bilibili/ijkplayer,C,2,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",8128,32568,https://avatars.githubusercontent.com/u/12002442?v=4
-7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,10156,25960,https://avatars.githubusercontent.com/u/3279138?v=4
-37912398,nginx,nginx/nginx,C,13,The official NGINX Open Source repository.,6995,25248,https://avatars.githubusercontent.com/u/1412239?v=4
-29759715,zstd,facebook/zstd,C,10,Zstandard - Fast real-time compression algorithm,2108,23789,https://avatars.githubusercontent.com/u/69631?v=4
-13836499,raylib,raysan5/raylib,C,47,A simple and easy-to-use library to enjoy videogames programming,2285,22843,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
+10744183,netdata,netdata/netdata,C,16,"Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",5946,72170,https://avatars.githubusercontent.com/u/43390781?v=4
+7634677,openssl,openssl/openssl,C,11,TLS/SSL and crypto library,10156,25964,https://avatars.githubusercontent.com/u/3279138?v=4
+14812739,libuv,libuv/libuv,C,11,Cross-platform asynchronous I/O,3605,24361,https://avatars.githubusercontent.com/u/4030929?v=4
+34921116,bcc,iovisor/bcc,C,3,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3884,20603,https://avatars.githubusercontent.com/u/12766186?v=4
+18496166,mimikatz,gentilkiwi/mimikatz,C,7,A little tool to play with Windows security,3738,19483,https://avatars.githubusercontent.com/u/2307945?v=4
 60667730,lvgl,lvgl/lvgl,C,141,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",3284,17396,https://avatars.githubusercontent.com/u/19811762?v=4
-775743011,valkey,valkey-io/valkey,C,28,A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.,655,17355,https://avatars.githubusercontent.com/u/164458127?v=4
-1979797,FreeRDP,FreeRDP/FreeRDP,C,5,FreeRDP is a free remote desktop protocol library and clients,14874,11042,https://avatars.githubusercontent.com/u/663376?v=4
-106586124,atomic-red-team,redcanaryco/atomic-red-team,C,5,Small and highly portable detection tests based on MITRE's ATT&CK.,2808,9810,https://avatars.githubusercontent.com/u/6877001?v=4
+775743011,valkey,valkey-io/valkey,C,28,A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.,656,17356,https://avatars.githubusercontent.com/u/164458127?v=4
+359952601,pgvector,pgvector/pgvector,C,17,Open-source vector similarity search for Postgres,594,12688,https://avatars.githubusercontent.com/u/98363230?v=4
+1979797,FreeRDP,FreeRDP/FreeRDP,C,5,FreeRDP is a free remote desktop protocol library and clients,14876,11044,https://avatars.githubusercontent.com/u/663376?v=4
 105944401,yugabyte-db,yugabyte/yugabyte-db,C,3,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.,1077,9022,https://avatars.githubusercontent.com/u/17074854?v=4
-31791482,Windows-driver-samples,microsoft/Windows-driver-samples,C,2,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,4943,7000,https://avatars.githubusercontent.com/u/6154722?v=4
-8180677,libimobiledevice,libimobiledevice/libimobiledevice,C,4,A cross-platform protocol library to communicate with iOS devices,1341,6692,https://avatars.githubusercontent.com/u/3584568?v=4
-3681392,hackrf,greatscottgadgets/hackrf,C,3,low cost software radio platform,1536,6617,https://avatars.githubusercontent.com/u/5904722?v=4
+1286805,OpenBLAS,OpenMathLib/OpenBLAS,C,3,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1504,6408,https://avatars.githubusercontent.com/u/9943298?v=4
+38617,sqlcipher,sqlcipher/sqlcipher,C,4,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1284,6282,https://avatars.githubusercontent.com/u/649049?v=4
 6687936,mbedtls,Mbed-TLS/mbedtls,C,3,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2607,5551,https://avatars.githubusercontent.com/u/97226525?v=4
-26537135,u-boot,u-boot/u-boot,C,7,"""Das U-Boot"" Source Tree",3667,4036,https://avatars.githubusercontent.com/u/9681997?v=4
-317493442,box64,ptitSeb/box64,C,2,"Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices",288,3910,https://avatars.githubusercontent.com/u/3250792?u=f206420ae21c0bbf92fea09871f11adea98adb39&v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,2,,943,3767,https://avatars.githubusercontent.com/u/1294177?v=4
-76599439,frr,FRRouting/frr,C,2,The FRRouting Protocol Suite,1261,3372,https://avatars.githubusercontent.com/u/24592672?v=4
-228103273,nuttx,apache/nuttx,C,2,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1180,2883,https://avatars.githubusercontent.com/u/47359?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,4,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",1137,2814,https://avatars.githubusercontent.com/u/54647343?v=4
-573377157,bpf-developer-tutorial,eunomia-bpf/bpf-developer-tutorial,C,8,eBPF Developer Tutorial: Learning eBPF Step by Step with Examples,373,2639,https://avatars.githubusercontent.com/u/111646515?v=4
+15120676,libusb,libusb/libusb,C,2,A cross-platform library to access USB devices ,1922,5310,https://avatars.githubusercontent.com/u/4439549?v=4
+114948816,h3,uber/h3,C,4,Hexagonal hierarchical geospatial indexing system,470,4945,https://avatars.githubusercontent.com/u/538264?v=4
+33784533,asterisk,asterisk/asterisk,C,5,The official Asterisk Project repository.,979,2261,https://avatars.githubusercontent.com/u/2914369?v=4
+50272879,pjproject,pjsip/pjproject,C,1,PJSIP project,784,2073,https://avatars.githubusercontent.com/u/6085234?v=4
+121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,1219,954,https://avatars.githubusercontent.com/u/40860733?v=4
 795166961,Bruce,pr3y/Bruce,C,17,Predatory ESP32 Firmware,108,922,https://avatars.githubusercontent.com/u/67231282?v=4
+53432472,sonic-buildimage,sonic-net/sonic-buildimage,C,0,Scripts which perform an installable binary image build for SONiC,1435,740,https://avatars.githubusercontent.com/u/102750714?v=4
