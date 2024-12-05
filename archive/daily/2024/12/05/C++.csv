@@ -1,24 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-22887094,tesseract,tesseract-ocr/tesseract,C++,38,Tesseract Open Source OCR Engine (main repository),9550,62906,https://avatars.githubusercontent.com/u/8401422?v=4
-11171548,json,nlohmann/json,C++,18,JSON for Modern C++,6768,43484,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,10175,34975,https://avatars.githubusercontent.com/u/1342004?v=4
-808045485,ladybird,LadybirdBrowser/ladybird,C++,1157,Truly independent web browser,1105,25669,https://avatars.githubusercontent.com/u/134672918?v=4
-65214191,envoy,envoyproxy/envoy,C++,4,Cloud-native high-performance edge/middle/service proxy,4828,25142,https://avatars.githubusercontent.com/u/30125649?v=4
-138754790,duckdb,duckdb/duckdb,C++,31,DuckDB is an analytical in-process SQL database management system,1948,24773,https://avatars.githubusercontent.com/u/82039556?v=4
-7056202,fmt,fmtlib/fmt,C++,9,A modern formatting library,2520,20905,https://avatars.githubusercontent.com/u/7280830?v=4
-48009214,react-native-windows,microsoft/react-native-windows,C++,11,A framework for building native Windows apps with React.,1144,16436,https://avatars.githubusercontent.com/u/6154722?v=4
-38581626,pybind11,pybind/pybind11,C++,10,Seamless operability between C++11 and Python,2119,15878,https://avatars.githubusercontent.com/u/17565521?v=4
-104231541,abseil-cpp,abseil/abseil-cpp,C++,8,Abseil Common Libraries (C++),2641,15125,https://avatars.githubusercontent.com/u/26718316?v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,14,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",2948,14900,https://avatars.githubusercontent.com/u/6154722?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,8,A fast JSON parser/generator for C++ with both SAX/DOM style API,3540,14361,https://avatars.githubusercontent.com/u/18461506?v=4
-838253246,BitNet,microsoft/BitNet,C++,372,Official inference framework for 1-bit LLMs,836,11958,https://avatars.githubusercontent.com/u/6154722?v=4
-556675672,shadPS4,shadps4-emu/shadPS4,C++,33,"PS4 emulator for Windows,Linux,MacOS",723,11246,https://avatars.githubusercontent.com/u/152868421?v=4
-8730628,CppTemplateTutorial,wuye9036/CppTemplateTutorial,C++,11,中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中),1572,9751,https://avatars.githubusercontent.com/u/848649?v=4
-181436799,MNN,alibaba/MNN,C++,4,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",1675,8794,https://avatars.githubusercontent.com/u/1961952?v=4
-23007417,colmap,colmap/colmap,C++,10,COLMAP - Structure-from-Motion and Multi-View Stereo,1534,7841,https://avatars.githubusercontent.com/u/8461936?v=4
-587499842,piper,rhasspy/piper,C++,17,"A fast, local neural text to speech system",498,6803,https://avatars.githubusercontent.com/u/59055969?v=4
+15634981,godot,godotengine/godot,C++,51,Godot Engine – Multi-platform 2D and 3D game engine,21281,91623,https://avatars.githubusercontent.com/u/6318500?v=4
+5108051,opencv,opencv/opencv,C++,28,Open Source Computer Vision Library,55862,79458,https://avatars.githubusercontent.com/u/5009934?v=4
+11171548,json,nlohmann/json,C++,20,JSON for Modern C++,6768,43488,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+60246359,ClickHouse,ClickHouse/ClickHouse,C++,19,ClickHouse® is a real-time analytics DBMS,6947,37911,https://avatars.githubusercontent.com/u/54801242?v=4
+39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,10176,34975,https://avatars.githubusercontent.com/u/1342004?v=4
+4524181,folly,facebook/folly,C++,9,An open-source C++ library developed and used at Facebook.,5578,28514,https://avatars.githubusercontent.com/u/69631?v=4
+16587283,xgboost,dmlc/xgboost,C++,5,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",8738,26373,https://avatars.githubusercontent.com/u/11508361?v=4
+808045485,ladybird,LadybirdBrowser/ladybird,C++,1020,Truly independent web browser,1108,25748,https://avatars.githubusercontent.com/u/134672918?v=4
+138754790,duckdb,duckdb/duckdb,C++,31,DuckDB is an analytical in-process SQL database management system,1948,24774,https://avatars.githubusercontent.com/u/82039556?v=4
+26038648,spdlog,gabime/spdlog,C++,22,Fast C++ logging library.,4587,24598,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+48009214,react-native-windows,microsoft/react-native-windows,C++,11,A framework for building native Windows apps with React.,1144,16438,https://avatars.githubusercontent.com/u/6154722?v=4
+51905353,arrow,apache/arrow,C++,9,Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics,3560,14695,https://avatars.githubusercontent.com/u/47359?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,72,A fast JSON parser/generator for C++ with both SAX/DOM style API,3540,14371,https://avatars.githubusercontent.com/u/18461506?v=4
+86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,11,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,3460,14155,https://avatars.githubusercontent.com/u/84565724?v=4
+5909706,cpp-httplib,yhirose/cpp-httplib,C++,8,A C++ header-only HTTP/HTTPS server and client library,2321,13229,https://avatars.githubusercontent.com/u/357397?u=c537858a711fa4a23ac0d59903a97c6bfdc6b67c&v=4
+838253246,BitNet,microsoft/BitNet,C++,372,Official inference framework for 1-bit LLMs,838,11975,https://avatars.githubusercontent.com/u/6154722?v=4
+23086893,re2,google/re2,C++,3,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",1143,9006,https://avatars.githubusercontent.com/u/1342004?v=4
 33100064,yaml-cpp,jbeder/yaml-cpp,C++,4,A YAML parser and emitter in C++,1875,5194,https://avatars.githubusercontent.com/u/1059334?u=c1a1d6555522380d9c818e51048f24b29c3dae09&v=4
-2724167,rippled,XRPLF/rippled,C++,84,Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++,1482,4648,https://avatars.githubusercontent.com/u/67929741?v=4
-531380835,sherpa-onnx,k2-fsa/sherpa-onnx,C++,15,"Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",437,3765,https://avatars.githubusercontent.com/u/71431748?v=4
-227091502,perfetto,google/perfetto,C++,3,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",366,2960,https://avatars.githubusercontent.com/u/1342004?v=4
-601205363,tt-metal,tenstorrent/tt-metal,C++,10,":metal: TT-NN operator library, and TT-Metalium low level kernel programming model.",83,502,https://avatars.githubusercontent.com/u/64161552?v=4
+2724167,rippled,XRPLF/rippled,C++,11,Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++,1482,4648,https://avatars.githubusercontent.com/u/67929741?v=4
+37287688,mfem,mfem/mfem,C++,3,"Lightweight, general, scalable C++ library for finite element methods",503,1751,https://avatars.githubusercontent.com/u/12879105?v=4
+601205363,tt-metal,tenstorrent/tt-metal,C++,10,":metal: TT-NN operator library, and TT-Metalium low level kernel programming model.",83,503,https://avatars.githubusercontent.com/u/64161552?v=4

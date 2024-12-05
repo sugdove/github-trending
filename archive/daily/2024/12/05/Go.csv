@@ -1,22 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-14712850,syncthing,syncthing/syncthing,Go,27,Open Source Continuous File Synchronization,4326,65994,https://avatars.githubusercontent.com/u/7628018?v=4
-138547797,mkcert,FiloSottile/mkcert,Go,50,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2673,50992,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
-29261473,minio,minio/minio,Go,26,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5552,48672,https://avatars.githubusercontent.com/u/695951?v=4
-120227732,fyne,fyne-io/fyne,Go,14,Cross platform GUI toolkit in Go inspired by Material Design,1406,25310,https://avatars.githubusercontent.com/u/36045855?v=4
-129717717,loki,grafana/loki,Go,12,"Like Prometheus, but for logs.",3475,24102,https://avatars.githubusercontent.com/u/7195757?v=4
-6247705,testify,stretchr/testify,Go,6,A toolkit with common assertions and mocks that plays nicely with the standard library,1604,23592,https://avatars.githubusercontent.com/u/1841476?v=4
-27729907,grpc-go,grpc/grpc-go,Go,2,The Go language implementation of gRPC. HTTP/2 based RPC,4404,21157,https://avatars.githubusercontent.com/u/7802525?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,4,Declarative Continuous Deployment for Kubernetes,5531,18079,https://avatars.githubusercontent.com/u/30269780?v=4
-6443435,nats-server,nats-io/nats-server,Go,7,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1417,16078,https://avatars.githubusercontent.com/u/10203055?v=4
-118105436,migrate,golang-migrate/migrate,Go,11,Database migrations. CLI and Golang library.,1417,15645,https://avatars.githubusercontent.com/u/35595841?v=4
-33258973,telegraf,influxdata/telegraf,Go,9,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5602,14935,https://avatars.githubusercontent.com/u/5713248?v=4
-326228917,katana,projectdiscovery/katana,Go,47,A next-generation crawling and spidering framework.,646,12420,https://avatars.githubusercontent.com/u/50994705?v=4
-43225113,yq,mikefarah/yq,Go,6,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",607,12413,https://avatars.githubusercontent.com/u/1151925?v=4
-357897199,netbird,netbirdio/netbird,Go,14,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",522,11389,https://avatars.githubusercontent.com/u/100464677?v=4
-9120526,pgx,jackc/pgx,Go,7,PostgreSQL driver and toolkit for Go,849,10916,https://avatars.githubusercontent.com/u/94130?v=4
-28366058,distribution,distribution/distribution,Go,3,"The toolkit to pack, ship, store, and deliver container content",2514,9058,https://avatars.githubusercontent.com/u/78096003?v=4
+138547797,mkcert,FiloSottile/mkcert,Go,259,A simple zero-config tool to make locally trusted development certificates with any names you'd like.,2674,51010,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
+17728164,terraform,hashicorp/terraform,Go,11,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9581,43165,https://avatars.githubusercontent.com/u/761456?v=4
+27729907,grpc-go,grpc/grpc-go,Go,2,The Go language implementation of gRPC. HTTP/2 based RPC,4404,21158,https://avatars.githubusercontent.com/u/7802525?v=4
+403020531,colima,abiosoft/colima,Go,16,Container runtimes on macOS (and Linux) with minimal setup,398,19815,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,3,gRPC to JSON proxy generator following the gRPC HTTP spec,2248,18298,https://avatars.githubusercontent.com/u/19352526?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,4,Workflow Engine for Kubernetes,3211,15133,https://avatars.githubusercontent.com/u/30269780?v=4
+33258973,telegraf,influxdata/telegraf,Go,9,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5602,14938,https://avatars.githubusercontent.com/u/5713248?v=4
+65434192,gjson,tidwall/gjson,Go,7,Get JSON values quickly - JSON parser for Go,859,14411,https://avatars.githubusercontent.com/u/1156077?u=992aa8de651e43cbedfc7dc7eedfd04de3f7aadf&v=4
+80087836,badger,dgraph-io/badger,Go,3,Fast key-value DB in Go.,1191,14041,https://avatars.githubusercontent.com/u/13958706?v=4
+326228917,katana,projectdiscovery/katana,Go,47,A next-generation crawling and spidering framework.,646,12422,https://avatars.githubusercontent.com/u/50994705?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,9,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1615,9958,https://avatars.githubusercontent.com/u/62798169?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,1,The AWS Provider enables Terraform to manage AWS resources.,9219,9883,https://avatars.githubusercontent.com/u/761456?v=4
 87990209,autoscaler,kubernetes/autoscaler,Go,3,Autoscaling components for Kubernetes,3986,8113,https://avatars.githubusercontent.com/u/13629408?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,6,OpenTelemetry Go API and SDK,1087,5369,https://avatars.githubusercontent.com/u/49998002?v=4
-177210627,buildx,docker/buildx,Go,2,Docker CLI plugin for extended build capabilities with BuildKit,485,3606,https://avatars.githubusercontent.com/u/5429470?v=4
-80669528,ddev,ddev/ddev,Go,1,Docker-based local PHP+Node.js web development environments,613,2810,https://avatars.githubusercontent.com/u/595986?v=4
-308444913,kuberay,ray-project/kuberay,Go,1,A toolkit to run Ray applications on Kubernetes,419,1313,https://avatars.githubusercontent.com/u/22125274?v=4
+50629145,pprof,google/pprof,Go,9,pprof is a tool for visualization and analysis of profiling data,609,8046,https://avatars.githubusercontent.com/u/1342004?v=4
+11452538,alertmanager,prometheus/alertmanager,Go,3,Prometheus Alertmanager,2169,6701,https://avatars.githubusercontent.com/u/3380462?v=4
+58184885,kube-state-metrics,kubernetes/kube-state-metrics,Go,4,Add-on agent to generate and expose cluster-level metrics.,2027,5465,https://avatars.githubusercontent.com/u/13629408?v=4
+7823926,client_golang,prometheus/client_golang,Go,1,Prometheus instrumentation library for Go applications,1187,5439,https://avatars.githubusercontent.com/u/3380462?v=4
+178079595,opencost,opencost/opencost,Go,3,Cost monitoring for Kubernetes workloads and cloud costs,564,5362,https://avatars.githubusercontent.com/u/105945214?v=4
+717197250,new-api,Calcium-Ion/new-api,Go,20,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。,872,3815,https://avatars.githubusercontent.com/u/61247483?v=4
+117377862,gardener,gardener/gardener,Go,3,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,487,2942,https://avatars.githubusercontent.com/u/33683699?v=4
+155368246,cloud-on-k8s,elastic/cloud-on-k8s,Go,17,Elastic Cloud on Kubernetes,711,2624,https://avatars.githubusercontent.com/u/6764390?v=4
+219058535,gateway-api,kubernetes-sigs/gateway-api,Go,1,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,488,1868,https://avatars.githubusercontent.com/u/36015203?v=4
