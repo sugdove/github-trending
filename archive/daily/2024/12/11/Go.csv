@@ -1,23 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-15452919,go-ethereum,ethereum/go-ethereum,Go,12,Go implementation of the Ethereum protocol,20276,47871,https://avatars.githubusercontent.com/u/6250754?v=4
-72495579,gitea,go-gitea/gitea,Go,33,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5538,45587,https://avatars.githubusercontent.com/u/12724356?v=4
-212613049,cli,cli/cli,Go,43,GitHub’s official command line tool,5905,37578,https://avatars.githubusercontent.com/u/59704711?v=4
-738733003,fabric,danielmiessler/fabric,Go,26,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2752,25892,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-180687624,trivy,aquasecurity/trivy,Go,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2355,23988,https://avatars.githubusercontent.com/u/12783832?v=4
-52034309,zap,uber-go/zap,Go,4,"Blazing fast, structured, leveled logging in Go.",1440,22156,https://avatars.githubusercontent.com/u/19262598?v=4
-48109239,cilium,cilium/cilium,Go,9,"eBPF-based Networking, Security, and Observability",2996,20436,https://avatars.githubusercontent.com/u/21054566?v=4
-42194129,slim,slimtoolkit/slim,Go,34,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),744,20075,https://avatars.githubusercontent.com/u/20057356?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,12,Go implementation of the Ethereum protocol,20277,47873,https://avatars.githubusercontent.com/u/6250754?v=4
+72495579,gitea,go-gitea/gitea,Go,33,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5537,45591,https://avatars.githubusercontent.com/u/12724356?v=4
+212613049,cli,cli/cli,Go,43,GitHub’s official command line tool,5906,37581,https://avatars.githubusercontent.com/u/59704711?v=4
+738733003,fabric,danielmiessler/fabric,Go,26,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2753,25898,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+180687624,trivy,aquasecurity/trivy,Go,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2356,23989,https://avatars.githubusercontent.com/u/12783832?v=4
+52034309,zap,uber-go/zap,Go,4,"Blazing fast, structured, leveled logging in Go.",1440,22158,https://avatars.githubusercontent.com/u/19262598?v=4
+48109239,cilium,cilium/cilium,Go,9,"eBPF-based Networking, Security, and Observability",2996,20438,https://avatars.githubusercontent.com/u/21054566?v=4
+42194129,slim,slimtoolkit/slim,Go,34,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),744,20085,https://avatars.githubusercontent.com/u/20057356?v=4
 11008207,vitess,vitessio/vitess,Go,13,Vitess is a database clustering system for horizontal scaling of MySQL.,2103,18770,https://avatars.githubusercontent.com/u/33043890?v=4
-31558937,teleport,gravitational/teleport,Go,10,"The easiest, and most secure way to access and protect all of your infrastructure.",1776,17754,https://avatars.githubusercontent.com/u/10781132?v=4
+31558937,teleport,gravitational/teleport,Go,10,"The easiest, and most secure way to access and protect all of your infrastructure.",1776,17756,https://avatars.githubusercontent.com/u/10781132?v=4
 72891330,ingress-nginx,kubernetes/ingress-nginx,Go,6,Ingress NGINX Controller for Kubernetes,8271,17631,https://avatars.githubusercontent.com/u/13629408?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,20,"Find, verify, and analyze leaked credentials",1728,17536,https://avatars.githubusercontent.com/u/79229934?v=4
-753490180,daytona,daytonaio/daytona,Go,38,The Open Source Dev Environment Manager.,1019,13159,https://avatars.githubusercontent.com/u/130513197?v=4
-221849341,asynq,hibiken/asynq,Go,10,"Simple, reliable, and efficient distributed task queue in Go",733,10174,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,20,"Find, verify, and analyze leaked credentials",1728,17537,https://avatars.githubusercontent.com/u/79229934?v=4
+753490180,daytona,daytonaio/daytona,Go,38,The Open Source Dev Environment Manager.,1019,13162,https://avatars.githubusercontent.com/u/130513197?v=4
+221849341,asynq,hibiken/asynq,Go,10,"Simple, reliable, and efficient distributed task queue in Go",733,10180,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
 106867604,cloudflared,cloudflare/cloudflared,Go,12,Cloudflare Tunnel client (formerly Argo Tunnel),842,9443,https://avatars.githubusercontent.com/u/314135?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2588,7776,https://avatars.githubusercontent.com/u/36015203?v=4
-94779471,kube-bench,aquasecurity/kube-bench,Go,5,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1234,7125,https://avatars.githubusercontent.com/u/12783832?v=4
-109451092,talos,siderolabs/talos,Go,12,Talos Linux is a modern Linux distribution built for Kubernetes.,570,7015,https://avatars.githubusercontent.com/u/13804887?v=4
-206214867,gatus,TwiN/gatus,Go,19,⛑ Automated developer-oriented status page,436,6651,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
-63882194,calico,projectcalico/calico,Go,2,Cloud native networking and network security,1350,6068,https://avatars.githubusercontent.com/u/12304728?v=4
-716719284,openbao,openbao/openbao,Go,5,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",141,3086,https://avatars.githubusercontent.com/u/152585220?v=4
-172803655,gpu-operator,NVIDIA/gpu-operator,Go,5,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",307,1895,https://avatars.githubusercontent.com/u/1728152?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,1,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2588,7778,https://avatars.githubusercontent.com/u/36015203?v=4
+94779471,kube-bench,aquasecurity/kube-bench,Go,5,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1234,7126,https://avatars.githubusercontent.com/u/12783832?v=4
+109451092,talos,siderolabs/talos,Go,12,Talos Linux is a modern Linux distribution built for Kubernetes.,571,7018,https://avatars.githubusercontent.com/u/13804887?v=4
+206214867,gatus,TwiN/gatus,Go,19,⛑ Automated developer-oriented status page,436,6658,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
+63882194,calico,projectcalico/calico,Go,2,Cloud native networking and network security,1350,6069,https://avatars.githubusercontent.com/u/12304728?v=4
+716719284,openbao,openbao/openbao,Go,5,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",141,3089,https://avatars.githubusercontent.com/u/152585220?v=4
+172803655,gpu-operator,NVIDIA/gpu-operator,Go,5,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",307,1896,https://avatars.githubusercontent.com/u/1728152?v=4
