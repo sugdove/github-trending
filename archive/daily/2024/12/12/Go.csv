@@ -1,23 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-15452919,go-ethereum,ethereum/go-ethereum,Go,10,Go implementation of the Ethereum protocol,20280,47882,https://avatars.githubusercontent.com/u/6250754?v=4
-72495579,gitea,go-gitea/gitea,Go,38,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5538,45603,https://avatars.githubusercontent.com/u/12724356?v=4
-212613049,cli,cli/cli,Go,32,GitHub’s official command line tool,5906,37582,https://avatars.githubusercontent.com/u/59704711?v=4
-738733003,fabric,danielmiessler/fabric,Go,25,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2754,25907,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-180687624,trivy,aquasecurity/trivy,Go,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2356,23993,https://avatars.githubusercontent.com/u/12783832?v=4
-52034309,zap,uber-go/zap,Go,4,"Blazing fast, structured, leveled logging in Go.",1440,22162,https://avatars.githubusercontent.com/u/19262598?v=4
-48109239,cilium,cilium/cilium,Go,9,"eBPF-based Networking, Security, and Observability",2997,20452,https://avatars.githubusercontent.com/u/21054566?v=4
-42194129,slim,slimtoolkit/slim,Go,31,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),744,20107,https://avatars.githubusercontent.com/u/20057356?v=4
-11008207,vitess,vitessio/vitess,Go,14,Vitess is a database clustering system for horizontal scaling of MySQL.,2103,18776,https://avatars.githubusercontent.com/u/33043890?v=4
-31558937,teleport,gravitational/teleport,Go,10,"The easiest, and most secure way to access and protect all of your infrastructure.",1776,17756,https://avatars.githubusercontent.com/u/10781132?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,5,Ingress NGINX Controller for Kubernetes,8272,17634,https://avatars.githubusercontent.com/u/13629408?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,20,"Find, verify, and analyze leaked credentials",1728,17545,https://avatars.githubusercontent.com/u/79229934?v=4
-753490180,daytona,daytonaio/daytona,Go,41,The Open Source Dev Environment Manager.,1019,13168,https://avatars.githubusercontent.com/u/130513197?v=4
-221849341,asynq,hibiken/asynq,Go,17,"Simple, reliable, and efficient distributed task queue in Go",733,10195,https://avatars.githubusercontent.com/u/10953044?u=8a795841e6979ef992316dea37c7d2ac807aad04&v=4
-106867604,cloudflared,cloudflare/cloudflared,Go,13,Cloudflare Tunnel client (formerly Argo Tunnel),844,9446,https://avatars.githubusercontent.com/u/314135?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,2,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2588,7782,https://avatars.githubusercontent.com/u/36015203?v=4
-94779471,kube-bench,aquasecurity/kube-bench,Go,4,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1234,7127,https://avatars.githubusercontent.com/u/12783832?v=4
-109451092,talos,siderolabs/talos,Go,12,Talos Linux is a modern Linux distribution built for Kubernetes.,572,7024,https://avatars.githubusercontent.com/u/13804887?v=4
-206214867,gatus,TwiN/gatus,Go,24,⛑ Automated developer-oriented status page,438,6675,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
-63882194,calico,projectcalico/calico,Go,3,Cloud native networking and network security,1350,6070,https://avatars.githubusercontent.com/u/12304728?v=4
-716719284,openbao,openbao/openbao,Go,4,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",141,3097,https://avatars.githubusercontent.com/u/152585220?v=4
-172803655,gpu-operator,NVIDIA/gpu-operator,Go,3,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",308,1900,https://avatars.githubusercontent.com/u/1728152?v=4
+17728164,terraform,hashicorp/terraform,Go,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9584,43209,https://avatars.githubusercontent.com/u/761456?v=4
+74175805,istio,istio/istio,Go,10,"Connect, secure, control, and observe services.",7795,36224,https://avatars.githubusercontent.com/u/23534644?v=4
+233130089,bubbletea,charmbracelet/bubbletea,Go,16,A powerful little TUI framework 🏗,829,28478,https://avatars.githubusercontent.com/u/57376114?v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,53,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",1459,26650,https://avatars.githubusercontent.com/u/91336243?v=4
+50613991,harbor,goharbor/harbor,Go,10,"An open source trusted cloud native registry project that stores, signs, and scans content.",4777,24361,https://avatars.githubusercontent.com/u/40275816?v=4
+180687624,trivy,aquasecurity/trivy,Go,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2356,23996,https://avatars.githubusercontent.com/u/12783832?v=4
+72477752,pulumi,pulumi/pulumi,Go,11,Pulumi - Infrastructure as Code in any programming language 🚀,1132,22004,https://avatars.githubusercontent.com/u/21992475?v=4
+237523442,tailscale,tailscale/tailscale,Go,17,"The easiest, most secure way to use WireGuard and 2FA.",1556,19787,https://avatars.githubusercontent.com/u/48932923?v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,20,"Find, verify, and analyze leaked credentials",1728,17550,https://avatars.githubusercontent.com/u/79229934?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,12,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1254,12760,https://avatars.githubusercontent.com/u/43720803?v=4
+9524057,node_exporter,prometheus/node_exporter,Go,1,Exporter for machine metrics,2386,11365,https://avatars.githubusercontent.com/u/3380462?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,10,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,993,8147,https://avatars.githubusercontent.com/u/17118990?v=4
+109451092,talos,siderolabs/talos,Go,12,Talos Linux is a modern Linux distribution built for Kubernetes.,573,7025,https://avatars.githubusercontent.com/u/13804887?v=4
+363232643,atlas,ariga/atlas,Go,23,Manage your database schema as code,271,6082,https://avatars.githubusercontent.com/u/3059335?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,8,"Optimism is Ethereum, scaled.",3342,5705,https://avatars.githubusercontent.com/u/58791460?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,4,OpenTelemetry Collector,1490,4546,https://avatars.githubusercontent.com/u/49998002?v=4
+164622061,gopay,go-pay/gopay,Go,24,微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】,757,4521,https://avatars.githubusercontent.com/u/71821872?v=4
+19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1309,3808,https://avatars.githubusercontent.com/u/16785467?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,2,Progressive Delivery for Kubernetes,880,2805,https://avatars.githubusercontent.com/u/30269780?v=4
+172803655,gpu-operator,NVIDIA/gpu-operator,Go,3,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",308,1903,https://avatars.githubusercontent.com/u/1728152?v=4
+459870310,kueue,kubernetes-sigs/kueue,Go,1,Kubernetes-native Job Queueing,275,1504,https://avatars.githubusercontent.com/u/36015203?v=4
