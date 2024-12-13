@@ -1,22 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-17728164,terraform,hashicorp/terraform,Go,13,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9586,43224,https://avatars.githubusercontent.com/u/761456?v=4
-74175805,istio,istio/istio,Go,7,"Connect, secure, control, and observe services.",7795,36229,https://avatars.githubusercontent.com/u/23534644?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,13,A powerful little TUI framework 🏗,832,28501,https://avatars.githubusercontent.com/u/57376114?v=4
-410430370,CasaOS,IceWhaleTech/CasaOS,Go,56,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",1461,26720,https://avatars.githubusercontent.com/u/91336243?v=4
-50613991,harbor,goharbor/harbor,Go,12,"An open source trusted cloud native registry project that stores, signs, and scans content.",4777,24371,https://avatars.githubusercontent.com/u/40275816?v=4
-180687624,trivy,aquasecurity/trivy,Go,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2356,24005,https://avatars.githubusercontent.com/u/12783832?v=4
-72477752,pulumi,pulumi/pulumi,Go,10,Pulumi - Infrastructure as Code in any programming language 🚀,1132,22014,https://avatars.githubusercontent.com/u/21992475?v=4
-237523442,tailscale,tailscale/tailscale,Go,23,"The easiest, most secure way to use WireGuard and 2FA.",1556,19816,https://avatars.githubusercontent.com/u/48932923?v=4
+21540759,awesome-go,avelino/awesome-go,Go,97,"A curated list of awesome Go frameworks, libraries and software",11966,134327,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,32,Production-Grade Container Scheduling and Management,39832,111679,https://avatars.githubusercontent.com/u/13629408?v=4
+48378947,frp,fatedier/frp,Go,59,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13473,87632,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+20904437,gin,gin-gonic/gin,Go,24,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8044,79426,https://avatars.githubusercontent.com/u/7894478?v=4
+11225014,etcd,etcd-io/etcd,Go,10,Distributed reliable key-value store for the most critical data of a distributed system,9796,48050,https://avatars.githubusercontent.com/u/41972792?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,36,A node.js version management utility for Windows. Ironically written in Go.,3378,38470,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+43723161,helm,helm/helm,Go,8,The Kubernetes Package Manager,7145,27181,https://avatars.githubusercontent.com/u/15859888?v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,56,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",1461,26725,https://avatars.githubusercontent.com/u/91336243?v=4
+48109239,cilium,cilium/cilium,Go,7,"eBPF-based Networking, Security, and Observability",2997,20462,https://avatars.githubusercontent.com/u/21054566?v=4
+46089560,containerd,containerd/containerd,Go,11,An open and reliable container runtime,3490,17653,https://avatars.githubusercontent.com/u/14037953?v=4
 77726177,trufflehog,trufflesecurity/trufflehog,Go,20,"Find, verify, and analyze leaked credentials",1730,17566,https://avatars.githubusercontent.com/u/79229934?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,12,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1254,12773,https://avatars.githubusercontent.com/u/43720803?v=4
-9524057,node_exporter,prometheus/node_exporter,Go,2,Exporter for machine metrics,2386,11369,https://avatars.githubusercontent.com/u/3380462?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,12,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,995,8150,https://avatars.githubusercontent.com/u/17118990?v=4
-109451092,talos,siderolabs/talos,Go,13,Talos Linux is a modern Linux distribution built for Kubernetes.,574,7033,https://avatars.githubusercontent.com/u/13804887?v=4
-363232643,atlas,ariga/atlas,Go,24,Manage your database schema as code,271,6113,https://avatars.githubusercontent.com/u/3059335?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,9,"Optimism is Ethereum, scaled.",3345,5712,https://avatars.githubusercontent.com/u/58791460?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,3,OpenTelemetry Collector,1492,4549,https://avatars.githubusercontent.com/u/49998002?v=4
-164622061,gopay,go-pay/gopay,Go,18,微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】,762,4545,https://avatars.githubusercontent.com/u/71821872?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1310,3809,https://avatars.githubusercontent.com/u/16785467?v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,3,Progressive Delivery for Kubernetes,880,2810,https://avatars.githubusercontent.com/u/30269780?v=4
-172803655,gpu-operator,NVIDIA/gpu-operator,Go,10,"NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes",308,1907,https://avatars.githubusercontent.com/u/1728152?v=4
-459870310,kueue,kubernetes-sigs/kueue,Go,1,Kubernetes-native Job Queueing,275,1514,https://avatars.githubusercontent.com/u/36015203?v=4
+55072677,weaviate,weaviate/weaviate,Go,9,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",816,11781,https://avatars.githubusercontent.com/u/37794290?v=4
+11206255,sarama,IBM/sarama,Go,3,Sarama is a Go library for Apache Kafka.,1760,11627,https://avatars.githubusercontent.com/u/1459110?v=4
+105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,6,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1618,10014,https://avatars.githubusercontent.com/u/62798169?v=4
+584556174,conc,sourcegraph/conc,Go,12,Better structured concurrency for go,325,9468,https://avatars.githubusercontent.com/u/3979584?v=4
+59522149,terragrunt,gruntwork-io/terragrunt,Go,12,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,995,8168,https://avatars.githubusercontent.com/u/17118990?v=4
+278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,6,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",979,6918,https://avatars.githubusercontent.com/u/2232217?v=4
+206214867,gatus,TwiN/gatus,Go,24,⛑ Automated developer-oriented status page,439,6686,https://avatars.githubusercontent.com/u/15699766?u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4
+363232643,atlas,ariga/atlas,Go,24,Manage your database schema as code,271,6115,https://avatars.githubusercontent.com/u/3059335?v=4
+175592968,volcano,volcano-sh/volcano,Go,2,A Cloud Native Batch System (Project under CNCF),986,4298,https://avatars.githubusercontent.com/u/47214749?v=4
+716719284,openbao,openbao/openbao,Go,4,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",143,3103,https://avatars.githubusercontent.com/u/152585220?v=4
