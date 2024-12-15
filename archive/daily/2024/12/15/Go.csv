@@ -1,24 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,20,Production-Grade Container Scheduling and Management,39841,111711,https://avatars.githubusercontent.com/u/13629408?v=4
-48378947,frp,fatedier/frp,Go,46,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13483,87702,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-72495579,gitea,go-gitea/gitea,Go,45,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5550,45828,https://avatars.githubusercontent.com/u/12724356?v=4
-234231371,fiber,gofiber/fiber,Go,16,⚡️ Express inspired web framework written in Go,1687,34323,https://avatars.githubusercontent.com/u/59947262?v=4
-208728772,milvus,milvus-io/milvus,Go,18,"A cloud-native vector database, storage for next generation AI applications",2967,31298,https://avatars.githubusercontent.com/u/51735404?v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,15,A powerful little TUI framework 🏗,832,28535,https://avatars.githubusercontent.com/u/57376114?v=4
-43723161,helm,helm/helm,Go,3,The Kubernetes Package Manager,7147,27186,https://avatars.githubusercontent.com/u/15859888?v=4
-410430370,CasaOS,IceWhaleTech/CasaOS,Go,42,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",1467,26799,https://avatars.githubusercontent.com/u/91336243?v=4
-72477752,pulumi,pulumi/pulumi,Go,9,Pulumi - Infrastructure as Code in any programming language 🚀,1133,22034,https://avatars.githubusercontent.com/u/21992475?v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,22,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,4002,20274,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-533087958,d2,terrastruct/d2,Go,65,D2 is a modern diagram scripting language that turns text to diagrams.,465,18672,https://avatars.githubusercontent.com/u/80369600?v=4
-40684033,sops,getsops/sops,Go,6,Simple and flexible tool for managing secrets,885,17207,https://avatars.githubusercontent.com/u/129185620?v=4
-6443435,nats-server,nats-io/nats-server,Go,2,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1423,16136,https://avatars.githubusercontent.com/u/10203055?v=4
-257434373,hysteria,apernet/hysteria,Go,49,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1709,15417,https://avatars.githubusercontent.com/u/79422552?v=4
+21540759,awesome-go,avelino/awesome-go,Go,65,"A curated list of awesome Go frameworks, libraries and software",11970,134414,https://avatars.githubusercontent.com/u/31996?u=5b12d7ad63cadb2b3b523f7ea6d2901dd9b03bcc&v=4
+23096959,go,golang/go,Go,22,The Go programming language,17735,124585,https://avatars.githubusercontent.com/u/4314092?v=4
+72495579,gitea,go-gitea/gitea,Go,190,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5550,45837,https://avatars.githubusercontent.com/u/12724356?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,17,A platform for building proxies to bypass network restrictions.,4689,29872,https://avatars.githubusercontent.com/u/49637375?v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,38,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",1467,26801,https://avatars.githubusercontent.com/u/91336243?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,21,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",4003,26120,https://avatars.githubusercontent.com/u/71564206?v=4
+72477752,pulumi,pulumi/pulumi,Go,9,Pulumi - Infrastructure as Code in any programming language 🚀,1133,22036,https://avatars.githubusercontent.com/u/21992475?v=4
+509091576,sing-box,SagerNet/sing-box,Go,23,The universal proxy platform,2473,20728,https://avatars.githubusercontent.com/u/83217677?v=4
+291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,22,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,4004,20277,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
+237523442,tailscale,tailscale/tailscale,Go,8,"The easiest, most secure way to use WireGuard and 2FA.",1558,19834,https://avatars.githubusercontent.com/u/48932923?v=4
+533087958,d2,terrastruct/d2,Go,59,D2 is a modern diagram scripting language that turns text to diagrams.,465,18673,https://avatars.githubusercontent.com/u/80369600?v=4
+257434373,hysteria,apernet/hysteria,Go,49,"Hysteria is a powerful, lightning fast and censorship resistant proxy.",1709,15421,https://avatars.githubusercontent.com/u/79422552?v=4
 92313258,cert-manager,cert-manager/cert-manager,Go,12,Automatically provision and manage TLS certificates in Kubernetes,2103,12255,https://avatars.githubusercontent.com/u/39950598?v=4
-55072677,weaviate,weaviate/weaviate,Go,11,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",818,11795,https://avatars.githubusercontent.com/u/37794290?v=4
-83252983,task,go-task/task,Go,19,A task runner / simpler Make alternative written in Go,624,11720,https://avatars.githubusercontent.com/u/26048825?v=4
-222824662,dagger,dagger/dagger,Go,4,An engine to run your pipelines in containers,621,11586,https://avatars.githubusercontent.com/u/78824383?v=4
+11206255,sarama,IBM/sarama,Go,1,Sarama is a Go library for Apache Kafka.,1760,11634,https://avatars.githubusercontent.com/u/1459110?v=4
+10721619,ebiten,hajimehoshi/ebiten,Go,9,Ebitengine - A dead simple 2D game engine for Go,667,11200,https://avatars.githubusercontent.com/u/16950?u=ed7c5b7cfcec804ff78d1e3fa43c42ef9869f9c6&v=4
 59522149,terragrunt,gruntwork-io/terragrunt,Go,70,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,996,8252,https://avatars.githubusercontent.com/u/17118990?v=4
-363232643,atlas,ariga/atlas,Go,19,Manage your database schema as code,271,6142,https://avatars.githubusercontent.com/u/3059335?v=4
-234757030,bubbles,charmbracelet/bubbles,Go,3,TUI components for Bubble Tea 🫧,270,5721,https://avatars.githubusercontent.com/u/57376114?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,2,OpenTelemetry Go API and SDK,1088,5391,https://avatars.githubusercontent.com/u/49998002?v=4
-717197250,new-api,Calcium-Ion/new-api,Go,17,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,900,3955,https://avatars.githubusercontent.com/u/61247483?v=4
+531220682,dice,DiceDB/dice,Go,26,"DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",1110,6964,https://avatars.githubusercontent.com/u/112580013?v=4
+280658081,domain-list-community,v2fly/domain-list-community,Go,12,Community managed domain list. Generate geosite.dat for V2Ray.,930,5164,https://avatars.githubusercontent.com/u/49637375?v=4
+717197250,new-api,Calcium-Ion/new-api,Go,17,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,900,3967,https://avatars.githubusercontent.com/u/61247483?v=4
+188836864,erigon,erigontech/erigon,Go,3,Ethereum implementation on the efficiency frontier https://erigon.gitbook.io,1150,3166,https://avatars.githubusercontent.com/u/66788158?v=4
+246387644,avalanchego,ava-labs/avalanchego,Go,1,Go implementation of an Avalanche node.,682,2147,https://avatars.githubusercontent.com/u/44277073?v=4

@@ -1,20 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-569041,curl,curl/curl,C,11,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6479,36292,https://avatars.githubusercontent.com/u/16928085?v=4
-15337142,micropython,micropython/micropython,C,7,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,7839,19560,https://avatars.githubusercontent.com/u/6298560?v=4
+111583593,scrcpy,Genymobile/scrcpy,C,67,Display and control your Android device,10870,114330,https://avatars.githubusercontent.com/u/3427627?v=4
+156018,redis,redis/redis,C,13,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23844,67380,https://avatars.githubusercontent.com/u/1529926?v=4
+13233158,obs-studio,obsproject/obs-studio,C,22,OBS Studio - Free and open source software for live streaming and screen recording,8049,60931,https://avatars.githubusercontent.com/u/7725691?v=4
+569041,curl,curl/curl,C,166,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6479,36296,https://avatars.githubusercontent.com/u/16928085?v=4
+102578345,lede,coolsnowwolf/lede,C,7,Lean's LEDE source,19538,30009,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+15337142,micropython,micropython/micropython,C,7,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,7840,19560,https://avatars.githubusercontent.com/u/6298560?v=4
+66150122,nnn,jarun/nnn,C,6,n³ The unorthodox terminal file manager,768,19475,https://avatars.githubusercontent.com/u/5959286?u=4dec02f28f78e74bd1d3b7c1096415a4a4291fab&v=4
+27737393,qmk_firmware,qmk/qmk_firmware,C,7,Open-source keyboard firmware for Atmel AVR and Arm USB families,39744,18435,https://avatars.githubusercontent.com/u/25358678?v=4
+284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,10,Flipper Zero firmware source code,2755,13107,https://avatars.githubusercontent.com/u/57576566?v=4
 32921736,audacity,audacity/audacity,C,18,Audio Editor                                     ,2275,12753,https://avatars.githubusercontent.com/u/11648186?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,5,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6741,11067,https://avatars.githubusercontent.com/u/19595895?v=4
-54280778,cJSON,DaveGamble/cJSON,C,4,Ultralightweight JSON parser in ANSI C,3231,10930,https://avatars.githubusercontent.com/u/118247?v=4
 59676171,klipper,Klipper3d/klipper,C,6,Klipper is a 3d-printer firmware,5372,9650,https://avatars.githubusercontent.com/u/90982958?v=4
-51757458,zapret,bol-van/zapret,C,20,DPI bypass multi platform,657,8823,https://avatars.githubusercontent.com/u/9076680?v=4
-38617,sqlcipher,sqlcipher/sqlcipher,C,3,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1286,6324,https://avatars.githubusercontent.com/u/649049?v=4
-83160811,littlefs,littlefs-project/littlefs,C,8,A little fail-safe filesystem designed for microcontrollers,808,5278,https://avatars.githubusercontent.com/u/60944974?v=4
+88327406,xmrig,xmrig/xmrig,C,8,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",3490,8885,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
+51757458,zapret,bol-van/zapret,C,20,DPI bypass multi platform,657,8830,https://avatars.githubusercontent.com/u/9076680?v=4
+203759896,immortalwrt,immortalwrt/immortalwrt,C,7,An opensource OpenWrt variant for mainland China users.,1872,6671,https://avatars.githubusercontent.com/u/53193414?v=4
+7370241,RIOT,RIOT-OS/RIOT,C,14,RIOT -  The friendly OS for IoT,2003,5016,https://avatars.githubusercontent.com/u/3079480?v=4
 247875738,oot,zeldaret/oot,C,6,Decompilation of The Legend of Zelda: Ocarina of Time,608,4895,https://avatars.githubusercontent.com/u/50950276?v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,4,Simple Unit Testing for C,982,4159,https://avatars.githubusercontent.com/u/1049138?v=4
-228103273,nuttx,apache/nuttx,C,3,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1200,2963,https://avatars.githubusercontent.com/u/47359?v=4
-200663555,liburing,axboe/liburing,C,1,Library providing helpers for the Linux kernel io_uring support,409,2918,https://avatars.githubusercontent.com/u/2619634?v=4
-2276287,riscv-isa-sim,riscv-software-src/riscv-isa-sim,C,2,"Spike, a RISC-V ISA Simulator",871,2490,https://avatars.githubusercontent.com/u/89536631?v=4
-50272879,pjproject,pjsip/pjproject,C,1,PJSIP project,793,2101,https://avatars.githubusercontent.com/u/6085234?v=4
-638533777,bpftune,oracle/bpftune,C,7,bpftune uses BPF to auto-tune Linux systems,74,1464,https://avatars.githubusercontent.com/u/4430336?v=4
-121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,1233,967,https://avatars.githubusercontent.com/u/40860733?v=4
-644742603,cloudberry,apache/cloudberry,C,5,One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.,117,703,https://avatars.githubusercontent.com/u/47359?v=4
-850267588,xiaozhi-esp32,78/xiaozhi-esp32,C,11,Build your own AI friend,141,595,https://avatars.githubusercontent.com/u/4488133?u=c0ce6cda2559f8b3b48d2e29eb917af44fb3c0b3&v=4
+9982112,minhook,TsudaKageyu/minhook,C,2,The Minimalistic x86/x64 API Hooking Library for Windows,902,4455,https://avatars.githubusercontent.com/u/2161941?u=2b803bf7e7d7a9cd5654cb13d65974a13d560853&v=4
+217654199,msquic,microsoft/msquic,C,0,"Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",541,4094,https://avatars.githubusercontent.com/u/6154722?v=4
+32148604,inav,iNavFlight/inav,C,3,INAV: Navigation-enabled flight control software,1501,3236,https://avatars.githubusercontent.com/u/15979895?v=4
+270692521,zmk,zmkfirmware/zmk,C,7,ZMK Firmware Repository,2891,2879,https://avatars.githubusercontent.com/u/66629601?v=4
+209527239,vkd3d-proton,HansKristian-Work/vkd3d-proton,C,1,Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.,203,1954,https://avatars.githubusercontent.com/u/17786731?u=f941d8304f616573c785892bb907639338515203&v=4
+795166961,Bruce,pr3y/Bruce,C,9,Predatory ESP32 Firmware,138,1149,https://avatars.githubusercontent.com/u/67231282?v=4
+675653143,luckfox-pico,LuckfoxTECH/luckfox-pico,C,3,luckfox-pico sdk,147,340,https://avatars.githubusercontent.com/u/129059703?v=4
