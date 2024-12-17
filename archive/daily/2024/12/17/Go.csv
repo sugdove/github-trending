@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,23,The Go programming language,17737,124630,https://avatars.githubusercontent.com/u/4314092?v=4
-48378947,frp,fatedier/frp,Go,64,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13503,87865,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-311315731,Xray-core,XTLS/Xray-core,Go,24,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",4014,26165,https://avatars.githubusercontent.com/u/71564206?v=4
+23096959,go,golang/go,Go,23,The Go programming language,17737,124635,https://avatars.githubusercontent.com/u/4314092?v=4
+48378947,frp,fatedier/frp,Go,64,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13504,87890,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+311315731,Xray-core,XTLS/Xray-core,Go,24,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",4014,26164,https://avatars.githubusercontent.com/u/71564206?v=4
 6247705,testify,stretchr/testify,Go,5,A toolkit with common assertions and mocks that plays nicely with the standard library,1604,23665,https://avatars.githubusercontent.com/u/1841476?v=4
-21827146,seaweedfs,seaweedfs/seaweedfs,Go,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2314,23258,https://avatars.githubusercontent.com/u/11985425?v=4
-13624859,websocket,gorilla/websocket,Go,13,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3495,22652,https://avatars.githubusercontent.com/u/489566?v=4
+21827146,seaweedfs,seaweedfs/seaweedfs,Go,12,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",2314,23259,https://avatars.githubusercontent.com/u/11985425?v=4
+13624859,websocket,gorilla/websocket,Go,13,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3495,22666,https://avatars.githubusercontent.com/u/489566?v=4
 52034309,zap,uber-go/zap,Go,7,"Blazing fast, structured, leveled logging in Go.",1440,22186,https://avatars.githubusercontent.com/u/19262598?v=4
 44344606,chi,go-chi/chi,Go,4,"lightweight, idiomatic and composable router for building Go HTTP services",993,18779,https://avatars.githubusercontent.com/u/29575368?v=4
-465303307,lo,samber/lo,Go,22,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",833,18193,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
-7877397,sqlx,jmoiron/sqlx,Go,4,general purpose extensions to golang's database/sql,1088,16418,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
-118105436,migrate,golang-migrate/migrate,Go,7,Database migrations. CLI and Golang library.,1426,15736,https://avatars.githubusercontent.com/u/35595841?v=4
+465303307,lo,samber/lo,Go,22,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",833,18196,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+7877397,sqlx,jmoiron/sqlx,Go,4,general purpose extensions to golang's database/sql,1088,16420,https://avatars.githubusercontent.com/u/218132?u=7da1c1b26378ca259ab676fd3ad17243e692d4f9&v=4
+118105436,migrate,golang-migrate/migrate,Go,7,Database migrations. CLI and Golang library.,1426,15738,https://avatars.githubusercontent.com/u/35595841?v=4
 370977430,open-im-server,openimsdk/open-im-server,Go,28,IM Chat ChatGPT,2510,14260,https://avatars.githubusercontent.com/u/84842645?v=4
-77071454,goreleaser,goreleaser/goreleaser,Go,26,"Release engineering, simplified",952,13991,https://avatars.githubusercontent.com/u/24697112?v=4
-299832860,livekit,livekit/livekit,Go,13,End-to-end stack for WebRTC. SFU media server and SDKs.,925,10878,https://avatars.githubusercontent.com/u/69438833?v=4
-10270722,go-github,google/go-github,Go,4,Go library for accessing the GitHub v3 API,2076,10503,https://avatars.githubusercontent.com/u/1342004?v=4
+77071454,goreleaser,goreleaser/goreleaser,Go,26,"Release engineering, simplified",952,13994,https://avatars.githubusercontent.com/u/24697112?v=4
+299832860,livekit,livekit/livekit,Go,13,End-to-end stack for WebRTC. SFU media server and SDKs.,925,10879,https://avatars.githubusercontent.com/u/69438833?v=4
+10270722,go-github,google/go-github,Go,4,Go library for accessing the GitHub v3 API,2076,10506,https://avatars.githubusercontent.com/u/1342004?v=4
 48714685,opa,open-policy-agent/opa,Go,4,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",1361,9788,https://avatars.githubusercontent.com/u/16468693?v=4
 66509131,client-go,kubernetes/client-go,Go,2,Go client for Kubernetes.,2961,9161,https://avatars.githubusercontent.com/u/13629408?v=4
-531220682,dice,DiceDB/dice,Go,172,"DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",1122,7269,https://avatars.githubusercontent.com/u/112580013?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,0,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3679,6340,https://avatars.githubusercontent.com/u/228843?v=4
-7823926,client_golang,prometheus/client_golang,Go,2,Prometheus instrumentation library for Go applications,1189,5453,https://avatars.githubusercontent.com/u/3380462?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,4,OpenTelemetry Collector,1497,4589,https://avatars.githubusercontent.com/u/49998002?v=4
-27522241,crypto,golang/crypto,Go,0,[mirror] Go supplementary cryptography libraries,1972,3039,https://avatars.githubusercontent.com/u/4314092?v=4
-635979215,mock,uber-go/mock,Go,1,GoMock is a mocking framework for the Go programming language.,124,2381,https://avatars.githubusercontent.com/u/19262598?v=4
+531220682,dice,DiceDB/dice,Go,172,"DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.",1123,7275,https://avatars.githubusercontent.com/u/112580013?v=4
+51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,0,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3680,6340,https://avatars.githubusercontent.com/u/228843?v=4
+7823926,client_golang,prometheus/client_golang,Go,2,Prometheus instrumentation library for Go applications,1189,5454,https://avatars.githubusercontent.com/u/3380462?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,4,OpenTelemetry Collector,1497,4602,https://avatars.githubusercontent.com/u/49998002?v=4
+27522241,crypto,golang/crypto,Go,0,[mirror] Go supplementary cryptography libraries,1972,3041,https://avatars.githubusercontent.com/u/4314092?v=4
+635979215,mock,uber-go/mock,Go,1,GoMock is a mocking framework for the Go programming language.,124,2382,https://avatars.githubusercontent.com/u/19262598?v=4
 406346103,HAMi,Project-HAMi/HAMi,Go,4,Heterogeneous AI Computing Virtualization Middleware,223,1086,https://avatars.githubusercontent.com/u/157583413?v=4
