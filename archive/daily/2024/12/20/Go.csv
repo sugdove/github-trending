@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,32,Production-Grade Container Scheduling and Management,39881,111844,https://avatars.githubusercontent.com/u/13629408?v=4
-48378947,frp,fatedier/frp,Go,79,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13532,88295,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-134017286,lazygit,jesseduffield/lazygit,Go,32,simple terminal UI for git commands,1896,54342,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-17728164,terraform,hashicorp/terraform,Go,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9591,43277,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,12,A Commander for modern Go CLI interactions,2859,38635,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-54400687,k6,grafana/k6,Go,10,"A modern load testing tool, using Go and JavaScript - https://k6.io",1280,26322,https://avatars.githubusercontent.com/u/7195757?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,26,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",4013,26218,https://avatars.githubusercontent.com/u/71564206?v=4
-161951219,wails,wailsapp/wails,Go,42,Create beautiful applications using Go,1260,25923,https://avatars.githubusercontent.com/u/39746503?v=4
-6247705,testify,stretchr/testify,Go,9,A toolkit with common assertions and mocks that plays nicely with the standard library,1605,23687,https://avatars.githubusercontent.com/u/1841476?v=4
-515647260,1Panel,1Panel-dev/1Panel,Go,27,"🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",2161,23603,https://avatars.githubusercontent.com/u/109613420?v=4
-13624859,websocket,gorilla/websocket,Go,14,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3495,22770,https://avatars.githubusercontent.com/u/489566?v=4
-46089560,containerd,containerd/containerd,Go,9,An open and reliable container runtime,3490,17697,https://avatars.githubusercontent.com/u/14037953?v=4
-187403699,age,FiloSottile/age,Go,4,"A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",513,17675,https://avatars.githubusercontent.com/u/1225294?u=f9186107b90a6f746f8e7192ee7b1d5a68f4ab07&v=4
-43225113,yq,mikefarah/yq,Go,12,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor",610,12516,https://avatars.githubusercontent.com/u/1151925?v=4
-62921553,rook,rook/rook,Go,7,Storage Orchestration for Kubernetes,2697,12485,https://avatars.githubusercontent.com/u/22860722?v=4
-93928882,swag,swaggo/swag,Go,117,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1213,11023,https://avatars.githubusercontent.com/u/29616670?v=4
-299832860,livekit,livekit/livekit,Go,10,End-to-end stack for WebRTC. SFU media server and SDKs.,933,10910,https://avatars.githubusercontent.com/u/69438833?v=4
-440752086,coder,coder/coder,Go,7,Provision remote development environments via Terraform,733,8520,https://avatars.githubusercontent.com/u/95932066?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,4,Kubernetes controller for GitHub Actions self-hosted runners,1137,4818,https://avatars.githubusercontent.com/u/44036562?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,6,OpenTelemetry Collector,1500,4653,https://avatars.githubusercontent.com/u/49998002?v=4
-52589524,easyjson,mailru/easyjson,Go,7,Fast JSON serializer for golang.,426,4530,https://avatars.githubusercontent.com/u/399923?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,0,Google Cloud Client Libraries for Go.,1314,3816,https://avatars.githubusercontent.com/u/16785467?v=4
-764670636,alloy,grafana/alloy,Go,6,OpenTelemetry Collector distribution with programmable pipelines,235,1538,https://avatars.githubusercontent.com/u/7195757?v=4
-304841810,osmosis,osmosis-labs/osmosis,Go,1,The AMM Laboratory,607,906,https://avatars.githubusercontent.com/u/79296913?v=4
+658928958,ollama,ollama/ollama,Go,188,"Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",8258,103623,https://avatars.githubusercontent.com/u/151674099?v=4
+48378947,frp,fatedier/frp,Go,216,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13533,88310,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+13807606,fzf,junegunn/fzf,Go,44,:cherry_blossom: A command-line fuzzy finder,2417,66429,https://avatars.githubusercontent.com/u/700826?u=38c8a40a1a21f462299a5669a62a39d321da5eca&v=4
+29207621,caddy,caddyserver/caddy,Go,40,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,4078,59253,https://avatars.githubusercontent.com/u/12955528?v=4
+29261473,minio,minio/minio,Go,34,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5576,48971,https://avatars.githubusercontent.com/u/695951?v=4
+17728164,terraform,hashicorp/terraform,Go,17,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9591,43280,https://avatars.githubusercontent.com/u/761456?v=4
+187335810,lazydocker,jesseduffield/lazydocker,Go,36,The lazier way to manage everything docker,1252,39498,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+31288958,vault,hashicorp/vault,Go,9,"A tool for secrets management, encryption as a service, and privileged access management",4252,31441,https://avatars.githubusercontent.com/u/761456?v=4
+208728772,milvus,milvus-io/milvus,Go,24,"A cloud-native vector database, storage for next generation AI applications",2978,31397,https://avatars.githubusercontent.com/u/51735404?v=4
+285864199,go-zero,zeromicro/go-zero,Go,11,A cloud-native Go microservices framework with cli tool for productivity.,3996,29530,https://avatars.githubusercontent.com/u/74225106?v=4
+165041732,kratos,go-kratos/kratos,Go,6,Your ultimate Go microservices framework for the cloud-native era.,4022,23485,https://avatars.githubusercontent.com/u/62791634?v=4
+27729907,grpc-go,grpc/grpc-go,Go,5,The Go language implementation of gRPC. HTTP/2 based RPC,4419,21229,https://avatars.githubusercontent.com/u/7802525?v=4
+5179099,go-redis,redis/go-redis,Go,6,Redis Go client,2386,20273,https://avatars.githubusercontent.com/u/1529926?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,15,Declarative Continuous Deployment for Kubernetes,5563,18207,https://avatars.githubusercontent.com/u/30269780?v=4
+6443435,nats-server,nats-io/nats-server,Go,4,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1429,16161,https://avatars.githubusercontent.com/u/10203055?v=4
+247032621,go-admin,go-admin-team/go-admin,Go,1,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro,2408,11592,https://avatars.githubusercontent.com/u/70429007?v=4
+93928882,swag,swaggo/swag,Go,117,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1213,11025,https://avatars.githubusercontent.com/u/29616670?v=4
+306366900,casdoor,casdoor/casdoor,Go,9,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",1238,10618,https://avatars.githubusercontent.com/u/72992104?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,2,The AWS Provider enables Terraform to manage AWS resources.,9251,9980,https://avatars.githubusercontent.com/u/761456?v=4
+206649463,ebpf,cilium/ebpf,Go,3,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",706,6438,https://avatars.githubusercontent.com/u/21054566?v=4
+63882194,calico,projectcalico/calico,Go,1,Cloud native networking and network security,1350,6087,https://avatars.githubusercontent.com/u/12304728?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,7,"Optimism is Ethereum, scaled.",3366,5731,https://avatars.githubusercontent.com/u/58791460?v=4
+98671007,descheduler,kubernetes-sigs/descheduler,Go,13,Descheduler for Kubernetes,682,4575,https://avatars.githubusercontent.com/u/36015203?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,1,Contrib repository for the OpenTelemetry Collector,2437,3164,https://avatars.githubusercontent.com/u/49998002?v=4
+219058535,gateway-api,kubernetes-sigs/gateway-api,Go,0,Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.,490,1879,https://avatars.githubusercontent.com/u/36015203?v=4
