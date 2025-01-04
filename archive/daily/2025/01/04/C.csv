@@ -1,22 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-14812739,libuv,libuv/libuv,C,10,Cross-platform asynchronous I/O,3623,24568,https://avatars.githubusercontent.com/u/4030929?v=4
-196353673,TDengine,taosdata/TDengine,C,6,"High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",4879,23500,https://avatars.githubusercontent.com/u/48876650?v=4
-18496166,mimikatz,gentilkiwi/mimikatz,C,4,A little tool to play with Windows security,3764,19649,https://avatars.githubusercontent.com/u/2307945?v=4
-775743011,valkey,valkey-io/valkey,C,16,A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.,694,18310,https://avatars.githubusercontent.com/u/164458127?v=4
-65899476,esp-idf,espressif/esp-idf,C,8,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7385,14147,https://avatars.githubusercontent.com/u/9460735?v=4
-359952601,pgvector,pgvector/pgvector,C,19,Open-source vector similarity search for Postgres,620,13257,https://avatars.githubusercontent.com/u/98363230?v=4
-1856976,libevent,libevent/libevent,C,3,Event notification library,3401,11264,https://avatars.githubusercontent.com/u/833750?v=4
-1979797,FreeRDP,FreeRDP/FreeRDP,C,3,FreeRDP is a free remote desktop protocol library and clients,14906,11186,https://avatars.githubusercontent.com/u/663376?v=4
-106586124,atomic-red-team,redcanaryco/atomic-red-team,C,4,Small and highly portable detection tests based on MITRE's ATT&CK.,2840,10021,https://avatars.githubusercontent.com/u/6877001?v=4
-13310527,jemalloc,jemalloc/jemalloc,C,7,,1461,9679,https://avatars.githubusercontent.com/u/5606968?v=4
-395684015,SketchyBar,FelixKratz/SketchyBar,C,15,A highly customizable macOS status bar replacement,105,7052,https://avatars.githubusercontent.com/u/22680421?u=eee3b7e916807ea96107fd061395ce547ba536f1&v=4
-38617,sqlcipher,sqlcipher/sqlcipher,C,8,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1290,6389,https://avatars.githubusercontent.com/u/649049?v=4
-2359378,zlib,madler/zlib,C,3,A massively spiffy yet delicately unobtrusive compression library.,2485,5855,https://avatars.githubusercontent.com/u/240717?v=4
-206121828,FreeRTOS,FreeRTOS/FreeRTOS,C,3,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,1640,5515,https://avatars.githubusercontent.com/u/54647343?v=4
-283149635,ffmpeg-kit,arthenica/ffmpeg-kit,C,5,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",636,4668,https://avatars.githubusercontent.com/u/113347484?v=4
-71525630,miniaudio,mackron/miniaudio,C,5,"Audio playback and capture library written in C, in a single source file.",367,4222,https://avatars.githubusercontent.com/u/1232553?u=9c2e40fe59b531ca2518702994f905c17b1b7805&v=4
-23780138,riscv-gnu-toolchain,riscv-collab/riscv-gnu-toolchain,C,2,"GNU toolchain for RISC-V, including GCC",1190,3653,https://avatars.githubusercontent.com/u/89536104?v=4
-103446460,crun,containers/crun,C,2,A fast and lightweight fully featured OCI runtime and C library for running containers,322,3129,https://avatars.githubusercontent.com/u/5874934?v=4
-20193261,optee_os,OP-TEE/optee_os,C,1,Trusted side of the TEE,1081,1623,https://avatars.githubusercontent.com/u/7488961?v=4
-513040158,ReBarUEFI,xCuri0/ReBarUEFI,C,3,Resizable BAR for (almost) any UEFI system,73,1570,https://avatars.githubusercontent.com/u/29529557?u=73c852700df0c73664dcd814fe1ff6d6e0cc6427&v=4
-121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,1239,982,https://avatars.githubusercontent.com/u/40860733?v=4
+569041,curl,curl/curl,C,5,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6515,36437,https://avatars.githubusercontent.com/u/16928085?v=4
+14812739,libuv,libuv/libuv,C,10,Cross-platform asynchronous I/O,3623,24570,https://avatars.githubusercontent.com/u/4030929?v=4
+60667730,lvgl,lvgl/lvgl,C,8,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",3354,17912,https://avatars.githubusercontent.com/u/19811762?v=4
+184981,memcached,memcached/memcached,C,4,memcached development tree,3292,13642,https://avatars.githubusercontent.com/u/41836?v=4
+50824485,systeminformer,winsiderss/systeminformer,C,5,"A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",1419,11227,https://avatars.githubusercontent.com/u/105516054?v=4
+59771425,zephyr,zephyrproject-rtos/zephyr,C,7,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6788,11181,https://avatars.githubusercontent.com/u/19595895?v=4
+18106269,lz4,lz4/lz4,C,4,Extremely Fast Compression algorithm,1398,10546,https://avatars.githubusercontent.com/u/11667224?v=4
+105944401,yugabyte-db,yugabyte/yugabyte-db,C,3,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.,1091,9127,https://avatars.githubusercontent.com/u/17074854?v=4
+2328181,freebsd-src,freebsd/freebsd-src,C,4,The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....,2904,8043,https://avatars.githubusercontent.com/u/811839?v=4
+41107037,unicorn,unicorn-engine/unicorn,C,6,"Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",1362,7756,https://avatars.githubusercontent.com/u/13391512?v=4
+1286805,OpenBLAS,OpenMathLib/OpenBLAS,C,13,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1515,6496,https://avatars.githubusercontent.com/u/9943298?v=4
+38617,sqlcipher,sqlcipher/sqlcipher,C,8,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1290,6390,https://avatars.githubusercontent.com/u/649049?v=4
+184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,4,WebAssembly Micro Runtime (WAMR),644,5073,https://avatars.githubusercontent.com/u/54038801?v=4
+1613176,edk2,tianocore/edk2,C,3,EDK II,2580,4775,https://avatars.githubusercontent.com/u/352162?v=4
+4434428,tiny-AES-c,kokke/tiny-AES-c,C,0,Small portable AES128/192/256 in C,1304,4348,https://avatars.githubusercontent.com/u/1774646?v=4
+3276860,Unity,ThrowTheSwitch/Unity,C,1,Simple Unit Testing for C,988,4189,https://avatars.githubusercontent.com/u/1049138?v=4
+26537135,u-boot,u-boot/u-boot,C,4,"""Das U-Boot"" Source Tree",3715,4147,https://avatars.githubusercontent.com/u/9681997?v=4
+776121034,omi,BasedHardware/omi,C,5,AI wearables,499,3824,https://avatars.githubusercontent.com/u/162546372?v=4
+529594820,ZSWatch,jakkra/ZSWatch,C,11,"ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.",217,2469,https://avatars.githubusercontent.com/u/4318648?u=30a059b1505529c6be90ef9bc50f8d4d74330ec3&v=4
+20193261,optee_os,OP-TEE/optee_os,C,1,Trusted side of the TEE,1081,1624,https://avatars.githubusercontent.com/u/7488961?v=4
+772586891,Ghost_ESP,Spooks4576/Ghost_ESP,C,8,Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect,48,618,https://avatars.githubusercontent.com/u/62370103?u=71b9bba59abb876bfc4968809b79769a23a1ecb6&v=4
+5870069,librdkafka,confluentinc/librdkafka,C,1,The Apache Kafka C/C++ library,3163,349,https://avatars.githubusercontent.com/u/9439498?v=4
