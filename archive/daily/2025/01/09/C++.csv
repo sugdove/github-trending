@@ -1,26 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-15634981,godot,godotengine/godot,C++,54,Godot Engine – Multi-platform 2D and 3D game engine,21443,92723,https://avatars.githubusercontent.com/u/6318500?v=4
-5108051,opencv,opencv/opencv,C++,17,Open Source Computer Vision Library,55925,79986,https://avatars.githubusercontent.com/u/5009934?v=4
-612354784,llama.cpp,ggerganov/llama.cpp,C++,61,LLM inference in C/C++,10164,70414,https://avatars.githubusercontent.com/u/1991296?u=28314d364d7c28f8ec232fadb767970d3ad74e7b&v=4
-23357588,protobuf,protocolbuffers/protobuf,C++,9,Protocol Buffers - Google's data interchange format,15563,66206,https://avatars.githubusercontent.com/u/26310541?v=4
-4524181,folly,facebook/folly,C++,4,An open-source C++ library developed and used at Facebook.,5610,28662,https://avatars.githubusercontent.com/u/69631?v=4
-191820100,mediapipe,google-ai-edge/mediapipe,C++,12,"Cross-platform, customizable ML solutions for live and streaming media.",5208,28181,https://avatars.githubusercontent.com/u/150697620?v=4
-26038648,spdlog,gabime/spdlog,C++,15,Fast C++ logging library.,4634,24947,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
-156939672,onnxruntime,microsoft/onnxruntime,C++,7,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",2989,15234,https://avatars.githubusercontent.com/u/6154722?v=4
-51905353,arrow,apache/arrow,C++,7,Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics,3582,14825,https://avatars.githubusercontent.com/u/47359?v=4
-28449431,scylladb,scylladb/scylladb,C++,8,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",1323,13936,https://avatars.githubusercontent.com/u/14364730?v=4
-32736639,LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,4,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,2826,11238,https://avatars.githubusercontent.com/u/11600403?u=f99c9d94dcefe8a0156cc328d69cddeb90dcb058&v=4
-310611,thrift,apache/thrift,C++,12,Apache Thrift,4035,10481,https://avatars.githubusercontent.com/u/47359?v=4
-15122806,benchmark,google/benchmark,C++,2,A microbenchmark support library,1647,9176,https://avatars.githubusercontent.com/u/1342004?v=4
+11171548,json,nlohmann/json,C++,11,JSON for Modern C++,6824,43965,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+60246359,ClickHouse,ClickHouse/ClickHouse,C++,29,ClickHouse® is a real-time analytics database management system,7012,38385,https://avatars.githubusercontent.com/u/54801242?v=4
+39840932,googletest,google/googletest,C++,10,GoogleTest - Google Testing and Mocking Framework,10223,35168,https://avatars.githubusercontent.com/u/1342004?v=4
+138754790,duckdb,duckdb/duckdb,C++,47,DuckDB is an analytical in-process SQL database management system,2026,25687,https://avatars.githubusercontent.com/u/82039556?v=4
+26038648,spdlog,gabime/spdlog,C++,15,Fast C++ logging library.,4635,24951,https://avatars.githubusercontent.com/u/6052198?u=a5aaa778f219603fd3a6e221c79370ac5f0fa182&v=4
+19953044,flatbuffers,google/flatbuffers,C++,9,FlatBuffers: Memory Efficient Serialization Library,3276,23599,https://avatars.githubusercontent.com/u/1342004?v=4
+197275130,winget-cli,microsoft/winget-cli,C++,7,"WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",1486,23581,https://avatars.githubusercontent.com/u/6154722?v=4
+156939672,onnxruntime,microsoft/onnxruntime,C++,7,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",2990,15234,https://avatars.githubusercontent.com/u/6154722?v=4
+51905353,arrow,apache/arrow,C++,11,Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics,3582,14824,https://avatars.githubusercontent.com/u/47359?v=4
+11986447,xournalpp,xournalpp/xournalpp,C++,26,"Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",826,11598,https://avatars.githubusercontent.com/u/5192682?v=4
+310611,thrift,apache/thrift,C++,12,Apache Thrift,4035,10490,https://avatars.githubusercontent.com/u/47359?v=4
+8162615,pcl,PointCloudLibrary/pcl,C++,4,Point Cloud Library (PCL),4624,10121,https://avatars.githubusercontent.com/u/2059451?v=4
 679366051,TensorRT-LLM,NVIDIA/TensorRT-LLM,C++,15,TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.,1051,9111,https://avatars.githubusercontent.com/u/1728152?v=4
-181436799,MNN,alibaba/MNN,C++,5,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",1693,8910,https://avatars.githubusercontent.com/u/1961952?v=4
-90506918,cudf,rapidsai/cudf,C++,3,cuDF - GPU DataFrame Library ,917,8583,https://avatars.githubusercontent.com/u/43887749?v=4
-244694174,connectedhomeip,project-chip/connectedhomeip,C++,2,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",2078,7646,https://avatars.githubusercontent.com/u/61027988?v=4
-587499842,piper,rhasspy/piper,C++,17,"A fast, local neural text to speech system",542,7302,https://avatars.githubusercontent.com/u/59055969?v=4
-112542515,cutlass,NVIDIA/cutlass,C++,12,CUDA Templates for Linear Algebra Subroutines,1034,5965,https://avatars.githubusercontent.com/u/1728152?v=4
+244694174,connectedhomeip,project-chip/connectedhomeip,C++,2,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",2078,7648,https://avatars.githubusercontent.com/u/61027988?v=4
+128430621,OpenTTD,OpenTTD/OpenTTD,C++,18,OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe,924,6559,https://avatars.githubusercontent.com/u/5037546?v=4
+112542515,cutlass,NVIDIA/cutlass,C++,10,CUDA Templates for Linear Algebra Subroutines,1034,5966,https://avatars.githubusercontent.com/u/1728152?v=4
+37770961,WickedEngine,turanszkij/WickedEngine,C++,5,3D engine with modern graphics,631,5940,https://avatars.githubusercontent.com/u/12954849?u=c65c2ef47a818ae0ae520f5c0d0a3971e3db5048&v=4
 89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,38,Firebase SDK for Apple App Development,1503,5811,https://avatars.githubusercontent.com/u/1335026?v=4
-10160141,doxygen,doxygen/doxygen,C++,1,Official doxygen git repository,1284,5771,https://avatars.githubusercontent.com/u/1300762?v=4
-6148317,gdal,OSGeo/gdal,C++,1,GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.,2594,5014,https://avatars.githubusercontent.com/u/1058467?v=4
-52909975,PlotJuggler,facontidavide/PlotJuggler,C++,2,The Time Series Visualization Tool that you deserve.,639,4546,https://avatars.githubusercontent.com/u/2822888?u=32673e6491cf92b7717752a53d9d0cfc949a2c50&v=4
-46153892,nccl,NVIDIA/nccl,C++,4,Optimized primitives for collective multi-GPU communication,846,3360,https://avatars.githubusercontent.com/u/1728152?v=4
+33100064,yaml-cpp,jbeder/yaml-cpp,C++,1,A YAML parser and emitter in C++,1889,5257,https://avatars.githubusercontent.com/u/1059334?u=c1a1d6555522380d9c818e51048f24b29c3dae09&v=4
+6148317,gdal,OSGeo/gdal,C++,1,GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.,2595,5014,https://avatars.githubusercontent.com/u/1058467?v=4
+436366606,CodeHelp-DSA-Busted-Series,loveBabbar/CodeHelp-DSA-Busted-Series,C++,4,This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.,2422,3438,https://avatars.githubusercontent.com/u/29489915?u=2f3e225fa665bd16348d769d0254685b7f29e022&v=4
+2567844,qgroundcontrol,mavlink/qgroundcontrol,C++,3,"Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",3735,3424,https://avatars.githubusercontent.com/u/961247?v=4
 523007292,xla,openxla/xla,C++,8,"A machine learning compiler for GPUs, CPUs, and ML accelerators",466,2829,https://avatars.githubusercontent.com/u/107584881?v=4
+135363400,navigation2,ros-navigation/navigation2,C++,2,ROS 2 Navigation Framework and System,1340,2716,https://avatars.githubusercontent.com/u/150733807?v=4
+10879376,gzdoom,ZDoom/gzdoom,C++,14,"GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities",560,2610,https://avatars.githubusercontent.com/u/109868908?v=4
