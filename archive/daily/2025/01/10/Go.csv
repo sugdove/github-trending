@@ -1,24 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,41,Production-Grade Container Scheduling and Management,39986,112272,https://avatars.githubusercontent.com/u/13629408?v=4
-7691631,moby,moby/moby,Go,10,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18677,68987,https://avatars.githubusercontent.com/u/27259197?v=4
-6838921,prometheus,prometheus/prometheus,Go,34,The Prometheus monitoring system and time series database.,9281,56761,https://avatars.githubusercontent.com/u/3380462?v=4
-42408804,traefik,traefik/traefik,Go,287,The Cloud Native Application Proxy,5160,52477,https://avatars.githubusercontent.com/u/14280338?v=4
-615869301,LocalAI,mudler/LocalAI,Go,57,":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",2114,28080,https://avatars.githubusercontent.com/u/2420543?u=88a72adb708b5bf2ca40acda912778e65ac4cf43&v=4
-311315731,Xray-core,XTLS/Xray-core,Go,41,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",4054,26654,https://avatars.githubusercontent.com/u/71564206?v=4
-738733003,fabric,danielmiessler/fabric,Go,50,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2826,26649,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-180687624,trivy,aquasecurity/trivy,Go,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2396,24271,https://avatars.githubusercontent.com/u/12783832?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,164,"Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",2568,21716,https://avatars.githubusercontent.com/u/50994705?v=4
-403020531,colima,abiosoft/colima,Go,34,Container runtimes on macOS (and Linux) with minimal setup,409,20355,https://avatars.githubusercontent.com/u/240448?u=fc9f61a446e9c11dbd1b888f109cf807903f89cf&v=4
-120896210,argo-cd,argoproj/argo-cd,Go,18,Declarative Continuous Deployment for Kubernetes,5609,18388,https://avatars.githubusercontent.com/u/30269780?v=4
-40684033,sops,getsops/sops,Go,25,Simple and flexible tool for managing secrets,896,17440,https://avatars.githubusercontent.com/u/129185620?v=4
-36653430,nomad,hashicorp/nomad,Go,6,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1964,15093,https://avatars.githubusercontent.com/u/761456?v=4
-333303663,bytebase,bytebase/bytebase,Go,10,"World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",758,11784,https://avatars.githubusercontent.com/u/74386897?v=4
-299832860,livekit,livekit/livekit,Go,16,End-to-end stack for WebRTC. SFU media server and SDKs.,958,11131,https://avatars.githubusercontent.com/u/69438833?v=4
-105262714,oauth2-proxy,oauth2-proxy/oauth2-proxy,Go,10,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",1630,10176,https://avatars.githubusercontent.com/u/62798169?v=4
-66509131,client-go,kubernetes/client-go,Go,8,Go client for Kubernetes.,2963,9199,https://avatars.githubusercontent.com/u/13629408?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,5,Autoscaling components for Kubernetes,4002,8174,https://avatars.githubusercontent.com/u/13629408?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,2,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",995,6981,https://avatars.githubusercontent.com/u/2232217?v=4
-7823926,client_golang,prometheus/client_golang,Go,1,Prometheus instrumentation library for Go applications,1191,5483,https://avatars.githubusercontent.com/u/3380462?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,2466,3199,https://avatars.githubusercontent.com/u/49998002?v=4
-265775217,bsc,bnb-chain/bsc,Go,14,A BNB Smart Chain client based on the go-ethereum fork,1596,2895,https://avatars.githubusercontent.com/u/45615063?v=4
-177659629,franz-go,twmb/franz-go,Go,7,"franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.8+. Producing, consuming, transacting, administrating, etc.",196,1936,https://avatars.githubusercontent.com/u/1283109?u=7a4ab80124f2c8604c67039784e4963302a825d2&v=4
+23096959,go,golang/go,Go,34,The Go programming language,17769,125025,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,41,Production-Grade Container Scheduling and Management,39990,112274,https://avatars.githubusercontent.com/u/13629408?v=4
+42408804,traefik,traefik/traefik,Go,35,The Cloud Native Application Proxy,5161,52497,https://avatars.githubusercontent.com/u/14280338?v=4
+74175805,istio,istio/istio,Go,7,"Connect, secure, control, and observe services.",7812,36340,https://avatars.githubusercontent.com/u/23534644?v=4
+31288958,vault,hashicorp/vault,Go,9,"A tool for secrets management, encryption as a service, and privileged access management",4255,31528,https://avatars.githubusercontent.com/u/761456?v=4
+18369373,viper,spf13/viper,Go,10,Go configuration with fangs,2021,27597,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+109145553,podman,containers/podman,Go,22,Podman: A tool for managing OCI containers and pods.,2454,24414,https://avatars.githubusercontent.com/u/5874934?v=4
+129717717,loki,grafana/loki,Go,8,"Like Prometheus, but for logs.",3522,24330,https://avatars.githubusercontent.com/u/7195757?v=4
+180687624,trivy,aquasecurity/trivy,Go,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2397,24273,https://avatars.githubusercontent.com/u/12783832?v=4
+27729907,grpc-go,grpc/grpc-go,Go,2,The Go language implementation of gRPC. HTTP/2 based RPC,4428,21279,https://avatars.githubusercontent.com/u/7802525?v=4
+120896210,argo-cd,argoproj/argo-cd,Go,18,Declarative Continuous Deployment for Kubernetes,5608,18391,https://avatars.githubusercontent.com/u/30269780?v=4
+465303307,lo,samber/lo,Go,20,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",841,18388,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+542931741,answer,apache/answer,Go,36,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",1046,13260,https://avatars.githubusercontent.com/u/47359?v=4
+147886080,crossplane,crossplane/crossplane,Go,4,The Cloud Native Control Plane,978,9745,https://avatars.githubusercontent.com/u/45158470?v=4
+87990209,autoscaler,kubernetes/autoscaler,Go,5,Autoscaling components for Kubernetes,4002,8175,https://avatars.githubusercontent.com/u/13629408?v=4
+169108858,kyverno,kyverno/kyverno,Go,6,Cloud Native Policy Management,913,5917,https://avatars.githubusercontent.com/u/68448710?v=4
+93446042,terraform-provider-azurerm,hashicorp/terraform-provider-azurerm,Go,0,Terraform provider for Azure Resource Manager,4674,4625,https://avatars.githubusercontent.com/u/761456?v=4
+177210627,buildx,docker/buildx,Go,1,Docker CLI plugin for extended build capabilities with BuildKit,499,3682,https://avatars.githubusercontent.com/u/5429470?v=4
+265775217,bsc,bnb-chain/bsc,Go,94,A BNB Smart Chain client based on the go-ethereum fork,1596,2896,https://avatars.githubusercontent.com/u/45615063?v=4
+158012967,argo-rollouts,argoproj/argo-rollouts,Go,2,Progressive Delivery for Kubernetes,887,2840,https://avatars.githubusercontent.com/u/30269780?v=4
+635979215,mock,uber-go/mock,Go,6,GoMock is a mocking framework for the Go programming language.,129,2453,https://avatars.githubusercontent.com/u/19262598?v=4
