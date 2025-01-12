@@ -1,25 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,21,Production-Grade Container Scheduling and Management,40003,112308,https://avatars.githubusercontent.com/u/13629408?v=4
-7691631,moby,moby/moby,Go,3,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18676,68997,https://avatars.githubusercontent.com/u/27259197?v=4
-42408804,traefik,traefik/traefik,Go,120,The Cloud Native Application Proxy,5170,52646,https://avatars.githubusercontent.com/u/14280338?v=4
-738733003,fabric,danielmiessler/fabric,Go,32,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2834,26718,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-180687624,trivy,aquasecurity/trivy,Go,10,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2399,24295,https://avatars.githubusercontent.com/u/12783832?v=4
-72477752,pulumi,pulumi/pulumi,Go,6,Pulumi - Infrastructure as Code in any programming language 🚀,1145,22225,https://avatars.githubusercontent.com/u/21992475?v=4
-46089560,containerd,containerd/containerd,Go,7,An open and reliable container runtime,3508,17803,https://avatars.githubusercontent.com/u/14037953?v=4
-118105436,migrate,golang-migrate/migrate,Go,3,Database migrations. CLI and Golang library.,1434,15867,https://avatars.githubusercontent.com/u/35595841?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,1,Workflow Engine for Kubernetes,3226,15240,https://avatars.githubusercontent.com/u/30269780?v=4
-33258973,telegraf,influxdata/telegraf,Go,5,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5612,15046,https://avatars.githubusercontent.com/u/5713248?v=4
-626896474,SafeLine,chaitin/SafeLine,Go,49,SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.,896,14862,https://avatars.githubusercontent.com/u/7302766?v=4
-154643390,phoneinfoga,sundowndev/phoneinfoga,Go,19,Information gathering framework for phone numbers,3786,13491,https://avatars.githubusercontent.com/u/16480203?u=27b8958fdc114d7e7703404441bb611a59d0321f&v=4
+11180687,hugo,gohugoio/hugo,Go,37,The world’s fastest framework for building websites.,7613,77133,https://avatars.githubusercontent.com/u/29385237?v=4
+72495579,gitea,go-gitea/gitea,Go,20,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5595,46554,https://avatars.githubusercontent.com/u/12724356?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,13,A platform for building proxies to bypass network restrictions.,4710,30122,https://avatars.githubusercontent.com/u/49637375?v=4
+615869301,LocalAI,mudler/LocalAI,Go,65,":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",2123,28206,https://avatars.githubusercontent.com/u/2420543?u=88a72adb708b5bf2ca40acda912778e65ac4cf43&v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,21,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",1516,27938,https://avatars.githubusercontent.com/u/91336243?v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,32,Network-wide ads & trackers blocking DNS server,1883,26405,https://avatars.githubusercontent.com/u/8361145?v=4
+515647260,1Panel,1Panel-dev/1Panel,Go,22,"🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.",2232,24894,https://avatars.githubusercontent.com/u/109613420?v=4
+109145553,podman,containers/podman,Go,18,Podman: A tool for managing OCI containers and pods.,2457,24435,https://avatars.githubusercontent.com/u/5874934?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,104,Find secrets with Gitleaks 🔑,1511,18461,https://avatars.githubusercontent.com/u/90395851?v=4
+154643390,phoneinfoga,sundowndev/phoneinfoga,Go,19,Information gathering framework for phone numbers,3786,13493,https://avatars.githubusercontent.com/u/16480203?u=27b8958fdc114d7e7703404441bb611a59d0321f&v=4
+542931741,answer,apache/answer,Go,21,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",1051,13336,https://avatars.githubusercontent.com/u/47359?v=4
+52481933,navidrome,navidrome/navidrome,Go,17,🎧☁️ Your Personal Streaming Service,952,12825,https://avatars.githubusercontent.com/u/26692192?v=4
 357897199,netbird,netbirdio/netbird,Go,8,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",546,11753,https://avatars.githubusercontent.com/u/100464677?v=4
-299832860,livekit,livekit/livekit,Go,10,End-to-end stack for WebRTC. SFU media server and SDKs.,961,11153,https://avatars.githubusercontent.com/u/69438833?v=4
-68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,6,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3737,9226,https://avatars.githubusercontent.com/u/66682517?v=4
-28366058,distribution,distribution/distribution,Go,2,"The toolkit to pack, ship, store, and deliver container content",2535,9147,https://avatars.githubusercontent.com/u/78096003?v=4
-92969352,buildkit,moby/buildkit,Go,4,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",1191,8382,https://avatars.githubusercontent.com/u/27259197?v=4
-87990209,autoscaler,kubernetes/autoscaler,Go,2,Autoscaling components for Kubernetes,4003,8176,https://avatars.githubusercontent.com/u/13629408?v=4
-535304995,Havoc,HavocFramework/Havoc,Go,18,The Havoc Framework,984,7044,https://avatars.githubusercontent.com/u/110123898?v=4
-51193526,cosmos-sdk,cosmos/cosmos-sdk,Go,1,:chains: A Framework for Building High Value Public Blockchains :sparkles:,3747,6396,https://avatars.githubusercontent.com/u/228843?v=4
-169108858,kyverno,kyverno/kyverno,Go,9,Cloud Native Policy Management,917,5935,https://avatars.githubusercontent.com/u/68448710?v=4
-88013053,cli,docker/cli,Go,1,The Docker CLI,1949,5037,https://avatars.githubusercontent.com/u/5429470?v=4
-265775217,bsc,bnb-chain/bsc,Go,3,A BNB Smart Chain client based on the go-ethereum fork,1595,2898,https://avatars.githubusercontent.com/u/45615063?v=4
-221778368,nvidia-container-toolkit,NVIDIA/nvidia-container-toolkit,Go,3,Build and run containers leveraging NVIDIA GPUs,295,2671,https://avatars.githubusercontent.com/u/1728152?v=4
+339786950,encore,encoredev/encore,Go,25,Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure,354,8585,https://avatars.githubusercontent.com/u/50438175?v=4
+417230885,gh-dash,dlvhdr/gh-dash,Go,7,A beautiful CLI dashboard for GitHub 🚀 ,223,7510,https://avatars.githubusercontent.com/u/6196971?u=329978c85ab7ee73f9c775fcec6021da61d362db&v=4
+535304995,Havoc,HavocFramework/Havoc,Go,18,The Havoc Framework,984,7047,https://avatars.githubusercontent.com/u/110123898?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,6,"Optimism is Ethereum, scaled.",3413,5856,https://avatars.githubusercontent.com/u/58791460?v=4
+201546443,assets,trustwallet/assets,Go,3,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",23018,4749,https://avatars.githubusercontent.com/u/32179889?v=4
+226368338,evcc,evcc-io/evcc,Go,15,Solar Charging ☀️🚘,720,3849,https://avatars.githubusercontent.com/u/81383504?v=4
+133725375,wireguard-go,WireGuard/wireguard-go,Go,4,Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go,1107,3260,https://avatars.githubusercontent.com/u/13991055?v=4
+861746639,paperless-gpt,icereed/paperless-gpt,Go,17,Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI,13,286,https://avatars.githubusercontent.com/u/444269?u=d95a67d188018b9e06f3112bab8fe68a8dfb09eb&v=4
