@@ -1,26 +1,20 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20159867,stb,nothings/stb,C,10,stb single-file public domain libraries for C/C++,7753,27545,https://avatars.githubusercontent.com/u/7525026?u=a23ba3a549fff291e35446cb32c8979bd29be6c9&v=4
-13836499,raylib,raysan5/raylib,C,17,A simple and easy-to-use library to enjoy videogames programming,2378,24332,https://avatars.githubusercontent.com/u/5766837?u=28d52cd1077b2f8b48d3897e82f03280a565e8d6&v=4
-80286288,Tasmota,arendst/Tasmota,C,2,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4835,22554,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-27737393,qmk_firmware,qmk/qmk_firmware,C,4,Open-source keyboard firmware for Atmel AVR and Arm USB families,40151,18580,https://avatars.githubusercontent.com/u/25358678?v=4
-490465859,Flipper,UberGuidoZ/Flipper,C,8,Playground (and dump) of stuff I make or modify for the Flipper Zero,3349,14469,https://avatars.githubusercontent.com/u/57457139?u=3b283c3083a1fee457b897d7c8fda97b873e9807&v=4
-254327261,Sandboxie,sandboxie-plus/Sandboxie,C,3,Sandboxie Plus & Classic,1590,14224,https://avatars.githubusercontent.com/u/63755826?v=4
-78281075,esp8266_deauther,SpacehuhnTech/esp8266_deauther,C,2,Affordable WiFi hacking platform for testing and learning,2642,13699,https://avatars.githubusercontent.com/u/64325017?v=4
-179354282,OpenCorePkg,acidanthera/OpenCorePkg,C,0,OpenCore bootloader,2129,13602,https://avatars.githubusercontent.com/u/39672954?v=4
-284134871,flipperzero-firmware,flipperdevices/flipperzero-firmware,C,8,Flipper Zero firmware source code,2801,13407,https://avatars.githubusercontent.com/u/57576566?v=4
-9524997,glfw,glfw/glfw,C,4,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",5347,13327,https://avatars.githubusercontent.com/u/3905364?v=4
-330008801,SDL,libsdl-org/SDL,C,12,Simple Directmedia Layer,1934,10817,https://avatars.githubusercontent.com/u/77683370?v=4
-689344,RetroArch,libretro/RetroArch,C,9,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",1850,10723,https://avatars.githubusercontent.com/u/1812827?v=4
-2997204,john,openwall/john,C,11,"John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",2150,10621,https://avatars.githubusercontent.com/u/1579552?v=4
-106586124,atomic-red-team,redcanaryco/atomic-red-team,C,2,Small and highly portable detection tests based on MITRE's ATT&CK.,2841,10046,https://avatars.githubusercontent.com/u/6877001?v=4
-37060852,betaflight,betaflight/betaflight,C,4,Open Source Flight Controller Firmware,3120,8863,https://avatars.githubusercontent.com/u/19597933?v=4
-14735429,capstone,capstone-engine/capstone,C,4,"Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",1564,7723,https://avatars.githubusercontent.com/u/13388937?v=4
-97212490,sokol,floooh/sokol,C,9,minimal cross-platform standalone C headers,522,7514,https://avatars.githubusercontent.com/u/1699414?u=78fddd83a07cf36de9d44ad3dd06bbea3aa773b1&v=4
-7705639,rtl_433,merbanan/rtl_433,C,4,Program to decode radio transmissions from devices on the ISM bands (and other frequencies),1349,6299,https://avatars.githubusercontent.com/u/124883?u=ef929342b768484f9109ca1270a1de69b07ff19e&v=4
-12416862,Provenance,Provenance-Emu/Provenance,C,2,"iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  | ",695,6027,https://avatars.githubusercontent.com/u/37421993?v=4
+569041,curl,curl/curl,C,10,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6522,36512,https://avatars.githubusercontent.com/u/16928085?v=4
+29759715,zstd,facebook/zstd,C,8,Zstandard - Fast real-time compression algorithm,2161,24119,https://avatars.githubusercontent.com/u/69631?v=4
+63477515,C,TheAlgorithms/C,C,36,"Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",4438,19607,https://avatars.githubusercontent.com/u/20487725?v=4
+775743011,valkey,valkey-io/valkey,C,25,A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.,698,18423,https://avatars.githubusercontent.com/u/164458127?v=4
+65899476,esp-idf,espressif/esp-idf,C,8,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7401,14239,https://avatars.githubusercontent.com/u/9460735?v=4
+32873313,systemd,systemd/systemd,C,4,The systemd System and Service Manager ,3864,13579,https://avatars.githubusercontent.com/u/1918868?v=4
+1856976,libevent,libevent/libevent,C,3,Event notification library,3405,11283,https://avatars.githubusercontent.com/u/833750?v=4
+53614190,mosquitto,eclipse-mosquitto/mosquitto,C,3,Eclipse Mosquitto - An open source MQTT broker,2430,9302,https://avatars.githubusercontent.com/u/185921483?v=4
+1286805,OpenBLAS,OpenMathLib/OpenBLAS,C,3,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1521,6513,https://avatars.githubusercontent.com/u/9943298?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,3,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2629,5641,https://avatars.githubusercontent.com/u/97226525?v=4
 1613176,edk2,tianocore/edk2,C,7,EDK II,2588,4803,https://avatars.githubusercontent.com/u/352162?v=4
-331380723,pico-sdk,raspberrypi/pico-sdk,C,2,,990,3902,https://avatars.githubusercontent.com/u/1294177?v=4
-741625310,raddebugger,EpicGamesExt/raddebugger,C,7,"A native, user-mode, multi-process, graphical debugger.",188,3768,https://avatars.githubusercontent.com/u/161372141?v=4
-199931048,c3c,c3lang/c3c,C,9,Compiler for the C3 language,215,3346,https://avatars.githubusercontent.com/u/53541653?v=4
-588329504,zap,zigzap/zap,C,12,blazingly fast backends in zig,86,2564,https://avatars.githubusercontent.com/u/125233599?v=4
-43677244,pokeemerald,pret/pokeemerald,C,2,Decompilation of Pokémon Emerald,2742,2348,https://avatars.githubusercontent.com/u/10761592?v=4
+26537135,u-boot,u-boot/u-boot,C,3,"""Das U-Boot"" Source Tree",3726,4166,https://avatars.githubusercontent.com/u/9681997?v=4
+54452627,guacamole-server,apache/guacamole-server,C,2,Mirror of Apache Guacamole Server,650,3197,https://avatars.githubusercontent.com/u/47359?v=4
+646423,pgbouncer,pgbouncer/pgbouncer,C,4,lightweight connection pooler for PostgreSQL,464,3107,https://avatars.githubusercontent.com/u/11858179?v=4
+207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,3,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",1178,2942,https://avatars.githubusercontent.com/u/54647343?v=4
+290808391,ATC_MiThermometer,atc1441/ATC_MiThermometer,C,19,Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter,502,2941,https://avatars.githubusercontent.com/u/1102694?u=2ac6c34816e9452331b29e6c565a0aaa6e451439&v=4
+1031235,strongswan,strongswan/strongswan,C,1,strongSwan - IPsec-based VPN,794,2347,https://avatars.githubusercontent.com/u/457671?v=4
+33784533,asterisk,asterisk/asterisk,C,0,The official Asterisk Project repository.,988,2343,https://avatars.githubusercontent.com/u/2914369?v=4
+99690601,esp-iot-solution,espressif/esp-iot-solution,C,5,"Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.",803,2050,https://avatars.githubusercontent.com/u/9460735?v=4
