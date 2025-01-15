@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-45717250,tensorflow,tensorflow/tensorflow,C++,30,An Open Source Machine Learning Framework for Everyone,74434,187269,https://avatars.githubusercontent.com/u/15658638?v=4
-29028775,react-native,facebook/react-native,C++,20,A framework for building native applications using React,24436,120136,https://avatars.githubusercontent.com/u/69631?v=4
-9384267,electron,electron/electron,C++,23,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15724,115165,https://avatars.githubusercontent.com/u/13409222?v=4
-11171548,json,nlohmann/json,C++,22,JSON for Modern C++,6830,44070,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-81227005,faiss,facebookresearch/faiss,C++,27,A library for efficient similarity search and clustering of dense vectors.,3700,32380,https://avatars.githubusercontent.com/u/16943930?v=4
-89247811,openpose,CMU-Perceptual-Computing-Lab/openpose,C++,11,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",7893,31650,https://avatars.githubusercontent.com/u/12239573?v=4
-6934395,rocksdb,facebook/rocksdb,C++,6,"A library that provides an embeddable, persistent key-value store for fast storage.",6382,28970,https://avatars.githubusercontent.com/u/69631?v=4
-7056202,fmt,fmtlib/fmt,C++,8,A modern formatting library,2549,21148,https://avatars.githubusercontent.com/u/7280830?v=4
+45717250,tensorflow,tensorflow/tensorflow,C++,30,An Open Source Machine Learning Framework for Everyone,74434,187275,https://avatars.githubusercontent.com/u/15658638?v=4
+29028775,react-native,facebook/react-native,C++,20,A framework for building native applications using React,24437,120140,https://avatars.githubusercontent.com/u/69631?v=4
+9384267,electron,electron/electron,C++,16,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",15724,115165,https://avatars.githubusercontent.com/u/13409222?v=4
+11171548,json,nlohmann/json,C++,22,JSON for Modern C++,6830,44071,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+81227005,faiss,facebookresearch/faiss,C++,23,A library for efficient similarity search and clustering of dense vectors.,3700,32382,https://avatars.githubusercontent.com/u/16943930?v=4
+89247811,openpose,CMU-Perceptual-Computing-Lab/openpose,C++,11,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",7893,31654,https://avatars.githubusercontent.com/u/12239573?v=4
+6934395,rocksdb,facebook/rocksdb,C++,6,"A library that provides an embeddable, persistent key-value store for fast storage.",6382,28971,https://avatars.githubusercontent.com/u/69631?v=4
+7056202,fmt,fmtlib/fmt,C++,8,A modern formatting library,2549,21149,https://avatars.githubusercontent.com/u/7280830?v=4
 1062572,Catch2,catchorg/Catch2,C++,4,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3071,18925,https://avatars.githubusercontent.com/u/33321405?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3546,14487,https://avatars.githubusercontent.com/u/18461506?v=4
+17391973,rapidjson,Tencent/rapidjson,C++,3,A fast JSON parser/generator for C++ with both SAX/DOM style API,3546,14488,https://avatars.githubusercontent.com/u/18461506?v=4
 40556106,wazuh,wazuh/wazuh,C++,7,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,1715,11447,https://avatars.githubusercontent.com/u/13752566?v=4
 184657328,TensorRT,NVIDIA/TensorRT,C++,1,NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.,2151,11053,https://avatars.githubusercontent.com/u/1728152?v=4
-15122806,benchmark,google/benchmark,C++,5,A microbenchmark support library,1646,9196,https://avatars.githubusercontent.com/u/1342004?v=4
-124976393,oatpp,oatpp/oatpp,C++,3,🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.,1314,8015,https://avatars.githubusercontent.com/u/37167448?v=4
-1049088,openscad,openscad/openscad,C++,6,OpenSCAD - The Programmers Solid 3D CAD Modeller  ,1240,7310,https://avatars.githubusercontent.com/u/466370?v=4
-22660515,doctest,doctest/doctest,C++,4,The fastest feature-rich C++11/14/17/20/23 single-header testing framework,648,6054,https://avatars.githubusercontent.com/u/70880936?v=4
-178613040,magic_enum,Neargye/magic_enum,C++,6,"Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",457,5114,https://avatars.githubusercontent.com/u/7997966?u=cc5d3a577c3b615ae5bad0c0c293363acf00acfe&v=4
-538979582,WeChatFerry,lich0821/WeChatFerry,C++,17,微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.,846,4773,https://avatars.githubusercontent.com/u/87742696?u=6d1e2829e0a96a0eebce49089ff3f7e0a788e76f&v=4
-531380835,sherpa-onnx,k2-fsa/sherpa-onnx,C++,98,"Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",490,4227,https://avatars.githubusercontent.com/u/71431748?v=4
-206946371,ton,ton-blockchain/ton,C++,13,Main TON monorepo,1068,3204,https://avatars.githubusercontent.com/u/55018343?v=4
-153316914,BehaviorTree.CPP,BehaviorTree/BehaviorTree.CPP,C++,3,Behavior Trees Library in C++. Batteries included.,684,3135,https://avatars.githubusercontent.com/u/44158496?v=4
+15122806,benchmark,google/benchmark,C++,6,A microbenchmark support library,1646,9197,https://avatars.githubusercontent.com/u/1342004?v=4
+124976393,oatpp,oatpp/oatpp,C++,3,🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.,1314,8016,https://avatars.githubusercontent.com/u/37167448?v=4
+1049088,openscad,openscad/openscad,C++,6,OpenSCAD - The Programmers Solid 3D CAD Modeller  ,1240,7311,https://avatars.githubusercontent.com/u/466370?v=4
+22660515,doctest,doctest/doctest,C++,4,The fastest feature-rich C++11/14/17/20/23 single-header testing framework,648,6055,https://avatars.githubusercontent.com/u/70880936?v=4
+178613040,magic_enum,Neargye/magic_enum,C++,6,"Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",457,5115,https://avatars.githubusercontent.com/u/7997966?u=cc5d3a577c3b615ae5bad0c0c293363acf00acfe&v=4
+538979582,WeChatFerry,lich0821/WeChatFerry,C++,12,微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.,847,4773,https://avatars.githubusercontent.com/u/87742696?u=6d1e2829e0a96a0eebce49089ff3f7e0a788e76f&v=4
+531380835,sherpa-onnx,k2-fsa/sherpa-onnx,C++,98,"Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust",492,4233,https://avatars.githubusercontent.com/u/71431748?v=4
+206946371,ton,ton-blockchain/ton,C++,13,Main TON monorepo,1068,3214,https://avatars.githubusercontent.com/u/55018343?v=4
+153316914,BehaviorTree.CPP,BehaviorTree/BehaviorTree.CPP,C++,3,Behavior Trees Library in C++. Batteries included.,684,3136,https://avatars.githubusercontent.com/u/44158496?v=4
 8608254,botan,randombit/botan,C++,6,Cryptography Toolkit,573,2779,https://avatars.githubusercontent.com/u/469092?v=4
 135363400,navigation2,ros-navigation/navigation2,C++,1,ROS 2 Navigation Framework and System,1343,2728,https://avatars.githubusercontent.com/u/150733807?v=4
-848600003,scuda,kevmo314/scuda,C++,220,SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.,42,1283,https://avatars.githubusercontent.com/u/511342?u=8ff096aeddc0eb30ec0dee9a5a90453c32b18bd6&v=4
+848600003,scuda,kevmo314/scuda,C++,24,SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.,42,1286,https://avatars.githubusercontent.com/u/511342?u=8ff096aeddc0eb30ec0dee9a5a90453c32b18bd6&v=4
