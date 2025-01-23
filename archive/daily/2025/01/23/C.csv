@@ -1,23 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-13233158,obs-studio,obsproject/obs-studio,C,21,OBS Studio - Free and open source software for live streaming and screen recording,8131,61759,https://avatars.githubusercontent.com/u/7725691?v=4
-6201092,mpv,mpv-player/mpv,C,7,🎥 Command line video player,2965,29419,https://avatars.githubusercontent.com/u/2550273?v=4
-7634677,openssl,openssl/openssl,C,18,TLS/SSL and crypto library,10266,26446,https://avatars.githubusercontent.com/u/3279138?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,20,A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.,1907,24736,https://avatars.githubusercontent.com/u/51009775?v=4
-60667730,lvgl,lvgl/lvgl,C,10,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",3396,18102,https://avatars.githubusercontent.com/u/19811762?v=4
-215530281,ffmpeg.wasm,ffmpegwasm/ffmpeg.wasm,C,10,"FFmpeg for browser, powered by WebAssembly",882,14902,https://avatars.githubusercontent.com/u/56998921?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,8,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6867,11295,https://avatars.githubusercontent.com/u/19595895?v=4
-54280778,cJSON,DaveGamble/cJSON,C,9,Ultralightweight JSON parser in ANSI C,3239,11076,https://avatars.githubusercontent.com/u/118247?v=4
-330008801,SDL,libsdl-org/SDL,C,92,Simple Directmedia Layer,1944,11058,https://avatars.githubusercontent.com/u/77683370?v=4
-671061529,winlator,brunodev85/winlator,C,50,Android application for running Windows applications with Wine and Box86/Box64,532,10445,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
-901662,libgit2,libgit2/libgit2,C,6,"A cross-platform, linkable library implementation of Git that you can use in your application.",2436,9796,https://avatars.githubusercontent.com/u/394745?v=4
+246335987,Ventoy,ventoy/Ventoy,C,41,A new bootable USB solution.,4144,64243,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
+727213319,my-tv,lizongying/my-tv,C,35,我的电视 电视直播软件，安装即可使用,3514,31414,https://avatars.githubusercontent.com/u/16871545?u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4
+5101141,jq,jqlang/jq,C,7,Command-line JSON processor,1596,31022,https://avatars.githubusercontent.com/u/104800540?v=4
+7634677,openssl,openssl/openssl,C,18,TLS/SSL and crypto library,10267,26448,https://avatars.githubusercontent.com/u/3279138?v=4
+184981,memcached,memcached/memcached,C,4,memcached development tree,3296,13663,https://avatars.githubusercontent.com/u/41836?v=4
+1856976,libevent,libevent/libevent,C,5,Event notification library,3407,11296,https://avatars.githubusercontent.com/u/833750?v=4
+671061529,winlator,brunodev85/winlator,C,50,Android application for running Windows applications with Wine and Box86/Box64,532,10455,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
 13310527,jemalloc,jemalloc/jemalloc,C,7,,1466,9720,https://avatars.githubusercontent.com/u/5606968?v=4
-88327406,xmrig,xmrig/xmrig,C,5,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",3532,9001,https://avatars.githubusercontent.com/u/27528955?u=555699fb82e7598ed7dd1f6e47302042b48a10c3&v=4
-29933948,fluent-bit,fluent/fluent-bit,C,4,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1629,6485,https://avatars.githubusercontent.com/u/859518?v=4
-58132544,RediSearch,RediSearch/RediSearch,C,3,"A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",532,5624,https://avatars.githubusercontent.com/u/46899501?v=4
-184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,2,WebAssembly Micro Runtime (WAMR),647,5105,https://avatars.githubusercontent.com/u/54038801?v=4
-467381275,esp32-weather-epd,lmarzen/esp32-weather-epd,C,50,A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.,321,4990,https://avatars.githubusercontent.com/u/98473324?u=4649d469f4ea99477244d49ce27da97aff6fcd83&v=4
-793985221,kyanos,hengyoush/kyanos,C,12,"Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.",131,3701,https://avatars.githubusercontent.com/u/32724602?u=8f7887217451a515a946ca9f13c2879f11355513&v=4
+168906122,endlessh,skeeto/endlessh,C,21,SSH tarpit that slowly sends an endless banner,286,7475,https://avatars.githubusercontent.com/u/29988?u=0c1e53786c95a622dae0f75bc07de582563c5bb7&v=4
+673267,hiredis,redis/hiredis,C,0,Minimalistic C client for Redis >= 1.2,1822,6314,https://avatars.githubusercontent.com/u/1529926?v=4
+2359378,zlib,madler/zlib,C,1,A massively spiffy yet delicately unobtrusive compression library.,2498,5912,https://avatars.githubusercontent.com/u/240717?v=4
+467381275,esp32-weather-epd,lmarzen/esp32-weather-epd,C,50,A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.,321,4991,https://avatars.githubusercontent.com/u/98473324?u=4649d469f4ea99477244d49ce27da97aff6fcd83&v=4
+3276860,Unity,ThrowTheSwitch/Unity,C,0,Simple Unit Testing for C,997,4226,https://avatars.githubusercontent.com/u/1049138?v=4
+217654199,msquic,microsoft/msquic,C,3,"Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",546,4137,https://avatars.githubusercontent.com/u/6154722?v=4
 228103273,nuttx,apache/nuttx,C,4,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1229,3056,https://avatars.githubusercontent.com/u/47359?v=4
-121516035,sdk-nrf,nrfconnect/sdk-nrf,C,2,nRF Connect SDK main repository,1244,990,https://avatars.githubusercontent.com/u/40860733?v=4
-5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,3168,372,https://avatars.githubusercontent.com/u/9439498?v=4
-868277149,Pluvia,oxters168/Pluvia,C,28,Lightweight unofficial Steam client for Android,5,283,https://avatars.githubusercontent.com/u/15348986?u=7894f9763c34daed4683d40ca0d317401695f6b0&v=4
+4830334,WiringPi,WiringPi/WiringPi,C,3,The arguably fastest GPIO Library for the Raspberry Pi,1245,2862,https://avatars.githubusercontent.com/u/1950827?v=4
+15333809,open62541,open62541/open62541,C,2,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,1274,2671,https://avatars.githubusercontent.com/u/16096536?v=4
+65514205,liboqs,open-quantum-safe/liboqs,C,2,C library for prototyping and experimenting with quantum-resistant cryptography,490,2026,https://avatars.githubusercontent.com/u/20689385?v=4
+7014478,no-OS,analogdevicesinc/no-OS,C,0,Software drivers in C for systems without an operating system,1682,1021,https://avatars.githubusercontent.com/u/2465527?v=4
+520252357,opentelemetry-go-instrumentation,open-telemetry/opentelemetry-go-instrumentation,C,3,OpenTelemetry Auto Instrumentation using eBPF,97,620,https://avatars.githubusercontent.com/u/49998002?v=4
+674842112,AM32,am32-firmware/AM32,C,3,,141,377,https://avatars.githubusercontent.com/u/155652001?v=4
+5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,3170,372,https://avatars.githubusercontent.com/u/9439498?v=4
+868277149,Pluvia,oxters168/Pluvia,C,28,Lightweight unofficial Steam client for Android,5,292,https://avatars.githubusercontent.com/u/15348986?u=7894f9763c34daed4683d40ca0d317401695f6b0&v=4
