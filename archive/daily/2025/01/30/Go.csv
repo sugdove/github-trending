@@ -1,23 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,1411,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",9156,114893,https://avatars.githubusercontent.com/u/151674099?v=4
-48378947,frp,fatedier/frp,Go,41,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13657,89940,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-187335810,lazydocker,jesseduffield/lazydocker,Go,146,The lazier way to manage everything docker,1304,41103,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,18,A powerful little TUI framework 🏗,847,29273,https://avatars.githubusercontent.com/u/57376114?v=4
-122734569,lux,iawia002/lux,Go,204,👾 Fast and simple video download library and CLI tool written in Go,3051,28485,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
-738733003,fabric,danielmiessler/fabric,Go,241,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2941,28100,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+658928958,ollama,ollama/ollama,Go,1155,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",9161,114964,https://avatars.githubusercontent.com/u/151674099?v=4
+17728164,terraform,hashicorp/terraform,Go,14,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9644,43995,https://avatars.githubusercontent.com/u/761456?v=4
+510607652,pocketbase,pocketbase/pocketbase,Go,58,Open Source realtime backend in 1 file,2069,43323,https://avatars.githubusercontent.com/u/101000011?v=4
+122734569,lux,iawia002/lux,Go,204,👾 Fast and simple video download library and CLI tool written in Go,3051,28489,https://avatars.githubusercontent.com/u/9134003?u=98ed581f2dae06d9139a0c18065605c263dd5065&v=4
+738733003,fabric,danielmiessler/fabric,Go,241,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,2941,28108,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+180687624,trivy,aquasecurity/trivy,Go,7,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2421,24494,https://avatars.githubusercontent.com/u/12783832?v=4
+52034309,zap,uber-go/zap,Go,4,"Blazing fast, structured, leveled logging in Go.",1457,22478,https://avatars.githubusercontent.com/u/19262598?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,11,Find secrets with Gitleaks 🔑,1526,18717,https://avatars.githubusercontent.com/u/90395851?v=4
 77726177,trufflehog,trufflesecurity/trufflehog,Go,21,"Find, verify, and analyze leaked credentials",1759,17953,https://avatars.githubusercontent.com/u/79229934?v=4
-72891330,ingress-nginx,kubernetes/ingress-nginx,Go,6,Ingress NGINX Controller for Kubernetes,8290,17811,https://avatars.githubusercontent.com/u/13629408?v=4
-118105436,migrate,golang-migrate/migrate,Go,10,Database migrations. CLI and Golang library.,1440,15973,https://avatars.githubusercontent.com/u/35595841?v=4
-140457254,amass,owasp-amass/amass,Go,13,In-depth attack surface mapping and asset discovery,1928,12404,https://avatars.githubusercontent.com/u/128647419?v=4
-170411418,keda,kedacore/keda,Go,4, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1096,8734,https://avatars.githubusercontent.com/u/49917779?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,6,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,1003,8378,https://avatars.githubusercontent.com/u/17118990?v=4
-355946670,vcluster,loft-sh/vcluster,Go,32,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,446,7695,https://avatars.githubusercontent.com/u/65466868?v=4
-178079595,opencost,opencost/opencost,Go,6,Cost monitoring for Kubernetes workloads and cloud costs,576,5506,https://avatars.githubusercontent.com/u/105945214?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,9,OpenTelemetry Collector,1533,4777,https://avatars.githubusercontent.com/u/49998002?v=4
-117377862,gardener,gardener/gardener,Go,1,Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.,496,3022,https://avatars.githubusercontent.com/u/33683699?v=4
-614899368,observability-zero-to-hero,iam-veeramalla/observability-zero-to-hero,Go,9,Repo for learning observability,2677,1787,https://avatars.githubusercontent.com/u/43399466?u=91e78018b666dba78f75f296340e3251942158c9&v=4
-242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,1,Collection of extensions for OpenTelemetry-Go.,590,1282,https://avatars.githubusercontent.com/u/49998002?v=4
-706256859,fuego,go-fuego/fuego,Go,6,Golang Fuego - web framework generating OpenAPI 3 spec from source code,72,1181,https://avatars.githubusercontent.com/u/148255240?v=4
-764979648,go-proxy,yusing/go-proxy,Go,6,Easy to use reverse proxy with docker integration,29,704,https://avatars.githubusercontent.com/u/23052124?v=4
-429900219,aws-nuke,ekristen/aws-nuke,Go,3,Remove all the resources from an AWS account,43,408,https://avatars.githubusercontent.com/u/48329?u=19450b855a55b15162601f885a5e4c157d80decf&v=4
-352095949,eth-faucet,chainflag/eth-faucet,Go,12,Ether faucet server built with Go and Svelte.,201,377,https://avatars.githubusercontent.com/u/80571913?v=4
+40684033,sops,getsops/sops,Go,16,Simple and flexible tool for managing secrets,899,17618,https://avatars.githubusercontent.com/u/129185620?v=4
+357897199,netbird,netbirdio/netbird,Go,12,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",559,11963,https://avatars.githubusercontent.com/u/100464677?v=4
+33208063,centrifugo,centrifugal/centrifugo,Go,13,"Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.",607,8654,https://avatars.githubusercontent.com/u/6236442?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,4,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2613,7876,https://avatars.githubusercontent.com/u/36015203?v=4
+52555254,goose,pressly/goose,Go,10,A database migration tool. Supports SQL migrations and Go functions. ,541,7543,https://avatars.githubusercontent.com/u/18835?v=4
+63882194,calico,projectcalico/calico,Go,2,Cloud native networking and network security,1371,6168,https://avatars.githubusercontent.com/u/12304728?v=4
+178079595,opencost,opencost/opencost,Go,6,Cost monitoring for Kubernetes workloads and cloud costs,576,5507,https://avatars.githubusercontent.com/u/105945214?v=4
+201546443,assets,trustwallet/assets,Go,0,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",23128,4758,https://avatars.githubusercontent.com/u/32179889?v=4
+154894457,gatekeeper,open-policy-agent/gatekeeper,Go,0,🐊 Gatekeeper - Policy Controller for Kubernetes,776,3778,https://avatars.githubusercontent.com/u/16468693?v=4
+620999276,mods,charmbracelet/mods,Go,13,AI on the command line,134,3280,https://avatars.githubusercontent.com/u/57376114?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,2511,3232,https://avatars.githubusercontent.com/u/49998002?v=4
+669486760,incus,lxc/incus,Go,8,Powerful system container and virtual machine manager ,244,3046,https://avatars.githubusercontent.com/u/2301756?v=4
+228925870,opentelemetry-operator,open-telemetry/opentelemetry-operator,Go,4,Kubernetes Operator for OpenTelemetry Collector,482,1299,https://avatars.githubusercontent.com/u/49998002?v=4
+841141075,pocket-id,stonith404/pocket-id,Go,43,A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.,26,1209,https://avatars.githubusercontent.com/u/58886915?u=5a4e9fa17b983007d598518f491cf24b059a88ea&v=4
+93446113,terraform-provider-cloudflare,cloudflare/terraform-provider-cloudflare,Go,1,Cloudflare Terraform Provider,634,883,https://avatars.githubusercontent.com/u/314135?v=4
+352095949,eth-faucet,chainflag/eth-faucet,Go,12,Ether faucet server built with Go and Svelte.,200,377,https://avatars.githubusercontent.com/u/80571913?v=4
