@@ -1,21 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-1903522,php-src,php/php-src,C,5,The PHP Interpreter,7812,38632,https://avatars.githubusercontent.com/u/25158?v=4
-214011414,WindTerm,kingToolbox/WindTerm,C,19,A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.,1919,24858,https://avatars.githubusercontent.com/u/51009775?v=4
-14812739,libuv,libuv/libuv,C,5,Cross-platform asynchronous I/O,3638,24755,https://avatars.githubusercontent.com/u/4030929?v=4
-29759715,zstd,facebook/zstd,C,11,Zstandard - Fast real-time compression algorithm,2178,24249,https://avatars.githubusercontent.com/u/69631?v=4
-80286288,Tasmota,arendst/Tasmota,C,6,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",4849,22791,https://avatars.githubusercontent.com/u/11044339?u=b54c71859c551426b6738921138b740804ca1d62&v=4
-45821540,openwrt,openwrt/openwrt,C,13,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,10820,21412,https://avatars.githubusercontent.com/u/2528830?v=4
-84240850,timescaledb,timescale/timescaledb,C,6,A time-series database for high-performance real-time analytics packaged as a Postgres extension,903,18303,https://avatars.githubusercontent.com/u/8986001?v=4
-65899476,esp-idf,espressif/esp-idf,C,11,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,7454,14410,https://avatars.githubusercontent.com/u/9460735?v=4
-32873313,systemd,systemd/systemd,C,5,The systemd System and Service Manager ,3886,13700,https://avatars.githubusercontent.com/u/1918868?v=4
-1856976,libevent,libevent/libevent,C,2,Event notification library,3409,11318,https://avatars.githubusercontent.com/u/833750?v=4
+1903522,php-src,php/php-src,C,5,The PHP Interpreter,7812,38633,https://avatars.githubusercontent.com/u/25158?v=4
+569041,curl,curl/curl,C,15,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6545,36673,https://avatars.githubusercontent.com/u/16928085?v=4
+102578345,lede,coolsnowwolf/lede,C,2,Lean's LEDE source,19559,30253,https://avatars.githubusercontent.com/u/31687149?u=caa956c5f80318ea674625f9e9efa49c98335d74&v=4
+214011414,WindTerm,kingToolbox/WindTerm,C,19,A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.,1919,24864,https://avatars.githubusercontent.com/u/51009775?v=4
+775743011,valkey,valkey-io/valkey,C,21,A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.,707,18698,https://avatars.githubusercontent.com/u/164458127?v=4
+84240850,timescaledb,timescale/timescaledb,C,6,A time-series database for high-performance real-time analytics packaged as a Postgres extension,903,18304,https://avatars.githubusercontent.com/u/8986001?v=4
+39242894,coturn,coturn/coturn,C,4,coturn TURN server project,2060,11760,https://avatars.githubusercontent.com/u/6572098?v=4
+3671479,nmap,nmap/nmap,C,11,Nmap - the Network Mapper. Github mirror of official SVN repository.,2448,10559,https://avatars.githubusercontent.com/u/63385?v=4
 106586124,atomic-red-team,redcanaryco/atomic-red-team,C,6,Small and highly portable detection tests based on MITRE's ATT&CK.,2848,10124,https://avatars.githubusercontent.com/u/6877001?v=4
-59676171,klipper,Klipper3d/klipper,C,6,Klipper is a 3d-printer firmware,5427,9850,https://avatars.githubusercontent.com/u/90982958?v=4
-2328181,freebsd-src,freebsd/freebsd-src,C,3,The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....,2924,8094,https://avatars.githubusercontent.com/u/811839?v=4
-470373719,istoreos,istoreos/istoreos,C,5,提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）,586,5526,https://avatars.githubusercontent.com/u/107662817?v=4
-45703884,u8g2,olikraus/u8g2,C,2,"U8glib library for monochrome displays, version 2 ",1074,5354,https://avatars.githubusercontent.com/u/1084992?v=4
-272394704,security-research,google/security-research,C,12,This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.,430,3555,https://avatars.githubusercontent.com/u/1342004?v=4
-207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,2,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",1191,2981,https://avatars.githubusercontent.com/u/54647343?v=4
-65514205,liboqs,open-quantum-safe/liboqs,C,1,C library for prototyping and experimenting with quantum-resistant cryptography,499,2046,https://avatars.githubusercontent.com/u/20689385?v=4
-826306333,The-Ultimate-C-Programming-Course,CodeWithHarry/The-Ultimate-C-Programming-Course,C,0,This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry ,165,478,https://avatars.githubusercontent.com/u/48705673?u=472aded90489332ecedb819278fc2cfbe485e4da&v=4
-5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,3173,444,https://avatars.githubusercontent.com/u/9439498?v=4
+29933948,fluent-bit,fluent/fluent-bit,C,3,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",1635,6522,https://avatars.githubusercontent.com/u/859518?v=4
+2359378,zlib,madler/zlib,C,0,A massively spiffy yet delicately unobtrusive compression library.,2509,5944,https://avatars.githubusercontent.com/u/240717?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,1,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2640,5671,https://avatars.githubusercontent.com/u/97226525?v=4
+6860771,tinyusb,hathach/tinyusb,C,2,An open source  cross-platform USB stack for embedded system,1106,5265,https://avatars.githubusercontent.com/u/249515?u=5cc8dcf0f9bb8ea773f3aeb7e0ad0bed574cf37a&v=4
+1613176,edk2,tianocore/edk2,C,2,EDK II,2617,4855,https://avatars.githubusercontent.com/u/352162?v=4
+34807561,nanopb,nanopb/nanopb,C,2,Protocol Buffers with small code size,878,4482,https://avatars.githubusercontent.com/u/12173937?v=4
+23780138,riscv-gnu-toolchain,riscv-collab/riscv-gnu-toolchain,C,1,"GNU toolchain for RISC-V, including GCC",1202,3709,https://avatars.githubusercontent.com/u/89536104?v=4
+96348842,dpdk,DPDK/dpdk,C,1,Data Plane Development Kit,1268,3501,https://avatars.githubusercontent.com/u/29926404?v=4
+228103273,nuttx,apache/nuttx,C,1,"Apache NuttX is a mature, real-time embedded operating system (RTOS)",1234,3073,https://avatars.githubusercontent.com/u/47359?v=4
+112254496,llvm-mingw,mstorsjo/llvm-mingw,C,3,An LLVM/Clang/LLD based mingw-w64 toolchain,198,2105,https://avatars.githubusercontent.com/u/69727?v=4
+127718181,esp-adf,espressif/esp-adf,C,5,Espressif Audio Development Framework,714,1654,https://avatars.githubusercontent.com/u/9460735?v=4
+520252357,opentelemetry-go-instrumentation,open-telemetry/opentelemetry-go-instrumentation,C,3,OpenTelemetry Auto Instrumentation using eBPF,100,641,https://avatars.githubusercontent.com/u/49998002?v=4
