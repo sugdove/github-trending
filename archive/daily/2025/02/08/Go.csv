@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,972,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",9844,122705,https://avatars.githubusercontent.com/u/151674099?v=4
-48378947,frp,fatedier/frp,Go,42,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13686,90216,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
-41986369,tidb,pingcap/tidb,Go,7,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",5885,37864,https://avatars.githubusercontent.com/u/11855343?v=4
-208728772,milvus,milvus-io/milvus,Go,33,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",3020,32238,https://avatars.githubusercontent.com/u/51735404?v=4
-156084530,nps,ehang-io/nps,Go,4,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",5671,31241,https://avatars.githubusercontent.com/u/59558731?v=4
-285864199,go-zero,zeromicro/go-zero,Go,20,A cloud-native Go microservices framework with cli tool for productivity.,4024,29828,https://avatars.githubusercontent.com/u/74225106?v=4
-50613991,harbor,goharbor/harbor,Go,9,"An open source trusted cloud native registry project that stores, signs, and scans content.",4804,24778,https://avatars.githubusercontent.com/u/40275816?v=4
-180687624,trivy,aquasecurity/trivy,Go,17,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2435,24606,https://avatars.githubusercontent.com/u/12783832?v=4
-27291507,asdf,asdf-vm/asdf,Go,31,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",812,22738,https://avatars.githubusercontent.com/u/17869024?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,17,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1278,13134,https://avatars.githubusercontent.com/u/43720803?v=4
-62921553,rook,rook/rook,Go,5,Storage Orchestration for Kubernetes,2699,12593,https://avatars.githubusercontent.com/u/22860722?v=4
-774468912,superfile,yorukot/superfile,Go,26,Pretty fancy and modern terminal file manager,253,10767,https://avatars.githubusercontent.com/u/107802416?u=4314dfeae3eef151614116ea6cdb42040d839f3b&v=4
-78869430,nakama,heroiclabs/nakama,Go,21,Distributed server for social and realtime games and apps.,1122,9335,https://avatars.githubusercontent.com/u/12753245?v=4
-66509131,client-go,kubernetes/client-go,Go,4,Go client for Kubernetes.,2971,9254,https://avatars.githubusercontent.com/u/13629408?v=4
-110027931,metallb,metallb/metallb,Go,2,A network load-balancer implementation for Kubernetes using standard routing protocols,932,7294,https://avatars.githubusercontent.com/u/60239468?v=4
-7823926,client_golang,prometheus/client_golang,Go,1,Prometheus instrumentation library for Go applications,1196,5526,https://avatars.githubusercontent.com/u/3380462?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,0,OpenTelemetry Go API and SDK,1103,5488,https://avatars.githubusercontent.com/u/49998002?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,4,Kubernetes controller for GitHub Actions self-hosted runners,1164,4950,https://avatars.githubusercontent.com/u/44036562?v=4
+21540759,awesome-go,avelino/awesome-go,Go,88,"A curated list of awesome Go frameworks, libraries and software",12092,137703,https://avatars.githubusercontent.com/u/31996?u=38602f062e06fea56b035d34e706a8b9bdb9ec29&v=4
+658928958,ollama,ollama/ollama,Go,1050,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",9850,122788,https://avatars.githubusercontent.com/u/151674099?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,28,Production-Grade Container Scheduling and Management,40178,112910,https://avatars.githubusercontent.com/u/13629408?v=4
+15452919,go-ethereum,ethereum/go-ethereum,Go,13,Go implementation of the Ethereum protocol,20526,48284,https://avatars.githubusercontent.com/u/6250754?v=4
+74175805,istio,istio/istio,Go,9,"Connect, secure, control, and observe services.",7845,36449,https://avatars.githubusercontent.com/u/23534644?v=4
+208728772,milvus,milvus-io/milvus,Go,28,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",3020,32242,https://avatars.githubusercontent.com/u/51735404?v=4
+285864199,go-zero,zeromicro/go-zero,Go,20,A cloud-native Go microservices framework with cli tool for productivity.,4024,29830,https://avatars.githubusercontent.com/u/74225106?v=4
+27291507,asdf,asdf-vm/asdf,Go,118,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",812,22746,https://avatars.githubusercontent.com/u/17869024?v=4
+205679232,gin-vue-admin,flipped-aurora/gin-vue-admin,Go,10,🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。,6520,22153,https://avatars.githubusercontent.com/u/63276650?v=4
+237523442,tailscale,tailscale/tailscale,Go,25,"The easiest, most secure way to use WireGuard and 2FA.",1658,20838,https://avatars.githubusercontent.com/u/48932923?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,9,gRPC to JSON proxy generator following the gRPC HTTP spec,2261,18483,https://avatars.githubusercontent.com/u/19352526?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,13,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1278,13136,https://avatars.githubusercontent.com/u/43720803?v=4
+357897199,netbird,netbirdio/netbird,Go,16,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",565,12062,https://avatars.githubusercontent.com/u/100464677?v=4
+23267883,semaphore,semaphoreui/semaphore,Go,45,"Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.",1104,11227,https://avatars.githubusercontent.com/u/98574287?v=4
+306366900,casdoor,casdoor/casdoor,Go,12,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos",1277,10941,https://avatars.githubusercontent.com/u/72992104?v=4
+66509131,client-go,kubernetes/client-go,Go,4,Go client for Kubernetes.,2972,9254,https://avatars.githubusercontent.com/u/13629408?v=4
+417230885,gh-dash,dlvhdr/gh-dash,Go,64,A beautiful CLI dashboard for GitHub 🚀 ,238,7758,https://avatars.githubusercontent.com/u/6196971?u=329978c85ab7ee73f9c775fcec6021da61d362db&v=4
+63882194,calico,projectcalico/calico,Go,2,Cloud native networking and network security,1376,6184,https://avatars.githubusercontent.com/u/12304728?v=4
 685877018,res-downloader,putyy/res-downloader,Go,96,视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!,661,4907,https://avatars.githubusercontent.com/u/31536789?u=5cf4a65e2cd69f70d444343aa2ba45cf498fd36f&v=4
-175592968,volcano,volcano-sh/volcano,Go,6,A Cloud Native Batch System (Project under CNCF),1017,4403,https://avatars.githubusercontent.com/u/47214749?v=4
-177210627,buildx,docker/buildx,Go,7,Docker CLI plugin for extended build capabilities with BuildKit,509,3740,https://avatars.githubusercontent.com/u/5429470?v=4
-106473613,k8s-device-plugin,NVIDIA/k8s-device-plugin,Go,7,NVIDIA device plugin for Kubernetes,653,3004,https://avatars.githubusercontent.com/u/1728152?v=4
-832321286,openai-go,openai/openai-go,Go,19,The official Go library for the OpenAI API,71,1094,https://avatars.githubusercontent.com/u/14957082?v=4
+175592968,volcano,volcano-sh/volcano,Go,8,A Cloud Native Batch System (Project under CNCF),1017,4403,https://avatars.githubusercontent.com/u/47214749?v=4
+226368338,evcc,evcc-io/evcc,Go,40,Solar Charging ☀️🚘,738,3964,https://avatars.githubusercontent.com/u/81383504?v=4
+108967484,gowitness,sensepost/gowitness,Go,5,"🔍 gowitness - a golang, web screenshot utility using Chrome Headless",372,3520,https://avatars.githubusercontent.com/u/1193973?v=4
+527781321,fasten-onprem,fastenhealth/fasten-onprem,Go,55,"Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics",113,1892,https://avatars.githubusercontent.com/u/111699065?v=4
