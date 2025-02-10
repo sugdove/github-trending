@@ -1,24 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,207,The Go programming language,17853,125618,https://avatars.githubusercontent.com/u/4314092?v=4
-658928958,ollama,ollama/ollama,Go,5809,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",9964,123739,https://avatars.githubusercontent.com/u/151674099?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,364,simple terminal UI for git commands,1948,56240,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-74175805,istio,istio/istio,Go,51,"Connect, secure, control, and observe services.",7847,36465,https://avatars.githubusercontent.com/u/23534644?v=4
-43723161,helm,helm/helm,Go,46,The Kubernetes Package Manager,7173,27415,https://avatars.githubusercontent.com/u/15859888?v=4
-180687624,trivy,aquasecurity/trivy,Go,117,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2437,24628,https://avatars.githubusercontent.com/u/12783832?v=4
-27291507,asdf,asdf-vm/asdf,Go,230,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",812,22783,https://avatars.githubusercontent.com/u/17869024?v=4
-509091576,sing-box,SagerNet/sing-box,Go,169,The universal proxy platform,2616,21875,https://avatars.githubusercontent.com/u/83217677?v=4
+21540759,awesome-go,avelino/awesome-go,Go,534,"A curated list of awesome Go frameworks, libraries and software",12092,137852,https://avatars.githubusercontent.com/u/31996?u=02a59a99280fd55a2ea3948c498aaaa7bd2a4ac0&v=4
+23096959,go,golang/go,Go,207,The Go programming language,17854,125618,https://avatars.githubusercontent.com/u/4314092?v=4
+658928958,ollama,ollama/ollama,Go,5809,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",9974,123827,https://avatars.githubusercontent.com/u/151674099?v=4
+74175805,istio,istio/istio,Go,51,"Connect, secure, control, and observe services.",7847,36464,https://avatars.githubusercontent.com/u/23534644?v=4
+180687624,trivy,aquasecurity/trivy,Go,117,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2437,24632,https://avatars.githubusercontent.com/u/12783832?v=4
+27291507,asdf,asdf-vm/asdf,Go,230,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",812,22786,https://avatars.githubusercontent.com/u/17869024?v=4
+509091576,sing-box,SagerNet/sing-box,Go,169,The universal proxy platform,2615,21880,https://avatars.githubusercontent.com/u/83217677?v=4
 143460965,microservices-demo,GoogleCloudPlatform/microservices-demo,Go,86,"Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",7660,17498,https://avatars.githubusercontent.com/u/2810941?v=4
-36653430,nomad,hashicorp/nomad,Go,34,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1975,15198,https://avatars.githubusercontent.com/u/761456?v=4
-157554479,meshery,meshery/meshery,Go,66,"Meshery, the cloud native manager",2008,6709,https://avatars.githubusercontent.com/u/52376019?v=4
-603535454,langchaingo,tmc/langchaingo,Go,99,"LangChain for Go, the easiest way to write LLM-based programs in Go",713,5624,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+36653430,nomad,hashicorp/nomad,Go,34,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1975,15199,https://avatars.githubusercontent.com/u/761456?v=4
+23267883,semaphore,semaphoreui/semaphore,Go,145,"Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.",1105,11277,https://avatars.githubusercontent.com/u/98574287?v=4
+417230885,gh-dash,dlvhdr/gh-dash,Go,153,A beautiful CLI dashboard for GitHub 🚀 ,238,7834,https://avatars.githubusercontent.com/u/6196971?u=329978c85ab7ee73f9c775fcec6021da61d362db&v=4
+603535454,langchaingo,tmc/langchaingo,Go,99,"LangChain for Go, the easiest way to write LLM-based programs in Go",714,5625,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,23,OpenTelemetry Go API and SDK,1104,5495,https://avatars.githubusercontent.com/u/49998002?v=4
-717197250,new-api,Calcium-Ion/new-api,Go,193,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,1053,4950,https://avatars.githubusercontent.com/u/61247483?v=4
-235320869,naabu,projectdiscovery/naabu,Go,38,A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests,571,4949,https://avatars.githubusercontent.com/u/50994705?v=4
-175592968,volcano,volcano-sh/volcano,Go,32,A Cloud Native Batch System (Project under CNCF),1019,4415,https://avatars.githubusercontent.com/u/47214749?v=4
-385634291,mimir,grafana/mimir,Go,15,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",550,4289,https://avatars.githubusercontent.com/u/7195757?v=4
-226368338,evcc,evcc-io/evcc,Go,73,Solar Charging ☀️🚘,738,3994,https://avatars.githubusercontent.com/u/81383504?v=4
+685877018,res-downloader,putyy/res-downloader,Go,323,视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!,667,4980,https://avatars.githubusercontent.com/u/31536789?u=5cf4a65e2cd69f70d444343aa2ba45cf498fd36f&v=4
+717197250,new-api,Calcium-Ion/new-api,Go,193,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,1054,4953,https://avatars.githubusercontent.com/u/61247483?v=4
+201546443,assets,trustwallet/assets,Go,12,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",23200,4773,https://avatars.githubusercontent.com/u/32179889?v=4
+175592968,volcano,volcano-sh/volcano,Go,32,A Cloud Native Batch System (Project under CNCF),1019,4416,https://avatars.githubusercontent.com/u/47214749?v=4
+226368338,evcc,evcc-io/evcc,Go,73,Solar Charging ☀️🚘,739,3995,https://avatars.githubusercontent.com/u/81383504?v=4
 96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,106,AWS SDK for the Go programming language. ,670,2890,https://avatars.githubusercontent.com/u/2232217?v=4
-816422401,homebox,sysadminsmedia/homebox,Go,282,A continuation of HomeBox the inventory and organization system built for the Home User,102,2035,https://avatars.githubusercontent.com/u/151488376?v=4
-308444913,kuberay,ray-project/kuberay,Go,23,A toolkit to run Ray applications on Kubernetes,454,1439,https://avatars.githubusercontent.com/u/22125274?v=4
+308444913,kuberay,ray-project/kuberay,Go,23,A toolkit to run Ray applications on Kubernetes,455,1440,https://avatars.githubusercontent.com/u/22125274?v=4
 93446113,terraform-provider-cloudflare,cloudflare/terraform-provider-cloudflare,Go,22,Cloudflare Terraform Provider,640,906,https://avatars.githubusercontent.com/u/314135?v=4
-752003386,beacon-kit,berachain/beacon-kit,Go,25,A modular framework for building EVM consensus clients  ⛵️✨,204,257,https://avatars.githubusercontent.com/u/96059542?v=4
+752003386,beacon-kit,berachain/beacon-kit,Go,25,A modular framework for building EVM consensus clients  ⛵️✨,205,257,https://avatars.githubusercontent.com/u/96059542?v=4
