@@ -1,24 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,39,Production-Grade Container Scheduling and Management,40208,113034,https://avatars.githubusercontent.com/u/13629408?v=4
-48378947,frp,fatedier/frp,Go,40,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13701,90368,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,39,Production-Grade Container Scheduling and Management,40209,113036,https://avatars.githubusercontent.com/u/13629408?v=4
+48378947,frp,fatedier/frp,Go,40,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13701,90371,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
 20904437,gin,gin-gonic/gin,Go,23,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8103,80276,https://avatars.githubusercontent.com/u/7894478?v=4
-7691631,moby,moby/moby,Go,15,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18684,69155,https://avatars.githubusercontent.com/u/27259197?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,58,simple terminal UI for git commands,1954,56391,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-29261473,minio,minio/minio,Go,30,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5648,50111,https://avatars.githubusercontent.com/u/695951?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,27,A node.js version management utility for Windows. Ironically written in Go.,3430,39412,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-41986369,tidb,pingcap/tidb,Go,10,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",5890,37896,https://avatars.githubusercontent.com/u/11855343?v=4
-273871859,headscale,juanfont/headscale,Go,30,"An open source, self-hosted implementation of the Tailscale control server",1389,25335,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-129717717,loki,grafana/loki,Go,6,"Like Prometheus, but for logs.",3557,24605,https://avatars.githubusercontent.com/u/7195757?v=4
-165041732,kratos,go-kratos/kratos,Go,7,Your ultimate Go microservices framework for the cloud-native era.,4040,23687,https://avatars.githubusercontent.com/u/62791634?v=4
-252813491,nuclei,projectdiscovery/nuclei,Go,18,"Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",2605,22129,https://avatars.githubusercontent.com/u/50994705?v=4
-27729907,grpc-go,grpc/grpc-go,Go,3,The Go language implementation of gRPC. HTTP/2 based RPC,4440,21400,https://avatars.githubusercontent.com/u/7802525?v=4
-120896210,argo-cd,argoproj/argo-cd,Go,10,Declarative Continuous Deployment for Kubernetes,5699,18655,https://avatars.githubusercontent.com/u/30269780?v=4
-55072677,weaviate,weaviate/weaviate,Go,17,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",863,12338,https://avatars.githubusercontent.com/u/37794290?v=4
-111431261,grpcurl,fullstorydev/grpcurl,Go,9,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",518,11235,https://avatars.githubusercontent.com/u/33756472?v=4
-422821402,FerretDB,FerretDB/FerretDB,Go,21,A truly Open Source MongoDB alternative,417,9569,https://avatars.githubusercontent.com/u/95204649?v=4
-12332444,ginkgo,onsi/ginkgo,Go,4,A Modern Testing Framework for Go,667,8522,https://avatars.githubusercontent.com/u/558230?v=4
-125275487,kubebuilder,kubernetes-sigs/kubebuilder,Go,2,Kubebuilder - SDK for building Kubernetes APIs using CRDs,1500,8143,https://avatars.githubusercontent.com/u/36015203?v=4
-173009358,oapi-codegen,oapi-codegen/oapi-codegen,Go,4,Generate Go client and server boilerplate from OpenAPI 3 specifications,896,6672,https://avatars.githubusercontent.com/u/142752710?v=4
-272663924,simplebank,techschool/simplebank,Go,17,Backend master class: build a simple bank service in Go,1042,5800,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,3,OpenTelemetry Collector,1547,4829,https://avatars.githubusercontent.com/u/49998002?v=4
-674367771,BloodHound,SpecterOps/BloodHound,Go,5,Six Degrees of Domain Admin,143,1354,https://avatars.githubusercontent.com/u/25406560?v=4
+11180687,hugo,gohugoio/hugo,Go,37,The world’s fastest framework for building websites.,7669,77928,https://avatars.githubusercontent.com/u/29385237?v=4
+7691631,moby,moby/moby,Go,15,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18684,69154,https://avatars.githubusercontent.com/u/27259197?v=4
+133251103,dive,wagoodman/dive,Go,34,A tool for exploring each layer in a docker image,1850,49442,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
+161951219,wails,wailsapp/wails,Go,13,Create beautiful applications using Go,1283,26731,https://avatars.githubusercontent.com/u/39746503?v=4
+6247705,testify,stretchr/testify,Go,6,A toolkit with common assertions and mocks that plays nicely with the standard library,1613,23974,https://avatars.githubusercontent.com/u/1841476?v=4
+165041732,kratos,go-kratos/kratos,Go,7,Your ultimate Go microservices framework for the cloud-native era.,4039,23689,https://avatars.githubusercontent.com/u/62791634?v=4
+27729907,grpc-go,grpc/grpc-go,Go,3,The Go language implementation of gRPC. HTTP/2 based RPC,4440,21401,https://avatars.githubusercontent.com/u/7802525?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,11,"CNCF Jaeger, a Distributed Tracing Platform",2520,20908,https://avatars.githubusercontent.com/u/28545596?v=4
+31558937,teleport,gravitational/teleport,Go,6,"The easiest, and most secure way to access and protect all of your infrastructure.",1809,18006,https://avatars.githubusercontent.com/u/10781132?v=4
+44350607,dashboard,kubernetes/dashboard,Go,2,General-purpose web UI for Kubernetes clusters,4185,14658,https://avatars.githubusercontent.com/u/13629408?v=4
+109162639,thanos,thanos-io/thanos,Go,2,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,2126,13294,https://avatars.githubusercontent.com/u/49725059?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,4,Automatically provision and manage TLS certificates in Kubernetes,2129,12458,https://avatars.githubusercontent.com/u/39950598?v=4
+133067498,kustomize,kubernetes-sigs/kustomize,Go,5,Customization of kubernetes YAML configurations,2279,11225,https://avatars.githubusercontent.com/u/36015203?v=4
+91054480,zerolog,rs/zerolog,Go,6,Zero Allocation JSON Logger,578,10966,https://avatars.githubusercontent.com/u/68232?u=87a11a8b3ced882de7b8cd4dc304a7446b053564&v=4
+288482469,go-openai,sashabaranov/go-openai,Go,10,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",1485,9578,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
+440752086,coder,coder/coder,Go,11,Provision remote development environments via Terraform,786,8936,https://avatars.githubusercontent.com/u/95932066?v=4
+825470378,beszel,henrygd/beszel,Go,249,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",244,8396,https://avatars.githubusercontent.com/u/8519632?u=589ea2e0d623c7514101482c97f68c8219624c5c&v=4
+63625434,gosec,securego/gosec,Go,9,Go security checker,622,7994,https://avatars.githubusercontent.com/u/23195997?v=4
+210268863,codeforces-go,EndlessCheng/codeforces-go,Go,19,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,619,5747,https://avatars.githubusercontent.com/u/7086966?u=ac53cc01d8798356e5702e8291cb7ddb838ee823&v=4
+236055696,tempo,grafana/tempo,Go,2,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",538,4203,https://avatars.githubusercontent.com/u/7195757?v=4
+689214770,one-hub,MartialBE/one-hub,Go,41,OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。,309,1612,https://avatars.githubusercontent.com/u/42402987?u=381a7dd554d7fc10fb14754678298424d5caaa73&v=4
+674367771,BloodHound,SpecterOps/BloodHound,Go,5,Six Degrees of Domain Admin,143,1357,https://avatars.githubusercontent.com/u/25406560?v=4
