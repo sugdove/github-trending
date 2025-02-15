@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,46,The Go programming language,17876,125841,https://avatars.githubusercontent.com/u/4314092?v=4
-20904437,gin,gin-gonic/gin,Go,20,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8104,80315,https://avatars.githubusercontent.com/u/7894478?v=4
-6838921,prometheus,prometheus/prometheus,Go,12,The Prometheus monitoring system and time series database.,9355,57215,https://avatars.githubusercontent.com/u/3380462?v=4
-133251103,dive,wagoodman/dive,Go,15,A tool for exploring each layer in a docker image,1850,49470,https://avatars.githubusercontent.com/u/590471?u=b78d631287f3a5422d8e1492f632965bb410c9bc&v=4
-15045751,compose,docker/compose,Go,23,Define and run multi-container applications with Docker,5304,34725,https://avatars.githubusercontent.com/u/5429470?v=4
-43723161,helm,helm/helm,Go,7,The Kubernetes Package Manager,7184,27438,https://avatars.githubusercontent.com/u/15859888?v=4
-180687624,trivy,aquasecurity/trivy,Go,14,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2442,24687,https://avatars.githubusercontent.com/u/12783832?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,17,Find secrets with Gitleaks 🔑,1539,18902,https://avatars.githubusercontent.com/u/90395851?v=4
-30711774,validator,go-playground/validator,Go,12,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1347,17571,https://avatars.githubusercontent.com/u/14768796?v=4
-6443435,nats-server,nats-io/nats-server,Go,8,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1459,16458,https://avatars.githubusercontent.com/u/10203055?v=4
-36960321,runc,opencontainers/runc,Go,10,CLI tool for spawning and running containers according to the OCI specification,2144,12140,https://avatars.githubusercontent.com/u/12563465?v=4
-299832860,livekit,livekit/livekit,Go,20,End-to-end stack for WebRTC. SFU media server and SDKs.,995,11579,https://avatars.githubusercontent.com/u/69438833?v=4
-93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,4,The AWS Provider enables Terraform to manage AWS resources.,9349,10089,https://avatars.githubusercontent.com/u/761456?v=4
-440752086,coder,coder/coder,Go,20,Provision remote development environments via Terraform,788,8967,https://avatars.githubusercontent.com/u/95932066?v=4
-825470378,beszel,henrygd/beszel,Go,249,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",251,8732,https://avatars.githubusercontent.com/u/8519632?u=589ea2e0d623c7514101482c97f68c8219624c5c&v=4
+658928958,ollama,ollama/ollama,Go,292,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",10232,126211,https://avatars.githubusercontent.com/u/151674099?v=4
+29207621,caddy,caddyserver/caddy,Go,35,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,4176,61428,https://avatars.githubusercontent.com/u/12955528?v=4
+11225014,etcd,etcd-io/etcd,Go,6,Distributed reliable key-value store for the most critical data of a distributed system,9865,48394,https://avatars.githubusercontent.com/u/41972792?v=4
+180687624,trivy,aquasecurity/trivy,Go,14,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2442,24690,https://avatars.githubusercontent.com/u/12783832?v=4
+129717717,loki,grafana/loki,Go,9,"Like Prometheus, but for logs.",3562,24620,https://avatars.githubusercontent.com/u/7195757?v=4
+72477752,pulumi,pulumi/pulumi,Go,8,Pulumi - Infrastructure as Code in any programming language 🚀,1162,22417,https://avatars.githubusercontent.com/u/21992475?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,17,Find secrets with Gitleaks 🔑,1539,18905,https://avatars.githubusercontent.com/u/90395851?v=4
+30711774,validator,go-playground/validator,Go,95,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1347,17576,https://avatars.githubusercontent.com/u/14768796?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,1,Workflow Engine for Kubernetes,3242,15344,https://avatars.githubusercontent.com/u/30269780?v=4
+33258973,telegraf,influxdata/telegraf,Go,2,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5622,15163,https://avatars.githubusercontent.com/u/5713248?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,12,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1286,13204,https://avatars.githubusercontent.com/u/43720803?v=4
+140412864,evilginx2,kgretzky/evilginx2,Go,38,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",2173,12361,https://avatars.githubusercontent.com/u/19260967?u=220f620ddd124b2532e92444d41c47cb8c58283b&v=4
+327859577,juicefs,juicedata/juicefs,Go,3,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,996,11228,https://avatars.githubusercontent.com/u/27241737?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,4,The AWS Provider enables Terraform to manage AWS resources.,9350,10089,https://avatars.githubusercontent.com/u/761456?v=4
+440752086,coder,coder/coder,Go,20,Provision remote development environments via Terraform,788,8972,https://avatars.githubusercontent.com/u/95932066?v=4
 126493684,gotenberg,gotenberg/gotenberg,Go,11,"A developer-friendly API for converting numerous document formats into PDF files, and more!",576,8601,https://avatars.githubusercontent.com/u/66820499?v=4
-52555254,goose,pressly/goose,Go,13,A database migration tool. Supports SQL migrations and Go functions. ,548,7727,https://avatars.githubusercontent.com/u/18835?v=4
-31333618,decimal,shopspring/decimal,Go,6,Arbitrary-precision fixed-point decimal numbers in Go,630,6568,https://avatars.githubusercontent.com/u/11196412?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,4,"Optimism is Ethereum, scaled.",3488,5947,https://avatars.githubusercontent.com/u/58791460?v=4
-272663924,simplebank,techschool/simplebank,Go,10,Backend master class: build a simple bank service in Go,1045,5813,https://avatars.githubusercontent.com/u/58562849?u=2196b0f937f04c468b3422cfad75cb4a156dd462&v=4
-385634291,mimir,grafana/mimir,Go,2,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",557,4302,https://avatars.githubusercontent.com/u/7195757?v=4
+355946670,vcluster,loft-sh/vcluster,Go,63,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,455,8258,https://avatars.githubusercontent.com/u/65466868?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2620,7918,https://avatars.githubusercontent.com/u/36015203?v=4
+52555254,goose,pressly/goose,Go,13,A database migration tool. Supports SQL migrations and Go functions. ,548,7728,https://avatars.githubusercontent.com/u/18835?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,4,"Optimism is Ethereum, scaled.",3488,5946,https://avatars.githubusercontent.com/u/58791460?v=4
+187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,0,OpenTelemetry Go API and SDK,1106,5505,https://avatars.githubusercontent.com/u/49998002?v=4
 236055696,tempo,grafana/tempo,Go,9,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",539,4221,https://avatars.githubusercontent.com/u/7195757?v=4
-764670636,alloy,grafana/alloy,Go,8,OpenTelemetry Collector distribution with programmable pipelines,259,1683,https://avatars.githubusercontent.com/u/7195757?v=4
-689214770,one-hub,MartialBE/one-hub,Go,26,OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。,313,1650,https://avatars.githubusercontent.com/u/42402987?u=381a7dd554d7fc10fb14754678298424d5caaa73&v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,2550,3291,https://avatars.githubusercontent.com/u/49998002?v=4
+761580012,lws,kubernetes-sigs/lws,Go,6,LeaderWorkerSet: An API for deploying a group of pods as a unit of replication,44,242,https://avatars.githubusercontent.com/u/36015203?v=4
