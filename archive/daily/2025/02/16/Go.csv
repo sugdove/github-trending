@@ -1,25 +1,25 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,281,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",10252,126374,https://avatars.githubusercontent.com/u/151674099?v=4
-29207621,caddy,caddyserver/caddy,Go,36,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,4177,61458,https://avatars.githubusercontent.com/u/12955528?v=4
+658928958,ollama,ollama/ollama,Go,281,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",10252,126396,https://avatars.githubusercontent.com/u/151674099?v=4
+29207621,caddy,caddyserver/caddy,Go,36,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,4177,61461,https://avatars.githubusercontent.com/u/12955528?v=4
 11225014,etcd,etcd-io/etcd,Go,6,Distributed reliable key-value store for the most critical data of a distributed system,9865,48397,https://avatars.githubusercontent.com/u/41972792?v=4
-180687624,trivy,aquasecurity/trivy,Go,18,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2442,24698,https://avatars.githubusercontent.com/u/12783832?v=4
-129717717,loki,grafana/loki,Go,7,"Like Prometheus, but for logs.",3562,24625,https://avatars.githubusercontent.com/u/7195757?v=4
+180687624,trivy,aquasecurity/trivy,Go,18,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2442,24701,https://avatars.githubusercontent.com/u/12783832?v=4
+129717717,loki,grafana/loki,Go,7,"Like Prometheus, but for logs.",3562,24626,https://avatars.githubusercontent.com/u/7195757?v=4
 72477752,pulumi,pulumi/pulumi,Go,7,Pulumi - Infrastructure as Code in any programming language 🚀,1162,22424,https://avatars.githubusercontent.com/u/21992475?v=4
 119190187,gitleaks,gitleaks/gitleaks,Go,19,Find secrets with Gitleaks 🔑,1540,18916,https://avatars.githubusercontent.com/u/90395851?v=4
-30711774,validator,go-playground/validator,Go,70,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1347,17582,https://avatars.githubusercontent.com/u/14768796?v=4
+30711774,validator,go-playground/validator,Go,70,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1347,17583,https://avatars.githubusercontent.com/u/14768796?v=4
 100982449,argo-workflows,argoproj/argo-workflows,Go,2,Workflow Engine for Kubernetes,3241,15346,https://avatars.githubusercontent.com/u/30269780?v=4
 33258973,telegraf,influxdata/telegraf,Go,1,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5622,15164,https://avatars.githubusercontent.com/u/5713248?v=4
-150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,10,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1287,13211,https://avatars.githubusercontent.com/u/43720803?v=4
-140412864,evilginx2,kgretzky/evilginx2,Go,31,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",2173,12373,https://avatars.githubusercontent.com/u/19260967?u=220f620ddd124b2532e92444d41c47cb8c58283b&v=4
-327859577,juicefs,juicedata/juicefs,Go,6,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,996,11238,https://avatars.githubusercontent.com/u/27241737?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,10,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1287,13212,https://avatars.githubusercontent.com/u/43720803?v=4
+140412864,evilginx2,kgretzky/evilginx2,Go,31,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",2173,12376,https://avatars.githubusercontent.com/u/19260967?u=220f620ddd124b2532e92444d41c47cb8c58283b&v=4
+327859577,juicefs,juicedata/juicefs,Go,6,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,996,11239,https://avatars.githubusercontent.com/u/27241737?v=4
 93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,3,The AWS Provider enables Terraform to manage AWS resources.,9352,10091,https://avatars.githubusercontent.com/u/761456?v=4
-440752086,coder,coder/coder,Go,17,Provision remote development environments via Terraform,789,8982,https://avatars.githubusercontent.com/u/95932066?v=4
+440752086,coder,coder/coder,Go,17,Provision remote development environments via Terraform,789,8983,https://avatars.githubusercontent.com/u/95932066?v=4
 126493684,gotenberg,gotenberg/gotenberg,Go,21,"A developer-friendly API for converting numerous document formats into PDF files, and more!",576,8612,https://avatars.githubusercontent.com/u/66820499?v=4
-355946670,vcluster,loft-sh/vcluster,Go,65,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,455,8316,https://avatars.githubusercontent.com/u/65466868?v=4
+355946670,vcluster,loft-sh/vcluster,Go,65,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,456,8340,https://avatars.githubusercontent.com/u/65466868?v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2619,7921,https://avatars.githubusercontent.com/u/36015203?v=4
-52555254,goose,pressly/goose,Go,21,A database migration tool. Supports SQL migrations and Go functions. ,549,7741,https://avatars.githubusercontent.com/u/18835?v=4
+52555254,goose,pressly/goose,Go,21,A database migration tool. Supports SQL migrations and Go functions. ,549,7742,https://avatars.githubusercontent.com/u/18835?v=4
 238797860,optimism,ethereum-optimism/optimism,Go,2,"Optimism is Ethereum, scaled.",3488,5947,https://avatars.githubusercontent.com/u/58791460?v=4
 187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,1,OpenTelemetry Go API and SDK,1106,5508,https://avatars.githubusercontent.com/u/49998002?v=4
-236055696,tempo,grafana/tempo,Go,10,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",539,4226,https://avatars.githubusercontent.com/u/7195757?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,2552,3293,https://avatars.githubusercontent.com/u/49998002?v=4
-761580012,lws,kubernetes-sigs/lws,Go,5,LeaderWorkerSet: An API for deploying a group of pods as a unit of replication,44,244,https://avatars.githubusercontent.com/u/36015203?v=4
+236055696,tempo,grafana/tempo,Go,10,"Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",539,4227,https://avatars.githubusercontent.com/u/7195757?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,4,Contrib repository for the OpenTelemetry Collector,2553,3292,https://avatars.githubusercontent.com/u/49998002?v=4
+761580012,lws,kubernetes-sigs/lws,Go,5,LeaderWorkerSet: An API for deploying a group of pods as a unit of replication,45,244,https://avatars.githubusercontent.com/u/36015203?v=4
