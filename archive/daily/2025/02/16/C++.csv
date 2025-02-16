@@ -1,22 +1,23 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-45717250,tensorflow,tensorflow/tensorflow,C++,25,An Open Source Machine Learning Framework for Everyone,74517,188011,https://avatars.githubusercontent.com/u/15658638?v=4
-11171548,json,nlohmann/json,C++,17,JSON for Modern C++,6864,44421,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,15,ClickHouse® is a real-time analytics database management system,7094,39003,https://avatars.githubusercontent.com/u/54801242?v=4
-138754790,duckdb,duckdb/duckdb,C++,28,DuckDB is an analytical in-process SQL database management system,2081,26511,https://avatars.githubusercontent.com/u/82039556?v=4
-193305104,QtScrcpy,barry-ran/QtScrcpy,C++,23,Android real-time display control software,2872,22569,https://avatars.githubusercontent.com/u/18702692?u=f25ec5f42e12c0a02e518f4d11fe01bc9c3cb1a2&v=4
-65711522,Paddle,PaddlePaddle/Paddle,C++,2,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,5664,22460,https://avatars.githubusercontent.com/u/23534030?v=4
-95879426,ncnn,Tencent/ncnn,C++,3,ncnn is a high-performance neural network inference framework optimized for the mobile platform,4201,20938,https://avatars.githubusercontent.com/u/18461506?v=4
-1062572,Catch2,catchorg/Catch2,C++,10,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3079,19062,https://avatars.githubusercontent.com/u/33321405?v=4
-102343794,brpc,apache/brpc,C++,0,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",4002,16765,https://avatars.githubusercontent.com/u/47359?v=4
-51905353,arrow,apache/arrow,C++,7,Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics,3620,14995,https://avatars.githubusercontent.com/u/47359?v=4
-17391973,rapidjson,Tencent/rapidjson,C++,0,A fast JSON parser/generator for C++ with both SAX/DOM style API,3549,14533,https://avatars.githubusercontent.com/u/18461506?v=4
-204593825,STL,microsoft/STL,C++,12,MSVC's implementation of the C++ Standard Library.,1527,10409,https://avatars.githubusercontent.com/u/6154722?v=4
-23007417,colmap,colmap/colmap,C++,4,COLMAP - Structure-from-Motion and Multi-View Stereo,1581,8151,https://avatars.githubusercontent.com/u/8461936?v=4
-33157169,cpr,libcpr/cpr,C++,3,"C++ Requests: Curl for People, a spiritual port of Python Requests.",958,6741,https://avatars.githubusercontent.com/u/55407394?v=4
-89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,5,Firebase SDK for Apple App Development,1531,5977,https://avatars.githubusercontent.com/u/1335026?v=4
-33100064,yaml-cpp,jbeder/yaml-cpp,C++,2,A YAML parser and emitter in C++,1905,5308,https://avatars.githubusercontent.com/u/1059334?u=c1a1d6555522380d9c818e51048f24b29c3dae09&v=4
-6148317,gdal,OSGeo/gdal,C++,5,GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.,2610,5102,https://avatars.githubusercontent.com/u/1058467?v=4
-850267588,xiaozhi-esp32,78/xiaozhi-esp32,C++,63,Build your own AI friend,828,4994,https://avatars.githubusercontent.com/u/4488133?u=c0ce6cda2559f8b3b48d2e29eb917af44fb3c0b3&v=4
-11452676,nghttp2,nghttp2/nghttp2,C++,3,nghttp2 - HTTP/2 C Library and tools,887,4709,https://avatars.githubusercontent.com/u/16933524?v=4
-27425638,gem5,gem5/gem5,C++,1,The official repository for the gem5 computer-system architecture simulator.,1312,1828,https://avatars.githubusercontent.com/u/1524926?v=4
-821257066,xgrammar,mlc-ai/xgrammar,C++,3,"Efficient, Flexible and Portable Structured Generation",42,694,https://avatars.githubusercontent.com/u/106173866?v=4
+612354784,llama.cpp,ggml-org/llama.cpp,C++,92,LLM inference in C/C++,10752,74393,https://avatars.githubusercontent.com/u/134263123?v=4
+40892817,solidity,ethereum/solidity,C++,6,"Solidity, the Smart Contract Programming Language",5980,23880,https://avatars.githubusercontent.com/u/6250754?v=4
+470730648,Hyprland,hyprwm/Hyprland,C++,21,"Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",991,23331,https://avatars.githubusercontent.com/u/107882187?v=4
+193305104,QtScrcpy,barry-ran/QtScrcpy,C++,23,Android real-time display control software,2873,22569,https://avatars.githubusercontent.com/u/18702692?u=f25ec5f42e12c0a02e518f4d11fe01bc9c3cb1a2&v=4
+724854743,mlx,ml-explore/mlx,C++,30,MLX: An array framework for Apple silicon,1090,19066,https://avatars.githubusercontent.com/u/102832242?v=4
+1062572,Catch2,catchorg/Catch2,C++,53,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3079,19062,https://avatars.githubusercontent.com/u/33321405?v=4
+556675672,shadPS4,shadps4-emu/shadPS4,C++,36,"PlayStation 4 emulator for Windows, Linux and macOS written in C++",1110,17984,https://avatars.githubusercontent.com/u/152868421?v=4
+2200856,Marlin,MarlinFirmware/Marlin,C++,3,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,19325,16514,https://avatars.githubusercontent.com/u/10418365?v=4
+6520784,rpcs3,RPCS3/rpcs3,C++,6,PlayStation 3 emulator and debugger,1978,16180,https://avatars.githubusercontent.com/u/8070735?v=4
+384520418,MaaAssistantArknights,MaaAssistantArknights/MaaAssistantArknights,C++,13,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",2013,14916,https://avatars.githubusercontent.com/u/97677443?v=4
+14981376,dogecoin,dogecoin/dogecoin,C++,2,very currency,2954,14892,https://avatars.githubusercontent.com/u/6122353?v=4
+1204412,TrinityCore,TrinityCore/TrinityCore,C++,0,"TrinityCore Open Source MMO Framework (master = 11.0.7.58911, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)",6106,9836,https://avatars.githubusercontent.com/u/539602?v=4
+514553345,OrcaSlicer,SoftFever/OrcaSlicer,C++,15,"G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",1034,8577,https://avatars.githubusercontent.com/u/103989404?u=5ce996a351ee08333a2e41329d5f7a09823b3724&v=4
+1049088,openscad,openscad/openscad,C++,8,OpenSCAD - The Programmers Solid 3D CAD Modeller  ,1252,7432,https://avatars.githubusercontent.com/u/466370?v=4
+14268809,FastLED,FastLED/FastLED,C++,2,"The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github ""issues"" just for tracking library bugs / enhancements. ",1685,6694,https://avatars.githubusercontent.com/u/5899270?v=4
+1413319,mumble,mumble-voip/mumble,C++,6,"Mumble is an open-source, low-latency, high quality voice chat software.",1141,6612,https://avatars.githubusercontent.com/u/639008?v=4
+1764646,wxWidgets,wxWidgets/wxWidgets,C++,4,Cross-Platform C++ GUI Library,1792,6332,https://avatars.githubusercontent.com/u/791023?v=4
+850267588,xiaozhi-esp32,78/xiaozhi-esp32,C++,63,Build your own AI friend,829,4998,https://avatars.githubusercontent.com/u/4488133?u=c0ce6cda2559f8b3b48d2e29eb917af44fb3c0b3&v=4
+5050525,harfbuzz,harfbuzz/harfbuzz,C++,26,HarfBuzz text shaping engine,642,4358,https://avatars.githubusercontent.com/u/33817416?v=4
+237647258,firmware,meshtastic/firmware,C++,4,Meshtastic device firmware,1069,4033,https://avatars.githubusercontent.com/u/61627050?v=4
+79160357,fivem,citizenfx/fivem,C++,3,"The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.",2207,3670,https://avatars.githubusercontent.com/u/25160833?v=4
+439665747,Parabolic,NickvisionApps/Parabolic,C++,41,Download web video and audio,73,1479,https://avatars.githubusercontent.com/u/130815181?v=4
