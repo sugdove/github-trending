@@ -1,9 +1,9 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,347,The Go programming language,17881,125879,https://avatars.githubusercontent.com/u/4314092?v=4
-48378947,frp,fatedier/frp,Go,268,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13713,90469,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+23096959,go,golang/go,Go,347,The Go programming language,17882,125878,https://avatars.githubusercontent.com/u/4314092?v=4
+48378947,frp,fatedier/frp,Go,268,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13713,90470,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
 7691631,moby,moby/moby,Go,72,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18690,69174,https://avatars.githubusercontent.com/u/27259197?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,340,simple terminal UI for git commands,1961,56560,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-11225014,etcd,etcd-io/etcd,Go,68,Distributed reliable key-value store for the most critical data of a distributed system,9865,48409,https://avatars.githubusercontent.com/u/41972792?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,340,simple terminal UI for git commands,1961,56563,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+11225014,etcd,etcd-io/etcd,Go,68,Distributed reliable key-value store for the most critical data of a distributed system,9865,48410,https://avatars.githubusercontent.com/u/41972792?v=4
 24268127,nvm-windows,coreybutler/nvm-windows,Go,144,A node.js version management utility for Windows. Ironically written in Go.,3433,39476,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
 181461073,v2ray-core,v2fly/v2ray-core,Go,101,A platform for building proxies to bypass network restrictions.,4741,30399,https://avatars.githubusercontent.com/u/49637375?v=4
 165041732,kratos,go-kratos/kratos,Go,55,Your ultimate Go microservices framework for the cloud-native era.,4040,23703,https://avatars.githubusercontent.com/u/62791634?v=4
@@ -13,12 +13,12 @@ id,name,full_name,language,new stars,description,forks_count,stargazers_count,av
 11008207,vitess,vitessio/vitess,Go,38,Vitess is a database clustering system for horizontal scaling of MySQL.,2135,19087,https://avatars.githubusercontent.com/u/33043890?v=4
 193160679,sqlc,sqlc-dev/sqlc,Go,71,Generate type-safe code from SQL,838,14244,https://avatars.githubusercontent.com/u/136738596?v=4
 150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,77,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1287,13214,https://avatars.githubusercontent.com/u/43720803?v=4
-55072677,weaviate,weaviate/weaviate,Go,127,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",863,12380,https://avatars.githubusercontent.com/u/37794290?v=4
-222824662,dagger,dagger/dagger,Go,80,An engine to run your pipelines in containers,636,11900,https://avatars.githubusercontent.com/u/78824383?v=4
+55072677,weaviate,weaviate/weaviate,Go,127,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",863,12382,https://avatars.githubusercontent.com/u/37794290?v=4
+222824662,dagger,dagger/dagger,Go,80,An engine to run your pipelines in containers,636,11901,https://avatars.githubusercontent.com/u/78824383?v=4
 592748160,devpod,loft-sh/devpod,Go,462,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",397,11360,https://avatars.githubusercontent.com/u/65466868?v=4
-93928882,swag,swaggo/swag,Go,46,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1233,11268,https://avatars.githubusercontent.com/u/29616670?v=4
+93928882,swag,swaggo/swag,Go,46,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1233,11269,https://avatars.githubusercontent.com/u/29616670?v=4
 288482469,go-openai,sashabaranov/go-openai,Go,56,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",1488,9605,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-825470378,beszel,henrygd/beszel,Go,1059,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",253,8808,https://avatars.githubusercontent.com/u/8519632?u=589ea2e0d623c7514101482c97f68c8219624c5c&v=4
+825470378,beszel,henrygd/beszel,Go,1059,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",253,8809,https://avatars.githubusercontent.com/u/8519632?u=589ea2e0d623c7514101482c97f68c8219624c5c&v=4
 603535454,langchaingo,tmc/langchaingo,Go,109,"LangChain for Go, the easiest way to write LLM-based programs in Go",726,5714,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
 717197250,new-api,Calcium-Ion/new-api,Go,242,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,1082,5150,https://avatars.githubusercontent.com/u/61247483?v=4
 308444913,kuberay,ray-project/kuberay,Go,32,A toolkit to run Ray applications on Kubernetes,462,1465,https://avatars.githubusercontent.com/u/22125274?v=4
