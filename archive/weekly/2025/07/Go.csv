@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-23096959,go,golang/go,Go,342,The Go programming language,17897,125977,https://avatars.githubusercontent.com/u/4314092?v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,208,Production-Grade Container Scheduling and Management,40277,113227,https://avatars.githubusercontent.com/u/13629408?v=4
-48378947,frp,fatedier/frp,Go,292,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13732,90668,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
+23096959,go,golang/go,Go,342,The Go programming language,17897,125979,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,208,Production-Grade Container Scheduling and Management,40277,113231,https://avatars.githubusercontent.com/u/13629408?v=4
+48378947,frp,fatedier/frp,Go,292,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.,13733,90679,https://avatars.githubusercontent.com/u/7346661?u=721c6ac19c725486a09c728572e7aee0460e42c0&v=4
 7691631,moby,moby/moby,Go,77,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18697,69214,https://avatars.githubusercontent.com/u/27259197?v=4
-29207621,caddy,caddyserver/caddy,Go,429,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS,4181,61783,https://avatars.githubusercontent.com/u/12955528?v=4
-17803236,rclone,rclone/rclone,Go,161,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4355,48931,https://avatars.githubusercontent.com/u/24937341?v=4
-11225014,etcd,etcd-io/etcd,Go,76,Distributed reliable key-value store for the most critical data of a distributed system,9876,48446,https://avatars.githubusercontent.com/u/41972792?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,165,A node.js version management utility for Windows. Ironically written in Go.,3444,39577,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-12574344,cobra,spf13/cobra,Go,269,A Commander for modern Go CLI interactions,2893,39463,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-13855476,gorm,go-gorm/gorm,Go,79,"The fantastic ORM library for Golang, aims to be developer friendly",3978,37560,https://avatars.githubusercontent.com/u/15127678?v=4
-208728772,milvus,milvus-io/milvus,Go,200,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",3037,32591,https://avatars.githubusercontent.com/u/51735404?v=4
-181461073,v2ray-core,v2fly/v2ray-core,Go,92,A platform for building proxies to bypass network restrictions.,4745,30442,https://avatars.githubusercontent.com/u/49637375?v=4
-738733003,fabric,danielmiessler/fabric,Go,848,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,3025,29416,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,184,Network-wide ads & trackers blocking DNS server,1930,27071,https://avatars.githubusercontent.com/u/8361145?v=4
-52034309,zap,uber-go/zap,Go,52,"Blazing fast, structured, leveled logging in Go.",1462,22600,https://avatars.githubusercontent.com/u/19262598?v=4
-5179099,go-redis,redis/go-redis,Go,45,Redis Go client,2407,20514,https://avatars.githubusercontent.com/u/1529926?v=4
-420503947,ntfy,binwiederhier/ntfy,Go,527,Send push notifications to your phone or desktop using PUT/POST,810,20493,https://avatars.githubusercontent.com/u/664597?u=d20c51ed3d20cab19d2deffc58d028136229ab01&v=4
-11008207,vitess,vitessio/vitess,Go,76,Vitess is a database clustering system for horizontal scaling of MySQL.,2136,19153,https://avatars.githubusercontent.com/u/33043890?v=4
-30711774,validator,go-playground/validator,Go,164,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1350,17634,https://avatars.githubusercontent.com/u/14768796?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,96,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1622,13423,https://avatars.githubusercontent.com/u/126152966?v=4
-54378638,gh-ost,github/gh-ost,Go,18,GitHub's Online Schema-migration Tool for MySQL,1285,12571,https://avatars.githubusercontent.com/u/9919?v=4
-792861139,glance,glanceapp/glance,Go,410,A self-hosted dashboard that puts all your feeds in one place,389,10795,https://avatars.githubusercontent.com/u/159397742?v=4
-717197250,new-api,Calcium-Ion/new-api,Go,246,AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.,1098,5330,https://avatars.githubusercontent.com/u/61247483?v=4
-812044182,genai-toolbox,googleapis/genai-toolbox,Go,91,Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases. ,38,297,https://avatars.githubusercontent.com/u/16785467?v=4
+17803236,rclone,rclone/rclone,Go,161,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",4356,48945,https://avatars.githubusercontent.com/u/24937341?v=4
+24268127,nvm-windows,coreybutler/nvm-windows,Go,165,A node.js version management utility for Windows. Ironically written in Go.,3445,39583,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
+12574344,cobra,spf13/cobra,Go,269,A Commander for modern Go CLI interactions,2893,39471,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+13855476,gorm,go-gorm/gorm,Go,79,"The fantastic ORM library for Golang, aims to be developer friendly",3978,37563,https://avatars.githubusercontent.com/u/15127678?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,92,A platform for building proxies to bypass network restrictions.,4745,30444,https://avatars.githubusercontent.com/u/49637375?v=4
+738733003,fabric,danielmiessler/fabric,Go,848,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,3026,29432,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+167596393,k9s,derailed/k9s,Go,164,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1794,28576,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+62712899,AdGuardHome,AdguardTeam/AdGuardHome,Go,184,Network-wide ads & trackers blocking DNS server,1930,27078,https://avatars.githubusercontent.com/u/8361145?v=4
+52034309,zap,uber-go/zap,Go,52,"Blazing fast, structured, leveled logging in Go.",1462,22599,https://avatars.githubusercontent.com/u/19262598?v=4
+420503947,ntfy,binwiederhier/ntfy,Go,527,Send push notifications to your phone or desktop using PUT/POST,810,20497,https://avatars.githubusercontent.com/u/664597?u=d20c51ed3d20cab19d2deffc58d028136229ab01&v=4
+30711774,validator,go-playground/validator,Go,164,":100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",1350,17633,https://avatars.githubusercontent.com/u/14768796?v=4
+132145189,golangci-lint,golangci/golangci-lint,Go,69,Fast linters runner for Go,1418,16272,https://avatars.githubusercontent.com/u/35628013?v=4
+230660669,mediamtx,bluenviron/mediamtx,Go,96,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1623,13428,https://avatars.githubusercontent.com/u/126152966?v=4
+54378638,gh-ost,github/gh-ost,Go,18,GitHub's Online Schema-migration Tool for MySQL,1285,12570,https://avatars.githubusercontent.com/u/9919?v=4
+357897199,netbird,netbirdio/netbird,Go,78,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",579,12225,https://avatars.githubusercontent.com/u/100464677?v=4
+592748160,devpod,loft-sh/devpod,Go,705,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",403,11845,https://avatars.githubusercontent.com/u/65466868?v=4
+312629343,fscan,shadow1ng/fscan,Go,50,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,1685,11514,https://avatars.githubusercontent.com/u/39651966?u=68897596c2d13e9e8f30a8d7188520886e62a301&v=4
+327859577,juicefs,juicedata/juicefs,Go,35,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,999,11262,https://avatars.githubusercontent.com/u/27241737?v=4
+792861139,glance,glanceapp/glance,Go,410,A self-hosted dashboard that puts all your feeds in one place,390,10804,https://avatars.githubusercontent.com/u/159397742?v=4
+52555254,goose,pressly/goose,Go,91,A database migration tool. Supports SQL migrations and Go functions. ,552,7797,https://avatars.githubusercontent.com/u/18835?v=4
+265775217,bsc,bnb-chain/bsc,Go,15,A BNB Smart Chain client based on the go-ethereum fork,1616,2909,https://avatars.githubusercontent.com/u/45615063?v=4
