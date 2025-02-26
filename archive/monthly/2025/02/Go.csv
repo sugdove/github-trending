@@ -1,23 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,19755,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",10585,129589,https://avatars.githubusercontent.com/u/151674099?v=4
-23096959,go,golang/go,Go,1030,The Go programming language,17904,126069,https://avatars.githubusercontent.com/u/4314092?v=4
+658928958,ollama,ollama/ollama,Go,19755,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",10593,129659,https://avatars.githubusercontent.com/u/151674099?v=4
+23096959,go,golang/go,Go,1030,The Go programming language,17907,126075,https://avatars.githubusercontent.com/u/4314092?v=4
+20580498,kubernetes,kubernetes/kubernetes,Go,895,Production-Grade Container Scheduling and Management,40306,113334,https://avatars.githubusercontent.com/u/13629408?v=4
+11180687,hugo,gohugoio/hugo,Go,910,The world’s fastest framework for building websites.,7693,78306,https://avatars.githubusercontent.com/u/29385237?v=4
 7691631,moby,moby/moby,Go,283,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18705,69251,https://avatars.githubusercontent.com/u/27259197?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,1696,simple terminal UI for git commands,1969,57077,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-11225014,etcd,etcd-io/etcd,Go,291,Distributed reliable key-value store for the most critical data of a distributed system,9884,48502,https://avatars.githubusercontent.com/u/41972792?v=4
-187335810,lazydocker,jesseduffield/lazydocker,Go,1842,The lazier way to manage everything docker,1337,42322,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-12574344,cobra,spf13/cobra,Go,618,A Commander for modern Go CLI interactions,2900,39540,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-738733003,fabric,danielmiessler/fabric,Go,1985,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,3038,29582,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
-167596393,k9s,derailed/k9s,Go,566,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1798,28684,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
-54400687,k6,grafana/k6,Go,267,"A modern load testing tool, using Go and JavaScript - https://k6.io",1305,26822,https://avatars.githubusercontent.com/u/7195757?v=4
-27291507,asdf,asdf-vm/asdf,Go,521,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",830,22982,https://avatars.githubusercontent.com/u/17869024?v=4
-132145189,golangci-lint,golangci/golangci-lint,Go,250,Fast linters runner for Go,1420,16315,https://avatars.githubusercontent.com/u/35628013?v=4
-36653430,nomad,hashicorp/nomad,Go,149,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1976,15258,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,618,A Commander for modern Go CLI interactions,2900,39544,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+738733003,fabric,danielmiessler/fabric,Go,1985,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.,3041,29592,https://avatars.githubusercontent.com/u/50654?u=cb240d3a67938da653614ef5ec97c58c0c173abe&v=4
+167596393,k9s,derailed/k9s,Go,566,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1800,28690,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
+27291507,asdf,asdf-vm/asdf,Go,521,"Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",830,22987,https://avatars.githubusercontent.com/u/17869024?v=4
+420503947,ntfy,binwiederhier/ntfy,Go,1709,Send push notifications to your phone or desktop using PUT/POST,836,21435,https://avatars.githubusercontent.com/u/664597?u=d20c51ed3d20cab19d2deffc58d028136229ab01&v=4
+132145189,golangci-lint,golangci/golangci-lint,Go,250,Fast linters runner for Go,1420,16319,https://avatars.githubusercontent.com/u/35628013?v=4
+36653430,nomad,hashicorp/nomad,Go,149,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",1976,15259,https://avatars.githubusercontent.com/u/761456?v=4
+774468912,superfile,yorukot/superfile,Go,1969,Pretty fancy and modern terminal file manager,293,12264,https://avatars.githubusercontent.com/u/107802416?u=4314dfeae3eef151614116ea6cdb42040d839f3b&v=4
 288482469,go-openai,sashabaranov/go-openai,Go,199,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",1503,9664,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-52555254,goose,pressly/goose,Go,334,A database migration tool. Supports SQL migrations and Go functions. ,553,7828,https://avatars.githubusercontent.com/u/18835?v=4
-603535454,langchaingo,tmc/langchaingo,Go,413,"LangChain for Go, the easiest way to write LLM-based programs in Go",739,5845,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
+52555254,goose,pressly/goose,Go,334,A database migration tool. Supports SQL migrations and Go functions. ,553,7829,https://avatars.githubusercontent.com/u/18835?v=4
+603535454,langchaingo,tmc/langchaingo,Go,413,"LangChain for Go, the easiest way to write LLM-based programs in Go",739,5848,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
 385634291,mimir,grafana/mimir,Go,91,"Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",564,4333,https://avatars.githubusercontent.com/u/7195757?v=4
-226368338,evcc,evcc-io/evcc,Go,279,Solar Charging ☀️🚘,764,4137,https://avatars.githubusercontent.com/u/81383504?v=4
-196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,116,Contrib repository for the OpenTelemetry Collector,2584,3332,https://avatars.githubusercontent.com/u/49998002?v=4
-49970739,datadog-agent,DataDog/datadog-agent,Go,46,Main repository for Datadog Agent,1244,3000,https://avatars.githubusercontent.com/u/365230?v=4
-764670636,alloy,grafana/alloy,Go,113,OpenTelemetry Collector distribution with programmable pipelines,268,1726,https://avatars.githubusercontent.com/u/7195757?v=4
-308444913,kuberay,ray-project/kuberay,Go,99,A toolkit to run Ray applications on Kubernetes,472,1500,https://avatars.githubusercontent.com/u/22125274?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,116,Contrib repository for the OpenTelemetry Collector,2585,3334,https://avatars.githubusercontent.com/u/49998002?v=4
+49970739,datadog-agent,DataDog/datadog-agent,Go,46,Main repository for Datadog Agent,1245,3001,https://avatars.githubusercontent.com/u/365230?v=4
+96004375,aws-sdk-go-v2,aws/aws-sdk-go-v2,Go,150,AWS SDK for the Go programming language. ,671,2921,https://avatars.githubusercontent.com/u/2232217?v=4
+414333257,whatsmeow,tulir/whatsmeow,Go,121,Go library for the WhatsApp web multidevice API,476,2526,https://avatars.githubusercontent.com/u/4224639?v=4
+764670636,alloy,grafana/alloy,Go,113,OpenTelemetry Collector distribution with programmable pipelines,268,1727,https://avatars.githubusercontent.com/u/7195757?v=4
+308444913,kuberay,ray-project/kuberay,Go,99,A toolkit to run Ray applications on Kubernetes,472,1502,https://avatars.githubusercontent.com/u/22125274?v=4

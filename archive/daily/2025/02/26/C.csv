@@ -1,21 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-156018,redis,redis/redis,C,16,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",23903,68100,https://avatars.githubusercontent.com/u/1529926?v=4
-246335987,Ventoy,ventoy/Ventoy,C,41,A new bootable USB solution.,4194,65129,https://avatars.githubusercontent.com/u/59477474?u=16f38c14b69580f87f4717b71c0e5e85e9559cb1&v=4
-5101141,jq,jqlang/jq,C,9,Command-line JSON processor,1608,31275,https://avatars.githubusercontent.com/u/104800540?v=4
-24586308,os-tutorial,cfenollosa/os-tutorial,C,8,How to create an OS from scratch,3352,27883,https://avatars.githubusercontent.com/u/2249551?u=89653230eaad2d58b34ad328cca51f3e73144316&v=4
-215530281,ffmpeg.wasm,ffmpegwasm/ffmpeg.wasm,C,16,"FFmpeg for browser, powered by WebAssembly",903,15170,https://avatars.githubusercontent.com/u/56998921?v=4
-5254557,skynet,cloudwu/skynet,C,8,A lightweight online game framework,4218,13476,https://avatars.githubusercontent.com/u/729648?v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,9,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",6996,11508,https://avatars.githubusercontent.com/u/19595895?v=4
-5414488,mongoose,cesanta/mongoose,C,0,"Embedded TCP/IP network stack with embedded web server, Websocket, and MQTT client",2759,11422,https://avatars.githubusercontent.com/u/5111322?v=4
-7408108,rt-thread,RT-Thread/rt-thread,C,2,RT-Thread is an open source IoT Real-Time Operating System (RTOS).,5092,10832,https://avatars.githubusercontent.com/u/1783729?v=4
-106586124,atomic-red-team,redcanaryco/atomic-red-team,C,6,Small and highly portable detection tests based on MITRE's ATT&CK.,2861,10207,https://avatars.githubusercontent.com/u/6877001?v=4
-64060314,TheFatRat,screetsec/TheFatRat,C,5,"Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .",2301,9724,https://avatars.githubusercontent.com/u/17976841?u=420992b910333e2c7f367172c4c2d69ebcf8d188&v=4
-2755696,go-sqlite3,mattn/go-sqlite3,C,2,sqlite3 driver for go using database/sql,1121,8272,https://avatars.githubusercontent.com/u/10111?u=4fb5caa72429300200740387758d9905611ab377&v=4
-467381275,esp32-weather-epd,lmarzen/esp32-weather-epd,C,22,A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.,341,5177,https://avatars.githubusercontent.com/u/98473324?u=4649d469f4ea99477244d49ce27da97aff6fcd83&v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,3,Simple unit testing for C,1007,4292,https://avatars.githubusercontent.com/u/1049138?v=4
-54452627,guacamole-server,apache/guacamole-server,C,1,Mirror of Apache Guacamole Server,667,3242,https://avatars.githubusercontent.com/u/47359?v=4
-45734719,litex,enjoy-digital/litex,C,2,"Build your hardware, easily!",595,3170,https://avatars.githubusercontent.com/u/1450143?u=1a9912f1a280ca3120df158d0d6eca1af88f04fe&v=4
-15333809,open62541,open62541/open62541,C,1,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,1284,2696,https://avatars.githubusercontent.com/u/16096536?v=4
-8129257,nut,networkupstools/nut,C,50,"The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!",366,2512,https://avatars.githubusercontent.com/u/3526263?v=4
-65514205,liboqs,open-quantum-safe/liboqs,C,4,C library for prototyping and experimenting with quantum-resistant cryptography,512,2082,https://avatars.githubusercontent.com/u/20689385?v=4
-7014478,no-OS,analogdevicesinc/no-OS,C,0,Software drivers in C for systems without an operating system,1693,1044,https://avatars.githubusercontent.com/u/2465527?v=4
+36502,git,git/git,C,17,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,25935,53641,https://avatars.githubusercontent.com/u/18133?v=4
+7634677,openssl,openssl/openssl,C,13,TLS/SSL and crypto library,10339,26781,https://avatars.githubusercontent.com/u/3279138?v=4
+34921116,bcc,iovisor/bcc,C,8,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",3929,20995,https://avatars.githubusercontent.com/u/12766186?v=4
+60667730,lvgl,lvgl/lvgl,C,14,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",3462,18400,https://avatars.githubusercontent.com/u/19811762?v=4
+5254557,skynet,cloudwu/skynet,C,8,A lightweight online game framework,4218,13478,https://avatars.githubusercontent.com/u/729648?v=4
+35780977,ImageMagick,ImageMagick/ImageMagick,C,21,"ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.",1398,12942,https://avatars.githubusercontent.com/u/12486768?v=4
+5414488,mongoose,cesanta/mongoose,C,0,"Embedded TCP/IP network stack with embedded web server, Websocket, and MQTT client",2759,11428,https://avatars.githubusercontent.com/u/5111322?v=4
+1856976,libevent,libevent/libevent,C,1,Event notification library,3408,11354,https://avatars.githubusercontent.com/u/833750?v=4
+38617,sqlcipher,sqlcipher/sqlcipher,C,3,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1292,6475,https://avatars.githubusercontent.com/u/649049?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,4,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2643,5715,https://avatars.githubusercontent.com/u/97226525?v=4
+34807561,nanopb,nanopb/nanopb,C,2,Protocol Buffers with small code size,884,4515,https://avatars.githubusercontent.com/u/12173937?v=4
+4434428,tiny-AES-c,kokke/tiny-AES-c,C,3,Small portable AES128/192/256 in C,1313,4424,https://avatars.githubusercontent.com/u/1774646?v=4
+32148604,inav,iNavFlight/inav,C,3,INAV: Navigation-enabled flight control software,1540,3373,https://avatars.githubusercontent.com/u/15979895?v=4
+872769562,Racer,StuckAtPrototype/Racer,C,49,,430,3113,https://avatars.githubusercontent.com/u/184971515?u=30ef75e0319be265b8c2965660f0841eb500376f&v=4
+207354223,FreeRTOS-Kernel,FreeRTOS/FreeRTOS-Kernel,C,2,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",1207,3037,https://avatars.githubusercontent.com/u/54647343?v=4
+8129257,nut,networkupstools/nut,C,50,"The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!",366,2522,https://avatars.githubusercontent.com/u/3526263?v=4
+208364128,XNNPACK,google/XNNPACK,C,3,"High-efficiency floating-point neural network inference operators for mobile, server, and Web",394,1965,https://avatars.githubusercontent.com/u/1342004?v=4
+191218735,libavif,AOMediaCodec/libavif,C,5,libavif - Library for encoding and decoding .avif files,213,1667,https://avatars.githubusercontent.com/u/16354493?v=4
+121516035,sdk-nrf,nrfconnect/sdk-nrf,C,0,nRF Connect SDK main repository,1261,1012,https://avatars.githubusercontent.com/u/40860733?v=4
+199458200,esp-sr,espressif/esp-sr,C,5,Speech recognition,116,728,https://avatars.githubusercontent.com/u/9460735?v=4
+766912219,micro-journal,unkyulee/micro-journal,C,22,,16,466,https://avatars.githubusercontent.com/u/6221038?u=e176963556d8f6edc774592677ebd5a3c7914902&v=4
