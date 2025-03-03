@@ -1,21 +1,17 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-21540759,awesome-go,avelino/awesome-go,Go,63,"A curated list of awesome Go frameworks, libraries and software",12133,139062,https://avatars.githubusercontent.com/u/31996?u=02a59a99280fd55a2ea3948c498aaaa7bd2a4ac0&v=4
-14712850,syncthing,syncthing/syncthing,Go,29,Open Source Continuous File Synchronization,4413,68008,https://avatars.githubusercontent.com/u/7628018?v=4
-134017286,lazygit,jesseduffield/lazygit,Go,37,simple terminal UI for git commands,1970,57284,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-41912791,v2ray-core,v2ray/v2ray-core,Go,4,A platform for building proxies to bypass network restrictions.,8956,45802,https://avatars.githubusercontent.com/u/14110142?v=4
-187335810,lazydocker,jesseduffield/lazydocker,Go,98,The lazier way to manage everything docker,1345,42635,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
-212613049,cli,cli/cli,Go,10,GitHub’s official command line tool,6269,38421,https://avatars.githubusercontent.com/u/59704711?v=4
-156084530,nps,ehang-io/nps,Go,8,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",5688,31341,https://avatars.githubusercontent.com/u/59558731?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,27,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.",4161,27435,https://avatars.githubusercontent.com/u/71564206?v=4
-75785240,authelia,authelia/authelia,Go,12,The Single Sign-On Multi-Factor portal for web apps,1176,22952,https://avatars.githubusercontent.com/u/59122411?v=4
-509091576,sing-box,SagerNet/sing-box,Go,30,The universal proxy platform,2675,22311,https://avatars.githubusercontent.com/u/83217677?v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,17,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,4206,21119,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-222824662,dagger,dagger/dagger,Go,31,An open-source runtime for composable workflows. Great for AI agents and CI/CD.,644,12173,https://avatars.githubusercontent.com/u/78824383?v=4
-106867604,cloudflared,cloudflare/cloudflared,Go,12,Cloudflare Tunnel client (formerly Argo Tunnel),899,9978,https://avatars.githubusercontent.com/u/314135?v=4
-109451092,talos,siderolabs/talos,Go,4,Talos Linux is a modern Linux distribution built for Kubernetes.,617,7537,https://avatars.githubusercontent.com/u/13804887?v=4
-210268863,codeforces-go,EndlessCheng/codeforces-go,Go,15,算法竞赛模板库 by 灵茶山艾府 💭💡🎈,638,5985,https://avatars.githubusercontent.com/u/7086966?u=ac53cc01d8798356e5702e8291cb7ddb838ee823&v=4
-226368338,evcc,evcc-io/evcc,Go,9,Solar Charging ☀️🚘,774,4173,https://avatars.githubusercontent.com/u/81383504?v=4
+14712850,syncthing,syncthing/syncthing,Go,29,Open Source Continuous File Synchronization,4413,68012,https://avatars.githubusercontent.com/u/7628018?v=4
+181461073,v2ray-core,v2fly/v2ray-core,Go,14,A platform for building proxies to bypass network restrictions.,4753,30523,https://avatars.githubusercontent.com/u/49637375?v=4
+311315731,Xray-core,XTLS/Xray-core,Go,27,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.",4161,27436,https://avatars.githubusercontent.com/u/71564206?v=4
+509091576,sing-box,SagerNet/sing-box,Go,30,The universal proxy platform,2677,22316,https://avatars.githubusercontent.com/u/83217677?v=4
+42194129,slim,slimtoolkit/slim,Go,63,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),766,21138,https://avatars.githubusercontent.com/u/20057356?v=4
+291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,17,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,4207,21120,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
+222824662,dagger,dagger/dagger,Go,31,An open-source runtime for composable workflows. Great for AI agents and CI/CD.,644,12176,https://avatars.githubusercontent.com/u/78824383?v=4
+109451092,talos,siderolabs/talos,Go,4,Talos Linux is a modern Linux distribution built for Kubernetes.,617,7538,https://avatars.githubusercontent.com/u/13804887?v=4
+94779471,kube-bench,aquasecurity/kube-bench,Go,5,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1260,7274,https://avatars.githubusercontent.com/u/12783832?v=4
+11931032,btcd,btcsuite/btcd,Go,3,An alternative full node bitcoin implementation written in Go (golang),2415,6373,https://avatars.githubusercontent.com/u/10235229?v=4
+449649393,keploy,keploy/keploy,Go,64,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,573,6149,https://avatars.githubusercontent.com/u/92252339?v=4
+226368338,evcc,evcc-io/evcc,Go,9,Solar Charging ☀️🚘,775,4176,https://avatars.githubusercontent.com/u/81383504?v=4
 669185591,immich-go,simulot/immich-go,Go,20,An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.,75,2546,https://avatars.githubusercontent.com/u/5980377?v=4
-381333195,solana-go,gagliardetto/solana-go,Go,2,Go SDK library and RPC client for the Solana Blockchain,329,1178,https://avatars.githubusercontent.com/u/15271561?u=285ccb15ceda22d7eead1d99568de23738e78944&v=4
-450455114,globstar,DeepSourceCorp/globstar,Go,26,"Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter.",33,258,https://avatars.githubusercontent.com/u/126066958?v=4
+648607331,vince,vinceanalytics/vince,Go,60,Self Hosted Alternative To Google Analytics,52,1507,https://avatars.githubusercontent.com/u/134959248?v=4
+381333195,solana-go,gagliardetto/solana-go,Go,2,Go SDK library and RPC client for the Solana Blockchain,330,1178,https://avatars.githubusercontent.com/u/15271561?u=285ccb15ceda22d7eead1d99568de23738e78944&v=4
 821414566,dify-plugin-daemon,langgenius/dify-plugin-daemon,Go,4,,34,59,https://avatars.githubusercontent.com/u/127165244?v=4
