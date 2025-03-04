@@ -1,17 +1,21 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-14712850,syncthing,syncthing/syncthing,Go,26,Open Source Continuous File Synchronization,4418,68042,https://avatars.githubusercontent.com/u/7628018?v=4
-181461073,v2ray-core,v2fly/v2ray-core,Go,11,A platform for building proxies to bypass network restrictions.,4752,30530,https://avatars.githubusercontent.com/u/49637375?v=4
-311315731,Xray-core,XTLS/Xray-core,Go,14,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.",4164,27454,https://avatars.githubusercontent.com/u/71564206?v=4
-509091576,sing-box,SagerNet/sing-box,Go,20,The universal proxy platform,2682,22339,https://avatars.githubusercontent.com/u/83217677?v=4
-42194129,slim,slimtoolkit/slim,Go,69,Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),766,21159,https://avatars.githubusercontent.com/u/20057356?v=4
-291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,23,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,4209,21131,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
-222824662,dagger,dagger/dagger,Go,27,An open-source runtime for composable workflows. Great for AI agents and CI/CD.,644,12188,https://avatars.githubusercontent.com/u/78824383?v=4
-109451092,talos,siderolabs/talos,Go,12,Talos Linux is a modern Linux distribution built for Kubernetes.,617,7553,https://avatars.githubusercontent.com/u/13804887?v=4
-94779471,kube-bench,aquasecurity/kube-bench,Go,3,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,1259,7275,https://avatars.githubusercontent.com/u/12783832?v=4
-11931032,btcd,btcsuite/btcd,Go,5,An alternative full node bitcoin implementation written in Go (golang),2416,6376,https://avatars.githubusercontent.com/u/10235229?v=4
-449649393,keploy,keploy/keploy,Go,71,Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!,575,6195,https://avatars.githubusercontent.com/u/92252339?v=4
-226368338,evcc,evcc-io/evcc,Go,15,Solar Charging ☀️🚘,775,4188,https://avatars.githubusercontent.com/u/81383504?v=4
-669185591,immich-go,simulot/immich-go,Go,12,An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.,75,2559,https://avatars.githubusercontent.com/u/5980377?v=4
-648607331,vince,vinceanalytics/vince,Go,53,Self Hosted Alternative To Google Analytics,52,1541,https://avatars.githubusercontent.com/u/134959248?v=4
-381333195,solana-go,gagliardetto/solana-go,Go,3,Go SDK library and RPC client for the Solana Blockchain,330,1181,https://avatars.githubusercontent.com/u/15271561?u=285ccb15ceda22d7eead1d99568de23738e78944&v=4
-821414566,dify-plugin-daemon,langgenius/dify-plugin-daemon,Go,1,,36,62,https://avatars.githubusercontent.com/u/127165244?v=4
+20904437,gin,gin-gonic/gin,Go,19,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8124,80611,https://avatars.githubusercontent.com/u/7894478?v=4
+72495579,gitea,go-gitea/gitea,Go,48,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",5690,47392,https://avatars.githubusercontent.com/u/12724356?v=4
+17728164,terraform,hashicorp/terraform,Go,16,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9710,44333,https://avatars.githubusercontent.com/u/761456?v=4
+31288958,vault,hashicorp/vault,Go,10,"A tool for secrets management, encryption as a service, and privileged access management",4287,31884,https://avatars.githubusercontent.com/u/761456?v=4
+31504491,echo,labstack/echo,Go,11,"High performance, minimalist Go web framework",2255,30554,https://avatars.githubusercontent.com/u/2624634?v=4
+135516270,k3s,k3s-io/k3s,Go,15,Lightweight Kubernetes,2393,28936,https://avatars.githubusercontent.com/u/49319725?v=4
+30215630,kit,go-kit/kit,Go,9,A standard library for microservices.,2450,26846,https://avatars.githubusercontent.com/u/10981023?v=4
+192632000,dapr,dapr/dapr,Go,10,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1929,24446,https://avatars.githubusercontent.com/u/51932459?v=4
+44344606,chi,go-chi/chi,Go,11,"lightweight, idiomatic and composable router for building Go HTTP services",1006,19205,https://avatars.githubusercontent.com/u/29575368?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,10,gRPC to JSON proxy generator following the gRPC HTTP spec,2268,18580,https://avatars.githubusercontent.com/u/19352526?v=4
+20653934,cadvisor,google/cadvisor,Go,2,Analyzes resource usage and performance characteristics of running containers.,2359,17614,https://avatars.githubusercontent.com/u/1342004?v=4
+44350607,dashboard,kubernetes/dashboard,Go,1,General-purpose web UI for Kubernetes clusters,4190,14709,https://avatars.githubusercontent.com/u/13629408?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,5,Automatically provision and manage TLS certificates in Kubernetes,2139,12517,https://avatars.githubusercontent.com/u/39950598?v=4
+93444615,terraform-provider-aws,hashicorp/terraform-provider-aws,Go,6,The AWS Provider enables Terraform to manage AWS resources.,9378,10116,https://avatars.githubusercontent.com/u/761456?v=4
+68964263,prometheus-operator,prometheus-operator/prometheus-operator,Go,3,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,3754,9314,https://avatars.githubusercontent.com/u/66682517?v=4
+134539560,eksctl,eksctl-io/eksctl,Go,7,The official CLI for Amazon EKS,1433,5007,https://avatars.githubusercontent.com/u/126004790?v=4
+185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,4,OpenTelemetry Collector,1561,4901,https://avatars.githubusercontent.com/u/49998002?v=4
+226368338,evcc,evcc-io/evcc,Go,15,Solar Charging ☀️🚘,775,4191,https://avatars.githubusercontent.com/u/81383504?v=4
+196414933,opentelemetry-collector-contrib,open-telemetry/opentelemetry-collector-contrib,Go,3,Contrib repository for the OpenTelemetry Collector,2602,3358,https://avatars.githubusercontent.com/u/49998002?v=4
+480573177,gateway,envoyproxy/gateway,Go,2,Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway,408,1743,https://avatars.githubusercontent.com/u/30125649?v=4
