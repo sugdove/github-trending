@@ -1,25 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6838921,prometheus,prometheus/prometheus,Go,17,The Prometheus monitoring system and time series database.,9397,57510,https://avatars.githubusercontent.com/u/3380462?v=4
-17728164,terraform,hashicorp/terraform,Go,104,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9730,44538,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,18,A Commander for modern Go CLI interactions,2900,39632,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-31504491,echo,labstack/echo,Go,9,"High performance, minimalist Go web framework",2257,30564,https://avatars.githubusercontent.com/u/2624634?v=4
-285864199,go-zero,zeromicro/go-zero,Go,101,A cloud-native Go microservices framework with cli tool for productivity.,4052,30362,https://avatars.githubusercontent.com/u/74225106?v=4
-135516270,k3s,k3s-io/k3s,Go,22,Lightweight Kubernetes,2396,28968,https://avatars.githubusercontent.com/u/49319725?v=4
-30215630,kit,go-kit/kit,Go,11,A standard library for microservices.,2451,26859,https://avatars.githubusercontent.com/u/10981023?v=4
-273871859,headscale,juanfont/headscale,Go,23,"An open source, self-hosted implementation of the Tailscale control server",1402,25811,https://avatars.githubusercontent.com/u/181059?u=56e87e3bf1145a99035e3ef576bc8c099214ac70&v=4
-109145553,podman,containers/podman,Go,27,Podman: A tool for managing OCI containers and pods.,2539,25575,https://avatars.githubusercontent.com/u/5874934?v=4
-13628513,logrus,sirupsen/logrus,Go,3,"Structured, pluggable logging for Go.",2269,25053,https://avatars.githubusercontent.com/u/97400?v=4
-192632000,dapr,dapr/dapr,Go,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1931,24467,https://avatars.githubusercontent.com/u/51932459?v=4
-6247705,testify,stretchr/testify,Go,31,A toolkit with common assertions and mocks that plays nicely with the standard library,1617,24170,https://avatars.githubusercontent.com/u/1841476?v=4
-5179099,go-redis,redis/go-redis,Go,7,Redis Go client,2409,20578,https://avatars.githubusercontent.com/u/1529926?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,13,gRPC to JSON proxy generator following the gRPC HTTP spec,2278,18707,https://avatars.githubusercontent.com/u/19352526?v=4
-20653934,cadvisor,google/cadvisor,Go,5,Analyzes resource usage and performance characteristics of running containers.,2359,17627,https://avatars.githubusercontent.com/u/1342004?v=4
-33258973,telegraf,influxdata/telegraf,Go,8,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5635,15344,https://avatars.githubusercontent.com/u/5713248?v=4
-48714685,opa,open-policy-agent/opa,Go,5,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",1380,9994,https://avatars.githubusercontent.com/u/16468693?v=4
-368683828,jwt,golang-jwt/jwt,Go,8,Go implementation of JSON Web Tokens (JWT).,364,7697,https://avatars.githubusercontent.com/u/84194169?v=4
-535304995,Havoc,HavocFramework/Havoc,Go,7,The Havoc Framework,1034,7306,https://avatars.githubusercontent.com/u/110123898?v=4
-187086161,opentelemetry-go,open-telemetry/opentelemetry-go,Go,1,OpenTelemetry Go API and SDK,1115,5553,https://avatars.githubusercontent.com/u/49998002?v=4
-7823926,client_golang,prometheus/client_golang,Go,0,Prometheus instrumentation library for Go applications,1202,5551,https://avatars.githubusercontent.com/u/3380462?v=4
-185861173,opentelemetry-collector,open-telemetry/opentelemetry-collector,Go,5,OpenTelemetry Collector,1562,4907,https://avatars.githubusercontent.com/u/49998002?v=4
-816422401,homebox,sysadminsmedia/homebox,Go,27,A continuation of HomeBox the inventory and organization system built for the Home User,116,2189,https://avatars.githubusercontent.com/u/151488376?v=4
-898304583,eino,cloudwego/eino,Go,27,The ultimate LLM/AI application development framework in Golang.,117,1888,https://avatars.githubusercontent.com/u/79236453?v=4
+7691631,moby,moby/moby,Go,16,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18707,69287,https://avatars.githubusercontent.com/u/27259197?v=4
+29261473,minio,minio/minio,Go,32,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5692,50582,https://avatars.githubusercontent.com/u/695951?v=4
+17728164,terraform,hashicorp/terraform,Go,126,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9731,44551,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,18,A Commander for modern Go CLI interactions,2900,39634,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+436297812,memos,usememos/memos,Go,184,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",2711,37800,https://avatars.githubusercontent.com/u/95764151?v=4
+285864199,go-zero,zeromicro/go-zero,Go,101,A cloud-native Go microservices framework with cli tool for productivity.,4053,30366,https://avatars.githubusercontent.com/u/74225106?v=4
+180687624,trivy,aquasecurity/trivy,Go,20,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2455,24918,https://avatars.githubusercontent.com/u/12783832?v=4
+192632000,dapr,dapr/dapr,Go,17,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1931,24473,https://avatars.githubusercontent.com/u/51932459?v=4
+6247705,testify,stretchr/testify,Go,57,A toolkit with common assertions and mocks that plays nicely with the standard library,1617,24170,https://avatars.githubusercontent.com/u/1841476?v=4
+44344606,chi,go-chi/chi,Go,17,"lightweight, idiomatic and composable router for building Go HTTP services",1008,19236,https://avatars.githubusercontent.com/u/29575368?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,126,gRPC to JSON proxy generator following the gRPC HTTP spec,2279,18721,https://avatars.githubusercontent.com/u/19352526?v=4
+44350607,dashboard,kubernetes/dashboard,Go,5,General-purpose web UI for Kubernetes clusters,4192,14719,https://avatars.githubusercontent.com/u/13629408?v=4
+184490584,terraformer,GoogleCloudPlatform/terraformer,Go,7,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1712,13218,https://avatars.githubusercontent.com/u/2810941?v=4
+92313258,cert-manager,cert-manager/cert-manager,Go,17,Automatically provision and manage TLS certificates in Kubernetes,2143,12539,https://avatars.githubusercontent.com/u/39950598?v=4
+93928882,swag,swaggo/swag,Go,11,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1238,11373,https://avatars.githubusercontent.com/u/29616670?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2633,7969,https://avatars.githubusercontent.com/u/36015203?v=4
+63882194,calico,projectcalico/calico,Go,6,Cloud native networking and network security,1389,6245,https://avatars.githubusercontent.com/u/12304728?v=4
+238797860,optimism,ethereum-optimism/optimism,Go,4,"Optimism is Ethereum, scaled.",3516,5989,https://avatars.githubusercontent.com/u/58791460?v=4
+88013053,cli,docker/cli,Go,2,The Docker CLI,1973,5135,https://avatars.githubusercontent.com/u/5429470?v=4
+236736020,actions-runner-controller,actions/actions-runner-controller,Go,6,Kubernetes controller for GitHub Actions self-hosted runners,1179,5002,https://avatars.githubusercontent.com/u/44036562?v=4
+716719284,openbao,openbao/openbao,Go,22,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",173,3399,https://avatars.githubusercontent.com/u/152585220?v=4
+267749451,casibase,casibase/casibase,Go,30,"AI Cloud OS: ⚡️Open-source RAG knowledge database with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",385,3130,https://avatars.githubusercontent.com/u/137471745?v=4
+898304583,eino,cloudwego/eino,Go,166,The ultimate LLM/AI application development framework in Golang.,117,1893,https://avatars.githubusercontent.com/u/79236453?v=4

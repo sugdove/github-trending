@@ -1,24 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-60667730,lvgl,lvgl/lvgl,C,9,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",3480,18521,https://avatars.githubusercontent.com/u/19811762?v=4
-84240850,timescaledb,timescale/timescaledb,C,11,A time-series database for high-performance real-time analytics packaged as a Postgres extension,916,18497,https://avatars.githubusercontent.com/u/8986001?v=4
-359952601,pgvector,pgvector/pgvector,C,30,Open-source vector similarity search for Postgres,687,14438,https://avatars.githubusercontent.com/u/98363230?v=4
-39242894,coturn,coturn/coturn,C,8,coturn TURN server project,2079,11966,https://avatars.githubusercontent.com/u/6572098?v=4
-831578771,clay,nicbarker/clay,C,188,High performance UI layout library in C.,414,11964,https://avatars.githubusercontent.com/u/2264338?u=a90e8178ebcf2b9b50f94f94efd0b4986e3a4556&v=4
-59771425,zephyr,zephyrproject-rtos/zephyr,C,6,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",7041,11573,https://avatars.githubusercontent.com/u/19595895?v=4
-671061529,winlator,brunodev85/winlator,C,23,Android application for running Windows applications with Wine and Box86/Box64,604,11361,https://avatars.githubusercontent.com/u/11407071?u=b8e72693930cd1e2d2ea4e0423fb27e0e905b84d&v=4
-18106269,lz4,lz4/lz4,C,6,Extremely Fast Compression algorithm,1410,10692,https://avatars.githubusercontent.com/u/11667224?v=4
-108110706,redis,tporadowski/redis,C,6,"Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.",1103,9318,https://avatars.githubusercontent.com/u/6212622?u=27e7a140d39b98e8ee04e3123740139dab9f199c&v=4
-16734696,janus-gateway,meetecho/janus-gateway,C,1,Janus WebRTC Server,2511,8473,https://avatars.githubusercontent.com/u/4520545?v=4
-190845267,sm64,n64decomp/sm64,C,1,"A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",1417,7938,https://avatars.githubusercontent.com/u/47247020?v=4
-127023441,cuda-samples,NVIDIA/cuda-samples,C,10,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,1948,7061,https://avatars.githubusercontent.com/u/1728152?v=4
-1286805,OpenBLAS,OpenMathLib/OpenBLAS,C,2,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,1541,6611,https://avatars.githubusercontent.com/u/9943298?v=4
-6687936,mbedtls,Mbed-TLS/mbedtls,C,2,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2648,5731,https://avatars.githubusercontent.com/u/97226525?v=4
-189044704,AFLplusplus,AFLplusplus/AFLplusplus,C,3,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",1089,5523,https://avatars.githubusercontent.com/u/62360046?v=4
-83160811,littlefs,littlefs-project/littlefs,C,2,A little fail-safe filesystem designed for microcontrollers,830,5426,https://avatars.githubusercontent.com/u/60944974?v=4
-34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,884,4531,https://avatars.githubusercontent.com/u/12173937?v=4
-3276860,Unity,ThrowTheSwitch/Unity,C,4,Simple unit testing for C,1012,4330,https://avatars.githubusercontent.com/u/1049138?v=4
-13352949,civetweb,civetweb/civetweb,C,1,Embedded C/C++ web server,973,3002,https://avatars.githubusercontent.com/u/13592161?v=4
-15768646,bldc,vedderb/bldc,C,2,The VESC motor control firmware,1422,2353,https://avatars.githubusercontent.com/u/2311760?v=4
-795166961,Bruce,pr3y/Bruce,C,11,Predatory ESP32 Firmware,275,1946,https://avatars.githubusercontent.com/u/67231282?v=4
+1903522,php-src,php/php-src,C,5,The PHP Interpreter,7818,38745,https://avatars.githubusercontent.com/u/25158?v=4
+569041,curl,curl/curl,C,10,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",6601,37075,https://avatars.githubusercontent.com/u/16928085?v=4
+7634677,openssl,openssl/openssl,C,15,TLS/SSL and crypto library,10365,26851,https://avatars.githubusercontent.com/u/3279138?v=4
+105627846,reactos,reactos/reactos,C,7,A free Windows-compatible Operating System,1797,15111,https://avatars.githubusercontent.com/u/1056157?v=4
+831578771,clay,nicbarker/clay,C,188,High performance UI layout library in C.,414,11974,https://avatars.githubusercontent.com/u/2264338?u=a90e8178ebcf2b9b50f94f94efd0b4986e3a4556&v=4
+39242894,coturn,coturn/coturn,C,74,coturn TURN server project,2079,11969,https://avatars.githubusercontent.com/u/6572098?v=4
+13310527,jemalloc,jemalloc/jemalloc,C,8,,1473,9804,https://avatars.githubusercontent.com/u/5606968?v=4
+38617,sqlcipher,sqlcipher/sqlcipher,C,1,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,1293,6490,https://avatars.githubusercontent.com/u/649049?v=4
+6687936,mbedtls,Mbed-TLS/mbedtls,C,3,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",2648,5731,https://avatars.githubusercontent.com/u/97226525?v=4
+6331631,fio,axboe/fio,C,4,Flexible I/O Tester,1278,5472,https://avatars.githubusercontent.com/u/2619634?v=4
+128791889,haproxy,haproxy/haproxy,C,15,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),829,5339,https://avatars.githubusercontent.com/u/38220289?v=4
+184654298,wasm-micro-runtime,bytecodealliance/wasm-micro-runtime,C,6,WebAssembly Micro Runtime (WAMR),667,5212,https://avatars.githubusercontent.com/u/54038801?v=4
+34807561,nanopb,nanopb/nanopb,C,3,Protocol Buffers with small code size,884,4532,https://avatars.githubusercontent.com/u/12173937?v=4
+26537135,u-boot,u-boot/u-boot,C,2,"""Das U-Boot"" Source Tree",3796,4294,https://avatars.githubusercontent.com/u/9681997?v=4
+82754556,TFT_eSPI,Bodmer/TFT_eSPI,C,6,"Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",1161,4036,https://avatars.githubusercontent.com/u/15824805?u=6afbb725a920a46c0a665ca26ee99d9de2faab77&v=4
+103446460,crun,containers/crun,C,11,A fast and lightweight fully featured OCI runtime and C library for running containers,332,3214,https://avatars.githubusercontent.com/u/5874934?v=4
+33784533,asterisk,asterisk/asterisk,C,2,The official Asterisk Project repository.,1014,2424,https://avatars.githubusercontent.com/u/2914369?v=4
+795166961,Bruce,pr3y/Bruce,C,11,Predatory ESP32 Firmware,275,1947,https://avatars.githubusercontent.com/u/67231282?v=4
+364871330,edgetx,EdgeTX/edgetx,C,5,EdgeTX is the cutting edge open source firmware for your R/C radio,373,1738,https://avatars.githubusercontent.com/u/83762968?v=4
 520252357,opentelemetry-go-instrumentation,open-telemetry/opentelemetry-go-instrumentation,C,3,OpenTelemetry Auto Instrumentation using eBPF,104,704,https://avatars.githubusercontent.com/u/49998002?v=4
 5870069,librdkafka,confluentinc/librdkafka,C,2,The Apache Kafka C/C++ library,3176,500,https://avatars.githubusercontent.com/u/9439498?v=4
