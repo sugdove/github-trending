@@ -1,24 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-7691631,moby,moby/moby,Go,13,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18708,69290,https://avatars.githubusercontent.com/u/27259197?v=4
-29261473,minio,minio/minio,Go,27,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5696,50609,https://avatars.githubusercontent.com/u/695951?v=4
-17728164,terraform,hashicorp/terraform,Go,123,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9740,44636,https://avatars.githubusercontent.com/u/761456?v=4
-12574344,cobra,spf13/cobra,Go,17,A Commander for modern Go CLI interactions,2903,39646,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
-436297812,memos,usememos/memos,Go,85,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",2715,37853,https://avatars.githubusercontent.com/u/95764151?v=4
-285864199,go-zero,zeromicro/go-zero,Go,57,A cloud-native Go microservices framework with cli tool for productivity.,4053,30378,https://avatars.githubusercontent.com/u/74225106?v=4
-180687624,trivy,aquasecurity/trivy,Go,15,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2455,24924,https://avatars.githubusercontent.com/u/12783832?v=4
-192632000,dapr,dapr/dapr,Go,15,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",1933,24483,https://avatars.githubusercontent.com/u/51932459?v=4
-6247705,testify,stretchr/testify,Go,46,A toolkit with common assertions and mocks that plays nicely with the standard library,1617,24181,https://avatars.githubusercontent.com/u/1841476?v=4
-44344606,chi,go-chi/chi,Go,12,"lightweight, idiomatic and composable router for building Go HTTP services",1009,19240,https://avatars.githubusercontent.com/u/29575368?v=4
-33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,120,gRPC to JSON proxy generator following the gRPC HTTP spec,2286,18811,https://avatars.githubusercontent.com/u/19352526?v=4
-44350607,dashboard,kubernetes/dashboard,Go,3,General-purpose web UI for Kubernetes clusters,4192,14720,https://avatars.githubusercontent.com/u/13629408?v=4
-184490584,terraformer,GoogleCloudPlatform/terraformer,Go,5,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1713,13223,https://avatars.githubusercontent.com/u/2810941?v=4
+658928958,ollama,ollama/ollama,Go,246,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",10810,131576,https://avatars.githubusercontent.com/u/151674099?v=4
+7691631,moby,moby/moby,Go,13,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,18708,69301,https://avatars.githubusercontent.com/u/27259197?v=4
+17728164,terraform,hashicorp/terraform,Go,115,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",9741,44663,https://avatars.githubusercontent.com/u/761456?v=4
+12574344,cobra,spf13/cobra,Go,17,A Commander for modern Go CLI interactions,2903,39654,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+208728772,milvus,milvus-io/milvus,Go,35,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",3062,32990,https://avatars.githubusercontent.com/u/51735404?v=4
+54400687,k6,grafana/k6,Go,20,"A modern load testing tool, using Go and JavaScript - https://k6.io",1309,26913,https://avatars.githubusercontent.com/u/7195757?v=4
+129717717,loki,grafana/loki,Go,22,"Like Prometheus, but for logs.",3591,24798,https://avatars.githubusercontent.com/u/7195757?v=4
+6247705,testify,stretchr/testify,Go,46,A toolkit with common assertions and mocks that plays nicely with the standard library,1617,24183,https://avatars.githubusercontent.com/u/1841476?v=4
+56342508,jaeger,jaegertracing/jaeger,Go,6,"CNCF Jaeger, a Distributed Tracing Platform",2540,20997,https://avatars.githubusercontent.com/u/28545596?v=4
+33352201,grpc-gateway,grpc-ecosystem/grpc-gateway,Go,124,gRPC to JSON proxy generator following the gRPC HTTP spec,2289,18840,https://avatars.githubusercontent.com/u/19352526?v=4
+465303307,lo,samber/lo,Go,13,"💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",855,18755,https://avatars.githubusercontent.com/u/2951285?u=571c795227b4edbd29f027478346834f83a95076&v=4
+72891330,ingress-nginx,kubernetes/ingress-nginx,Go,6,Ingress NGINX Controller for Kubernetes,8307,17944,https://avatars.githubusercontent.com/u/13629408?v=4
+33258973,telegraf,influxdata/telegraf,Go,10,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",5635,15358,https://avatars.githubusercontent.com/u/5713248?v=4
+55072677,weaviate,weaviate/weaviate,Go,29,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",884,12663,https://avatars.githubusercontent.com/u/37794290?v=4
 92313258,cert-manager,cert-manager/cert-manager,Go,14,Automatically provision and manage TLS certificates in Kubernetes,2145,12545,https://avatars.githubusercontent.com/u/39950598?v=4
-93928882,swag,swaggo/swag,Go,13,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,1239,11381,https://avatars.githubusercontent.com/u/29616670?v=4
-81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2634,7976,https://avatars.githubusercontent.com/u/36015203?v=4
-63882194,calico,projectcalico/calico,Go,7,Cloud native networking and network security,1389,6248,https://avatars.githubusercontent.com/u/12304728?v=4
-238797860,optimism,ethereum-optimism/optimism,Go,2,"Optimism is Ethereum, scaled.",3516,5992,https://avatars.githubusercontent.com/u/58791460?v=4
-88013053,cli,docker/cli,Go,3,The Docker CLI,1974,5137,https://avatars.githubusercontent.com/u/5429470?v=4
-236736020,actions-runner-controller,actions/actions-runner-controller,Go,8,Kubernetes controller for GitHub Actions self-hosted runners,1178,5006,https://avatars.githubusercontent.com/u/44036562?v=4
-716719284,openbao,openbao/openbao,Go,19,"OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",173,3410,https://avatars.githubusercontent.com/u/152585220?v=4
-267749451,casibase,casibase/casibase,Go,23,"AI Cloud OS: ⚡️Open-source RAG knowledge database with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Gemini, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",386,3145,https://avatars.githubusercontent.com/u/137471745?v=4
-898304583,eino,cloudwego/eino,Go,138,The ultimate LLM/AI application development framework in Golang.,123,1920,https://avatars.githubusercontent.com/u/79236453?v=4
+792861139,glance,glanceapp/glance,Go,92,A self-hosted dashboard that puts all your feeds in one place,404,11405,https://avatars.githubusercontent.com/u/159397742?v=4
+9120526,pgx,jackc/pgx,Go,10,PostgreSQL driver and toolkit for Go,890,11391,https://avatars.githubusercontent.com/u/94130?v=4
+125275487,kubebuilder,kubernetes-sigs/kubebuilder,Go,2,Kubebuilder - SDK for building Kubernetes APIs using CRDs,1514,8191,https://avatars.githubusercontent.com/u/36015203?v=4
+81497153,external-dns,kubernetes-sigs/external-dns,Go,3,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2634,7977,https://avatars.githubusercontent.com/u/36015203?v=4
+595136650,mox,mjl-/mox,Go,71,modern full-featured open source secure mail server for low-maintenance self-hosted email,133,4415,https://avatars.githubusercontent.com/u/1684740?u=b6266dcedcad5fa1e317c7cf09b7c7bbe299f8cf&v=4
+309820286,fleet,fleetdm/fleet,Go,6,"Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",488,3615,https://avatars.githubusercontent.com/u/70264713?v=4
+898304583,eino,cloudwego/eino,Go,138,The ultimate LLM/AI application development framework in Golang.,124,1944,https://avatars.githubusercontent.com/u/79236453?v=4
+867433720,llama-swap,mostlygeek/llama-swap,Go,34,transparent proxy server for llama.cpp's server to provide automatic model swapping,20,376,https://avatars.githubusercontent.com/u/83972?u=4ab061ceac64ff6475930dc780273477dfab8601&v=4
