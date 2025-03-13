@@ -1,25 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20580498,kubernetes,kubernetes/kubernetes,Go,31,Production-Grade Container Scheduling and Management,40403,113650,https://avatars.githubusercontent.com/u/13629408?v=4
-29261473,minio,minio/minio,Go,30,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",5706,50759,https://avatars.githubusercontent.com/u/695951?v=4
-24268127,nvm-windows,coreybutler/nvm-windows,Go,26,A node.js version management utility for Windows. Ironically written in Go.,3464,39969,https://avatars.githubusercontent.com/u/770982?u=81e8d113dd0628720745aa8869123f9f28c955eb&v=4
-233130089,bubbletea,charmbracelet/bubbletea,Go,35,A powerful little TUI framework 🏗,864,30023,https://avatars.githubusercontent.com/u/57376114?v=4
-167596393,k9s,derailed/k9s,Go,26,🐶 Kubernetes CLI To Manage Your Clusters In Style!,1820,28915,https://avatars.githubusercontent.com/u/4060?u=da7d94a90451eff23ec09dc1764d9104800448c9&v=4
-27729907,grpc-go,grpc/grpc-go,Go,11,The Go language implementation of gRPC. HTTP/2 based RPC,4454,21526,https://avatars.githubusercontent.com/u/7802525?v=4
-56342508,jaeger,jaegertracing/jaeger,Go,15,"CNCF Jaeger, a Distributed Tracing Platform",2544,21043,https://avatars.githubusercontent.com/u/28545596?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,12,Find secrets with Gitleaks 🔑,1560,19170,https://avatars.githubusercontent.com/u/90395851?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,15,"Find, verify, and analyze leaked credentials",1792,18401,https://avatars.githubusercontent.com/u/79229934?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,3,Workflow Engine for Kubernetes,3260,15428,https://avatars.githubusercontent.com/u/30269780?v=4
-230660669,mediamtx,bluenviron/mediamtx,Go,13,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",1652,13630,https://avatars.githubusercontent.com/u/126152966?v=4
-14508450,gophish,gophish/gophish,Go,6,Open-Source Phishing Toolkit,2476,12291,https://avatars.githubusercontent.com/u/16602581?v=4
-133067498,kustomize,kubernetes-sigs/kustomize,Go,4,Customization of kubernetes YAML configurations,2289,11292,https://avatars.githubusercontent.com/u/36015203?v=4
-118617559,shiori,go-shiori/shiori,Go,16,Simple bookmark manager built with Go,575,10058,https://avatars.githubusercontent.com/u/41993376?v=4
-19537979,tyk,TykTechnologies/tyk,Go,8,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols",1107,9951,https://avatars.githubusercontent.com/u/16121529?v=4
-288482469,go-openai,sashabaranov/go-openai,Go,8,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go",1521,9726,https://avatars.githubusercontent.com/u/677093?u=2e3824a8dbb1e1ad44547ba15eb3246eb5777557&v=4
-48299818,kopia,kopia/kopia,Go,50,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",427,8929,https://avatars.githubusercontent.com/u/16365723?v=4
-50629145,pprof,google/pprof,Go,15,pprof is a tool for visualization and analysis of profiling data,618,8279,https://avatars.githubusercontent.com/u/1342004?v=4
-125275487,kubebuilder,kubernetes-sigs/kubebuilder,Go,6,Kubebuilder - SDK for building Kubernetes APIs using CRDs,1523,8217,https://avatars.githubusercontent.com/u/36015203?v=4
-603535454,langchaingo,tmc/langchaingo,Go,16,"LangChain for Go, the easiest way to write LLM-based programs in Go",752,6019,https://avatars.githubusercontent.com/u/3977?u=ba15c36cd7e0fd2d5fd1a4eb4df77420618a6d9e&v=4
-685877018,res-downloader,putyy/res-downloader,Go,23,视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!,712,5488,https://avatars.githubusercontent.com/u/31536789?u=c7487e77fc5da60a339283b195dcc6d1ca64f3be&v=4
-558188628,higress,alibaba/higress,Go,23,🤖 AI Gateway | AI Native API Gateway,579,4056,https://avatars.githubusercontent.com/u/1961952?v=4
-592283952,dae,daeuniverse/dae,Go,10,eBPF-based Linux high-performance transparent proxy solution.,239,3807,https://avatars.githubusercontent.com/u/126714249?v=4
+23096959,go,golang/go,Go,43,The Go programming language,17940,126392,https://avatars.githubusercontent.com/u/4314092?v=4
+20904437,gin,gin-gonic/gin,Go,25,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8128,80748,https://avatars.githubusercontent.com/u/7894478?v=4
+74175805,istio,istio/istio,Go,7,"Connect, secure, control, and observe services.",7888,36574,https://avatars.githubusercontent.com/u/23534644?v=4
+31288958,vault,hashicorp/vault,Go,10,"A tool for secrets management, encryption as a service, and privileged access management",4302,31952,https://avatars.githubusercontent.com/u/761456?v=4
+43723161,helm,helm/helm,Go,6,The Kubernetes Package Manager,7204,27578,https://avatars.githubusercontent.com/u/15859888?v=4
+50613991,harbor,goharbor/harbor,Go,8,"An open source trusted cloud native registry project that stores, signs, and scans content.",4834,25052,https://avatars.githubusercontent.com/u/40275816?v=4
+180687624,trivy,aquasecurity/trivy,Go,8,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",2458,24982,https://avatars.githubusercontent.com/u/12783832?v=4
+27729907,grpc-go,grpc/grpc-go,Go,11,The Go language implementation of gRPC. HTTP/2 based RPC,4454,21528,https://avatars.githubusercontent.com/u/7802525?v=4
+119190187,gitleaks,gitleaks/gitleaks,Go,12,Find secrets with Gitleaks 🔑,1561,19172,https://avatars.githubusercontent.com/u/90395851?v=4
+6443435,nats-server,nats-io/nats-server,Go,6,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1480,16641,https://avatars.githubusercontent.com/u/10203055?v=4
+150954997,VictoriaMetrics,VictoriaMetrics/VictoriaMetrics,Go,11,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",1313,13382,https://avatars.githubusercontent.com/u/43720803?v=4
+184490584,terraformer,GoogleCloudPlatform/terraformer,Go,8,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,1718,13258,https://avatars.githubusercontent.com/u/2810941?v=4
+792861139,glance,glanceapp/glance,Go,280,A self-hosted dashboard that puts all your feeds in one place,420,11963,https://avatars.githubusercontent.com/u/159397742?v=4
+325724738,pyroscope,grafana/pyroscope,Go,9,Continuous Profiling Platform. Debug performance issues down to a single line of code,636,10390,https://avatars.githubusercontent.com/u/7195757?v=4
+78869430,nakama,heroiclabs/nakama,Go,3,Distributed server for social and realtime games and apps.,1135,9455,https://avatars.githubusercontent.com/u/12753245?v=4
+99143276,velero,vmware-tanzu/velero,Go,1,Backup and migrate Kubernetes applications and their persistent volumes,1432,9041,https://avatars.githubusercontent.com/u/54452117?v=4
+50629145,pprof,google/pprof,Go,15,pprof is a tool for visualization and analysis of profiling data,618,8280,https://avatars.githubusercontent.com/u/1342004?v=4
+222258954,hetty,dstotijn/hetty,Go,65,An HTTP toolkit for security research.,366,6584,https://avatars.githubusercontent.com/u/983924?u=9520952f4ac9e6e3a35b7946b10fbaba075f9bea&v=4
+421401204,goravel,goravel/goravel,Go,29,A Golang framework for web artisans. Tribute to Laravel.,216,3453,https://avatars.githubusercontent.com/u/93197157?v=4
 308444913,kuberay,ray-project/kuberay,Go,7,A toolkit to run Ray applications on Kubernetes,485,1560,https://avatars.githubusercontent.com/u/22125274?v=4
+67680905,dd-trace-go,DataDog/dd-trace-go,Go,2,"Datadog Go Library including APM tracing, profiling, and security monitoring.",449,722,https://avatars.githubusercontent.com/u/365230?v=4
+750922635,dify-sandbox,langgenius/dify-sandbox,Go,10,"A lightweight, fast, and secure code execution environment that supports multiple programming languages",159,672,https://avatars.githubusercontent.com/u/127165244?v=4
+821414566,dify-plugin-daemon,langgenius/dify-plugin-daemon,Go,6,,56,83,https://avatars.githubusercontent.com/u/127165244?v=4
