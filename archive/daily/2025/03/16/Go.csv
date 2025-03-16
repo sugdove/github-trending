@@ -1,26 +1,22 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-658928958,ollama,ollama/ollama,Go,154,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",10994,133153,https://avatars.githubusercontent.com/u/151674099?v=4
-23096959,go,golang/go,Go,39,The Go programming language,17947,126491,https://avatars.githubusercontent.com/u/4314092?v=4
-20580498,kubernetes,kubernetes/kubernetes,Go,33,Production-Grade Container Scheduling and Management,40428,113716,https://avatars.githubusercontent.com/u/13629408?v=4
-20904437,gin,gin-gonic/gin,Go,18,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8132,80794,https://avatars.githubusercontent.com/u/7894478?v=4
-436297812,memos,usememos/memos,Go,44,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",2739,38191,https://avatars.githubusercontent.com/u/95764151?v=4
-74175805,istio,istio/istio,Go,15,"Connect, secure, control, and observe services.",7891,36593,https://avatars.githubusercontent.com/u/23534644?v=4
-161951219,wails,wailsapp/wails,Go,19,Create beautiful applications using Go,1312,27269,https://avatars.githubusercontent.com/u/39746503?v=4
-129717717,loki,grafana/loki,Go,12,"Like Prometheus, but for logs.",3604,24942,https://avatars.githubusercontent.com/u/7195757?v=4
-165041732,kratos,go-kratos/kratos,Go,4,Your ultimate Go microservices framework for the cloud-native era.,4049,23889,https://avatars.githubusercontent.com/u/62791634?v=4
-27729907,grpc-go,grpc/grpc-go,Go,6,The Go language implementation of gRPC. HTTP/2 based RPC,4457,21544,https://avatars.githubusercontent.com/u/7802525?v=4
-119190187,gitleaks,gitleaks/gitleaks,Go,20,Find secrets with Gitleaks 🔑,1567,19226,https://avatars.githubusercontent.com/u/90395851?v=4
-77726177,trufflehog,trufflesecurity/trufflehog,Go,12,"Find, verify, and analyze leaked credentials",1800,18454,https://avatars.githubusercontent.com/u/79229934?v=4
-6443435,nats-server,nats-io/nats-server,Go,11,"High-Performance server for NATS.io, the cloud and edge native messaging system.",1485,16678,https://avatars.githubusercontent.com/u/10203055?v=4
-792861139,glance,glanceapp/glance,Go,735,A self-hosted dashboard that puts all your feeds in one place,480,13682,https://avatars.githubusercontent.com/u/159397742?v=4
-197914161,sftpgo,drakkan/sftpgo,Go,6,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",789,10109,https://avatars.githubusercontent.com/u/553263?u=383412442399c019c1f9678ff569695ca184ccdb&v=4
-78869430,nakama,heroiclabs/nakama,Go,6,Distributed server for social and realtime games and apps.,1139,9493,https://avatars.githubusercontent.com/u/12753245?v=4
-59522149,terragrunt,gruntwork-io/terragrunt,Go,3,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,1019,8486,https://avatars.githubusercontent.com/u/17118990?v=4
-220588935,nezha,nezhahq/nezha,Go,21,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool",1403,8380,https://avatars.githubusercontent.com/u/105093572?v=4
-278480393,karpenter-provider-aws,aws/karpenter-provider-aws,Go,5,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",1056,7175,https://avatars.githubusercontent.com/u/2232217?v=4
-267749451,casibase,casibase/casibase,Go,6,"⚡️Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",394,3267,https://avatars.githubusercontent.com/u/137471745?v=4
-158012967,argo-rollouts,argoproj/argo-rollouts,Go,3,Progressive Delivery for Kubernetes,923,2919,https://avatars.githubusercontent.com/u/30269780?v=4
-764670636,alloy,grafana/alloy,Go,6,OpenTelemetry Collector distribution with programmable pipelines,285,1810,https://avatars.githubusercontent.com/u/7195757?v=4
-308444913,kuberay,ray-project/kuberay,Go,8,A toolkit to run Ray applications on Kubernetes,491,1580,https://avatars.githubusercontent.com/u/22125274?v=4
-832321286,openai-go,openai/openai-go,Go,8,The official Go library for the OpenAI API,92,1337,https://avatars.githubusercontent.com/u/14957082?v=4
-895029087,mcp-go,mark3labs/mcp-go,Go,32,"A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",60,701,https://avatars.githubusercontent.com/u/17607124?v=4
+658928958,ollama,ollama/ollama,Go,154,"Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.",10998,133176,https://avatars.githubusercontent.com/u/151674099?v=4
+134017286,lazygit,jesseduffield/lazygit,Go,29,simple terminal UI for git commands,1984,57699,https://avatars.githubusercontent.com/u/8456633?u=1183e9d1442669992861877a4f313b51e3bbd119&v=4
+436297812,memos,usememos/memos,Go,44,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",2740,38201,https://avatars.githubusercontent.com/u/95764151?v=4
+119160553,photoprism,photoprism/photoprism,Go,14,AI-Powered Photos App for the Decentralized Web 🌈💎✨,2033,36690,https://avatars.githubusercontent.com/u/32436079?v=4
+410430370,CasaOS,IceWhaleTech/CasaOS,Go,15,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",1568,28947,https://avatars.githubusercontent.com/u/91336243?v=4
+18369373,viper,spf13/viper,Go,22,Go configuration with fangs,2036,28047,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+161951219,wails,wailsapp/wails,Go,19,Create beautiful applications using Go,1313,27270,https://avatars.githubusercontent.com/u/39746503?v=4
+509091576,sing-box,SagerNet/sing-box,Go,28,The universal proxy platform,2720,22616,https://avatars.githubusercontent.com/u/83217677?v=4
+252813491,nuclei,projectdiscovery/nuclei,Go,19,"Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",2636,22535,https://avatars.githubusercontent.com/u/50994705?v=4
+420503947,ntfy,binwiederhier/ntfy,Go,24,Send push notifications to your phone or desktop using PUT/POST,863,21831,https://avatars.githubusercontent.com/u/664597?u=d20c51ed3d20cab19d2deffc58d028136229ab01&v=4
+291485614,CloudflareSpeedTest,XIU2/CloudflareSpeedTest,Go,14,🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~,4231,21259,https://avatars.githubusercontent.com/u/54703944?u=64dbed38821a648bd00883200ab152b1a77a0327&v=4
+77726177,trufflehog,trufflesecurity/trufflehog,Go,12,"Find, verify, and analyze leaked credentials",1800,18458,https://avatars.githubusercontent.com/u/79229934?v=4
+792861139,glance,glanceapp/glance,Go,889,A self-hosted dashboard that puts all your feeds in one place,488,13860,https://avatars.githubusercontent.com/u/159397742?v=4
+52481933,navidrome,navidrome/navidrome,Go,13,🎧☁️ Your Personal Streaming Service,997,13583,https://avatars.githubusercontent.com/u/26692192?v=4
+26639347,gobuster,OJ/gobuster,Go,13,"Directory/File, DNS and VHost busting tool written in Go",1294,11124,https://avatars.githubusercontent.com/u/28896?u=21e4731a6f66a1f5f2fbee44663ab0b4bc3149c6&v=4
+825470378,beszel,henrygd/beszel,Go,55,"Lightweight server monitoring hub with historical data, docker stats, and alerts.",295,9917,https://avatars.githubusercontent.com/u/8519632?u=589ea2e0d623c7514101482c97f68c8219624c5c&v=4
+220588935,nezha,nezhahq/nezha,Go,21,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool",1403,8382,https://avatars.githubusercontent.com/u/105093572?v=4
+449649393,keploy,keploy/keploy,Go,33,"Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!",598,6578,https://avatars.githubusercontent.com/u/92252339?v=4
+524859634,WatchYourLAN,aceberg/WatchYourLAN,Go,26,Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history,181,5327,https://avatars.githubusercontent.com/u/1502200?v=4
+832321286,openai-go,openai/openai-go,Go,8,The official Go library for the OpenAI API,92,1338,https://avatars.githubusercontent.com/u/14957082?v=4
+895029087,mcp-go,mark3labs/mcp-go,Go,32,"A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",60,708,https://avatars.githubusercontent.com/u/17607124?v=4
