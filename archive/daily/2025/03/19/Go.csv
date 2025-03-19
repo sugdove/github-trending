@@ -1,25 +1,26 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-20904437,gin,gin-gonic/gin,Go,36,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8135,80878,https://avatars.githubusercontent.com/u/7894478?v=4
-6838921,prometheus,prometheus/prometheus,Go,25,The Prometheus monitoring system and time series database.,9452,57758,https://avatars.githubusercontent.com/u/3380462?v=4
-234231371,fiber,gofiber/fiber,Go,23,⚡️ Express inspired web framework written in Go,1742,35462,https://avatars.githubusercontent.com/u/59947262?v=4
-156084530,nps,ehang-io/nps,Go,14,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",5716,31476,https://avatars.githubusercontent.com/u/59558731?v=4
-18369373,viper,spf13/viper,Go,21,Go configuration with fangs,2036,28084,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
+20904437,gin,gin-gonic/gin,Go,36,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",8135,80882,https://avatars.githubusercontent.com/u/7894478?v=4
+6838921,prometheus,prometheus/prometheus,Go,25,The Prometheus monitoring system and time series database.,9451,57760,https://avatars.githubusercontent.com/u/3380462?v=4
+234231371,fiber,gofiber/fiber,Go,23,⚡️ Express inspired web framework written in Go,1742,35468,https://avatars.githubusercontent.com/u/59947262?v=4
+156084530,nps,ehang-io/nps,Go,14,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",5717,31477,https://avatars.githubusercontent.com/u/59558731?v=4
+18369373,viper,spf13/viper,Go,21,Go configuration with fangs,2037,28085,https://avatars.githubusercontent.com/u/173412?u=4865036ec60149f8354adcae563ff5cba01e0022&v=4
 54400687,k6,grafana/k6,Go,15,"A modern load testing tool, using Go and JavaScript - https://k6.io",1325,27068,https://avatars.githubusercontent.com/u/7195757?v=4
-6247705,testify,stretchr/testify,Go,5,A toolkit with common assertions and mocks that plays nicely with the standard library,1623,24260,https://avatars.githubusercontent.com/u/1841476?v=4
-13624859,websocket,gorilla/websocket,Go,8,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3523,23236,https://avatars.githubusercontent.com/u/489566?v=4
-48109239,cilium,cilium/cilium,Go,10,"eBPF-based Networking, Security, and Observability",3126,21151,https://avatars.githubusercontent.com/u/21054566?v=4
-792861139,glance,glanceapp/glance,Go,2158,A self-hosted dashboard that puts all your feeds in one place,656,18488,https://avatars.githubusercontent.com/u/159397742?v=4
-46089560,containerd,containerd/containerd,Go,4,An open and reliable container runtime,3548,18123,https://avatars.githubusercontent.com/u/14037953?v=4
-191655189,ent,ent/ent,Go,7,An entity framework for Go,955,15976,https://avatars.githubusercontent.com/u/66847655?v=4
-100982449,argo-workflows,argoproj/argo-workflows,Go,6,Workflow Engine for Kubernetes,3263,15456,https://avatars.githubusercontent.com/u/30269780?v=4
-531220682,dice,DiceDB/dice,Go,462,"DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",1249,9014,https://avatars.githubusercontent.com/u/112580013?v=4
-170411418,keda,kedacore/keda,Go,12, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1117,8869,https://avatars.githubusercontent.com/u/49917779?v=4
+6247705,testify,stretchr/testify,Go,5,A toolkit with common assertions and mocks that plays nicely with the standard library,1624,24262,https://avatars.githubusercontent.com/u/1841476?v=4
+13624859,websocket,gorilla/websocket,Go,8,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",3523,23237,https://avatars.githubusercontent.com/u/489566?v=4
+48109239,cilium,cilium/cilium,Go,10,"eBPF-based Networking, Security, and Observability",3126,21154,https://avatars.githubusercontent.com/u/21054566?v=4
+792861139,glance,glanceapp/glance,Go,2158,A self-hosted dashboard that puts all your feeds in one place,660,18580,https://avatars.githubusercontent.com/u/159397742?v=4
+46089560,containerd,containerd/containerd,Go,4,An open and reliable container runtime,3548,18125,https://avatars.githubusercontent.com/u/14037953?v=4
+191655189,ent,ent/ent,Go,7,An entity framework for Go,955,15979,https://avatars.githubusercontent.com/u/66847655?v=4
+100982449,argo-workflows,argoproj/argo-workflows,Go,6,Workflow Engine for Kubernetes,3263,15457,https://avatars.githubusercontent.com/u/30269780?v=4
+531220682,dice,DiceDB/dice,Go,462,"DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",1252,9048,https://avatars.githubusercontent.com/u/112580013?v=4
+170411418,keda,kedacore/keda,Go,12, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,1117,8870,https://avatars.githubusercontent.com/u/49917779?v=4
 81497153,external-dns,kubernetes-sigs/external-dns,Go,5,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services",2637,8003,https://avatars.githubusercontent.com/u/36015203?v=4
-140958903,expr,expr-lang/expr,Go,8,Expression language and expression evaluation for Go,429,6670,https://avatars.githubusercontent.com/u/144815908?v=4
-565629124,osv-scanner,google/osv-scanner,Go,28,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,386,6661,https://avatars.githubusercontent.com/u/1342004?v=4
-23586998,mockery,vektra/mockery,Go,2,A mock code autogenerator for Go,428,6386,https://avatars.githubusercontent.com/u/5193687?v=4
+565629124,osv-scanner,google/osv-scanner,Go,28,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,388,6678,https://avatars.githubusercontent.com/u/1342004?v=4
+140958903,expr,expr-lang/expr,Go,8,Expression language and expression evaluation for Go,429,6671,https://avatars.githubusercontent.com/u/144815908?v=4
+23586998,mockery,vektra/mockery,Go,2,A mock code autogenerator for Go,428,6387,https://avatars.githubusercontent.com/u/5193687?v=4
 92132038,metrics-server,kubernetes-sigs/metrics-server,Go,3,Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.,1917,6028,https://avatars.githubusercontent.com/u/36015203?v=4
-19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1360,3898,https://avatars.githubusercontent.com/u/16785467?v=4
-832321286,openai-go,openai/openai-go,Go,19,The official Go library for the OpenAI API,95,1387,https://avatars.githubusercontent.com/u/14957082?v=4
+19608522,google-cloud-go,googleapis/google-cloud-go,Go,2,Google Cloud Client Libraries for Go.,1360,3899,https://avatars.githubusercontent.com/u/16785467?v=4
+832321286,openai-go,openai/openai-go,Go,19,The official Go library for the OpenAI API,95,1390,https://avatars.githubusercontent.com/u/14957082?v=4
 242202166,opentelemetry-go-contrib,open-telemetry/opentelemetry-go-contrib,Go,3,Collection of extensions for OpenTelemetry-Go.,608,1337,https://avatars.githubusercontent.com/u/49998002?v=4
-900003919,mcp-golang,metoro-io/mcp-golang,Go,18,Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com,38,388,https://avatars.githubusercontent.com/u/126341325?v=4
+895029087,mcp-go,mark3labs/mcp-go,Go,35,"A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",73,857,https://avatars.githubusercontent.com/u/17607124?v=4
+900003919,mcp-golang,metoro-io/mcp-golang,Go,18,Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com,39,391,https://avatars.githubusercontent.com/u/126341325?v=4
