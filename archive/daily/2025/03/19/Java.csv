@@ -1,20 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-6296790,spring-boot,spring-projects/spring-boot,Java,19,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",40988,76485,https://avatars.githubusercontent.com/u/317776?v=4
-149001365,leetcode,doocs/leetcode,Java,19,🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解,8733,33329,https://avatars.githubusercontent.com/u/43716716?v=4
-7613257,selenium,SeleniumHQ/selenium,Java,14,A browser automation framework and ecosystem.,8367,31875,https://avatars.githubusercontent.com/u/983927?v=4
-47023603,xxl-job,xuxueli/xxl-job,Java,6,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,11113,28462,https://avatars.githubusercontent.com/u/10633817?u=89329d69ca512f24ce0ee669bf679e30c9503243&v=4
-11125589,keycloak,keycloak/keycloak,Java,37,Open Source Identity and Access Management For Modern Applications and Services,7136,26029,https://avatars.githubusercontent.com/u/4921466?v=4
-15823460,redisson,redisson/redisson,Java,5,"Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",5415,23676,https://avatars.githubusercontent.com/u/16851431?v=4
-656227652,Chat2DB,CodePhiliaX/Chat2DB,Java,161,"🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",2327,21095,https://avatars.githubusercontent.com/u/131834193?v=4
-391055597,DSA-Bootcamp-Java,kunal-kushwaha/DSA-Bootcamp-Java,Java,12,"This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",11740,18564,https://avatars.githubusercontent.com/u/42698533?u=618c2876d9787a82b4277498489b70540280bea4&v=4
+561730219,hello-algo,krahets/hello-algo,Java,108,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",13764,110493,https://avatars.githubusercontent.com/u/26993056?u=12c6a8ef18768abc773c64a56a56c0fd67241ed2&v=4
+1148753,spring-framework,spring-projects/spring-framework,Java,16,Spring Framework,38407,57581,https://avatars.githubusercontent.com/u/317776?v=4
+7508411,RxJava,ReactiveX/RxJava,Java,6,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,7607,48048,https://avatars.githubusercontent.com/u/6407041?v=4
+2211243,kafka,apache/kafka,Java,10,Mirror of Apache Kafka,14240,29681,https://avatars.githubusercontent.com/u/47359?v=4
+5373551,libgdx,libgdx/libgdx,Java,5,Desktop/Android/HTML5/iOS Java game development framework,6474,23833,https://avatars.githubusercontent.com/u/509841?v=4
+15823460,redisson,redisson/redisson,Java,5,"Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",5415,23677,https://avatars.githubusercontent.com/u/16851431?v=4
+133134007,openapi-generator,OpenAPITools/openapi-generator,Java,12,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",6812,23113,https://avatars.githubusercontent.com/u/37325267?v=4
+149121954,jdk,openjdk/jdk,Java,11,JDK main-line development https://openjdk.org/projects/jdk,5754,20617,https://avatars.githubusercontent.com/u/41768318?v=4
+49876476,shardingsphere,apache/shardingsphere,Java,1,"Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",6786,20121,https://avatars.githubusercontent.com/u/47359?v=4
 75277003,thingsboard,thingsboard/thingsboard,Java,11,"Open-source IoT Platform - Device management, data collection, processing and visualization.",5454,18452,https://avatars.githubusercontent.com/u/24291394?v=4
-5349565,presto,prestodb/presto,Java,4,The official home of the Presto distributed SQL query engine for big data,5435,16270,https://avatars.githubusercontent.com/u/6882181?v=4
-224230574,kafka-ui,provectus/kafka-ui,Java,9,Open-Source Web UI for Apache Kafka Management,1252,10465,https://avatars.githubusercontent.com/u/1528944?v=4
-593867048,xpipe,xpipe-io/xpipe,Java,339,Access your entire server infrastructure from your local desktop,316,9501,https://avatars.githubusercontent.com/u/93734037?v=4
-158256479,iceberg,apache/iceberg,Java,9,Apache Iceberg,2431,7042,https://avatars.githubusercontent.com/u/47359?v=4
-455584258,hertzbeat,apache/hertzbeat,Java,4,"Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",1072,6071,https://avatars.githubusercontent.com/u/47359?v=4
-60377070,vespa,vespa-engine/vespa,Java,4,"AI + Data, online. https://vespa.ai",625,6058,https://avatars.githubusercontent.com/u/29299694?v=4
-19961085,pinot,apache/pinot,Java,4,Apache Pinot - A realtime distributed OLAP datastore,1344,5678,https://avatars.githubusercontent.com/u/47359?v=4
-447060287,paimon,apache/paimon,Java,3,Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.,1053,2692,https://avatars.githubusercontent.com/u/47359?v=4
-210933087,opentelemetry-java-instrumentation,open-telemetry/opentelemetry-java-instrumentation,Java,2,OpenTelemetry auto-instrumentation and instrumentation libraries for Java,915,2097,https://avatars.githubusercontent.com/u/49998002?v=4
-48418599,fineract,apache/fineract,Java,4,Apache Fineract,1810,1494,https://avatars.githubusercontent.com/u/47359?v=4
+65987043,mybatis-plus,baomidou/mybatis-plus,Java,5,An powerful enhanced toolkit of MyBatis for simplify development,4344,16723,https://avatars.githubusercontent.com/u/19258107?v=4
+206424,cassandra,apache/cassandra,Java,2,Apache Cassandra®,3676,9087,https://avatars.githubusercontent.com/u/47359?v=4
+99412308,seatunnel,apache/seatunnel,Java,4,"SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",1925,8351,https://avatars.githubusercontent.com/u/47359?v=4
+2493904,tomcat,apache/tomcat,Java,2,Apache Tomcat,5124,7752,https://avatars.githubusercontent.com/u/47359?v=4
+20089857,hbase,apache/hbase,Java,0,Apache HBase,3340,5307,https://avatars.githubusercontent.com/u/47359?v=4
+27911088,nifi,apache/nifi,Java,6,Apache NiFi,2773,5171,https://avatars.githubusercontent.com/u/47359?v=4
+381857226,typespec,microsoft/typespec,Java,3,,255,4832,https://avatars.githubusercontent.com/u/6154722?v=4
+679601811,automq,AutoMQ/automq,Java,23,AutoMQ is a cloud-native alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency.,297,4602,https://avatars.githubusercontent.com/u/100772480?v=4
+4158448,mage,magefree/mage,Java,25,XMage - Magic Another Game Engine,808,2038,https://avatars.githubusercontent.com/u/1705456?v=4
+206414745,besu,hyperledger/besu,Java,0,"An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",901,1588,https://avatars.githubusercontent.com/u/7657900?v=4
+468037006,trilha-java-basico,digitalinnovationone/trilha-java-basico,Java,4,,1094,1030,https://avatars.githubusercontent.com/u/26231823?v=4
+471977345,Mobile-SDK-Android-V5,dji-sdk/Mobile-SDK-Android-V5,Java,1,MSDK V5 Sample,166,318,https://avatars.githubusercontent.com/u/11917623?v=4
+874941249,spring-ai-examples,spring-projects/spring-ai-examples,Java,8,,57,161,https://avatars.githubusercontent.com/u/317776?v=4

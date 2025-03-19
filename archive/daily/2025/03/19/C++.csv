@@ -1,20 +1,24 @@
 id,name,full_name,language,new stars,description,forks_count,stargazers_count,avatar_url
-22067521,imgui,ocornut/imgui,C++,28,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,10683,63934,https://avatars.githubusercontent.com/u/8225057?u=de42cf0fa1f1970187db446beea30c61b9c1e6d3&v=4
-60246359,ClickHouse,ClickHouse/ClickHouse,C++,34,ClickHouse® is a real-time analytics database management system,7160,39615,https://avatars.githubusercontent.com/u/54801242?v=4
-6934395,rocksdb,facebook/rocksdb,C++,8,"A library that provides an embeddable, persistent key-value store for fast storage.",6444,29322,https://avatars.githubusercontent.com/u/69631?v=4
-437245741,dragonfly,dragonflydb/dragonfly,C++,22,A modern replacement for Redis and Memcached,1018,27535,https://avatars.githubusercontent.com/u/104819355?v=4
-3925242,bgfx,bkaradzic/bgfx,C++,6,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.",1979,15538,https://avatars.githubusercontent.com/u/814772?v=4
-86897963,ZLMediaKit,ZLMediaKit/ZLMediaKit,C++,7,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,3596,14754,https://avatars.githubusercontent.com/u/84565724?v=4
-5973855,Cataclysm-DDA,CleverRaven/Cataclysm-DDA,C++,32,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.,4289,11125,https://avatars.githubusercontent.com/u/4367009?v=4
-181436799,MNN,alibaba/MNN,C++,13,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",1790,10044,https://avatars.githubusercontent.com/u/1961952?v=4
-5298790,PX4-Autopilot,PX4/PX4-Autopilot,C++,5,PX4 Autopilot Software,13762,9072,https://avatars.githubusercontent.com/u/2096014?v=4
-14303048,mame,mamedev/mame,C++,27,MAME,2115,8909,https://avatars.githubusercontent.com/u/9024458?v=4
-31197250,glog,google/glog,C++,2,C++ implementation of the Google logging module,2078,7232,https://avatars.githubusercontent.com/u/1342004?v=4
-112542515,cutlass,NVIDIA/cutlass,C++,11,CUDA Templates for Linear Algebra Subroutines,1167,7119,https://avatars.githubusercontent.com/u/1728152?v=4
-280608729,ORB_SLAM3,UZ-SLAMLab/ORB_SLAM3,C++,3,"ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",2671,7020,https://avatars.githubusercontent.com/u/25055183?v=4
+11171548,json,nlohmann/json,C++,10,JSON for Modern C++,6903,44795,https://avatars.githubusercontent.com/u/159488?u=7d63c3efe48fc8c84dd1219413787f2acc8aab63&v=4
+120887835,interview,huihut/interview,C++,16,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",8030,35704,https://avatars.githubusercontent.com/u/23519480?u=26a7af910c0edb7be47b9a2f4241b22bb26e3607&v=4
+39840932,googletest,google/googletest,C++,12,GoogleTest - Google Testing and Mocking Framework,10300,35635,https://avatars.githubusercontent.com/u/1342004?v=4
+81227005,faiss,facebookresearch/faiss,C++,29,A library for efficient similarity search and clustering of dense vectors.,3797,33749,https://avatars.githubusercontent.com/u/16943930?v=4
+191820100,mediapipe,google-ai-edge/mediapipe,C++,15,"Cross-platform, customizable ML solutions for live and streaming media.",5278,29022,https://avatars.githubusercontent.com/u/150697620?v=4
+65214191,envoy,envoyproxy/envoy,C++,10,Cloud-native high-performance edge/middle/service proxy,4901,25692,https://avatars.githubusercontent.com/u/30125649?v=4
+22394357,osquery,osquery/osquery,C++,10,"SQL powered operating system instrumentation, monitoring, and analytics.",2482,22286,https://avatars.githubusercontent.com/u/8315868?v=4
+1062572,Catch2,catchorg/Catch2,C++,5,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",3094,19183,https://avatars.githubusercontent.com/u/33321405?v=4
+81887991,AirSim,microsoft/AirSim,C++,9,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",4679,16923,https://avatars.githubusercontent.com/u/6154722?v=4
+156939672,onnxruntime,microsoft/onnxruntime,C++,12,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",3100,16027,https://avatars.githubusercontent.com/u/6154722?v=4
+28449431,scylladb,scylladb/scylladb,C++,7,"NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",1346,14219,https://avatars.githubusercontent.com/u/14364730?v=4
+154201259,hermes,facebook/hermes,C++,2,A JavaScript engine optimized for running React Native.,665,10168,https://avatars.githubusercontent.com/u/69631?v=4
+90506918,cudf,rapidsai/cudf,C++,10,cuDF - GPU DataFrame Library ,938,8780,https://avatars.githubusercontent.com/u/43887749?v=4
+23007417,colmap,colmap/colmap,C++,9,COLMAP - Structure-from-Motion and Multi-View Stereo,1603,8335,https://avatars.githubusercontent.com/u/8461936?v=4
+56894212,async-profiler,async-profiler/async-profiler,C++,6,Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events,892,8001,https://avatars.githubusercontent.com/u/125597575?v=4
 89033556,firebase-ios-sdk,firebase/firebase-ios-sdk,C++,7,Firebase SDK for Apple App Development,1558,6082,https://avatars.githubusercontent.com/u/1335026?v=4
 52909975,PlotJuggler,facontidavide/PlotJuggler,C++,4,The Time Series Visualization Tool that you deserve.,654,4676,https://avatars.githubusercontent.com/u/2822888?u=32673e6491cf92b7717752a53d9d0cfc949a2c50&v=4
+801459371,duix.ai,GuijiAI/duix.ai,C++,65,,693,4660,https://avatars.githubusercontent.com/u/170155462?v=4
 388946490,velox,facebookincubator/velox,C++,4,A composable and fully extensible C++ execution engine library for data management systems.,1227,3660,https://avatars.githubusercontent.com/u/19538647?v=4
-40473201,IfcOpenShell,IfcOpenShell/IfcOpenShell,C++,5,Open source IFC library and geometry engine,767,2031,https://avatars.githubusercontent.com/u/13692563?v=4
-754327435,nekoray,Mahdi-zarei/nekoray,C++,22,Qt based cross-platform GUI proxy configuration manager (backend: sing-box),51,727,https://avatars.githubusercontent.com/u/80265960?u=741d29a30c92ccf3830a051a59038caadb495cc0&v=4
+46153892,nccl,NVIDIA/nccl,C++,7,Optimized primitives for collective multi-GPU communication,882,3568,https://avatars.githubusercontent.com/u/1728152?v=4
+227091502,perfetto,google/perfetto,C++,5,"Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)",390,3170,https://avatars.githubusercontent.com/u/1342004?v=4
+247737613,OCCT,Open-Cascade-SAS/OCCT,C++,4,"Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.",395,1451,https://avatars.githubusercontent.com/u/61025812?v=4
 677537621,YimMenuV2,YimMenu/YimMenuV2,C++,9,Unfinished WIP,9,38,https://avatars.githubusercontent.com/u/106739674?v=4
